@@ -56,12 +56,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NAME"
 msgid "Damage: Duplicant Tantrum"
-msgstr "Schade: Kwade Dupli"
+msgstr "Schade: Dupli Driftbui"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION"
 msgid "Building Damage: Duplicant Tantrum"
-msgstr "Gebouw Schade: Kwade Dupli"
+msgstr "Gebouw Schade: Dupli Driftbui"
 
 #. STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ANGERDAMAGE.NOTIFICATION_TOOLTIP"
@@ -168,22 +168,22 @@ msgstr "Levering verwacht van het geselecteerde <style=\"KKeyword\">Ei</style>"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.NAME"
 msgid "Empty Errand"
-msgstr ""
+msgstr "Lege Taak"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGEMPTYBUILDING.TOOLTIP"
 msgid "Building will be emptied once a Duplicant is available"
-msgstr ""
+msgstr "Gebouw wordt leeggemaakt wanneer een Dupli beschikbaar is"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.NAME"
 msgid "Awaiting Fuel: {0}"
-msgstr ""
+msgstr "Brandstof verwacht: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.TOOLTIP"
 msgid "This building requires <b>{1}</b> of {0} to operate"
-msgstr ""
+msgstr "Dit gebouw verwacht <b>{1}</b> of {0} om te werken"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -203,12 +203,12 @@ msgstr "Composteerstof Nodig"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGWASTE.TOOLTIP"
 msgid "More waste material is required to begin the composting process"
-msgstr ""
+msgstr "Meer afvalmateriaal is nodig om te kunnen composteren"
 
 #. STRINGS.BUILDING.STATUSITEMS.BAITED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BAITED.NAME"
 msgid "{0} Bait"
-msgstr ""
+msgstr "{0} Lokaas"
 
 #. STRINGS.BUILDING.STATUSITEMS.BAITED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BAITED.TOOLTIP"
@@ -217,6 +217,9 @@ msgid ""
 "\n"
 "Bait material is set during the construction of the building"
 msgstr ""
+"Deze val bevat lokaas {0}\n"
+"\n"
+"Het aas wordt geplaatst bij het bouwen van het gebouw"
 
 #. STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.NAME"
@@ -231,7 +234,7 @@ msgstr "Alle batterijen zijn voldoende gevuld"
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.NAME"
 msgid "Auto-Bottle: On"
-msgstr ""
+msgstr "Auto-Flessen: Aan"
 
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.ALLOWED.TOOLTIP"
@@ -239,11 +242,13 @@ msgid ""
 "Duplicants may specifically fetch <style=\"KKeyword\">Liquid</style> from a "
 "<link=\"LIQUIDPUMPINGSTATION\">Pitcher Pump</link> to bring to this location"
 msgstr ""
+"Duplis mogen <style=\"KKeyword\">Vloeistoffen</style> halen van een "
+"<link=\"LIQUIDPUMPINGSTATION\">Waterpomp</link> om naar deze locatie te brengen"
 
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.DENIED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.DENIED.NAME"
 msgid "Auto-Bottle: Off"
-msgstr ""
+msgstr "Auto-Flessen: Uit"
 
 #. STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.DENIED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BOTTLE_EMPTIER.DENIED.TOOLTIP"
@@ -251,21 +256,23 @@ msgid ""
 "Duplicants may not specifically fetch <style=\"KKeyword\">Liquid</style> from a "
 "<link=\"LIQUIDPUMPINGSTATION\">Pitcher Pump</link> to bring to this location"
 msgstr ""
+"Duplis mogen geen <style=\"KKeyword\">Vloeistoffen</style> halen van een "
+"<link=\"LIQUIDPUMPINGSTATION\">Waterpomp</link> om naar deze locatie te brengen"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.NAME"
 msgid "Broadcaster Out of Range"
-msgstr ""
+msgstr "Zender Buiten Bereik"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROADCASTEROUTOFRANGE.TOOLTIP"
 msgid "This receiver is too far from the selected broadcaster to get signal updates"
-msgstr ""
+msgstr "Deze ontvanger is te ver van de geselecteerde zender om updates te ontvangen"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.NAME"
 msgid "Broken"
-msgstr ""
+msgstr "Kapot"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
@@ -274,21 +281,24 @@ msgid ""
 "\n"
 "It will not function until it receives repairs"
 msgstr ""
+"Dit gebouw kreeg schade van <b>{DamageInfo}</b>\n"
+"\n"
+"Het zal niet werken tot het gerepareerd wordt"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDING_DEPRECATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDING_DEPRECATED.NAME"
 msgid "Building Deprecated"
-msgstr ""
+msgstr "Gebouw Buiten Gebruik"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDING_DEPRECATED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDING_DEPRECATED.TOOLTIP"
 msgid "This building is from an older version of the game and its use is not intended"
-msgstr ""
+msgstr "Dit gebouw is van een oudere versie van het spel en dient niet gebruikt te worden"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
 msgid "Building Disabled"
-msgstr ""
+msgstr "Gebouw Uitgeschakeld"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.TOOLTIP"
@@ -296,31 +306,33 @@ msgid ""
 "Press <style=\"KKeyword\">Enable Building</style> {Hotkey/ToggleEnabled} to resume "
 "use"
 msgstr ""
+"Klik <style=\"KKeyword\">Zet Gebouw Op</style> {Hotkey/ToggleEnabled} om het gebruik "
+"verder te zetten"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.NAME"
 msgid "Consuming Fuel: {0}"
-msgstr ""
+msgstr "Brandstofgebruik: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.BURNING_FUEL.TOOLTIP"
 msgid "<b>{0}</b> fuel remaining"
-msgstr ""
+msgstr "<b>{0}</b> brandstof over"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.NAME"
 msgid "Fueled: {0}"
-msgstr ""
+msgstr "Heeft brandstof: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP"
 msgid "<b>{0}</b> fuel remaining"
-msgstr ""
+msgstr "<b>{0}</b> brandstof over"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANISTER_EMPTIER.ALLOWED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANISTER_EMPTIER.ALLOWED.NAME"
 msgid "Auto-Bottle: On"
-msgstr ""
+msgstr "Auto-Flessen: Aan"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANISTER_EMPTIER.ALLOWED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANISTER_EMPTIER.ALLOWED.TOOLTIP"
@@ -328,11 +340,13 @@ msgid ""
 "Duplicants may specifically fetch <style=\"KKeyword\">Gas</style> from a "
 "<link=\"GASBOTTLER\">Canister Filler</link> to bring to this location"
 msgstr ""
+"Duplis mogen <style=\"KKeyword\">Gas</style> halen van een "
+"<link=\"GASBOTTLER\">Gasfles Vuller</link> om naar deze locatie te brengen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANISTER_EMPTIER.DENIED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANISTER_EMPTIER.DENIED.NAME"
 msgid "Auto-Bottle: Off"
-msgstr ""
+msgstr "Auto-Flessen: Uit"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANISTER_EMPTIER.DENIED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANISTER_EMPTIER.DENIED.TOOLTIP"
@@ -340,41 +354,43 @@ msgid ""
 "Duplicants may not specifically fetch <style=\"KKeyword\">Gas</style> from a "
 "<link=\"GASBOTTLER\">Canister Filler</link> to bring to this location"
 msgstr ""
+"Duplis mogen geen <style=\"KKeyword\">Gas</style> halen van een "
+"<link=\"GASBOTTLER\">Gasfles Vuller</link> om naar deze locatie te brengen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
 msgid "Minimum Temperature Reached"
-msgstr ""
+msgstr "Minimum Temperatuur Bereikt"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP"
 msgid "This building cannot cool the surrounding environment below <b>{0}</b>"
-msgstr ""
+msgstr "Dit gebouw kan de omgeving niet onder <b>{0}<b> koelen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr ""
+msgstr "Deur Verandering Afwachten: {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
 msgid "Waiting for a Duplicant to change control state"
-msgstr ""
+msgstr "Wachten op een Dupli om de controle status te veranderen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_CLOSED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_CLOSED"
 msgid "Clearance: Not Permitted"
-msgstr ""
+msgstr "Toegang: Niet Toegestaan"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_DISCONNECTED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_DISCONNECTED"
 msgid "No Automation"
-msgstr ""
+msgstr "Geen Automatisatie"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_OPEN
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.LOGIC_CONTROLLED_OPEN"
 msgid "Clearance: Permitted"
-msgstr ""
+msgstr "Toegang: Toegestaan"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_CLOSED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_CLOSED"
@@ -382,6 +398,8 @@ msgid ""
 "Automated Checkpoint is receiving a <b><style=\"logic_on\">Green Signal</style></b>, "
 "allowing Duplicants to pass"
 msgstr ""
+"Geautomatiseerd Checkpoint krijgt een <b><style=\"logic_on\">Groen Signaal</style></b>, "
+"Duplis mogen passeren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_DISCONNECTED
 msgctxt ""
@@ -390,6 +408,8 @@ msgid ""
 "This Checkpoint has not been connected to an <style=\"KKeyword\">Automation</style> "
 "grid"
 msgstr ""
+"Dit Checkpoint werd niet verbonden met een <style=\"KKeyword\">Automatisatie</style> "
+"grid"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_OPEN
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHECKPOINT.TOOLTIPS.LOGIC_CONTROLLED_OPEN"
@@ -397,11 +417,13 @@ msgid ""
 "Automated Checkpoint is receiving a <b><style=\"logic_off\">Red Signal</style></b>, "
 "preventing Duplicants from passing"
 msgstr ""
+"Geautomatiseerd Checkpoint krijgt een <b><style=\"logic_off\">Rood Signaal</style></b>, "
+"Duplis mogen niet passeren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.NAME"
 msgid "Medical building outside Hospital"
-msgstr ""
+msgstr "Medisch gebouw buiten Hospitaal"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLINICOUTSIDEHOSPITAL.TOOLTIP"
@@ -409,11 +431,13 @@ msgid ""
 "Rebuild this medical equipment in a <style=\"KKeyword\">Hospital</style> to more "
 "effectively quarantine sick Duplicants"
 msgstr ""
+"Bouw dit medisch toestel opnieuw in een <style=\"KKeyword\">Hospitaal</style> om "
+"beter zieke Duplis af te zonderen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.NAME"
 msgid "Local Colony Lacks {Skills} Skill"
-msgstr ""
+msgstr "De Kolonie mist {Skills} Vaardigheid"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERCOLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
@@ -423,11 +447,15 @@ msgid ""
 "Open the <b>Skills Panel</b> {Hotkey/ManageSkills} to teach {Skills} to a Duplicant, "
 "or bring a Duplicant with the skill from another Planetoid"
 msgstr ""
+"{Skills} Vaardigheid nodig\n"
+"\n"
+"Open het <b>Vaardigheden Paneel</b> {Hotkey/ManageSkills} om {Skills} aan een Dupli te leren, "
+"of breng een Dupli met de vaardigheid van een andere Planetoide"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERTELESCOPEALLWORKCOMPLETE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERTELESCOPEALLWORKCOMPLETE.NAME"
 msgid "Area Complete"
-msgstr ""
+msgstr "Gebied Compleet"
 
 #. STRINGS.BUILDING.STATUSITEMS.CLUSTERTELESCOPEALLWORKCOMPLETE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CLUSTERTELESCOPEALLWORKCOMPLETE.TOOLTIP"
@@ -435,6 +463,8 @@ msgid ""
 "This <style=\"KKeyword\">Telescope</style> has analyzed all the space visible from "
 "its current location"
 msgstr ""
+"Deze <style=\"KKeyword\">Telescoop</style> heeft alle ruimte geanalyseerd die zichtbaar "
+"is vanop zijn locatie"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.NAME"
@@ -71806,22 +71836,22 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.MINION_DESTRUCTION"
 msgid "Tantrum Damage"
-msgstr ""
+msgstr "Driftbui Schade"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.OVERHEAT"
 msgid "Overheat Damage"
-msgstr ""
+msgstr "Schade door Oververhitting"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.ROCKET
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.ROCKET"
 msgid "Rocket Thruster Damage"
-msgstr ""
+msgstr "Raket Schade"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DAMAGE_POPS.WRONG_ELEMENT"
 msgid "Wrong Element Damage"
-msgstr ""
+msgstr "Schade door Verkeerd Element"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.DARKNESS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.DARKNESS"
@@ -78048,22 +78078,22 @@ msgstr ""
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_DURABILITY.DESCRIPTION"
 msgid "Slows <link=\"EXOSUIT\">Exosuit</link> Durability Damage"
-msgstr ""
+msgstr "Vertraagt <link=\"EXOSUIT\">Exopak</link> Duurzaamheid Schade"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.EXOSUIT_EXPERTISE.DESCRIPTION"
 msgid "<link=\"EXOSUIT\">Exosuit</link> Penalty Reduction"
-msgstr ""
+msgstr "<link=\"EXOSUIT\">Exopak</link> Nadeel Vermindering"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.GEYSER_TUNING.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.GEYSER_TUNING.DESCRIPTION"
 msgid "<link=\"GEOTUNER\">Geotuner</link> Usage"
-msgstr ""
+msgstr "<link=\"GEOTUNER\">Geotuner</link> Gebruik"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.INTERSTELLAR_RESEARCH.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.INTERSTELLAR_RESEARCH.DESCRIPTION"
 msgid "<link=\"COSMICRESEARCHCENTER\">Virtual Planetarium</link> Usage"
-msgstr ""
+msgstr "<link=\"COSMICRESEARCHCENTER\">Virtueel Planetarium</link> Gebruik"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.NO_PERKS
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.NO_PERKS"
