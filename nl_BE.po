@@ -12,6 +12,12 @@ msgstr ""
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
 "X-Generator: Poedit 3.3.1\n"
 
+# vim macros
+# ==========
+# j# /mstg�kb�kbgstr ""\n\nf"l
+# k# kf"lyi"j0f"p0f"l
+# i# ?msgidj0V/msgstrky/msgstrpl
+
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
 msgid "Uses: {0}"
@@ -469,17 +475,17 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.NAME"
 msgid "Collecting Radbolts ({x}/cycle)"
-msgstr ""
+msgstr "Radbolts Verzamelen ({x}/cyclus)"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLLECTINGHEP.TOOLTIP"
 msgid "Collecting Radbolts from ambient radiation"
-msgstr ""
+msgstr "Radbolts verzamelen van omgevingsstraling"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.NAME"
 msgid "Colony Lacks {Skills} Skill"
-msgstr ""
+msgstr "Kolonie Mankeert {Skills} Vaardigheid"
 
 #. STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COLONYLACKSREQUIREDSKILLPERK.TOOLTIP"
@@ -488,31 +494,34 @@ msgid ""
 "\n"
 "Open the <b>Skills Panel</b> {Hotkey/ManageSkills} to teach {Skills} to a Duplicant"
 msgstr ""
+"{Skills} Vaardigheid nodig om te werken\n"
+"\n"
+"Open het <b>Vaardigheden Scherm</b> {Hotkey/ManageSkills} om {Skills} te leren aan een Dupli"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
 msgid "Pipe Blocked"
-msgstr ""
+msgstr "Pijp Geblokkeerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
 msgid "Output <style=\"KKeyword\">Pipe</style> is blocked"
-msgstr ""
+msgstr "Uit <style=\"KKeyword\">Pijp</style> geblokkeerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.NAME"
 msgid "Pipe Blocked"
-msgstr ""
+msgstr "Pijp Geblokkeerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKEDMULTIPLES.TOOLTIP"
 msgid "Output <style=\"KKeyword\">Pipe</style> is blocked"
-msgstr ""
+msgstr "Uit <style=\"KKeyword\">Pijp</style> geblokkeerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_NO_PORT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_NO_PORT.NAME"
 msgid "No Rocket Ports"
-msgstr ""
+msgstr "Geen Raket Poorten"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_NO_PORT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_NO_PORT.TOOLTIP"
@@ -524,11 +533,18 @@ msgid ""
 "<style=\"KKeyword\">Liquid</style> <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Ports</"
 "link> can be attached to load and unload cargo from a landed rocket's modules"
 msgstr ""
+"Dit <style=\"KKeyword\">Raket Platform</style> heeft geen "
+"aangekoppelde <link=\"MODULARLAUNCHPADPORTSOLID\">Raket Poort</link> \n"
+"\n"
+"<link=\"MODULARLAUNCHPADPORTSOLID\">Raket Poorten</link> voor "
+"<style=\"KKeyword\">Vast</style>, <style=\"KKeyword\">Gas</style>, en "
+"<style=\"KKeyword\">Vloeibaar</style> kunnen aangekoppeld worden om "
+"cargo te laden en lossen van de modules van een gelande raket"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_PORT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_PORT.NAME"
 msgid "Port Network Attached"
-msgstr ""
+msgstr "Poort Netwerk Aangekoppeld"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_PORT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_PORT.TOOLTIP"
@@ -536,11 +552,13 @@ msgid ""
 "This module has been connected to a <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</"
 "link> and can now load and unload cargo"
 msgstr ""
+"Deze module werd verboden met een <link=\"MODULARLAUNCHPADPORTSOLID\">Raket Poort</"
+"link> en kan nu cargo laden en lossen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_WRONG_PORT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_WRONG_PORT.NAME"
 msgid "Incorrect Port Network"
-msgstr ""
+msgstr "Fout Poort Netwerk"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_WRONG_PORT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONNECTED_ROCKET_WRONG_PORT.TOOLTIP"
@@ -548,51 +566,53 @@ msgid ""
 "The attached <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link> is not the "
 "correct type for this cargo module"
 msgstr ""
+"De aangekoppelde <link=\"MODULARLAUNCHPADPORTSOLID\">Raket Poort</link> is niet het "
+"correcte type voor deze cargo module"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.NAME"
 msgid "Unreachable Dig"
-msgstr ""
+msgstr "Onbereikbare Opgraving"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTABLEDIGUNREACHABLE.TOOLTIP"
 msgid "This construction site contains cells that cannot be dug out"
-msgstr ""
+msgstr "Deze constructiesite bevat cellen dit niet kunnen opgegraven worden"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME"
 msgid "Unreachable Build"
-msgstr ""
+msgstr "Onbereikbare Bouwplaats"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this construction site"
-msgstr ""
+msgstr "Duplis kunnen de constructiesite niet bereiken"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.NAME"
 msgid "Consuming {ElementTypes}: {FlowRate}"
-msgstr ""
+msgstr "{ElementTypes} aan het gebruiken: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSUMINGFROMSTORAGE.TOOLTIP"
 msgid "This building is consuming {ElementTypes} from storage"
-msgstr ""
+msgstr "Dit gebouw gebruikt {ElementTypes} uit de opslag"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR.NAME"
 msgid "Contents: {Contents}"
-msgstr ""
+msgstr "Inhoud: {Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR.TOOLTIP"
 msgid "This conveyor is delivering {Contents}"
-msgstr ""
+msgstr "Deze transportband levert {Contents}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS"
 msgid "{0} of {1} at {2}"
-msgstr ""
+msgstr "{0} van {1} op {2}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS_WITH_DISEASE
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS_WITH_DISEASE"
@@ -600,26 +620,28 @@ msgid ""
 "\n"
 "  {0}"
 msgstr ""
+"\n"
+"  {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.EMPTY
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.EMPTY"
 msgid "Empty"
-msgstr ""
+msgstr "Leeg"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.NAME"
 msgid "Cooling"
-msgstr ""
+msgstr "Afkoelen"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
 msgid "This building is cooling the surrounding area"
-msgstr ""
+msgstr "Dit gebouw koelt de omgeving"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.NAME"
 msgid "Gas Too Cold"
-msgstr ""
+msgstr "Gas Te Koud"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP"
@@ -628,11 +650,14 @@ msgid ""
 "\n"
 "Current Pipe Contents: {0}"
 msgstr ""
+"Dit gebouw kan de binnenkomende pijp niet afkoelen onder <b>{0}</b>\n"
+"\n"
+"Huidige Pijp Inhoud: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.NAME"
 msgid "Liquid Too Cold"
-msgstr ""
+msgstr "Vloeistof Te Koud"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDLIQUID.TOOLTIP"
@@ -641,11 +666,14 @@ msgid ""
 "\n"
 "Current Pipe Contents: {0}"
 msgstr ""
+"Dit gebouw kan de binnenkomende pijp niet afkoelen onder<b>{0}</b>\n"
+"\n"
+"Huidige Pijp Inhoud: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME"
 msgid "Gas Too Hot"
-msgstr ""
+msgstr "Gas Te Warm"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.TOOLTIP"
@@ -656,11 +684,15 @@ msgid ""
 "Environment: {0}\n"
 "Current Pipe Contents: {1}"
 msgstr ""
+"Binnenkomende pijp kan niet meer dan <b>{2}</b> onder de omgevingstemperatuur gekoeld worden\n"
+"\n"
+"Omgeving: {0}\n"
+"Huidige Pijp Inhoud: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.NAME"
 msgid "Liquid Too Hot"
-msgstr ""
+msgstr "Vloeistof Te Warm"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.TOOLTIP"
@@ -671,52 +703,57 @@ msgid ""
 "Environment: {0}\n"
 "Current Pipe Contents: {1}"
 msgstr ""
+"Binnenkomende pijp kan niet meer dan <b>{2}</b> onder de omgevingstemperatuur gekoeld worden\n"
+"\n"
+"Omgeving: {0}\n"
+"Huidige Pijp Inhoud: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.NAME"
 msgid "Needs Bait"
-msgstr ""
+msgstr "Lokaas Nodig"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.TOOLTIP"
 msgid "This trap needs to be baited before it can be set"
-msgstr ""
+msgstr "Deze val heeft lokaas nodig voordat hij kan klaargezet worden"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.NAME"
 msgid "Set"
-msgstr ""
+msgstr "Zet Klaar"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.READY.TOOLTIP"
 msgid ""
 "This trap has been set and is ready to catch a <style=\"KKeyword\">Critter</style>"
 msgstr ""
+"Deze val werd klaargezet en is klaar om een <style=\"KKeyword\">Beest</style> te vangen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.NAME"
 msgid "Sprung"
-msgstr ""
+msgstr "Afgegaan"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.SPRUNG.TOOLTIP"
 msgid "This trap has caught a {0}!"
-msgstr ""
+msgstr "Deze val heeft een {0} gevangen!"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORMORPHMODE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORMORPHMODE.NAME"
 msgid "Current Status: Online"
-msgstr ""
+msgstr "Huidige Status: Online"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORMORPHMODE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORMORPHMODE.TOOLTIP"
 msgid "This building is ready to manipulate <style=\"KKeyword\">Critter</style> DNA"
-msgstr ""
+msgstr "Dit gebouw is klaar om <style=\"KKeyword\">Beest</style> DNA te manipuleren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORMORPHMODELOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORMORPHMODELOCKED.NAME"
 msgid "Current Status: Offline"
-msgstr ""
+msgstr "Huidige Status: Offline"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORMORPHMODELOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORMORPHMODELOCKED.TOOLTIP"
@@ -724,16 +761,18 @@ msgid ""
 "This building cannot operate until it collects more <style=\"KKeyword\">Critter</"
 "style> DNA"
 msgstr ""
+"Dit gebouw kan niet werken tot het meer <style=\"KKeyword\">Beest</"
+"style> DNA verzamelt"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORPROGRESS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORPROGRESS.NAME"
 msgid "Collected Species Data {0}/{1}"
-msgstr ""
+msgstr "Verzamelde Soort Data {0}/{1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORPROGRESS.NO_DATA
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORPROGRESS.NO_DATA"
 msgid "No species scanned"
-msgstr ""
+msgstr "Geen soorten gescand"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORPROGRESS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORPROGRESS.TOOLTIP"
@@ -743,11 +782,15 @@ msgid ""
 "\n"
 "Species scanned:"
 msgstr ""
+"Dit gebouw heeft data nodig van verschillende <style=\"KKeyword\">Beest</style> "
+"soorten om zijn genetische manipulator beschikbaar te maken\n"
+"\n"
+"Soorten gescand:"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWAITING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWAITING.NAME"
 msgid "Waiting for a Critter"
-msgstr ""
+msgstr "Wachten op een Beest"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWAITING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWAITING.TOOLTIP"
@@ -755,11 +798,12 @@ msgid ""
 "This building is waiting for a <style=\"KKeyword\">Critter</style> to get sucked "
 "into its scanning area"
 msgstr ""
+"Dit gebouw wacht op een <style=\"KKeyword\">Beest</style> om in zijn scangebied te brengen"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWORKING.NAME"
 msgid "Poking and Prodding Critter"
-msgstr ""
+msgstr "Beest Porren"
 
 #. STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATUREMANIPULATORWORKING.TOOLTIP"
@@ -767,26 +811,28 @@ msgid ""
 "This building is extracting genetic information from a <style=\"KKeyword\">Critter</"
 "style> "
 msgstr ""
+"Dit gebouw haalt genetische informatie uit een <style=\"KKeyword\">Beest</"
+"style> "
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.LOCKED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.LOCKED"
 msgid "Locked"
-msgstr ""
+msgstr "Op Slot"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.NAME"
 msgid "Current State: {ControlState}"
-msgstr ""
+msgstr "Huidige Staat: {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.OPENED
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.OPENED"
 msgid "Opened"
-msgstr ""
+msgstr "Geopend"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.TOOLTIP"
@@ -797,32 +843,38 @@ msgid ""
 "Locked: Nothing may pass through\n"
 "Open: This door will remain open"
 msgstr ""
+"Huidige Staat: {ControlState}\n"
+"\n"
+"Automatisch: Duplis openen en sluiten deze deur zelf\n"
+"Op Slot: Niets mag er door\n"
+"Open: Deze deur blijft open"
 
 #. STRINGS.BUILDING.STATUSITEMS.DEADREACTORCOOLINGOFF.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DEADREACTORCOOLINGOFF.NAME"
 msgid "Cooling ({CyclesRemaining} cycles remaining)"
-msgstr ""
+msgstr "Koelen ({CyclesRemaining} cycli resterend)"
 
 #. STRINGS.BUILDING.STATUSITEMS.DEADREACTORCOOLINGOFF.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DEADREACTORCOOLINGOFF.TOOLTIP"
 msgid "The radiation coming from this reactor is diminishing"
-msgstr ""
+msgstr "De straling dit uit deze reactor komt vermindert"
 
 #. STRINGS.BUILDING.STATUSITEMS.DESALINATORNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DESALINATORNEEDSEMPTYING.NAME"
 msgid "Requires Emptying"
-msgstr ""
+msgstr "Moet Geleegd Worden"
 
 #. STRINGS.BUILDING.STATUSITEMS.DESALINATORNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DESALINATORNEEDSEMPTYING.TOOLTIP"
 msgid ""
 "This building needs to be emptied of <link=\"SALT\">Salt</link> to resume function"
 msgstr ""
+"Het <link=\"SALT\">Zout</link> uit dit gebouw moet geleegd worden om verder te werken"
 
 #. STRINGS.BUILDING.STATUSITEMS.DESTINATIONOUTOFRANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DESTINATIONOUTOFRANGE.NAME"
 msgid "Destination Out Of Range"
-msgstr ""
+msgstr "Bestemming Te Ver"
 
 #. STRINGS.BUILDING.STATUSITEMS.DESTINATIONOUTOFRANGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DESTINATIONOUTOFRANGE.TOOLTIP"
@@ -832,11 +884,15 @@ msgid ""
 "Rocket Range: {Range}\n"
 "Destination Distance: {Distance}"
 msgstr ""
+"Deze raket kan niet ver genoeg vliegen om het doel te bereiken\n"
+"\n"
+"Raket Bereik: {Range}\n"
+"Afstand Doel: {Distance}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.NAME"
 msgid "Scan Quality: {Quality}"
-msgstr ""
+msgstr "Scan Kwaliteit: {Quality}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP"
@@ -847,21 +903,26 @@ msgid ""
 "    • Interference from nearby industrial machinery\n"
 "    • Rock or tile obstructing the dish's line of sight on space"
 msgstr ""
+"Effectiviteit van deze scanner schotel is momenteel <b>{Quality}</b> \n"
+"\n"
+"Verminderende scan kwaliteit kan zijn door:\n"
+"    • Storing van nabije industriele machines\n"
+"    • Rots of blok dat het zicht van de schotel op de ruimte belemmert"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME"
 msgid "Scanning"
-msgstr ""
+msgstr "Aan het scannen"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.TOOLTIP"
 msgid "This scanner is currently scouring space for anything of interest"
-msgstr ""
+msgstr "Deze scanner is de ruimte aan het afzoeken voor interessante dingen"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESSKILLPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESSKILLPERK.NAME"
 msgid "Skill-Required Dig"
-msgstr ""
+msgstr "Vaardige Opgraving"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESSKILLPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGREQUIRESSKILLPERK.TOOLTIP"
@@ -870,36 +931,39 @@ msgid ""
 "mine this material:\n"
 "{Skills}"
 msgstr ""
+"Enkel Duplis met een van de volgende <style=\"KKeyword\">Vaardigheden</style> kan "
+"dit materiaal opgraven:\n"
+"{Skills}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
 msgid "Unreachable Dig"
-msgstr ""
+msgstr "Onbereikbare Opgraving"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this area"
-msgstr ""
+msgstr "Duplis kunnen dit gebied niet bereiken"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.DIRECTIONS.BOTH
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.DIRECTIONS.BOTH"
 msgid "Both"
-msgstr ""
+msgstr "Beide"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.DIRECTIONS.LEFT
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.DIRECTIONS.LEFT"
 msgid "Left"
-msgstr ""
+msgstr "Links"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.DIRECTIONS.RIGHT
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.DIRECTIONS.RIGHT"
 msgid "Right"
-msgstr ""
+msgstr "Rechts"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.NAME"
 msgid "Use Direction: {Direction}"
-msgstr ""
+msgstr "Gebruik Richting: {Direction}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIRECTION_CONTROL.TOOLTIP"
@@ -908,11 +972,14 @@ msgid ""
 "\n"
 "Currently allowed direction: <b>{Direction}</b>"
 msgstr ""
+"Duplis zullen dit gebouw enkel gebruiken als ze langslopen\n"
+"\n"
+"Huidige toegestane richting: <b>{Direction}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.DISEMBARKINGDUPLICANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DISEMBARKINGDUPLICANT.NAME"
 msgid "Waiting To Disembark"
-msgstr ""
+msgstr "Wachten Om Van Boord Te Gaan"
 
 #. STRINGS.BUILDING.STATUSITEMS.DISEMBARKINGDUPLICANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DISEMBARKINGDUPLICANT.TOOLTIP"
@@ -920,41 +987,43 @@ msgid ""
 "The Duplicant inside this rocket can't come out until the <link=\"GANTRY\">Gantry</"
 "link> is extended"
 msgstr ""
+"De Dupli in deze raket kan er niet uitkomen tot de <link=\"GANTRY\">Loopbrug</"
+"link> is uitgeschoven"
 
 #. STRINGS.BUILDING.STATUSITEMS.DISPENSEREQUESTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DISPENSEREQUESTED.NAME"
 msgid "Dispense Requested"
-msgstr ""
+msgstr "Verstrekking Aangevraagd"
 
 #. STRINGS.BUILDING.STATUSITEMS.DISPENSEREQUESTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DISPENSEREQUESTED.TOOLTIP"
 msgid "Waiting for a Duplicant to dispense the item"
-msgstr ""
+msgstr "Wachten op een Dupli om het artikel te verstrekken"
 
 #. STRINGS.BUILDING.STATUSITEMS.DUPLICANTACTIVATIONREQUIRED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DUPLICANTACTIVATIONREQUIRED.NAME"
 msgid "Activation Required"
-msgstr ""
+msgstr "Activatie Nodig"
 
 #. STRINGS.BUILDING.STATUSITEMS.DUPLICANTACTIVATIONREQUIRED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DUPLICANTACTIVATIONREQUIRED.TOOLTIP"
 msgid "A Duplicant is required to bring this building online"
-msgstr ""
+msgstr "Een Dupli is nodig om dit gebouw te activeren"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.NAME"
 msgid "Consuming {ElementTypes}: {FlowRate}"
-msgstr ""
+msgstr "{ElementTypes} in gebruik: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP"
 msgid "This object is utilizing ambient {ElementTypes} from the environment"
-msgstr ""
+msgstr "Dit object gebruikt {ElementTypes} uit de omgeving"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME"
 msgid "Using {ElementTypes}: {FlowRate}"
-msgstr ""
+msgstr "{ElementTypes} in gebruik: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP"
@@ -962,11 +1031,13 @@ msgid ""
 "This building is using {ElementTypes} from storage at a rate of "
 "<style=\"consumed\">{FlowRate}</style>"
 msgstr ""
+"Dit gebouw gebruikt {ElementTypes} uit opslag aan een tempo van "
+"<style=\"consumed\">{FlowRate}</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME"
 msgid "Emitting {ElementTypes}: {FlowRate}"
-msgstr ""
+msgstr "Uitstoot {ElementTypes}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP"
@@ -974,11 +1045,13 @@ msgid ""
 "This building is releasing {ElementTypes} at a rate of <style=\"produced\">{FlowRate}"
 "</style>"
 msgstr ""
+"Dit gebouw laat {ElementTypes} vrij aan een tempo van <style=\"produced\">{FlowRate}"
+"</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME"
 msgid "Emitting {ElementTypes}: {FlowRate}"
-msgstr ""
+msgstr "Uitstoot {ElementTypes}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP"
@@ -986,31 +1059,33 @@ msgid ""
 "This object is releasing {ElementTypes} at a rate of <style=\"produced\">{FlowRate}</"
 "style>"
 msgstr ""
+"Dit object laat {ElementTypes} vrij aan een tempo van <style=\"produced\">{FlowRate}</"
+"style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDHIGHPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDHIGHPRESSURE.NAME"
 msgid "Not Emitting: Overpressure"
-msgstr ""
+msgstr "Geen Uitstoot: Overdruk"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDHIGHPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDHIGHPRESSURE.TOOLTIP"
 msgid "Ambient pressure is too high for {Element} to be released"
-msgstr ""
+msgstr "Omgevingsdruk is te hoog om {Element} vrij te laten"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDLOWTEMPERATURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDLOWTEMPERATURE.NAME"
 msgid "Not Emitting: Too Cold"
-msgstr ""
+msgstr "Geen Uitstoot: Te Koud"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDLOWTEMPERATURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGBLOCKEDLOWTEMPERATURE.TOOLTIP"
 msgid "Temperature is too low for {Element} to be released"
-msgstr ""
+msgstr "Temperatuur is te laag om {Element} vrij te laten"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME"
 msgid "Emitting CO<sub>2</sub>: {FlowRate}"
-msgstr ""
+msgstr "Uitstoot CO<sub>2</sub>: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.TOOLTIP"
@@ -1018,31 +1093,33 @@ msgid ""
 "Producing <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> at "
 "<style=\"produced\">{FlowRate}</style>"
 msgstr ""
+"Productie <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> aan "
+"<style=\"produced\">{FlowRate}</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.NAME"
 msgid "Emitting {ElementType}: {FlowRate}"
-msgstr ""
+msgstr "Uitstoot {ElementType}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGELEMENT.TOOLTIP"
 msgid "Producing {ElementType} at <style=\"produced\">{FlowRate}</style>"
-msgstr ""
+msgstr "Productie {ElementType} aan <style=\"produced\">{FlowRate}</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.NAME"
 msgid "Emitting {Element}: {FlowRate}"
-msgstr ""
+msgstr "Uitstoot {Element}: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGGASAVG.TOOLTIP"
 msgid "Producing {Element} at a rate of <style=\"produced\">{FlowRate}</style>"
-msgstr ""
+msgstr "Productie {Element} aan een tempo van <style=\"produced\">{FlowRate}</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.NAME"
 msgid "Emitting Light"
-msgstr ""
+msgstr "Uitstoot Licht"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
@@ -1050,11 +1127,12 @@ msgid ""
 "Open the <b>Light Overlay</b> {Hotkey/Overlay5} to view this light's visibility "
 "radius"
 msgstr ""
+"Open het <b>Licht Overlay</b> {Hotkey/Overlay5} om de impact van dit licht te zien"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME"
 msgid "Emitting <link=\"OXYGEN\">Oxygen</link>: {FlowRate}"
-msgstr ""
+msgstr "Uitstoot <link=\"OXYGEN\">Zuurstof</link>: {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.TOOLTIP"
@@ -1062,16 +1140,18 @@ msgid ""
 "Producing <link=\"OXYGEN\">Oxygen</link> at a rate of <style=\"produced\">{FlowRate}"
 "</style>"
 msgstr ""
+"Productie <link=\"OXYGEN\">Zuurstof</link> aan een tempo van <style=\"produced\">{FlowRate}"
+"</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMPTYPUMPINGSTATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMPTYPUMPINGSTATION.NAME"
 msgid "Empty"
-msgstr ""
+msgstr "Leeg"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMPTYPUMPINGSTATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMPTYPUMPINGSTATION.TOOLTIP"
 msgid "This pumping station cannot access any <style=\"KKeyword\">Liquid</style>"
-msgstr ""
+msgstr "Dit pompstation heeft geen toegang tot <style=\"KKeyword\">Vloeistof</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENOUGH_COOLANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENOUGH_COOLANT.NAME"
@@ -1081,102 +1161,102 @@ msgstr "Koelstof Nodig"
 #. STRINGS.BUILDING.STATUSITEMS.ENOUGH_COOLANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENOUGH_COOLANT.TOOLTIP"
 msgid "<b>{1}</b> of {0} must be present in storage to begin production"
-msgstr ""
+msgstr "<b>{1}</b> van {0} moet in opslag zijn om productie te beginnen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENOUGH_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENOUGH_FUEL.NAME"
 msgid "Awaiting Fuel"
-msgstr ""
+msgstr "Wachten Op Brandstof"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENOUGH_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENOUGH_FUEL.TOOLTIP"
 msgid "<b>{1}</b> of {0} must be present in storage to begin production"
-msgstr ""
+msgstr "<b>{1}</b> van {0} moet in opslag zijn om productie te beginnen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME"
 msgid "Entombed"
-msgstr ""
+msgstr "Bedolven"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME"
 msgid "Building entombment"
-msgstr ""
+msgstr "Bedelving bouwen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP"
 msgid "These buildings are entombed and need to be dug out:"
-msgstr ""
+msgstr "Deze gebouwen zijn bedolven en moeten uitgegraven worden:"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.TOOLTIP"
 msgid "Must be dug out by a Duplicant"
-msgstr ""
+msgstr "Moet uitgegraven worden door een Dupli"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.NAME"
 msgid "Armed"
-msgstr ""
+msgstr "Gewapend"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.ARMED.TOOLTIP"
 msgid "Stand back, this baby's ready to blow!"
-msgstr ""
+msgstr "Opgepast, ze gaat ontploffen!"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.NAME"
 msgid "Countdown: {0}"
-msgstr ""
+msgstr "Aftelling: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.COUNTDOWN.TOOLTIP"
 msgid "<b>{0}</b> seconds until detonation"
-msgstr ""
+msgstr "<b>{0}</b> seconden tot ontploffing"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.NAME"
 msgid "Duplicant Preservation Override"
-msgstr ""
+msgstr "Dupli Bescherming Override"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.DUPE_DANGER.TOOLTIP"
 msgid "Explosive disabled due to close Duplicant proximity"
-msgstr ""
+msgstr "Explosief uitgeschakeld wegens nabije Dupli"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.NAME"
 msgid "Exploding"
-msgstr ""
+msgstr "Aan het ontploffen"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.TOOLTIP"
 msgid "Kaboom!"
-msgstr ""
+msgstr "Knal!"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.NAME"
 msgid "Unarmed"
-msgstr ""
+msgstr "Ongewapend"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.TOOLTIP"
 msgid "This explosive is currently inactive"
-msgstr ""
+msgstr "Dit explosief is momenteel niet actief"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXPIRED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXPIRED.NAME"
 msgid "Depleted"
-msgstr ""
+msgstr "Uitgewerkt"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXPIRED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXPIRED.TOOLTIP"
 msgid "This building has no more use"
-msgstr ""
+msgstr "Dit gebouw heeft geen nut meer"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.NAME"
 msgid "Fabricator accepts mutant seeds"
-msgstr ""
+msgstr "Fabricator accepteert gemuteerde zaden"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORACCEPTSMUTANTSEEDS.TOOLTIP"
@@ -1184,31 +1264,32 @@ msgid ""
 "This fabricator is allowed to use <style=\"KKeyword\">Mutant Seeds</style> as recipe "
 "ingredients"
 msgstr ""
+"Deze fabricator mag <style=\"KKeyword\">Gemuteerde Zaden</style> gebruiken als ingredient voor een recept"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.NAME"
 msgid "Waiting For Materials"
-msgstr ""
+msgstr "Wachten Op Materiaal"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATOREMPTY.TOOLTIP"
 msgid "Fabrication will begin once materials have been delivered"
-msgstr ""
+msgstr "Fabricatie zal beginnen als het materiaal geleverd is"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORIDLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORIDLE.NAME"
 msgid "No Fabrications Queued"
-msgstr ""
+msgstr "Geen Fabricaties In Wachtrij"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORIDLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORIDLE.TOOLTIP"
 msgid "Select a recipe to begin fabrication"
-msgstr ""
+msgstr "Selecteer een recept om fabricatie te starten"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.NAME"
 msgid "Waiting For Radbolts ({CurrentHEP}/{HEPRequired})"
-msgstr ""
+msgstr "Wachten Op Radbolts ({CurrentHEP}/{HEPRequired})"
 
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.TOOLTIP"
@@ -1218,11 +1299,15 @@ msgid ""
 "Currently stored: {CurrentHEP}\n"
 "Required for recipe: {HEPRequired}"
 msgstr ""
+"Een recept in wachtrij heeft meer Radbolts nodig dat er beschikbaar zijn.\n"
+"\n"
+"Momenteel beschikbaar: {CurrentHEP}\n"
+"Nodig voor recept: {HEPRequired}"
 
 #. STRINGS.BUILDING.STATUSITEMS.FISHFEEDERACCEPTSMUTANTSEEDS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FISHFEEDERACCEPTSMUTANTSEEDS.NAME"
 msgid "Fish Feeder accepts mutant seeds"
-msgstr ""
+msgstr "Vis Voeder accepteert gemuteerde zaden"
 
 #. STRINGS.BUILDING.STATUSITEMS.FISHFEEDERACCEPTSMUTANTSEEDS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FISHFEEDERACCEPTSMUTANTSEEDS.TOOLTIP"
@@ -1230,71 +1315,72 @@ msgid ""
 "This fish feeder is allowed to use <style=\"KKeyword\">Mutant Seeds</style> as fish "
 "food"
 msgstr ""
+"Deze vis voeder mag <style=\"KKeyword\">Gemuteerde Zaden</style> gebruiken als visvoer"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.NAME"
 msgid "All cargo bays are full"
-msgstr ""
+msgstr "Alle cargo ruimen zijn vol"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLIGHTALLCARGOFULL.TOOLTIP"
 msgid "Rocket cannot store any more materials"
-msgstr ""
+msgstr "Raket kan niet meer materiaal opslaan"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLIGHTCARGOREMAINING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLIGHTCARGOREMAINING.NAME"
 msgid "Cargo capacity remaining: {0}"
-msgstr ""
+msgstr "Cargo capaciteit over: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLIGHTCARGOREMAINING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLIGHTCARGOREMAINING.TOOLTIP"
 msgid "Rocket can store up to {0} more materials"
-msgstr ""
+msgstr "Raket kan nog {0} materiaal extra opslaan"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NAME"
 msgid "Building Flooded"
-msgstr ""
+msgstr "Gebouw Overstroomd"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_NAME"
 msgid "Flooding"
-msgstr ""
+msgstr "Aan het overstromen"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.NOTIFICATION_TOOLTIP"
 msgid "These buildings are flooded:"
-msgstr ""
+msgstr "Deze gebouwen zijn overstroomd:"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLOODED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLOODED.TOOLTIP"
 msgid "Building cannot function at current saturation"
-msgstr ""
+msgstr "Gebouw kan niet werken bij huidige verzadiging"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.NAME"
 msgid "{toilet} Ready"
-msgstr ""
+msgstr "{toilet} Klaar"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILET.TOOLTIP"
 msgid "This bathroom is ready to receive visitors"
-msgstr ""
+msgstr "Dit toilet is klaar om bezoekers te ontvangen"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.NAME"
 msgid "{toilet} In Use"
-msgstr ""
+msgstr "{toilet} In Gebruik"
 
 #. STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FLUSHTOILETINUSE.TOOLTIP"
 msgid "This bathroom is occupied"
-msgstr ""
+msgstr "Dit toilet is bezet"
 
 #. STRINGS.BUILDING.STATUSITEMS.FOOD_CONTAINERS_OUTSIDE_RANGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FOOD_CONTAINERS_OUTSIDE_RANGE.NAME"
 msgid "Unreachable food"
-msgstr ""
+msgstr "Onbereikbaar eten"
 
 #. STRINGS.BUILDING.STATUSITEMS.FOOD_CONTAINERS_OUTSIDE_RANGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FOOD_CONTAINERS_OUTSIDE_RANGE.TOOLTIP"
@@ -1302,37 +1388,40 @@ msgid ""
 "Recuperating Duplicants must have <style=\"KKeyword\">Food</style> available within "
 "<b>{0}</b> cells"
 msgstr ""
+"Herstellende Duplis moeten <style=\"KKeyword\">Eten</style> hebben in bereik van  "
+"<b>{0}</b> cellen"
 
 #. STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.EXCAVATING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.EXCAVATING.NAME"
 msgid "Excavation In Progress"
-msgstr ""
+msgstr "Opgraving Bezig"
 
 #. STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.EXCAVATING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.EXCAVATING.TOOLTIP"
 msgid "Currently being excavated by a Duplicant"
-msgstr ""
+msgstr "Wordt opgegraven door een Dupli"
 
 #. STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.PENDING_EXCAVATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.PENDING_EXCAVATION.NAME"
 msgid "Awaiting Excavation"
-msgstr ""
+msgstr "Opgraving Afwachten"
 
 #. STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.PENDING_EXCAVATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FOSSILHUNT.PENDING_EXCAVATION.TOOLTIP"
 msgid "Currently awaiting excavation by a Duplicant"
-msgstr ""
+msgstr "Opgraving door een Dupli aan het afwachten"
 
 #. STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME"
 msgid "Cooling Contents: {UsedPower}"
-msgstr ""
+msgstr "Inhoud Koelen: {UsedPower}"
 
 #. STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP"
 msgid ""
 "{UsedPower} of {MaxPower} are being used to cool the contents of this food storage"
 msgstr ""
+"{UsedPower} van {MaxPower} is gebruikt om de inhoud van deze voedselopslag te koelen"
 
 #. STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME"
