@@ -2230,207 +2230,207 @@ msgstr "<link=\"TELESCOPE\">Telescoop</link> inactief"
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.NOTIFICATION_TOOLTIP"
 msgid "These buildings require an analysis focus:"
-msgstr ""
+msgstr "Deze gebouwen vereisen een analyse focus:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.TOOLTIP"
 msgid "Select an unknown destination from the <b>Starmap</b> {Hotkey/ManageStarmap} to begin analysis"
-msgstr ""
+msgstr "Selecteer een onbekende bestemming van de <b>Sterrenkaart</b> {Hotkey/ManageStarmap} om de analyse te beginnen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME"
 msgid "Inapplicable Research"
-msgstr ""
+msgstr "Ontoepasbaar Onderzoek"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_NAME"
 msgid "<link=\"ADVANCEDRESEARCHCENTER\">Research Center</link> idle"
-msgstr ""
+msgstr "<link=\"ADVANCEDRESEARCHCENTER\">Onderzoekscenter</link> inactief"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid "These buildings cannot produce the correct <style=\"KKeyword\">Research Type</style> for the selected <link=\"TECH\">Research Focus</link>:"
-msgstr ""
+msgstr "Deze gebouwen kunnen niet het correcte <style=\"KKeyword\">Onderzoekstype</style> produceren voor de geselecteerde <link=\"TECH\">Onderzoeksfocus</link>:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
 msgid "This building cannot produce the correct <style=\"KKeyword\">Research Type</style> for the current <link=\"TECH\">Research Focus</link>"
-msgstr ""
+msgstr "Dit gebouw kan niet het correcte <style=\"KKeyword\">Onderzoekstype</style> produceren voor de huidige <link=\"TECH\">Onderzoeksfocus</link>:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLEEGG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLEEGG.NAME"
 msgid "No Egg Available"
-msgstr ""
+msgstr "Geen Beschikbaar Ei"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLEEGG.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLEEGG.TOOLTIP"
 msgid "The selected <style=\"KKeyword\">Egg</style> is not currently available"
-msgstr ""
+msgstr "Het geselecteerde <style=\"KKeyword\">Ei</style> is niet beschikbaar"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME"
 msgid "No Seed Available"
-msgstr ""
+msgstr "Geen Zaad Beschikbaar"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.TOOLTIP"
 msgid "The selected <style=\"KKeyword\">Seed</style> is not available"
-msgstr ""
+msgstr "Het geselecteerde <style=\"KKeyword\">Zaad</style> is niet beschikbaar"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOCOOLANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOCOOLANT.NAME"
 msgid "No Coolant"
-msgstr ""
+msgstr "Geen Koelmiddel"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOCOOLANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOCOOLANT.TOOLTIP"
 msgid "This building needs coolant"
-msgstr ""
+msgstr "Dit gebouw heeft koelmoddel nodig"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOFILTERELEMENTSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOFILTERELEMENTSELECTED.NAME"
 msgid "No Filter Selected"
-msgstr ""
+msgstr "Geen Filter Geselecteerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOFILTERELEMENTSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOFILTERELEMENTSELECTED.TOOLTIP"
 msgid "Select a resource to filter"
-msgstr ""
+msgstr "Selecteer een grondstof om te filteren"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.NAME"
 msgid "No Fishable Water"
-msgstr ""
+msgstr "Geen Visbaar Water"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.TOOLTIP"
 msgid "There are no edible <style=\"KKeyword\">Fish</style> beneath this structure"
-msgstr ""
+msgstr "Er is geen eetbare <style=\"KKeyword\">Vis</style> onder deze structuur"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME"
 msgid "Pump Not In Gas"
-msgstr ""
+msgstr "Pomp Not In Gas"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP"
 msgid "This pump must be submerged in <style=\"KKeyword\">Gas</style> to work"
-msgstr ""
+msgstr "Deze pomp moet ondergedompeld zijn in <style=\"KKeyword\">Gas</style> om te werken"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME"
 msgid "Pump Not In Liquid"
-msgstr ""
+msgstr "Pomp Niet In Vloeistof"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP"
 msgid "This pump must be submerged in <style=\"KKeyword\">Liquid</style> to work"
-msgstr ""
+msgstr "Deze pomp moet ondergedompeld zijn in <style=\"KKeyword\">Vloeistof</style> om te werken"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLOGICWIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLOGICWIRECONNECTED.NAME"
 msgid "No Automation Wire Connected"
-msgstr ""
+msgstr "Geen Verbonden Automatisatie Draad"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLOGICWIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLOGICWIRECONNECTED.TOOLTIP"
 msgid "This building has not been connected to an <style=\"KKeyword\">Automation</style> grid"
-msgstr ""
+msgstr "Dit gebouw werd niet verbonden met een <style=\"KKeyword\">Automatisatie</style> grid"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.NAME"
 msgid "No Bait Selected"
-msgstr ""
+msgstr "Geen Lokaas Geselecteerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLUREELEMENTSELECTED.TOOLTIP"
 msgid "Select a resource to use as bait"
-msgstr ""
+msgstr "Selecteer een grondstof om als lokaas te dienen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME"
 msgid "No Power Consumers"
-msgstr ""
+msgstr "Geen Stroom Gebruikers"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.TOOLTIP"
 msgid "No buildings are connected to this <style=\"KKeyword\">Power</style> source"
-msgstr ""
+msgstr "Er zijn geen gebouwen verbonden met deze <style=\"KKeyword\">Stroom</style> bron"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.NAME"
 msgid "No Research Focus or Starmap Destination Selected"
-msgstr ""
+msgstr "Geen Onderzoeksfocus of Sterrenmap Bestemming Geselecteerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.NOTIFICATION_NAME"
 msgid "No <link=\"TECH\">Research Focus</link> or Starmap destination selected"
-msgstr ""
+msgstr "Geen <link=\"TECH\">Onderzoeksfocus</link> of Sterrenmap bestemming geselecteerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.NOTIFICATION_TOOLTIP"
 msgid "Select a <link=\"TECH\">Research</link> project in the <b>Research Tree</b> <b><color=#F44A4A>[R]</b></color> or a Destination in the <b>Starmap</b> <b><color=#F44A4A>[Z]</b></color>"
-msgstr ""
+msgstr "Selecteer een <link=\"TECH\">Onderzoek</link>sproject in de <b>Onderzoeksboom</b> <b><color=#F44A4A>[R]</b></color> of een Bestemming in de <b>Sterrenmap</b> <b><color=#F44A4A>[Z]</b></color>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP"
 msgid "Select a <link=\"TECH\">Research</link> project in the <b>Research Tree</b> {Hotkey/ManageResearch} or a Destination in the <b>Starmap</b> {Hotkey/ManageStarmap}"
-msgstr ""
+msgstr "Selecteer een <link=\"TECH\">Onderzoek</link>sproject in de <b>Onderzoeksboom</b> {Hotkey/ManageResearch} of een Bestemming in de <b>Sterrenmap</b> {Hotkey/ManageStarmap}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME"
 msgid "No Research Focus Selected"
-msgstr ""
+msgstr "Geen Onderzoeksfocus Geselecteerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_NAME"
 msgid "No <link=\"TECH\">Research Focus</link> selected"
-msgstr ""
+msgstr "Geen <link=\"TECH\">Onderzoeksfocus</link> geselecteerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid "Open the <b>Research Tree</b> {Hotkey/ManageResearch} to select a new <link=\"TECH\">Research</link> project"
-msgstr ""
+msgstr "Open de <b>Onderzoeksboom</b> {Hotkey/ManageResearch} om een nieuw <link=\"TECH\">Onderzoek</link>sproject te selecteren"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP"
 msgid "Open the <b>Research Tree</b> {Hotkey/ManageResearch} to select a new <link=\"TECH\">Research</link> project"
-msgstr ""
+msgstr "Open de <b>Onderzoeksboom</b> {Hotkey/ManageResearch} om een nieuw <link=\"TECH\">Onderzoek</link>sproject te selecteren"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME"
 msgid "Normal"
-msgstr ""
+msgstr "Normaal"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.TOOLTIP"
 msgid "Nothing out of the ordinary here"
-msgstr ""
+msgstr "Niets speciaals te zien"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.NAME"
 msgid "Not Controlled"
-msgstr ""
+msgstr "Ongecontroleerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.TOOLTIP"
 msgid "This building is not controlled by a <link=\"ROCKETCONTROLSTATION\">Rocket Control Station</link>"
-msgstr ""
+msgstr "Dit gebouw wordt niet gecontroleerd door een <link=\"ROCKETCONTROLSTATION\">Raket Controle Station</link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.NAME"
 msgid "No Eligible Rockets in Range"
-msgstr ""
+msgstr "Geen Geschikte Raketten in Bereik"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.TOOLTIP"
 msgid "Rockets must be mid-flight and not targeted by another Mission Control Station, or already boosted"
-msgstr ""
+msgstr "Raketten moeten onderweg zijn en niet het doelwit zijn van een ander Missie Controle Station, of reeds versneld"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.NAME"
 msgid "No Eligible Rockets in Range"
-msgstr ""
+msgstr "Geen Geschikte Raketten in Bereik"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.TOOLTIP"
