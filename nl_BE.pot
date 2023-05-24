@@ -2904,7 +2904,7 @@ msgstr "Klaar Om Uit Te Pakken"
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.TOOLTIP"
 msgid "This payload has reached its destination and is ready to be unloaded\n\nIt can be marked for unpacking manually, or automatically unpacked on arrival using a <link=\"RAILGUNPAYLOADOPENER\">Payload Opener</link>"
-msgstr ""
+msgstr "Deze lading heeft zijn nbestemming bereik en is klaar om uitgeladen te worden\n\nHet kan gemarkeerd worden om manueel uit te pakken, of met een <link=\"RAILGUNPAYLOADOPENER\">Lading Opener</link> automatisch uitgepakt worden"
 
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME"
@@ -2914,7 +2914,7 @@ msgstr "Bevat: {Stored}"
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP"
 msgid "This box contains <b>{Stored}</b> of <style=\"KKeyword\">Food</style>"
-msgstr ""
+msgstr "Deze doos bevat <b>{Stored}</b> van <style=\"KKeyword\">Eten</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.REACTORMELTDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORMELTDOWN.NAME"
@@ -2924,142 +2924,142 @@ msgstr "Reactor Meltdown"
 #. STRINGS.BUILDING.STATUSITEMS.REACTORMELTDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORMELTDOWN.TOOLTIP"
 msgid "This reactor is spilling dangerous radioactive waste and cannot be stopped"
-msgstr ""
+msgstr "Deze reactor lekt gevaarlijk radioactief afval en kan niet gestopt worden"
 
 #. STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.NAME"
 msgid "Refuel Disabled"
-msgstr ""
+msgstr "Bijtanken Uitgeschakeld"
 
 #. STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REACTORREFUELDISABLED.TOOLTIP"
 msgid "This building will not be refueled once its active fuel has been consumed"
-msgstr ""
+msgstr "Dit gebouw zal niet bijgetankt worden wanneer zijn huidige brandstof is opgebruikt"
 
 #. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.NAME"
 msgid "Releasing Pressure"
-msgstr ""
+msgstr "Druk Lossen"
 
 #. STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RELEASING_PRESSURE.TOOLTIP"
 msgid "Pressure buildup is being safely released"
-msgstr ""
+msgstr "Opgebouwde druk wordt veilig gelost"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.NAME"
 msgid "Skill-Required Operation"
-msgstr ""
+msgstr "Vaardigheid-Benodigde Operatie"
 
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.TOOLTIP"
 msgid "Only Duplicants with one of the following <style=\"KKeyword\">Skills</style> can operate this building:\n{Skills}"
-msgstr ""
+msgstr "Enkel Duplis met een van de volgende <style=\"KKeyword\">Vaardigheden</style> can dit gebouw beturen:\n{Skills}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
 msgid "Current <link=\"TECH\">Research</link>: {Tech}"
-msgstr ""
+msgstr "Huidig <link=\"TECH\">Onderzoek</link>: {Tech}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.TOOLTIP"
 msgid "Research produced at this station will be invested in {Tech}"
-msgstr ""
+msgstr "Onderzoek gedaan aan dit station zal in {Tech} geinvesteerd worden"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_IDLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_IDLE.NAME"
 msgid "Idle"
-msgstr ""
+msgstr "Inactief"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_IDLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_IDLE.TOOLTIP"
 msgid "This port is idle because there is no rocket on the connected <style=\"KKeyword\">Rocket Platform</style>"
-msgstr ""
+msgstr "Deze poort is inactief omdat er geen raket staat op het verbonden <style=\"KKeyword\">Raket Platform</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.NAME"
 msgid "Cargo Transfer Complete"
-msgstr ""
+msgstr "Overdracht Lading Compleet"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADED.TOOLTIP"
 msgid "The connected rocket has either reached max capacity for this resource type, or lacks appropriate storage modules"
-msgstr ""
+msgstr "De verbonden raket heeft ofwel de maximum capaciteit voor dit grondstoftype bereikt, of heeft niet de juiste opslagmodules"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME"
 msgid "Loading Rocket"
-msgstr ""
+msgstr "Raket Laden"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.TOOLTIP"
 msgid "Resources are being loaded from the local network into the rocket's storage"
-msgstr ""
+msgstr "Grondstoffen worden vanuit het lokale netwerk in de raket geladen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.NAME"
 msgid "Unloading Rocket"
-msgstr ""
+msgstr "Raket Uitladen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_UNLOADING.TOOLTIP"
 msgid "Resources are being unloaded from the rocket into the local network"
-msgstr ""
+msgstr "Grondstoffen worden vanuit de raket in het lokale netwerk geladen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.NAME"
 msgid "Unloading Cargo"
-msgstr ""
+msgstr "Lading Lossen"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOEMPTYING.TOOLTIP"
 msgid "Rocket cargo is being unloaded into the <style=\"KKeyword\">Rocket Platform</style>\n\nLoading of new cargo will begin once unloading is complete"
-msgstr ""
+msgstr "Raket lading wordt gelost in het <style=\"KKeyword\">Raket Platform</style>\n\nHet laden van nieuwe lading zal beginnen wanneer het lossen voltooid is"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFILLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFILLING.NAME"
 msgid "Loading Cargo"
-msgstr ""
+msgstr "Lading Laden"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFILLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFILLING.TOOLTIP"
 msgid "Cargo is being loaded onto the rocket from the <style=\"KKeyword\">Rocket Platform</style>\n\nRocket cargo will be ready for launch once loading is complete"
-msgstr ""
+msgstr "Lading wordt vanuit het <style=\"KKeyword\">Raket Platform</style> in de raket geladen\n\nDe raket zal klaar zijn om te lanceren wanneer het laden compleet is"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFULL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFULL.NAME"
 msgid "Platform Ready"
-msgstr ""
+msgstr "Platform Klaar"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFULL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCARGOFULL.TOOLTIP"
 msgid "All cargo operations are complete"
-msgstr ""
+msgstr "Alle laad operaties zijn compleet"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.NAME"
 msgid "Launch Checklist Incomplete"
-msgstr ""
+msgstr "Lanceer Checklist Incompleet"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETCHECKLISTINCOMPLETE.TOOLTIP"
 msgid "Critical launch tasks uncompleted\n\nRefer to the Launch Checklist in the status panel"
-msgstr ""
+msgstr "Kritieke lanceertaken incompleet\n\nBekijk de Lanceer Checklist in het statuspaneel"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETNAME.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETNAME.NAME"
 msgid "Parent Rocket: {0}"
-msgstr ""
+msgstr "Ouder Raket: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETNAME.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETNAME.TOOLTIP"
 msgid "This module belongs to the rocket: <style=\"KKeyword\">{0}</style>"
-msgstr ""
+msgstr "Deze module behoort tot de raket: <style=\"KKeyword\">{0}</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETPLATFORMCLOSETOCEILING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETPLATFORMCLOSETOCEILING.NAME"
 msgid "Low Clearance: {distance} Tiles"
-msgstr ""
+msgstr "Weinig Ruimte: {distance} Tegels"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKETPLATFORMCLOSETOCEILING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKETPLATFORMCLOSETOCEILING.TOOLTIP"
