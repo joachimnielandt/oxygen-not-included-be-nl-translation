@@ -6425,427 +6425,427 @@ msgstr "Gebruikt <link=\"DIRTYWATER\">Vervuild Water</link> en <link=\"PHOSPHORI
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
 msgid "<link=\"FERTILIZERMAKER\">Fertilizer Synthesizer</link>"
-msgstr ""
+msgstr "<link=\"FERTILIZERMAKER\">Meststof Maker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FIREPOLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FIREPOLE.DESC"
 msgid "Build these in addition to ladders for efficient upward and downward movement."
-msgstr ""
+msgstr "Bouw deze naast ladders voor een efficiënte opwaartse en neerwaartse beweging."
 
 #. STRINGS.BUILDINGS.PREFABS.FIREPOLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FIREPOLE.EFFECT"
 msgid "Allows rapid Duplicant descent.\n\nSignificantly slows upward climbing."
-msgstr ""
+msgstr "Laat een snelle Duplicant afdaling toe.\n\nVertraagt naar beneden klimmen aanzienlijk."
 
 #. STRINGS.BUILDINGS.PREFABS.FIREPOLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FIREPOLE.NAME"
 msgid "<link=\"FIREPOLE\">Fire Pole</link>"
-msgstr ""
+msgstr "<link=\"FIREPOLE\">Brandweerpaal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.DESC"
 msgid "A fish release must be built above liquid to prevent released fish from suffocating."
-msgstr ""
+msgstr "Een vis leverpunt moet boven vloeistof worden gebouwd om te voorkomen dat vrijgelaten vissen stikken."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.EFFECT"
 msgid "Releases trapped <link=\"PACU\">Pacu</link> back into the world.\n\nCan be used multiple times."
-msgstr ""
+msgstr "Laat gevangen <link=\"PACU\">Pacu</link> weer los in de wereld.\n\nKan meerdere keren worden gebruikt."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.NAME"
 msgid "<link=\"FISHDELIVERYPOINT\">Fish Release</link>"
-msgstr ""
+msgstr "<link=\"FISHDELIVERYPOINT\">Vis Leverpunt</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FISHFEEDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHFEEDER.DESC"
 msgid "Build this feeder above a body of water to feed the fish within."
-msgstr ""
+msgstr "Bouw dit voedertoestel boven water om de vissen erin te voeren."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHFEEDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHFEEDER.EFFECT"
 msgid "Automatically dispenses stored <link=\"CRITTERS\">Critter</link> food into the area below.\n\nDispenses once per day."
-msgstr ""
+msgstr "Geeft automatisch opgeslagen <link=\"CRITTERS\">Beest</link> voedsel af in het gebied eronder.\n\nWerkt eenmaal per dag."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHFEEDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHFEEDER.NAME"
 msgid "<link=\"FISHFEEDER\">Fish Feeder</link>"
-msgstr ""
+msgstr "<link=\"FISHFEEDER\">Visvoeder</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FISHTRAP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHTRAP.DESC"
 msgid "Trapped fish will automatically be bagged for transport."
-msgstr ""
+msgstr "Gevangen vis wordt automatisch verpakt voor transport."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHTRAP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHTRAP.EFFECT"
 msgid "Attracts and traps swimming <link=\"PACU\">Pacu</link>.\n\nSingle use."
-msgstr ""
+msgstr "Aantrekken en vangen van zwemmende <link=\"PACU\">Pacu</link>.\n\nEenmalig gebruik."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHTRAP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHTRAP.NAME"
 msgid "<link=\"FISHTRAP\">Fish Trap</link>"
-msgstr ""
+msgstr "<link=\"FISHTRAP\">Visval</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC"
 msgid "Any building's light emitting radius can be viewed in the light overlay."
-msgstr ""
+msgstr "Het bereik van het licht dat elk gebouw uitstraalt kan bekeken worden in het lichtoverlay."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
 msgid "Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Powered</link>.\n\nIncreases Duplicant workspeed within light radius."
-msgstr ""
+msgstr "Geeft <link=\"LIGHT\">Licht</link> wanneer <link=\"POWER\">Aangedreven</link>.\n\nVerhoogt de werksnelheid van Duplicanten binnen een lichte straal."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
 msgid "<link=\"FLOORLAMP\">Lamp</link>"
-msgstr ""
+msgstr "<link=\"FLOORLAMP\">Lamp</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.DESC"
 msgid "Weight plates can be used to turn on amenities only when Duplicants pass by."
-msgstr ""
+msgstr "Gewicht detectoren kunnen worden gebruikt om voorzieningen te activeren, enkel wanneer Duplicanten langskomen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when an object or Duplicant is placed atop of it.\n\nCannot be triggered by <link=\"ELEMENTSGAS\">Gas</link> or <link=\"ELEMENTSLIQUID\">Liquids</link>."
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer een object of Duplicant er bovenop wordt geplaatst.\n\nKan niet worden geactiveerd door <link=\"ELEMENTSGAS \">Gas</link> of <link=\"ELEMENTSLIQUID\">Vloeistoffen</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.LOGIC_PORT_DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.LOGIC_PORT_DESC"
 msgid "<link=\"LOGIC\">Active</link>/<link=\"LOGIC\">Inactive</link>"
-msgstr ""
+msgstr "<link=\"LOGIC\">Actief</link>/<link=\"LOGIC\">Inactief</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.NAME"
 msgid "<link=\"FLOORSWITCH\">Weight Plate</link>"
-msgstr ""
+msgstr "<link=\"FLOORSWITCH\">Gewicht Detector</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
 msgid "Flower pots allow decorative plants to be moved to new locations."
-msgstr ""
+msgstr "Met bloempotten kunnen decoratieve planten naar nieuwe locaties worden verplaatst."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
 msgid "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS\">Seed</link>.\n\nIncreases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>."
-msgstr ""
+msgstr "Behuist een enkele <link=\"PLANTS\">Plant</link> indien gezaaid met een <link=\"PLANTS\">Zaad</link>.\n\nVerhoogt <link=\"DECOR\">Decor</link>, draagt bij aan <link=\"MORALE\">Moraal</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.DESC"
 msgid "The original container for plants on the move."
-msgstr ""
+msgstr "De originele container voor planten."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.DEFAULT_FLOWERVASE.NAME"
 msgid "<link=\"FLOWERVASE\">Flower Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASE\">Bloempot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.DESC"
 msgid "A funky red flower pot for plants on the move."
-msgstr ""
+msgstr "Een funky rode bloempot voor planten."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BOLD.NAME"
 msgid "<link=\"FLOWERVASE\">Bold Retro Flower Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASE\">Gedurfde Retro Bloempot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.DESC"
 msgid "A funky green flower pot for plants on the move."
-msgstr ""
+msgstr "Een funky groene bloempot voor planten."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_BRIGHT.NAME"
 msgid "<link=\"FLOWERVASE\">Bright Retro Flower Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASE\">Felle Retro Bloempot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.DESC"
 msgid "A funky blue flower pot for plants on the move."
-msgstr ""
+msgstr "Een funky blauwe bloempot voor planten."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_DREAMY.NAME"
 msgid "<link=\"FLOWERVASE\">Dreamy Retro Flower Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASE\">Dromerige Retro Bloempot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.DESC"
 msgid "A funky white flower pot for plants on the move."
-msgstr ""
+msgstr "Een funky witte bloempot voor planten."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_ELEGANT.NAME"
 msgid "<link=\"FLOWERVASE\">Elegant Retro Flower Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASE\">Elegante Retro Bloempot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.DESC"
 msgid "A funky yellow flower pot for plants on the move."
-msgstr ""
+msgstr "Een funky gele bloempot voor planten."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.FACADES.RETRO_SUNNY.NAME"
 msgid "<link=\"FLOWERVASE\">Sunny Retro Flower Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASE\">Zonnige Retro Bloempot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
 msgid "<link=\"FLOWERVASE\">Flower Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASE\">Bloempot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.DESC"
 msgid "Hanging pots can add some Decor to a room, without blocking buildings on the floor."
-msgstr ""
+msgstr "Hangende potten kunnen wat Decor aan een kamer toevoegen, zonder gebouwen op de vloer te blokkeren."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.EFFECT"
 msgid "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS\">Seed</link>.\n\nIncreases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be hung from a ceiling."
-msgstr ""
+msgstr "Behuist een enkele <link=\"PLANTS\">Plant</link> indien gezaaid met een <link=\"PLANTS\">Zaad</link>.\n\nVerhoogt <link=\"DECOR\">Decor</link>, draagt bij aan <link=\"MORALE\">Moraal</link>.\n\nMoet aan het plafond worden gehangen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME"
 msgid "<link=\"FLOWERVASEHANGING\">Hanging Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEHANGING\">Hangpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGINGFANCY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGINGFANCY.DESC"
 msgid "Aero pots can be hung from the ceiling and have extremely high Decor."
-msgstr ""
+msgstr "Aero-potten kunnen aan het plafond worden gehangen en hebben een extreem hoog Decor."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGINGFANCY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGINGFANCY.EFFECT"
 msgid "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS\">Seed</link>.\n\nIncreases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be hung from a ceiling."
-msgstr ""
+msgstr "Behuist een enkele <link=\"PLANTS\">Plant</link> indien gezaaid met een <link=\"PLANTS\">Zaad</link>.\n\nVerhoogt <link=\"DECOR\">Decor</link>, draagt bij aan <link=\"MORALE\">Moraal</link>.\n\nMoet aan het plafond worden gehangen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGINGFANCY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGINGFANCY.NAME"
 msgid "<link=\"FLOWERVASEHANGINGFANCY\">Aero Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEHANGINGFANCY\">Aero Pot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.DESC"
 msgid "Placing a plant in a wall pot can add a spot of Decor to otherwise bare walls."
-msgstr ""
+msgstr "Het plaatsen van een plant in een muurpot kan een vleugje Decor toevoegen aan kale muren."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.EFFECT"
 msgid "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS\">Seed</link>.\n\nIncreases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be hung from a wall."
-msgstr ""
+msgstr "Behuist een enkele <link=\"PLANTS\">Plant</link> indien gezaaid met een <link=\"PLANTS\">Zaad</link>.\n\nVerhoogt <link=\"DECOR\">Decor</link>, draagt bij aan <link=\"MORALE\">Moraal</link>.\n\nMoet aan de muur worden gehangen."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.DESC"
 msgid "Facilitates vertical plant displays."
-msgstr ""
+msgstr "Maakt verticale plantendisplays mogelijk."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Wandpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.DESC"
 msgid "Vertical gardens are pretty nifty."
-msgstr ""
+msgstr "Verticale tuinen zijn best cool."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Dreamy Retro Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Dromerige Retro Wandpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_GREEN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_GREEN.DESC"
 msgid "Vertical gardens are pretty nifty."
-msgstr ""
+msgstr "Verticale tuinen zijn best cool."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_GREEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_GREEN.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Bright Retro Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Felle Retro Wandpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_RED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_RED.DESC"
 msgid "Vertical gardens are pretty nifty."
-msgstr ""
+msgstr "Verticale tuinen zijn best cool."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_RED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_RED.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Bold Retro Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Gedurfde Retro Wandpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_WHITE.DESC"
 msgid "Vertical gardens are pretty nifty."
-msgstr ""
+msgstr "Verticale tuinen zijn best cool."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_WHITE.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Elegant Retro Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Elegante Retro Wandpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_YELLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_YELLOW.DESC"
 msgid "Vertical gardens are pretty nifty."
-msgstr ""
+msgstr "Verticale tuinen zijn best cool."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_YELLOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_YELLOW.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Sunny Retro Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Zonnige Retro Wandpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Wandpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC"
 msgid "Lavatories transmit fewer germs to Duplicants' skin and require no emptying."
-msgstr ""
+msgstr "Toiletten brengen minder ziektekiemen over op de huid van Duplicanten en hoeven niet te worden geleegd."
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT"
 msgid "Gives Duplicants a place to relieve themselves.\n\nSpreads very few <link=\"DISEASE\">Germs</link>."
-msgstr ""
+msgstr "Geeft duplicanten een plek om zichzelf te ontlasten.\n\nVerspreidt zeer weinig <link=\"DISEASE\">Ziektekiemen</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME"
 msgid "<link=\"FLUSHTOILET\">Lavatory</link>"
-msgstr ""
+msgstr "<link=\"FLUSHTOILET\">Toilet</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.DESC"
 msgid "The type of critter attracted by critter bait depends on the construction material."
-msgstr ""
+msgstr "Het type beestje dat wordt aangetrokken door beestenaas hangt af van het constructiemateriaal."
 
 #. STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.EFFECT"
 msgid "Attracts one type of airborne critter.\n\nSingle use."
-msgstr ""
+msgstr "Trekt één type vliegend beestje aan.\n\nEenmalig gebruik."
 
 #. STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.NAME"
 msgid "<link=\"FLYINGCREATUREBAIT\">Airborne Critter Bait</link>"
-msgstr ""
+msgstr "<link=\"FLYINGCREATUREBAIT\">Vliegend Beest Lokaas</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC"
 msgid "It's not from around here."
-msgstr ""
+msgstr "Dit is niet uit de buurt."
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.EFFECT"
 msgid "Contains a partial <link=\"FOSSIL\">Fossil</link> left behind by a giant critter.\n\nStudying the full skeleton could yield the information required to access a valuable new resource."
-msgstr ""
+msgstr "Bevat een gedeeltelijk <link=\"FOSSIL\">Fossiel</link> achtergelaten door een gigantisch beest.\n\nHet bestuderen van het volledige skelet kan de nodige informatie opleveren om toegang te krijgen tot een waardevolle nieuwe grondstof."
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.NAME"
 msgid "Ancient Specimen"
-msgstr ""
+msgstr "Oud Exemplaar"
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.DESC"
 msgid "There sure are a lot of old bones in this area."
-msgstr ""
+msgstr "Er best veel oude botten in dit gebied."
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.EFFECT"
 msgid "Contains a deep cache of harvestable <link=\"FOSSIL\">Fossils</link>."
-msgstr ""
+msgstr "Bevat een aanzienlijke voorraad aan toegankelijke <link=\"FOSSIL\">Fossielen</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME"
 msgid "Fossil Quarry"
-msgstr ""
+msgstr "Fossiel Groeve"
 
 #. STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.DESC"
 msgid "Nuke your food."
-msgstr ""
+msgstr "Nuke je eten."
 
 #. STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.EFFECT"
 msgid "Cooks a variety of <link=\"FOOD\">Foods</link>.\n\nDuplicants will not fabricate items unless recipes are queued."
-msgstr ""
+msgstr "Kookt een verscheidenheid aan <link=\"FOOD\">Voedsel</link>.\n\nDuplicanten zullen geen items fabriceren tenzij recepten in de wachtrij staan."
 
 #. STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.NAME"
 msgid "<link=\"GAMMARAYOVEN\">Gamma Ray Oven</link>"
-msgstr ""
+msgstr "<link=\"GAMMARAYOVEN\">Gamma Straal Oven</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.DESC"
 msgid "A gantry can be built over rocket pieces where ladders and tile cannot."
-msgstr ""
+msgstr "Een loopbrug kan over raketstukken worden gebouwd waar ladders en tegels dat niet kunnen."
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT"
 msgid "Provides scaffolding across rocket modules to allow Duplicant access."
-msgstr ""
+msgstr "Biedt steigers over raketmodules om toegang voor Duplicanten mogelijk te maken."
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT"
 msgid "Extend/Retract"
-msgstr ""
+msgstr "Verlengen/Intrekken"
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT_ACTIVE"
 msgid "<b>Extends gantry</b> when a <b><style=\"logic_on\">Green Signal</style></b> signal is received"
-msgstr ""
+msgstr "<b>Schuift loopbrug uit</b> wanneer een <b><style=\"logic_on\">Groen Signaal</style></b> wordt ontvangen"
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT_INACTIVE"
-msgid "<b>Retracts gantry</b> when a <b><style=\"logic_off\">Red Signal</style></b> signal is received"
-msgstr ""
+msgid "<b>Retracts gantry</b> when a <b><style=\"logic_off\">Red Signal</style></b> is received"
+msgstr "<b>Trekt loop brug in</b> wanneer een <b><style=\"logic_off\">Rood Signaal</style></b> wordt ontvangen"
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.NAME"
 msgid "<link=\"GANTRY\">Gantry</link>"
-msgstr ""
+msgstr "<link=\"GANTRY\">Loopbrug</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASBOTTLER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASBOTTLER.DESC"
 msgid "Canisters allow Duplicants to manually deliver gases from place to place."
-msgstr ""
+msgstr "Met gasflessen kunnen Duplicanten handmatig gassen van plek naar plek brengen."
 
 #. STRINGS.BUILDINGS.PREFABS.GASBOTTLER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASBOTTLER.EFFECT"
 msgid "Automatically stores piped <link=\"ELEMENTSGAS\">Gases</link> into canisters for manual transport."
-msgstr ""
+msgstr "Slaat automatisch doorgesluisde <link=\"ELEMENTSGAS\">Gassen</link> automatisch op in gasflessen voor handmatig transport."
 
 #. STRINGS.BUILDINGS.PREFABS.GASBOTTLER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASBOTTLER.NAME"
 msgid "<link=\"GASBOTTLER\">Canister Filler</link>"
-msgstr ""
+msgstr "<link=\"GASBOTTLER\">Gasfles Vuller</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.DESC"
 msgid "Duplicants will fill cargo bays with any resources they find during space missions."
-msgstr ""
+msgstr "Duplicanten vullen vrachtruimen met de middelen die ze vinden tijdens ruimtemissies."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.EFFECT"
 msgid "Allows Duplicants to store any <link=\"ELEMENTSGAS\">Gas</link> resources found during space missions.\n\nStored resources become available to the colony upon the rocket's return."
-msgstr ""
+msgstr "Staat Duplicanten toe om alle <link=\"ELEMENTSGAS\">Gas</link>bronnen op te slaan die tijdens ruimtemissies zijn gevonden.\n\nOpgeslagen bronnen worden beschikbaar voor de kolonie wanneer de raket terugkeert."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.NAME"
 msgid "<link=\"GASCARGOBAY\">Gas Cargo Canister</link>"
-msgstr ""
+msgstr "<link=\"GASCARGOBAY\">Gas Cargo Fles</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.DESC"
 msgid "Holds more than a typical gas cargo canister."
-msgstr ""
+msgstr "Heeft meer inhoud dan een normale gas cargo fles."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.EFFECT"
 msgid "Allows Duplicants to store most of the <link=\"ELEMENTSGAS\">Gas</link> resources found during space missions.\n\nStored resources become available to the colony upon the rocket's return.\n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
-msgstr ""
+msgstr "Hiermee kunnen Duplicanten de meeste <link=\"ELEMENTSGAS\">Gas</link>bronnen opslaan die tijdens ruimtemissies worden gevonden.\n\nOpgeslagen bronnen worden beschikbaar voor de kolonie wanneer de raket terugkeert.\n\nMoet worden gebouwd via <link=\"LAUNCHPAD\">Raket Platform</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.NAME"
