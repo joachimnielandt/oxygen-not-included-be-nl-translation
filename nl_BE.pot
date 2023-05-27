@@ -3999,52 +3999,52 @@ msgstr "een overbelast logisch circuit"
 #. STRINGS.BUILDINGS.DAMAGESOURCES.MICROMETEORITE
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MICROMETEORITE"
 msgid "micrometeorite"
-msgstr ""
+msgstr "micrometeoriet"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.MINION_DESTRUCTION"
 msgid "an angry Duplicant. Rude!"
-msgstr ""
+msgstr "een boze Dupli. Grof!"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.NOTIFICATION_TOOLTIP"
 msgid "A {0} sustained damage from {1}"
-msgstr ""
+msgstr "Een {0} werd beschadigd door {1}"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.ROCKET
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.ROCKET"
 msgid "rocket engine"
-msgstr ""
+msgstr "raket motor"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.NAME"
 msgid "Cancel Disinfect"
-msgstr ""
+msgstr "Annuleer Desinfectie"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.DISABLE_DISINFECT.TOOLTIP"
 msgid "Cancel this disinfect order"
-msgstr ""
+msgstr "Annuleer deze desinfectie opdracht"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.NAME"
 msgid "Disinfect"
-msgstr ""
+msgstr "Desinfecteer"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.ENABLE_DISINFECT.TOOLTIP"
 msgid "Mark this building for disinfection"
-msgstr ""
+msgstr "Markeer dit gebouw voor desinfectie"
 
 #. STRINGS.BUILDINGS.DISINFECTABLE.NO_DISEASE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.DISINFECTABLE.NO_DISEASE.TOOLTIP"
 msgid "This building is already clean"
-msgstr ""
+msgstr "Dit gebouw is al proper"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.DESC"
 msgid "Some medications help prevent diseases, while others aim to alleviate existing illness."
-msgstr ""
+msgstr "Sommige medicatie helpt om ziektes te voorkomen, terwijl anderen dienen om bestaande ziektes tegen te werken"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.EFFECT"
@@ -4054,27 +4054,27 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.NAME"
 msgid "<link=\"ADVANCEDAPOTHECARY\">Nuclear Apothecary</link>"
-msgstr ""
+msgstr "<link=\"ADVANCEDAPOTHECARY\">Nucleaire Apotheek</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDDOCTORSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDDOCTORSTATION.DESC"
 msgid "Disease clinics require power, but treat more serious illnesses than sick bays alone."
-msgstr ""
+msgstr "Klinieken hebben energie nodig, naar kunnen ernstigere ziektes aan dan enkel ziekenboegen."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDDOCTORSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDDOCTORSTATION.EFFECT"
 msgid "Allows Duplicants to administer powerful treatments to sick Duplicants.\n\nDuplicants must possess the Advanced Medical Care <link=\"ROLES\">Skill</link> to treat peers."
-msgstr ""
+msgstr "Laat Duplis toe om krachtige behandelingen toe te dienen aan zieke Duplis.\n\nDuplis moeten de Geavanceerde Medische <link=\"ROLES\">Vaardigheid</link> hebben om hun collega's te genezen."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDDOCTORSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDDOCTORSTATION.NAME"
 msgid "<link=\"ADVANCEDDOCTORSTATION\">Disease Clinic</link>"
-msgstr ""
+msgstr "<link=\"ADVANCEDDOCTORSTATION\">Kliniek</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
 msgid "Super computers unlock higher technology tiers than research stations alone."
-msgstr ""
+msgstr "Supercomputers kunnen een hoger technologieniveau onderzoeken dan enkel onderzoekstations."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
@@ -4084,12 +4084,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
 msgid "<link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>"
-msgstr ""
+msgstr "<link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.DESC"
 msgid "Lures can relocate Pufts or Shine Bugs to specific locations in my colony."
-msgstr ""
+msgstr "Een lokaas kan Puften of Schijn Insecten naar een bepaalde plek in mijn kolonie brengen."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT"
@@ -4099,57 +4099,57 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME"
 msgid "<link=\"AIRBORNECREATURELURE\">Airborne Critter Lure</link>"
-msgstr ""
+msgstr "<link=\"AIRBORNECREATURELURE\">Lokaas Voor Vliegers</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
 msgid "A thermo regulator doesn't remove heat, but relocates it to a new area."
-msgstr ""
+msgstr "Een thermo regelaar haalt geen hitte weg maar verplaatst het naar een andere plaats"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
 msgid "Cools the <link=\"ELEMENTSGAS\">Gas</link> piped through it, but outputs <link=\"HEAT\">Heat</link> in its immediate vicinity."
-msgstr ""
+msgstr "Koelt het <link=\"ELEMENTSGAS\">Gas</link> dat er door loopt, maar geeft <link=\"HEAT\">Hitte</link> af aan de directe omgeving." 
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
 msgid "<link=\"AIRCONDITIONER\">Thermo Regulator</link>"
-msgstr ""
+msgstr "<link=\"AIRCONDITIONER\">Thermo Regelaar</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
 msgid "Oh! Citrus scented!"
-msgstr ""
+msgstr "Hmm, ruikt naar citrus!"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
 msgid "Uses <link=\"SAND\">Sand</link> to filter <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> from the air, reducing <link=\"DISEASE\">Disease</link> spread."
-msgstr ""
+msgstr "Gebruikt <link=\"SAND\">Zand</link> om <link=\"CONTAMINATEDOXYGEN\">Vervuilde Zuurstof</link> uit de lucht te filteren, wat verspreiding van <link=\"DISEASE\">Ziekte</link> tegengaat."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
 msgid "<link=\"AIRFILTER\">Deodorizer</link>"
-msgstr ""
+msgstr "<link=\"AIRFILTER\">Luchtfilter</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
 msgid "Algae distillers convert disease-causing slime into algae for oxygen production."
-msgstr ""
+msgstr "Een Algen Stokerij verandert ziekte veroorzakend slijm in algen voor productie van zuurstof"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid "Refines <link=\"SLIMEMOLD\">Slime</link> into <link=\"ALGAE\">Algae</link>."
-msgstr ""
+msgstr "Verfijnt <link=\"SLIMEMOLD\">Slijm</link> in <link=\"ALGAE\">Algen</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
 msgid "<link=\"ALGAEDISTILLERY\">Algae Distiller</link>"
-msgstr ""
+msgstr "<link=\"ALGAEDISTILLERY\">Algen Stokerij</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
 msgid "Algae colony, Duplicant colony... we're more alike than we are different."
-msgstr ""
+msgstr "Algen kolonie, Dupli kolonie... we lijken harder op elkaar dan we denken."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
@@ -4159,17 +4159,17 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME"
 msgid "<link=\"ALGAEHABITAT\">Algae Terrarium</link>"
-msgstr ""
+msgstr "<link=\"ALGAEHABITAT\">Algen Terrarium</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.SIDESCREEN_TITLE
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.SIDESCREEN_TITLE"
 msgid "Empty <link=\"DIRTYWATER\">Polluted Water</link> Threshold"
-msgstr ""
+msgstr "Lege <link=\"DIRTYWATER\">Vervuild Water</link> Drempelwaarde"
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC"
 msgid "Some medications help prevent diseases, while others aim to alleviate existing illness."
-msgstr ""
+msgstr "Sommige medicatie helpt om ziektes te voorkomen, terwijl anderen dienen om bestaande ziektes tegen te werken"
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT"
@@ -4179,52 +4179,52 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME"
 msgid "<link=\"APOTHECARY\">Apothecary</link>"
-msgstr ""
+msgstr "<link=\"APOTHECARY\">Apotheek</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.DESC"
 msgid "Komet Kablam-O!\nFor up to two players."
-msgstr ""
+msgstr "Komeet Kaboem!\nTot twee spelers."
 
 #. STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.EFFECT"
 msgid "Allows Duplicants to play video games on their breaks.\n\nIncreases Duplicant <link=\"MORALE\">Morale</link>."
-msgstr ""
+msgstr "Laat Duplis videospellen spelen tijdens hun pauze.\n\nVerbetert Dupli <link=\"MORALE\">Moraal</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARCADEMACHINE.NAME"
 msgid "<link=\"ARCADEMACHINE\">Arcade Cabinet</link>"
-msgstr ""
+msgstr "<link=\"ARCADEMACHINE\">Arcade Kast</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.DESC"
 msgid "Discover the mysteries of the past."
-msgstr ""
+msgstr "Ontdek de misteries van het verleden."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.EFFECT"
 msgid "Analyses and extracts <link=\"UNOBTANIUM\">Neutronium</link> from artifacts of interest."
-msgstr ""
+msgstr "Analyseert en extraheert <link=\"UNOBTANIUM\">Neutronium</link> van interessante artefacten."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.NAME"
 msgid "<link=\"ARTIFACTANALYSISSTATION\">Artifact Analysis Station</link>"
-msgstr ""
+msgstr "<link=\"ARTIFACTANALYSISSTATION\">Artifact Analyse Station</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.PAYLOAD_DROP_RATE
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.PAYLOAD_DROP_RATE"
 msgid "Vacillator Recharge drop chance: {chance}"
-msgstr ""
+msgstr "kans op Vacilleerder Herlading: {chance}"
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.PAYLOAD_DROP_RATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTANALYSISSTATION.PAYLOAD_DROP_RATE_TOOLTIP"
 msgid "This artifact has a {chance} to drop a Vacillator Recharge when analyzed at the <link=\"ARTIFACTANALYSISSTATION\">Artifact Analysis Station</link>"
-msgstr ""
+msgstr "Dit artefact heeft een {change} kans om een Vacilleerder Herlading te maken wanneer het geanalyseerd wordt in het <link=\"ARTIFACTANALYSISSTATION\">Artefact Analyse Station</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.DESC"
 msgid "Holds artifacts found in space."
-msgstr ""
+msgstr "Bevat artefacten uit de ruimte"
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT"
@@ -4234,77 +4234,77 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.NAME"
 msgid "<link=\"ARTIFACTCARGOBAY\">Artifact Transport Module</link>"
-msgstr ""
+msgstr "<link=\"ARTIFACTCARGOBAY\">Artefact Transport Module</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.DESC"
 msgid "Duplicants must complete astronaut training in order to pilot space rockets."
-msgstr ""
+msgstr "Duplis moeten hun astronaut training volbrengen om raketten te kunnen besturen."
 
 #. STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.EFFECT"
 msgid "Trains Duplicants to become <link=\"ROCKETPILOTING1\">Astronaut</link>.\n\nDuplicants must possess the <link=\"ROCKETPILOTING1\">Astronaut</link> trait to receive training."
-msgstr ""
+msgstr "Traint Duplis om <link=\"ROCKETPILOTING1\">Astronaut</link> te worden.\n\nDuplis moeten de <link=\"ROCKETPILOTING1\">Astronaut</link> eigenschap hebben om training te kunnen krijgen."
 
 #. STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ASTRONAUTTRAININGCENTER.NAME"
 msgid "<link=\"ASTRONAUTTRAININGCENTER\">Space Cadet Centrifuge</link>"
-msgstr ""
+msgstr "<link=\"ASTRONAUTTRAININGCENTER\">Ruimte Cadet Centrifuge</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.AUTOMINER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AUTOMINER.DESC"
 msgid "A robo-miner's range can be viewed at any time by selecting the building."
-msgstr ""
+msgstr "Het bereik van een robo-graver kan bekeken worden door het gebouw te selecteren."
 
 #. STRINGS.BUILDINGS.PREFABS.AUTOMINER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AUTOMINER.EFFECT"
 msgid "Automatically digs out all materials in a set range."
-msgstr ""
+msgstr "Graaf automatisch alle materialen in een gegeven bereik uit."
 
 #. STRINGS.BUILDINGS.PREFABS.AUTOMINER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AUTOMINER.NAME"
 msgid "<link=\"AUTOMINER\">Robo-Miner</link>"
-msgstr ""
+msgstr "<link=\"AUTOMINER\">Robo-Graver</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.CHARGE_LOSS
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.CHARGE_LOSS"
 msgid "{Battery} charge loss"
-msgstr ""
+msgstr "{Battery} lading verlies"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.DESC"
 msgid "Batteries allow power from generators to be stored for later."
-msgstr ""
+msgstr "Batterijen houden energie uit generatoren bij voor later gebruik."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT"
 msgid "Stores <link=\"POWER\">Power</link> from generators, then provides that power to buildings.\n\nLoses charge over time."
-msgstr ""
+msgstr "Bewaart <link=\"POWER\">Energie</link> uit generatoren en maakt deze beschikbaar voor gebouwen.\n\nVerliest lading na verloop van tijd."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.NAME"
 msgid "<link=\"BATTERY\">Battery</link>"
-msgstr ""
+msgstr "<link=\"BATTERY\">Batterij</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC"
 msgid "Larger batteries hold more power and keep systems running longer before recharging."
-msgstr ""
+msgstr "Grotere batterijen bevatten meer energie en houden systemen langer actief vooraleer ze moeten herladen worden."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT"
 msgid "Stores <link=\"POWER\">Power</link> from generators, then provides that power to buildings.\n\nSlightly loses charge over time."
-msgstr ""
+msgstr "Bevat <link=\"POWER\">Energie</link> van generatoren, en maakte deze energie beschikbaar voor gebouwen.from generators, then provides that power to buildings.\n\nVerliest lading na verloop van tijd."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.NAME"
 msgid "<link=\"BATTERYMEDIUM\">Jumbo Battery</link>"
-msgstr ""
+msgstr "<link=\"BATTERYMEDIUM\">Jumbo Batterij</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.DESC"
 msgid "Charging a battery module before takeoff makes it easier to power buildings during flight."
-msgstr ""
+msgstr "Een batterij module opladen vooraleer op te stijgen maakt het gemakkelijker om gebouwen tijdens de vlucht operationeel te houden."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.EFFECT"
@@ -4314,22 +4314,22 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.NAME"
 msgid "<link=\"BATTERYMODULE\">Battery Module</link>"
-msgstr ""
+msgstr "<link=\"BATTERYMODULE\">Batterij Module</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.ACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.ACTIVATE_TOOLTIP"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when battery is less than <b>{0}%</b> charged, until it is <b>{1}% (High Threshold)</b> charged"
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signal</style></b> wanneer de lading van de batterij minder dan <b>{0}%</b> is, tot het weer <b>{1}% (High Threshold)</b> is"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DEACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DEACTIVATE_TOOLTIP"
 msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> when battery is <b>{0}%</b> charged, until it is less than <b>{1}% (Low Threshold)</b> charged"
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_off\">Red Signal</style></b> wanneer de lading van de batterij <b>{0}%</b> is, tot het weer minder dan <b>{1}% (Low Threshold)</b> is"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.DESC"
 msgid "Smart batteries send a <b><style=\"logic_on\">Green Signal</style></b> when they require charging."
-msgstr ""
+msgstr "Slimme Baterijen sturen een <b><style=\"logic_on\">Groen Signal</style></b> wanneer ze moeten opgeladen worden."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.EFFECT"
@@ -4339,107 +4339,107 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT"
 msgid "Charge Parameters"
-msgstr ""
+msgstr "Laad Parameters"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when battery is less than <b>Low Threshold</b> charged, until <b>High Threshold</b> is reached again"
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer de batterij minder dan de <b>Lage Drempelwaarde</b> is geladen, tot de <b>Hoge Drempelwaarde</b> weer bereikt is"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT_INACTIVE"
 msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> when the battery is more than <b>High Threshold</b> charged, until <b>Low Threshold</b> is reached again"
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer de batterij meer dan de <b>Hoge Drempelwaarde</b> is geladen, tot de <b>Lage Drempelwaarde</b> weer bereikt is"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.NAME"
 msgid "<link=\"BATTERYSMART\">Smart Battery</link>"
-msgstr ""
+msgstr "<link=\"BATTERYSMART\">Slimme Batterij</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_ACTIVATE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_ACTIVATE"
 msgid "Low Threshold:"
-msgstr ""
+msgstr "Lage Drempelwaarde:"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_DEACTIVATE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_DEACTIVATE"
 msgid "High Threshold:"
-msgstr ""
+msgstr "Hoge Drempelwaarde:"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_TITLE
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.SIDESCREEN_TITLE"
 msgid "Logic Activation Parameters"
-msgstr ""
+msgstr "Logica Activatie Parameters"
 
 #. STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.DESC"
 msgid "Soak up some relaxing sun rays."
-msgstr ""
+msgstr "Neem wat ontspannende zonnestralen op."
 
 #. STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.EFFECT"
 msgid "Duplicants can relax by lounging in <link=\"LIGHT\">Sunlight</link>.\n\nIncreases Duplicant <link=\"MORALE\">Morale</link>."
-msgstr ""
+msgstr "Duplis kunnen ontspannen door rond te hangen in <link=\"LIGHT\">Zonlicht</link>.\n\nVerbetert Dupli<link=\"MORALE\">Moraal</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.LIGHTEFFECT_HIGH
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.LIGHTEFFECT_HIGH"
 msgid "{attrib}: {amount} (Bright Light)"
-msgstr ""
+msgstr "{attrib}: {amount} (Fel Licht)"
 
 #. STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.LIGHTEFFECT_HIGH_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.LIGHTEFFECT_HIGH_TOOLTIP"
 msgid "Duplicants will gain {amount} {attrib} if this building is in at least {lux} light."
-msgstr ""
+msgstr "Duplis zullen {amount} {attrib} krijgen als dit gebouw in tenminste {lux} licht staat."
 
 #. STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.LIGHTEFFECT_LOW
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.LIGHTEFFECT_LOW"
 msgid "{attrib}: {amount} (Dim Light)"
-msgstr ""
+msgstr "{attrib}: {amount} (Zwak Licht)"
 
 #. STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.LIGHTEFFECT_LOW_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.LIGHTEFFECT_LOW_TOOLTIP"
 msgid "Duplicants will gain {amount} {attrib} if this building is in light dimmer than {lux}."
-msgstr ""
+msgstr "Duplis zullen {amount} {attrib} krijgen als dit gebouw in licht zwakker dan {lux} staat."
 
 #. STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEACHCHAIR.NAME"
 msgid "<link=\"BEACHCHAIR\">Beach Chair</link>"
-msgstr ""
+msgstr "<link=\"BEACHCHAIR\">Strandstoel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
 msgid "Duplicants without a bed will develop sore backs from sleeping on the floor."
-msgstr ""
+msgstr "Duplis zonder bed krijgen een pijnlijke rug van op de grond te slapen."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
 msgid "Gives one Duplicant a place to sleep.\n\nDuplicants will automatically return to their cots to sleep at night."
-msgstr ""
+msgstr "Geeft één Dupli een plek om te slapen.\n\nDuplis keren automatisch terug naar hun eigen bed om 's nachts te slapen."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.DESC"
 msgid "It's sturdier than it looks."
-msgstr ""
+msgstr "Het is sterker dan het er uit ziet."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.NAME"
 msgid "<link=\"BED\">Camping Cot</link>"
-msgstr ""
+msgstr "<link=\"BED\">Campeerbed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.DESC"
 msgid "A safe place to sleep."
-msgstr ""
+msgstr "Een veilige plek om te slapen."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.NAME"
 msgid "<link=\"BED\">Cot</link>"
-msgstr ""
+msgstr "<link=\"BED\">Bed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.SCIENCELAB.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.SCIENCELAB.DESC"
 msgid "For the Duplicant who dreams of scientific discoveries."
-msgstr ""
+msgstr "Voor de Duplis die dromen van wetenschappelijke ontdekkingen."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.SCIENCELAB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.SCIENCELAB.NAME"
