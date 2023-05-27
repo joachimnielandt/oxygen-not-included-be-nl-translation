@@ -13,6 +13,7 @@ msgstr ""
 
 # #j# /msgstr ""f"lzz
 # #i# ?msgidf"lyi"j0f"p0wlzz 
+# #t# k0f"lvi"yjjkop0V:!trans -rb€kb€kbbrief --no-warn L€kb:nlddkf"pv$dkf"pJx0f"l  
 
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -3564,7 +3565,7 @@ msgstr "Huidig Wattage: {Wattage}"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE_WATTAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_ACTIVE_WATTAGE.TOOLTIP"
 msgid "This turbine is generating <style=\"produced\">{Wattage}</style> of <style=\"KKeyword\">Power</style>\n\nIt is running at <b>{Efficiency}</b> of full capacity\n\nIncrease {Src_Element} <style=\"KKeyword\">Mass</style> and <style=\"KKeyword\">Temperature</style> to improve output"
-msgstr ""
+msgstr "Deze turbine genereert <style=\"produced\">{Wattage}</style> <style=\"KKeyword\">Energie</style>\n\nHij draait op <b>{Efficiency}</b> van de volledige capaciteit\n\nVerhoog {Src_Element} <style=\"KKeyword\">Massa</style> en <style=\"KKeyword\">Temperatuur</style> om de uitvoer te verbeteren"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.NAME"
@@ -3574,7 +3575,7 @@ msgstr "Alle Invoeren Geblokkeerd"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_INPUT.TOOLTIP"
 msgid "This turbine's <style=\"KKeyword\">Input Vents</style> are blocked, so it can't intake any <link=\"STEAM\">Steam</link>.\n\nThe <style=\"KKeyword\">Input Vents</style> are located directly below the foundation <style=\"KKeyword\">Tile</style> this building is resting on."
-msgstr ""
+msgstr "De <style=\"KKeyword\">Invoer Roosters</style> van deze turbine zijn geblokkeerd, zodat er geen <link=\"STEAM\">Stoom</link> kan worden aangevoerd.\n\nDe <style=\"KKeyword\">Invoer Roosters</style> bevinden zich direct onder de fundering <style=\"KKeyword\">Tegel</style> waarop dit gebouw rust. "
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_BLOCKED_OUTPUT.NAME"
@@ -3604,7 +3605,7 @@ msgstr "{Src_Element} Temperatuur Onder {Active_Temperature}"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_INSUFFICIENT_TEMPERATURE.TOOLTIP"
 msgid "This turbine requires {Src_Element} that is a minimum of <b>{Active_Temperature}</b> in order to produce power"
-msgstr ""
+msgstr "Deze turbine heeft {Src_Element} nodig dat minimaal een temperatuur van <b>{Active_Temperature}</b> heeft om stroom te produceren"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_PARTIALLY_BLOCKED_INPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_PARTIALLY_BLOCKED_INPUT.NAME"
@@ -3614,7 +3615,7 @@ msgstr "{Blocked}/{Total} Invoeren Geblokkeerd"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_PARTIALLY_BLOCKED_INPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_PARTIALLY_BLOCKED_INPUT.TOOLTIP"
 msgid "<b>{Blocked}</b> of this turbine's <b>{Total}</b> inputs have been blocked, resulting in reduced throughput"
-msgstr ""
+msgstr "<b>{Blocked}</b> van de <b>{Total}</b> invoeren van deze turbine zijn geblokkeerd, wat resulteert in verminderde doorvoer"
 
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_SPINNING_UP.NAME"
@@ -3634,7 +3635,8 @@ msgstr "Turbine Te Heet"
 #. STRINGS.BUILDING.STATUSITEMS.TURBINE_TOO_HOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_TOO_HOT.TOOLTIP"
 msgid "This turbine must be below <b>{Overheat_Temperature}</b> to properly process {Src_Element} into {Dest_Element}"
-msgstr ""
+msgstr "De temperatuur van deze turbine moet lager zijn dan <b>{Overheat_Temperature}</b> om {Src_Element} correct te verwerken tot {Dest_Element}"
+
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -3789,7 +3791,7 @@ msgstr "Volgende Print: {TimeRemaining}"
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP"
 msgid "The Printing Pod can print out new Duplicants and useful resources over time.\nThe next print will be ready in <b>{TimeRemaining}</b>"
-msgstr ""
+msgstr "De Printer Pod kan nieuwe Duplis en nuttige grondstoffen printen.\nDe volgende print is klaar over <b>{TimeRemaining}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.UNAVAILABLE"
@@ -3834,7 +3836,7 @@ msgstr "Invoer Heeft Gas Nodig"
 #. STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WINDTUNNELINTAKE.TOOLTIP"
 msgid "A wind tunnel requires <style=\"KKeyword\">Gas</style> at the top and bottom intakes in order to operate\n\nThe intakes for this wind tunnel don't have enough gas to operate"
-msgstr ""
+msgstr "Een windtunnel vereist <style=\"KKeyword\">Gas</style> aan de boven- en onderkant om te kunnen werken\n\nDe invoeren voor deze windtunnel hebben niet genoeg gas om te werken"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECIRCUITSTATUS.NAME"
@@ -3864,7 +3866,7 @@ msgstr "Draad Losgekoppeld"
 #. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP"
 msgid "This wire is not connecting a <style=\"KKeyword\">Power</style> consumer to a <style=\"KKeyword\">Power</style> generator"
-msgstr ""
+msgstr "Deze draad verbindt geen <style=\"KKeyword\">Energie</style> verbruiker met een <style=\"KKeyword\">Energie</style> generator"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.NAME"
@@ -3874,7 +3876,7 @@ msgstr "Mogelijke Belasting: {TotalPotentialLoadAndColor} / {MaxLoad}"
 #. STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREMAXWATTAGESTATUS.TOOLTIP"
 msgid "How much wattage this network will draw if all <style=\"KKeyword\">Power</style> consumers on the network become active at once"
-msgstr ""
+msgstr "Hoeveel wattage dit netwerk verbruikt als alle <style=\"KKeyword\">Energie</style> verbruikers op het netwerk tegelijkertijd actief worden"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME"
@@ -3949,7 +3951,7 @@ msgstr "Handmatig Uit"
 #. STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.AUTOMATABLE.ENABLE_AUTOMATIONONLY.TOOLTIP"
 msgid "This building's storage may be accessed by Auto-Sweepers only\n\nDuplicants will not be permitted to add or remove materials from this building"
-msgstr ""
+msgstr "De opslag van dit gebouw is alleen toegankelijk voor Auto-Vegers\n\nDuplis mogen geen materialen toevoegen aan of verwijderen uit dit gebouw"
 
 #. STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT
 msgctxt "STRINGS.BUILDINGS.DAMAGESOURCES.BAD_INPUT_ELEMENT"
@@ -4049,7 +4051,7 @@ msgstr "Sommige medicatie helpt om ziektes te voorkomen, terwijl anderen dienen 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.EFFECT"
 msgid "Produces <link=\"MEDICINE\">Medicine</link> to cure most basic <link=\"DISEASE\">Diseases</link>.\n\nDuplicants must possess the Medicine Compounding <link=\"ROLES\">Skill</link> to fabricate medicines.\n\nDuplicants will not fabricate items unless recipes are queued."
-msgstr ""
+msgstr "Produceert <link=\"MEDICINE\">Medicijn</link> om de meest elementaire <link=\"DISEASE\">Ziekten</link> te genezen.\n\nDuplis moeten de Medicijn Samenstelling <link=\"ROLES\">Vaardigheid</link> bezitten om medicijnen te maken.\n\nDuplis maken geen items tenzij recepten in de wachtrij staan."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDAPOTHECARY.NAME"
@@ -4079,7 +4081,7 @@ msgstr "Supercomputers kunnen een hoger technologieniveau onderzoeken dan enkel 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid "Conducts <link=\"RESEARCH\">Advanced Research</link> to unlock new technologies.\n\nConsumes <link=\"WATER\">Water</link>.\n\nAssigned Duplicants must possess the <link=\"RESEARCHING1\">Advanced Research</link> skill."
-msgstr ""
+msgstr "Voert <link=\"RESEARCH\">Geavanceerd Onderzoek</link> uit om nieuwe technologieÃ«n te ontsluiten.\n\nVerbruikt <link=\"WATER\">Water</link>.\n\nToegewezen Duplis moeten de <link =\"RESEARCHING1\">Geavanceerd Onderzoek</link> vaardigheid hebben."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
@@ -4094,7 +4096,7 @@ msgstr "Een lokaas kan Puften of Schijn Insecten naar een bepaalde plek in mijn 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT"
 msgid "Attracts one type of airborne critter at a time.\n\nMust be baited with <link=\"SLIMEMOLD\">Slime</link> or <link=\"PHOSPHORITE\">Phosphorite</link>."
-msgstr ""
+msgstr "Trekt Ã©Ã©n type vliegen beest tegelijk aan.\n\nMoet worden gelokt met <link=\"SLIME MOLD\">Slijm</link> of <link=\"PHOSPHORITE\">Fosforiet</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME"
@@ -4154,7 +4156,7 @@ msgstr "Algen kolonie, Dupli kolonie... we lijken harder op elkaar dan we denken
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
 msgid "Consumes <link=\"ALGAE\">Algae</link> to produce <link=\"OXYGEN\">Oxygen</link> and remove some <link=\"CARBONDIOXIDE\">Carbon Dioxide</link>.\n\nGains a 10% efficiency boost in direct <link=\"LIGHT\">Light</link>."
-msgstr ""
+msgstr "Verbruikt <link=\"ALGAE\">Algen</link> om <link=\"OXYGEN\">Zuurstof</link> te produceren en <link=\"CARBONDIOXIDE\">Kooldioxide</link> te verwijderen.\n\nBehaalt een efficiÃ«ntieverbetering van 10% in direct <link=\"LIGHT\">Licht</link>. "
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME"
@@ -4174,7 +4176,7 @@ msgstr "Sommige medicatie helpt om ziektes te voorkomen, terwijl anderen dienen 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT"
 msgid "Produces <link=\"MEDICINE\">Medicine</link> to cure most basic <link=\"DISEASE\">Diseases</link>.\n\nDuplicants must possess the Medicine Compounding <link=\"ROLES\">Skill</link> to fabricate medicines.\n\nDuplicants will not fabricate items unless recipes are queued."
-msgstr ""
+msgstr "Produceert <link=\"MEDICINE\">Medicijnen</link> om de meest elementaire <link=\"DISEASE\">Ziekten</link> te genezen.\n\nDuplis moeten de Geneesmiddel Samenstelling <link=\" bezitten ROLLEN\">Vaardigheid</link> hebben om medicijnen te fabriceren.\n\nDuplis zullen geen items fabriceren tenzij recepten in de wachtrij staan."
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME"
@@ -4229,7 +4231,7 @@ msgstr "Bevat artefacten uit de ruimte"
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.EFFECT"
 msgid "Allows Duplicants to store any artifacts they uncover during space missions.\n\nArtifacts become available to the colony upon the rocket's return. \n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
-msgstr ""
+msgstr "Hiermee kunnen Duplis artefacten opslaan die ze ontdekken tijdens ruimtemissies.\n\nArtefacten zijn beschikbaar voor de kolonie na terugkeer van de raket. \n\nMoeten worden gebouwd via <link=\"LAUNCHPAD\">Raket Platform</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ARTIFACTCARGOBAY.NAME"
@@ -4309,7 +4311,7 @@ msgstr "Een batterij module opladen vooraleer op te stijgen maakt het gemakkelij
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.EFFECT"
 msgid "Stores the excess <link=\"POWER\">Power</link> generated by a Rocket Engine or <link=\"LAUNCHPAD\">Rocket Platform</link>.\n\nProvides stored power to <link=\"ROCKETINTERIORPOWERPLUG\">Interior Rocket Outlets</link>.\n\nLoses charge over time. \n\nMust be built via Rocket Platform."
-msgstr ""
+msgstr "Slaat de overtollige <link=\"POWER\">Energie</link> op die wordt gegenereerd door een Raket Motor of <link=\"LAUNCHPAD\">Raket Platform</link>.\n\nBiedt opgeslagen energie aan <link =\"ROCKETINTERIORPOWERPLUG\">Interieur Raket Stopcontacten</link>.\n\nVerliest na verloop van tijd lading.\n\nMoet worden gebouwd via Raket Platform"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMODULE.NAME"
@@ -4334,7 +4336,7 @@ msgstr "Slimme Baterijen sturen een <b><style=\"logic_on\">Groen Signal</style><
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.EFFECT"
 msgid "Stores <link=\"POWER\">Power</link> from generators, then provides that power to buildings.\n\nSends a <b><style=\"logic_on\">Green Signal</style></b> or <b><style=\"logic_off\">Red Signal</style></b> based on the configuration of the Logic Activation Parameters.\n\nVery slightly loses charge over time."
-msgstr ""
+msgstr "Slaat <link=\"POWER\">Energie</link> van generatoren op en levert die stroom vervolgens aan gebouwen.\n\nStuurt een <b><style=\"logic_on\">Groen Signaal</style> </b> of <b><style=\"logic_off\">Rood signaal</style></b> op basis van de configuratie van de Logische Activatie Parameters.\n\nVerliest zeer weinig lading over de tijd heen."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYSMART.LOGIC_PORT"
@@ -4424,7 +4426,7 @@ msgstr "Het is sterker dan het er uit ziet."
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.NAME"
 msgid "<link=\"BED\">Camping Cot</link>"
-msgstr "<link=\"BED\">Campeerbed</link>"
+msgstr "<link=\"BED\">Kampeerbed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.DEFAULT_BED.DESC"
@@ -4444,222 +4446,222 @@ msgstr "Voor de Duplis die dromen van wetenschappelijke ontdekkingen."
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.SCIENCELAB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.SCIENCELAB.NAME"
 msgid "<link=\"BED\">Lab Cot</link>"
-msgstr ""
+msgstr "<link=\"BED\">Lab Bed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.STARCURTAIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.STARCURTAIN.DESC"
 msgid "Now Duplicants can sleep beneath the stars without wearing an Atmo Suit to bed."
-msgstr ""
+msgstr "Duplis kunnen nu onder de sterren slapen zonder een Atmo Pak naar bed te dragen."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.STARCURTAIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.STARCURTAIN.NAME"
 msgid "<link=\"BED\">Stargazer Cot</link>"
-msgstr ""
+msgstr "<link=\"BED\">Sterrenkijker Bed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.STAYCATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.STAYCATION.DESC"
 msgid "Like a weekend away, except... not."
-msgstr ""
+msgstr "Als een weekendje weg, behalve... niet."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.STAYCATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.STAYCATION.NAME"
 msgid "<link=\"BED\">Staycation Cot</link>"
-msgstr ""
+msgstr "<link=\"BED\">Staycation Bed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.NAME"
 msgid "<link=\"BED\">Cot</link>"
-msgstr ""
+msgstr "<link=\"BED\">Bed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BEEHIVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEEHIVE.DESC"
 msgid "A moderately <link=\"RADIATION\">Radioactive</link> nest made by <link=\"BEE\">Beetas</link>.\n\nConverts <link=\"URANIUMORE\">Uranium</link> into <link=\"ENRICHEDURANIUM\">Enriched Uranium</link> when worked by a Beeta.\nWill not function if ground below has been destroyed."
-msgstr ""
+msgstr "Een matig <link=\"RADIATION\">Radioactief</link> nest gemaakt door <link=\"BEE\">Beetas</link>.\n\nConverteert <link=\"URANIUMORE\">Uranium </link> in <link=\"ENRICHEDURANIUM\">Verrijkt Uranium</link> wanneer bewerkt door een Beeta.\nZal niet werken als de grond eronder is vernietigd."
 
 #. STRINGS.BUILDINGS.PREFABS.BEEHIVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEEHIVE.EFFECT"
 msgid "The cozy home of a Beeta."
-msgstr ""
+msgstr "Het knusse huis van een Beeta."
 
 #. STRINGS.BUILDINGS.PREFABS.BEEHIVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BEEHIVE.NAME"
 msgid "<link=\"BEEHIVE\">Beeta Hive</link>"
-msgstr ""
+msgstr "<link=\"BEEHIVE\">Beeta Korf</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.DESC"
 msgid "A bottle emptier's Element Filter can be used to designate areas for specific liquid storage."
-msgstr ""
+msgstr "De Element Filter van flessenleger kan worden gebruikt om gebieden aan te wijzen voor specifieke vloeistofopslag."
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.EFFECT"
 msgid "Empties bottled <link=\"ELEMENTSLIQUID\">Liquids</link> back into the world."
-msgstr ""
+msgstr "Leegt gebottelde <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> terug de wereld in."
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIER.NAME"
 msgid "<link=\"BOTTLEEMPTIER\">Bottle Emptier</link>"
-msgstr ""
+msgstr "<link=\"BOTTLEEMPTIER\">Flessenleger</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERGAS.DESC"
 msgid "A canister emptier's Element Filter can designate areas for specific gas storage."
-msgstr ""
+msgstr "De Element Filter van een gasflesleger kan gebieden aanwijzen voor specifieke gasopslag."
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERGAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERGAS.EFFECT"
 msgid "Empties <link=\"ELEMENTSGAS\">Gas</link> canisters back into the world."
-msgstr ""
+msgstr "Leegt <link=\"ELEMENTSGAS\">Gas</link>flessen terug de wereld in."
 
 #. STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERGAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BOTTLEEMPTIERGAS.NAME"
 msgid "<link=\"BOTTLEEMPTIERGAS\">Canister Emptier</link>"
-msgstr ""
+msgstr "<link=\"BOTTLEEMPTIERGAS\">Gasflesleger</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.DESC"
 msgid "A massive, slow-moving door which is nearly indestructible."
-msgstr ""
+msgstr "Een massieve, langzaam bewegende deur die bijna onverwoestbaar is."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.EFFECT"
 msgid "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSGAS\">Gas</link> flow, maintaining pressure between areas.\n\nCan withstand extremely high pressures and impacts."
-msgstr ""
+msgstr "Blokkeert de stroom van <link=\"ELEMENTSLIQUID\">Vloeistof</link> en <link=\"ELEMENTSGAS\">Gas</link> en handhaaft de druk tussen gebieden.\n\nKan extreme druk en schokken weerstaan."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERDOOR.NAME"
 msgid "<link=\"BUNKERDOOR\">Bunker Door</link>"
-msgstr ""
+msgstr "<link=\"BUNKERDOOR\">Bunkerdeur</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERTILE.DESC"
 msgid "Bunker tile can build strong shelters in otherwise dangerous environments."
-msgstr ""
+msgstr "Bunkertegels kunnen sterke schuilplaatsen bouwen in gevaarlijke omgevingen."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERTILE.EFFECT"
 msgid "Used to build the walls and floors of rooms.\n\nCan withstand extreme pressures and impacts."
-msgstr ""
+msgstr "Wordt gebruikt om de muren en vloeren van kamers te bouwen.\n\nKan extreme druk en schokken weerstaan."
 
 #. STRINGS.BUILDINGS.PREFABS.BUNKERTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BUNKERTILE.NAME"
 msgid "<link=\"BUNKERTILE\">Bunker Tile</link>"
-msgstr ""
+msgstr "<link=\"BUNKERTILE\">Bunkertegel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr ""
+msgstr "Onbeduidend Schilderij"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
 msgid "Once built, a Duplicant can paint a blank canvas to produce a decorative painting."
-msgstr ""
+msgstr "Eens gebouwd, kan een Dupli een leeg canvas beschilderen om een decoratief schilderij te maken."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
 msgid "Increases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be painted by a Duplicant."
-msgstr ""
+msgstr "Verhoogt het <link=\"DECOR\">Decor</link> en draagt bij aan het <link=\"MORALE\">moreel</link>.\n\nMoet door een Dupli worden geschilderd."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
 msgid "Masterpiece"
-msgstr ""
+msgstr "Meesterwerk"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_A.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_A.DESC"
 msgid "A sweet, amateurish interpretation of the Duplicant form."
-msgstr ""
+msgstr "Een schattige, amateuristische interpretatie van de Dupli-vorm."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_A.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_A.NAME"
 msgid "<link=\"ARTA\">Doodle Dee Duplicant</link>"
-msgstr ""
+msgstr "<link=\"ARTA\">Doodle Dee Dupli</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_B.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_B.DESC"
 msgid "The fast-food equivalent of high art."
-msgstr ""
+msgstr "Het fastfood-equivalent van Kunst met een K."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_B.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_B.NAME"
 msgid "<link=\"ARTB\">Midnight Meal</link>"
-msgstr ""
+msgstr "<link=\"ARTB\">Nachtelijke Maaltijd</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_C.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_C.DESC"
 msgid "Some viewers swear they've seen it blink."
-msgstr ""
+msgstr "Sommige kijkers zweren dat ze hem hebben zien knipperen."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_C.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_C.NAME"
 msgid "<link=\"ARTC\">Dupa Leesa</link>"
-msgstr ""
+msgstr "<link=\"ARTC\">Dupa Lisa</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_D.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_D.DESC"
 msgid "If art could speak, this piece would be far less popular."
-msgstr ""
+msgstr "Als kunst kon spreken, zou dit stuk veel minder populair zijn."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_D.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_D.NAME"
 msgid "<link=\"ARTD\">The Screech</link>"
-msgstr ""
+msgstr "<link=\"ARTD\">De Krijs</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_E.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_E.DESC"
 msgid "Scratching and sniffing the flower yields no scent."
-msgstr ""
+msgstr "Krassen en snuiven aan de bloem levert geen geur op."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_E.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_E.NAME"
 msgid "<link=\"ARTE\">Fridup Kallo</link>"
-msgstr ""
+msgstr "<link=\"ARTE\">Frudi Kallo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_F.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_F.DESC"
 msgid "Portrait of a leader astride their mighty steed."
-msgstr ""
+msgstr "Portret van een leider schrijlings op hun machtig ros."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_F.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_F.NAME"
 msgid "<link=\"ARTF\">Moopoleon Bonafarte</link>"
-msgstr ""
+msgstr "<link=\"ARTF\">Moopoleon Bonaprotte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_G.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_G.DESC"
 msgid "The raw emotion conveyed here often renders viewers speechless."
-msgstr ""
+msgstr "De rauwe emotie die hier wordt overgebracht, maakt kijkers vaak sprakeloos."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_G.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_G.NAME"
 msgid "<link=\"ARTG\">Expressive Genius</link>"
-msgstr ""
+msgstr "<link=\"ARTG\">Expressief Genie</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_H.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_H.DESC"
 msgid "A candid moment of affection between two organisms."
-msgstr ""
+msgstr "Een oprecht moment van genegenheid tussen twee organismen."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_H.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_H.NAME"
 msgid "<link=\"ARTH\">The Smooch</link>"
-msgstr ""
+msgstr "<link=\"ARTH\">De Smakker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_I.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_I.DESC"
 msgid "A multi-layered exploration of the artist as a subject."
-msgstr ""
+msgstr "Een gelaagde verkenning van de kunstenaar als onderwerp."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_I.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_I.NAME"
 msgid "<link=\"ARTI\">Self-Self-Self Portrait</link>"
-msgstr ""
+msgstr "<link=\"ARTI\">Zelf-Zelf-Zelfportret</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_J.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_J.DESC"
 msgid "A painting that captures the true nature of hunger."
-msgstr ""
+msgstr "Een schilderij dat de ware aard van honger capteert."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_J.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_J.NAME"
@@ -55229,27 +55231,27 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_METEORSHOWERS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_METEORSHOWERS"
 msgid "METEOR SHOWERS"
-msgstr ""
+msgstr "METEORENREGEN"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_REQUIREMENTS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_REQUIREMENTS"
 msgid "REQUIREMENTS"
-msgstr ""
+msgstr "VEREISTEN"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_RESEARCH"
 msgid "RESEARCH"
-msgstr ""
+msgstr "ONDERZOEK"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_ROCKET
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_ROCKET"
 msgid "ROCKETRY"
-msgstr ""
+msgstr "RAKET"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_STATUS"
 msgid "STATUS"
-msgstr ""
+msgstr "STATUS"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_WORLDTRAITS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_WORLDTRAITS"
