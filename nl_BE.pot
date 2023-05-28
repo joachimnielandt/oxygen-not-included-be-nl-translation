@@ -1954,7 +1954,7 @@ msgstr "Beperkt Visueel Contact"
 #. STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_PARTIALLYBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_PARTIALLYBLOCKED.TOOLTIP"
 msgid "This building has a partially obstructed view of space\n\nTo properly function, this building requires an unblocked view of space"
-msgstr "Dit gebouw heeft een beperkt zicht op de ruimte\n\nOm correct te functioneren moet dit gebouw een ongestoord zicht op de ruimte hebben"
+msgstr "Dit gebouw heeft een belemmerd zicht op de ruimte\n\nOm correct te functioneren moet dit gebouw een ongestoord zicht op de ruimte hebben"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME"
@@ -2669,7 +2669,7 @@ msgstr "Vast {0}"
 #. STRINGS.BUILDING.STATUSITEMS.PATH_NOT_CLEAR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PATH_NOT_CLEAR.TOOLTIP"
 msgid "There are obstructions in the launch trajectory of this rocket:\n    â¢ {0}\n\nThis rocket requires a clear flight path for launch"
-msgstr "Er zijn obstructies in had lanceer pad van deze raket:\n    â¢ {0}\n\nDeze raket heeft een vrij vluchtpad nodig om te kunnen lanceren"
+msgstr "Er zijn belemmeringen in had lanceer pad van deze raket:\n    â¢ {0}\n\nDeze raket heeft een vrij vluchtpad nodig om te kunnen lanceren"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
@@ -2884,7 +2884,7 @@ msgstr "Lanceer Pad Geblokkerd"
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP"
 msgid "There are obstructions in the launch trajectory of this <link=\"RAILGUN\">Interplanetary Launcher</link>:\n    â¢ {0}\n\nThis launcher requires a clear path to launch payloads"
-msgstr "Er zijn obstructies in had lanceer pad van deze <link=\"RAILGUN\">Interplanetaire Lanceerder</link>:\n    â¢ {0}\n\nDeze lanceerder heeft een vrij vluchtpad nodig om iets te kunnen lanceren"
+msgstr "Er zijn belemmeringen in had lanceer pad van deze <link=\"RAILGUN\">Interplanetaire Lanceerder</link>:\n    â¢ {0}\n\nDeze lanceerder heeft een vrij vluchtpad nodig om iets te kunnen lanceren"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME"
@@ -5485,7 +5485,7 @@ msgstr "Vergeet niet om achter je oren te ontsmetten."
 #. STRINGS.BUILDINGS.PREFABS.DECONTAMINATIONSHOWER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DECONTAMINATIONSHOWER.EFFECT"
 msgid "Uses <link=\"WATER\">Water</link> to remove <link=\"DISEASE\">Germs</link> and <link=\"RADIATION\">Radiation</link>.\n\nDecontaminates both Duplicants and their <link=\"EQUIPMENT\">Clothing</link>."
-msgstr "Gebruikt <link=\"WATER\">Water</link> om <link=\"DISEASE\">Ziektekiemen</link> en <link=\"RADIATION\">Straling</link> te verwijderen.\n\nOntsmet zowel Duplicanten als hun <link=\"EQUIPMENT\">Apparatuur</link>."
+msgstr "Gebruikt <link=\"WATER\">Water</link> om <link=\"DISEASE\">Microben</link> en <link=\"RADIATION\">Straling</link> te verwijderen.\n\nOntsmet zowel Duplicanten als hun <link=\"EQUIPMENT\">Apparatuur</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.DECONTAMINATIONSHOWER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DECONTAMINATIONSHOWER.NAME"
@@ -6705,12 +6705,12 @@ msgstr "<link=\"FLOWERVASEWALL\">Wandpot</link>"
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC"
 msgid "Lavatories transmit fewer germs to Duplicants' skin and require no emptying."
-msgstr "Toiletten brengen minder ziektekiemen over op de huid van Duplicanten en hoeven niet te worden geleegd."
+msgstr "Toiletten brengen minder microben over op de huid van Duplicanten en hoeven niet te worden geleegd."
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT"
 msgid "Gives Duplicants a place to relieve themselves.\n\nSpreads very few <link=\"DISEASE\">Germs</link>."
-msgstr "Geeft duplicanten een plek om zichzelf te ontlasten.\n\nVerspreidt zeer weinig <link=\"DISEASE\">Ziektekiemen</link>."
+msgstr "Geeft duplicanten een plek om zichzelf te ontlasten.\n\nVerspreidt zeer weinig <link=\"DISEASE\">Microben</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME"
@@ -6835,12 +6835,12 @@ msgstr "Staat Duplicanten toe om alle <link=\"ELEMENTSGAS\">Gas</link>bronnen op
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAY.NAME"
 msgid "<link=\"GASCARGOBAY\">Gas Cargo Canister</link>"
-msgstr "<link=\"GASCARGOBAY\">Gas Cargo Fles</link>"
+msgstr "<link=\"GASCARGOBAY\">Cargo Gasfles</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.DESC"
 msgid "Holds more than a typical gas cargo canister."
-msgstr "Heeft meer inhoud dan een normale gas cargo fles."
+msgstr "Heeft meer inhoud dan een normale cargo gasfles."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.EFFECT"
@@ -6850,317 +6850,317 @@ msgstr "Hiermee kunnen Duplicanten de meeste <link=\"ELEMENTSGAS\">Gas</link>bro
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYCLUSTER.NAME"
 msgid "<link=\"GASCARGOBAY\">Large Gas Cargo Canister</link>"
-msgstr ""
+msgstr "<link=\"GASCARGOBAY\">Grote Cargo Gastank</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.DESC"
 msgid "Duplicants fill cargo canisters with any resources they find during space missions."
-msgstr ""
+msgstr "Duplicanten vullen cargo gasflessen met de grondstoffen die ze vinden tijdens ruimtemissies."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.EFFECT"
 msgid "Allows Duplicants to store some of the <link=\"ELEMENTSGAS\">Gas</link> resources found during space missions.\n\nStored resources become available to the colony upon the rocket's return. \n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
-msgstr ""
+msgstr "Hiermee kunnen Duplicanten een deel van de <link=\"ELEMENTSGAS\">Gas</link> grondstoffen opslaan die tijdens ruimtemissies zijn gevonden.\n\nOpgeslagen grondstoffen worden beschikbaar voor de kolonie wanneer de raket terugkeert.\n\nMoet worden gebouwd via <link=\"LAUNCHPAD\">Raket Platform</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCARGOBAYSMALL.NAME"
 msgid "<link=\"GASCARGOBAYSMALL\">Gas Cargo Canister</link>"
-msgstr ""
+msgstr "<link=\"GASCARGOBAYSMALL\">Cargo Gasfles</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.DESC"
 msgid "Gas pipes are used to connect the inputs and outputs of ventilated buildings."
-msgstr ""
+msgstr "Gasleidingen worden gebruikt om de in- en uitvoeren van geventileerde gebouwen met elkaar te verbinden."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT"
 msgid "Carries <link=\"ELEMENTSGAS\">Gas</link> between <link=\"GASPIPING\">Outputs</link> and <link=\"GASPIPING\">Intakes</link>.\n\nCan be run through wall and floor tile."
-msgstr ""
+msgstr "Vervoert <link=\"ELEMENTSGAS\">Gas</link> tussen <link=\"GASPIPING\">Uitvoeren</link> en <link=\"GASPIPING\">Invoeren</link>.\n\nKan door wand- en vloertegels worden geleid."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME"
 msgid "<link=\"GASCONDUIT\">Gas Pipe</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUIT\">Gasleiding</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC"
 msgid "Separate pipe systems prevent mingled contents from causing building damage."
-msgstr ""
+msgstr "Afzonderlijke leidingsystemen voorkomen dat gemengde inhoud schade aan het gebouw veroorzaakt."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.EFFECT"
 msgid "Runs one <link=\"GASPIPING\">Gas Pipe</link> section over another without joining them.\n\nCan be run through wall and floor tile."
-msgstr ""
+msgstr "Leidt een <link=\"GASPIPING\">Gasleiding</link> sectie over een ander stuk zonder ze samen te voegen.\n\nKan door wand- en vloertegels worden geleid."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
 msgid "<link=\"GASCONDUITBRIDGE\">Gas Bridge</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITBRIDGE\">Gasbrug</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.DESC"
 msgid "Germ sensors can help control automation behavior in the presence of germs."
-msgstr ""
+msgstr "Ziektesensoren maken automatisering mogelijk aan de hand van aanwezigheid van microben."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> based on the internal <link=\"DISEASE\">Germ</link> count of the pipe."
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> gebaseerd op de interne <link=\"DISEASE\">Microbe</link> telling van de pijp."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.LOGIC_PORT"
 msgid "Internal <link=\"DISEASE\">Germ</link> Count"
-msgstr ""
+msgstr "Interne <link=\"DISEASE\">Microbe</link> Telling"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the number of Germs in the pipe is within the selected range"
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als het aantal Microben in de leiding binnen het geselecteerde bereik ligt"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.LOGIC_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr ""
+msgstr "Zend anders een <b><style=\"logic_off\">Rood Signaal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITDISEASESENSOR.NAME"
 msgid "<link=\"GASCONDUITDISEASESENSOR\">Gas Pipe Germ Sensor</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITDISEASESENSOR\">Gasleiding Microbe Sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.DESC"
 msgid "Element sensors can be used to detect the presence of a specific gas in a pipe."
-msgstr ""
+msgstr "Elementsensoren kunnen worden gebruikt om de aanwezigheid van een specifiek gas in een leiding te detecteren."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when the selected <link=\"ELEMENTSGAS\">Gas</link> is detected within a pipe."
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer het geselecteerde <link=\"ELEMENTSGAS\">Gas</link> wordt gedetecteerd in een leiding."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.LOGIC_PORT"
 msgid "Internal <link=\"ELEMENTSGAS\">Gas</link> Presence"
-msgstr ""
+msgstr "Interne <link=\"ELEMENTSGAS\">Gas</link> Aanwezigheid"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the configured Gas is detected"
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als het geconfigureerde Gas wordt gedetecteerd"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.LOGIC_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr ""
+msgstr "Zend anders een <b><style=\"logic_off\">Rood Signaal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITELEMENTSENSOR.NAME"
 msgid "<link=\"GASCONDUITELEMENTSENSOR\">Gas Pipe Element Sensor</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITELEMENTSENSOR\">Gasleiding Element Sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.DESC"
 msgid "Overflow valves can be used to prioritize which buildings should receive precious resources first."
-msgstr ""
+msgstr "Overloopkleppen kunnen worden gebruikt om prioriteit te geven aan gebouwen die als eerste kostbare grondstoffen moeten ontvangen."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.EFFECT"
 msgid "Fills a secondary<link=\"ELEMENTSGAS\">Gas</link> output only when its primary output is blocked."
-msgstr ""
+msgstr "Vult een secundaire<link=\"ELEMENTSGAS\">Gas</link> uitvoer, enkel als de primaire uitvoer geblokkeerd is."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITOVERFLOW.NAME"
 msgid "<link=\"GASCONDUITOVERFLOW\">Gas Overflow Valve</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITOVERFLOW\">Gaso Overloop Klep</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.DESC"
 msgid "Priority flows ensure important buildings are filled first when on a system with other buildings."
-msgstr ""
+msgstr "Prioriteitsstromen zorgen ervoor dat belangrijke gebouwen als eerste worden gevuld wanneer er andere gebouwen in het systeem zitten."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.EFFECT"
 msgid "Diverts <link=\"ELEMENTSGAS\">Gas</link> to a secondary input when its primary input overflows."
-msgstr ""
+msgstr "Leidt <link=\"ELEMENTSGAS\">Gas</link> af naar een secundaire invoer wanneer de primaire invoer overstroomt."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITPREFERENTIALFLOW.NAME"
 msgid "<link=\"GASCONDUITPREFERENTIALFLOW\">Priority Gas Flow</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITPREFERENTIALFLOW\">Prioritaire Gas Stroom</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.DESC"
 msgid "Radiant pipes pumping cold gas can be run through hot areas to help cool them down."
-msgstr ""
+msgstr "Uitstraalleidingen die koud gas pompen, kunnen door hete gebieden worden geleid om ze af te koelen."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.EFFECT"
 msgid "Carries <link=\"ELEMENTSGAS\">Gas</link>, allowing extreme <link=\"HEAT\">Temperature</link> exchange with the surrounding environment.\n\nCan be run through wall and floor tile."
-msgstr ""
+msgstr "Transporteert <link=\"ELEMENTSGAS\">Gas</link>, waardoor extreme <link=\"HEAT\">Temperatuur</link> uitwisseling met de omgeving mogelijk is.\n\nKan door muur en vloer geleid worden tegel."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITRADIANT.NAME"
 msgid "<link=\"GASCONDUITRADIANT\">Radiant Gas Pipe</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITRADIANT\">Uitstralende Gasleiding</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.DESC"
 msgid "Thermo sensors disable buildings when their pipe contents reach a certain temperature."
-msgstr ""
+msgstr "Thermosensoren schakelen gebouwen uit wanneer de inhoud van hun leidingen een bepaalde temperatuur bereikt."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when pipe contents enter the chosen <link=\"HEAT\">Temperature</link> range."
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer de inhoud van de leiding zich in het gekozen <link=\"HEAT\">Temperatuur</link>bereik bevindt."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT"
 msgid "Internal <link=\"ELEMENTSGAS\">Gas</link> <link=\"HEAT\">Temperature</link>"
-msgstr ""
+msgstr "Interne <link=\"ELEMENTSGAS\">Gas</link> <link=\"HEAT\">Temperatuur</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the contained Gas is within the selected Temperature range"
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als het aanwezige Gas zich binnen het geselecteerde temperatuurbereik bevindt"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.LOGIC_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr ""
+msgstr "Zend anders een <b><style=\"logic_off\">Rood Signaal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITTEMPERATURESENSOR.NAME"
 msgid "<link=\"GASCONDUITTEMPERATURESENSOR\">Gas Pipe Thermo Sensor</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUITTEMPERATURESENSOR\">Gasleiding Thermo Sensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
 msgid "All gases are sent into the building's output pipe, except the gas chosen for filtering."
-msgstr ""
+msgstr "Alle gassen worden naar de uitvoer leiding van het gebouw gestuurd, behalve het gas dat werd gekozen om te filteren."
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.EFFECT"
 msgid "Sieves one <link=\"ELEMENTSGAS\">Gas</link> from the air, sending it into a dedicated <link=\"GASPIPING\">Pipe</link>."
-msgstr ""
+msgstr "Zeeft één <link=\"ELEMENTSGAS\">Gas</link> uit de lucht en stuurt het naar een speciale <link=\"GASPIPING\">Leiding</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.ELEMENT_NOT_SPECIFIED
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.ELEMENT_NOT_SPECIFIED"
 msgid "Not Specified"
-msgstr ""
+msgstr "Niet Opgegeven"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME"
 msgid "<link=\"GASFILTER\">Gas Filter</link>"
-msgstr ""
+msgstr "<link=\"GASFILTER\">Gasfilter</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASFILTER.STATUS_ITEM
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.STATUS_ITEM"
 msgid "Filters: {0}"
-msgstr ""
+msgstr "Filters: {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.DESC"
 msgid "Meter Valves let an exact amount of gas pass through before shutting off."
-msgstr ""
+msgstr "Meterkleppen laten een exacte hoeveelheid gas door voordat ze worden uitgeschakeld."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.EFFECT"
 msgid "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn <link=\"ELEMENTSGAS\">Gas</link> flow off when the specified amount has passed through it."
-msgstr ""
+msgstr "Maakt verbinding met een <link=\"LOGIC\">Automatisatie</link>net om de <link=\"ELEMENTSGAS\">Gas</link>stroom automatisch uit te schakelen wanneer de opgegeven hoeveelheid er doorheen is gegaan."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_OUTPUT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_OUTPUT"
 msgid "Limit Reached"
-msgstr ""
+msgstr "Limiet Bereikt"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_RESET
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_RESET"
 msgid "Reset Meter"
-msgstr ""
+msgstr "Reset Meter"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.NAME"
 msgid "<link=\"GASLIMITVALVE\">Gas Meter Valve</link>"
-msgstr ""
+msgstr "<link=\"GASLIMITVALVE\">Gasmeter Klep</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if limit has been reached"
-msgstr ""
+msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als limiet is bereikt"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr ""
+msgstr "Zend anders een <b><style=\"logic_off\">Rood Signaal</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.RESET_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.RESET_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Reset the amount"
-msgstr ""
+msgstr "<b><style=\"logic_on\">Groen Signaal</style></b>: Reset het bedrag"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.RESET_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.RESET_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Nothing"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Rood Signaal</style></b>: Niets"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.DESC"
 msgid "Automated piping saves power and time by removing the need for Duplicant input."
-msgstr ""
+msgstr "Geautomatiseerde leidingen besparen energie en tijd doordat Duplicanten niets meer moeten doen."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.EFFECT"
 msgid "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn <link=\"ELEMENTSGAS\">Gas</link> flow on or off."
-msgstr ""
+msgstr "Maakt verbinding met een <link=\"LOGIC\">Automatisatie</link>net om de <link=\"ELEMENTSGAS\">Gas</link>stroom automatisch in of uit te schakelen."
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.LOGIC_PORT"
 msgid "Open/Close"
-msgstr ""
+msgstr "Openen/Sluiten"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.LOGIC_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Allow gas flow"
-msgstr ""
+msgstr "<b><style=\"logic_on\">Groen Signaal</style></b>: Gasstroom toestaan"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Prevent gas flow"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Rood Signaal</style></b>: Voorkom gasstroom"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLOGICVALVE.NAME"
 msgid "<link=\"GASLOGICVALVE\">Gas Shutoff</link>"
-msgstr ""
+msgstr "<link=\"GASLOGICVALVE\">Gas Afsluiten</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.DESC"
 msgid "Mini pumps are useful for moving small quantities of gas with minimum power."
-msgstr ""
+msgstr "Minipompen zijn handig voor het verplaatsen van kleine hoeveelheden gas met minimale energie."
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.EFFECT"
 msgid "Draws in a small amount of <link=\"ELEMENTSGAS\">Gas</link> and runs it through <link=\"GASPIPING\">Pipes</link>.\n\nMust be immersed in <link=\"ELEMENTSGAS\">Gas</link>."
-msgstr ""
+msgstr "Onttrekt een kleine hoeveelheid <link=\"ELEMENTSGAS\">Gas</link> en voert het door <link=\"GASPIPING\">Leidingen</link>.\n\nMoet worden ondergedompeld in <link =\"ELEMENTSGAS\">Gas</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASMINIPUMP.NAME"
 msgid "<link=\"GASMINIPUMP\">Mini Gas Pump</link>"
-msgstr ""
+msgstr "<link=\"GASMINIPUMP\">Mini Gaspomp</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
 msgid "Building with airflow tile promotes better gas circulation within a colony."
-msgstr ""
+msgstr "Bouwen met luchtstroomtegels bevordert een betere gascirculatie binnen een kolonie."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
 msgid "Used to build the walls and floors of rooms.\n\nBlocks <link=\"ELEMENTSLIQUID\">Liquid</link> flow without obstructing <link=\"ELEMENTSGAS\">Gas</link>."
-msgstr ""
+msgstr "Wordt gebruikt om de muren en vloeren van kamers te bouwen.\n\nBlokkeert <link=\"ELEMENTSLIQUID\">Vloeistof</link> zonder het <link=\"ELEMENTSGAS\">Gas</link> te belemmeren."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
 msgid "<link=\"GASPERMEABLEMEMBRANE\">Airflow Tile</link>"
-msgstr ""
+msgstr "<link=\"GASPERMEABLEMEMBRANE\">Luchtstroomtegel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
@@ -70175,52 +70175,52 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_SITE_OBSTRUCTED
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_SITE_OBSTRUCTED"
 msgid "Landing position on the platform is obstructed"
-msgstr ""
+msgstr "Landingspositie op het platform wordt belemmerd"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_TOO_SHORT
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_TOO_SHORT"
 msgid "This rocket's height exceeds the space available in this landing site"
-msgstr ""
+msgstr "De hoogte van deze raket is groter dan de beschikbare ruimte op deze landingsplaats"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_VALID_SITE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.DROPDOWN_TOOLTIP_VALID_SITE"
 msgid "Land at {0} when the site is clear"
-msgstr ""
+msgstr "Land op {0} eens het terrein vrij is"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.FIRSTAVAILABLE"
 msgid "Any <link=\"LAUNCHPAD\">Rocket Platform</link>"
-msgstr ""
+msgstr "Gelijk welk <link=\"LAUNCHPAD\">Raketplatform</link>"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.LOOP_BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.LOOP_BUTTON_TOOLTIP"
 msgid "Toggle a roundtrip flight between this rocket's destination and its original takeoff location"
-msgstr ""
+msgstr "Zet een retourvlucht aan tussen de bestemming van deze raket en de oorspronkelijke startlocatie"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NO_TALL_SITES_AVAILABLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NO_TALL_SITES_AVAILABLE"
 msgid "No landing sites fit the height of this rocket"
-msgstr ""
+msgstr "Geen landingsplaats kan de hoogte van deze raket aan"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NONEAVAILABLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.NONEAVAILABLE"
 msgid "No landing site"
-msgstr ""
+msgstr "Geen landingsplaats"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERDESTINATIONSIDESCREEN.TITLE"
 msgid "Destination"
-msgstr ""
+msgstr "Bestemming"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.EMPTY_SPACE_ROW
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.EMPTY_SPACE_ROW"
 msgid "In Space"
-msgstr ""
+msgstr "In de Ruimte"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.HEADER
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.HEADER"
 msgid "Send Green signal at locations"
-msgstr ""
+msgstr "Groen Signaal sturen op locaties"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERLOCATIONFILTERSIDESCREEN.TITLE"
@@ -70235,7 +70235,7 @@ msgstr "Laat meteorietzwerm identificatie toe"
 #. STRINGS.UI.UISIDESCREENS.CLUSTERTELESCOPESIDESCREEN.CHECKBOX_TOOLTIP_METEORS
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERTELESCOPESIDESCREEN.CHECKBOX_TOOLTIP_METEORS"
 msgid "Prioritizes unidentified meteors that come within range in a previously revealed location\n\nWill interrupt a Duplicant working on revealing a new <style=\"KKeyword\">Starmap</style> location"
-msgstr ""
+msgstr "Geeft prioriteit aan ongeïdentificeerde meteoren die binnen bereik komen op een eerder onthulde locatie\n\nZal een Duplicant onderbreken die werkt aan het onthullen van een nieuwe <style=\"KKeyword\">Sterrenkaart</style> locatie"
 
 #. STRINGS.UI.UISIDESCREENS.CLUSTERTELESCOPESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.CLUSTERTELESCOPESIDESCREEN.TITLE"
@@ -70400,7 +70400,7 @@ msgstr "Teller"
 #. STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.TOOLTIPS.ADVANCED_MODE
 msgctxt "STRINGS.UI.UISIDESCREENS.COUNTER_SIDE_SCREEN.TOOLTIPS.ADVANCED_MODE"
 msgid "In Advanced Mode, the <link=\"LOGICCOUNTER\">Signal Counter</link> will count from <b>0</b> rather than <b>1</b>. It will reset when the max is reached, and send a <b><style=\"logic_on\">Green Signal</style></b> as a brief pulse rather than continuously."
-msgstr ""
+msgstr "In Geavanceerde Modus telt de <link=\"LOGICCOUNTER\">Signaalteller</link> vanaf <b>0</b> in plaats van <b>1</b>. Hij wordt gereset wanneer het maximum wordt bereikt, en stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als een korte puls in plaats van een continu signaal."
 
 #. STRINGS.UI.UISIDESCREENS.CRITTER_COUNT_SIDE_SCREEN.START
 msgctxt "STRINGS.UI.UISIDESCREENS.CRITTER_COUNT_SIDE_SCREEN.START"
@@ -70455,7 +70455,7 @@ msgstr "{0}\n\n{1}"
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.ACCESS_OFFLINE"
 msgid "Emergency Access Permissions:\nAll Duplicants are permitted to use this door until <link=\"POWER\">Power</link> is restored."
-msgstr ""
+msgstr "Nood Toegangsrechten:\nAlle Duplicanten mogen deze deur gebruiken totdat <link=\"POWER\">Energie</link> is hersteld."
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO"
@@ -70505,57 +70505,57 @@ msgstr "Deur Instelling"
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGDELIVERY
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGDELIVERY"
 msgid "AWAITING DELIVERY: {0}"
-msgstr ""
+msgstr "WACHT OP LEVERING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGREMOVAL
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGREMOVAL"
 msgid "AWAITING REMOVAL: {0}"
-msgstr ""
+msgstr "WACHT OP VERWIJDERING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGREQUEST
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.AWAITINGREQUEST"
 msgid "INCUBATE: {0}"
-msgstr ""
+msgstr "INCUBEREN: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.CANCELDEPOSIT
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.CANCELDEPOSIT"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.CANCELREMOVAL
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.CANCELREMOVAL"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.DEPOSIT
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.DEPOSIT"
 msgid "Incubate"
-msgstr ""
+msgstr "Incuberen"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.ENTITYDEPOSITED
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.ENTITYDEPOSITED"
 msgid "INCUBATING: {0}"
-msgstr ""
+msgstr "INCUBATING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.REMOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.REMOVE"
 msgid "Remove"
-msgstr ""
+msgstr "Verwijderen"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.SELECT_DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.SELECT_DESC"
 msgid "Select an egg to incubate."
-msgstr ""
+msgstr "Selecteer een ei om uit te broeden."
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.SELECT_TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.SELECT_TITLE"
 msgid "SELECT"
-msgstr ""
+msgstr "SELECTEER"
 
 #. STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EGGINCUBATOR.TITLE"
 msgid "Critter Eggs"
-msgstr ""
+msgstr "Beest Eieren"
 
 #. STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.AWAITINGBUTTON"
@@ -70565,167 +70565,167 @@ msgstr "DECRYPTIE NODIG"
 #. STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.BUTTON"
 msgid "ATTEMPT DECRYPTION"
-msgstr ""
+msgstr "PROBEER DECRYPTIE"
 
 #. STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.LABEL
 msgctxt "STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.LABEL"
 msgid "This computer contains encrypted files."
-msgstr ""
+msgstr "Deze computer bevat versleutelde bestanden."
 
 #. STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.ENCRYPTEDLORESIDESCREEN.TITLE"
 msgid "Encrypted File"
-msgstr ""
+msgstr "Versleuteld Bestand"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.CURRENTLY_EQUIPPED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.CURRENTLY_EQUIPPED"
 msgid "Currently Equipped:\n{0}"
-msgstr ""
+msgstr "Momenteel Uitgerust:\n{0}"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.DROP_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.DROP_BUTTON"
 msgid "Drop"
-msgstr ""
+msgstr "Laat Vallen"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.EQUIP_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.EQUIP_BUTTON"
 msgid "Equip"
-msgstr ""
+msgstr "Gebruik"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.NONE_EQUIPPED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.NONE_EQUIPPED"
 msgid "None"
-msgstr ""
+msgstr "Geen"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.SWAP_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.SWAP_BUTTON"
 msgid "Swap"
-msgstr ""
+msgstr "Wissel"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.TITLE"
 msgid "Assign To Duplicant"
-msgstr ""
+msgstr "Wijs Toe Aan Duplicant"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.ASSIGNEDTO
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.ASSIGNEDTO"
 msgid "Assigned to: {Assignee}"
-msgstr ""
+msgstr "Toegewezen aan: {Assignee}"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.GENERAL_CURRENTASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.GENERAL_CURRENTASSIGNED"
 msgid "(Owner)"
-msgstr ""
+msgstr "(Eigenaar)"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE"
 msgid "Equip {0}"
-msgstr ""
+msgstr "Rust {0} Uit"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED"
 msgid "Unassigned"
-msgstr ""
+msgstr "Niet toegewezen"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS"
 msgid "Building accepts mutant seeds"
-msgstr ""
+msgstr "Gebouw accepteert gemuteerde zaden"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.ALLOW_MUTANT_SEED_INGREDIENTS_TOOLTIP"
 msgid "Toggle whether Duplicants will deliver mutant seed species to this building as recipe ingredients."
-msgstr ""
+msgstr "Kies of Duplicanten gemuteerde zaadsoorten aan dit gebouw zullen leveren als receptingrediënten."
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CALS"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CANCEL
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleer"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CHANGE_RECIPE_ARROW_LABEL
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CHANGE_RECIPE_ARROW_LABEL"
 msgid "Change recipe"
-msgstr ""
+msgstr "Verander recept"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.COST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.COST"
 msgid "<b>Ingredients:</b>\n"
-msgstr ""
+msgstr "<b>Ingredienten:</b>\n"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CURRENT_ORDER
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CURRENT_ORDER"
 msgid "Current order: {0}"
-msgstr ""
+msgstr "Huidige bestelling: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.COOL_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.COOL_VEST"
 msgid "<link=\"COOLVEST\">Cool Vest</link> ({0})"
-msgstr ""
+msgstr "<link=\"COOLVEST\">Coole Vest</link> ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST"
 msgid "<link=\"FUNKYVEST\">Snazzy Suit</link> ({0})"
-msgstr ""
+msgstr "<link=\"FUNKYVEST\">Funky Pak</link> ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.JETSUIT_TANK
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.JETSUIT_TANK"
 msgid "Fuel Tank ({0})"
-msgstr ""
+msgstr "Brandstoftank ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.LEADSUIT_BATTERY
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.LEADSUIT_BATTERY"
 msgid "Suit Battery ({0})"
-msgstr ""
+msgstr "Pak Battery ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGEN_TANK
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGEN_TANK"
 msgid "<link=\"OXYGENTANK\">Oxygen Tank</link> ({0})"
-msgstr ""
+msgstr "<link=\"OXYGENTANK\">Zuurstoftank</link> ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGEN_TANK_UNDERWATER
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGEN_TANK_UNDERWATER"
 msgid "Oxygen Rebreather ({0})"
-msgstr ""
+msgstr "Zuurstof Herinademer ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.RESEARCHPOINT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.RESEARCHPOINT"
 msgid "{0}: +1"
-msgstr ""
+msgstr "{0}: +1"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.WARM_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.WARM_VEST"
 msgid "<link=\"WARMVEST\">Warm Sweater</link> ({0})"
-msgstr ""
+msgstr "<link=\"WARMVEST\">Warme trui</link> ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION"
 msgid "INFORMATION"
-msgstr ""
+msgstr "INFORMATIE"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INGREDIENTS
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INGREDIENTS"
 msgid "<b>Ingredients:</b>"
-msgstr ""
+msgstr "<b>Ingrediënten:</b>"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG"
 msgid "- {0}: {1}\n"
-msgstr ""
+msgstr "- {0}: {1}\n"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NEXT_ORDER
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NEXT_ORDER"
 msgid "Next order: {0}"
-msgstr ""
+msgstr "Volgende bestelling: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NO_WORKABLE_ORDER
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NO_WORKABLE_ORDER"
 msgid "No workable order"
-msgstr ""
+msgstr "Geen werkbare bestelling"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPEDISCOVERED
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPEDISCOVERED"
