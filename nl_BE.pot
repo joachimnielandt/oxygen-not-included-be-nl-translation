@@ -7092,7 +7092,7 @@ msgstr "<link=\"GASLIMITVALVE\">Gasmeter Klep</link>"
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if limit has been reached"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als limiet is bereikt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als limiet is bereikt"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.OUTPUT_PORT_INACTIVE"
@@ -9112,12 +9112,12 @@ msgstr "UITVOER"
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.DESC"
 msgid "This gate only lets a Green Signal through if its Input has received a Green Signal that lasted longer than the selected filter time."
-msgstr "Deze poort laat alleen een groen signaal door als zijn ingang een groen signaal heeft ontvangen dat langer heeft geduurd dan de geselecteerde filtertijd."
+msgstr "Deze poort laat alleen een Groen Signaal door als zijn ingang een Groen Signaal heeft ontvangen dat langer heeft geduurd dan de geselecteerde filtertijd."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.EFFECT"
 msgid "Only lets a <b><style=\"logic_on\">Green Signal</style></b> through if the Input has received a <b><style=\"logic_on\">Green Signal</style></b> for longer than the selected filter time.\n\nWill continue outputting a <b><style=\"logic_off\">Red Signal</style></b> if the <b><style=\"logic_on\">Green Signal</style></b> did not last long enough."
-msgstr "Laat een <b><style=\"logic_on\">Groen Signaal</style></b> alleen door als de Input een <b><style=\"logic_on\">Groen Signaal</b> heeft ontvangen</style></b> langer dan de geselecteerde filtertijd.\n\nZal een <b><style=\"logic_off\">rood signaal</style></b> blijven uitvoeren als de <b><style =\"logic_on\">Groen signaal</style></b> duurde niet lang genoeg."
+msgstr "Laat een <b><style=\"logic_on\">Groen Signaal</style></b> alleen door als de Input een <b><style=\"logic_on\">Groen Signaal</b> heeft ontvangen</style></b> langer dan de geselecteerde filtertijd.\n\nZal een <b><style=\"logic_off\">Rood Signaal</style></b> blijven uitvoeren als de <b><style =\"logic_on\">Groen signaal</style></b> duurde niet lang genoeg."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.NAME"
@@ -9127,7 +9127,7 @@ msgstr "<link=\"LOGICGATEFILTER\">FILTERpoort</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.OUTPUT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> after receiving <b><style=\"logic_on\">Green</style></b> for longer than the selected filter timer"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> na ontvangst van <b><style=\"logic_on\">groen</style></b> voor langer dan de geselecteerde filtertimer"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> na ontvangst van <b><style=\"logic_on\">groen</style></b> voor langer dan de geselecteerde filtertimer"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.OUTPUT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.OUTPUT_INACTIVE"
@@ -9147,7 +9147,7 @@ msgstr "Signaalkiezers kunnen worden gebruikt om te selecteren welk automatiseri
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEMULTIPLEXER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEMULTIPLEXER.EFFECT"
 msgid "Select which one of four Input signals should be sent out the Output, using Control Inputs.\n\nSend a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> to the two Control Inputs to determine which Input is selected."
-msgstr "Selecteer welk van de vier ingangssignalen naar de uitgang moet worden gestuurd, met behulp van besturingsingangen.\n\nStuur een <b><style=\"logic_on\">groen signaal</style></b> of een < b><style=\"logic_off\">Rood signaal</style></b> naar de twee stuuringangen om te bepalen welke ingang is geselecteerd."
+msgstr "Selecteer welk van de vier ingangssignalen naar de uitgang moet worden gestuurd, met behulp van besturingsingangen.\n\nStuur een <b><style=\"logic_on\">Groen Signaal</style></b> of een < b><style=\"logic_off\">Rood signaal</style></b> naar de twee stuuringangen om te bepalen welke ingang is geselecteerd."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEMULTIPLEXER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEMULTIPLEXER.NAME"
@@ -9177,7 +9177,7 @@ msgstr "Deze poort keert automatiseringssignalen om, waardoor een groen sein in 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.EFFECT"
 msgid "Outputs a <b><style=\"logic_on\">Green Signal</style></b> if the Input is receiving a <b><style=\"logic_off\">Red Signal</style></b>.\n\nOutputs a <b><style=\"logic_off\">Red Signal</style></b> when its Input is receiving a <b><style=\"logic_on\">Green Signal</style></b>."
-msgstr "Geeft een <b><style=\"logic_on\">groen signaal</style></b> als de ingang een <b><style=\"logic_off\">rood signaal</style></b> ontvangt.\n\nGeeft een <b><style=\"logic_off\">rood signaal</style></b> uit wanneer de ingang een <b><style=\"logic_on\"> Groen signaal</style></b>."
+msgstr "Geeft een <b><style=\"logic_on\">Groen Signaal</style></b> als de ingang een <b><style=\"logic_off\">Rood Signaal</style></b> ontvangt.\n\nGeeft een <b><style=\"logic_off\">Rood Signaal</style></b> uit wanneer de ingang een <b><style=\"logic_on\"> Groen signaal</style></b>."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.NAME"
@@ -9187,12 +9187,12 @@ msgstr "<link=\"LOGICGATENOT\">GEEN poort</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if receiving <b><style=\"logic_off\">Red</style></b>"
-msgstr "Zendt een <b><style=\"logic_on\">groen signaal</style></b> als <b><style=\"logic_off\">rood</style></b> wordt ontvangen"
+msgstr "Zendt een <b><style=\"logic_on\">Groen Signaal</style></b> als <b><style=\"logic_off\">rood</style></b> wordt ontvangen"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_INACTIVE"
 msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> if receiving <b><style=\"logic_on\">Green</style></b>"
-msgstr "Stuurt een <b><style=\"logic_off\">rood signaal</style></b> als <b><style=\"logic_on\">groen</style></b> wordt ontvangen"
+msgstr "Stuurt een <b><style=\"logic_off\">Rood Signaal</style></b> als <b><style=\"logic_on\">groen</style></b> wordt ontvangen"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_NAME"
@@ -9202,7 +9202,7 @@ msgstr "UITVOER"
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.DESC"
 msgid "This gate outputs a Green Signal if receiving one or more Green Signals."
-msgstr "Deze poort geeft een groen signaal af als hij een of meer groene signalen ontvangt."
+msgstr "Deze poort geeft een Groen Signaal af als hij een of meer groene signalen ontvangt."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.EFFECT"
@@ -9217,12 +9217,12 @@ msgstr "<link=\"LOGICGATEOR\">OF poort</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if any Input is receiving <b><style=\"logic_on\">Green</style></b>"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als een ingang <b><style=\"logic_on\">groen</style></b> ontvangt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als een ingang <b><style=\"logic_on\">groen</style></b> ontvangt"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_INACTIVE"
 msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> if both Inputs are receiving <b><style=\"logic_off\">Red</style></b>"
-msgstr "Stuurt een <b><style=\"logic_off\">rood signaal</style></b> als beide ingangen <b><style=\"logic_off\">rood</style></b> ontvangen"
+msgstr "Stuurt een <b><style=\"logic_off\">Rood Signaal</style></b> als beide ingangen <b><style=\"logic_off\">rood</style></b> ontvangen"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_NAME"
@@ -9232,12 +9232,12 @@ msgstr "UITVOER"
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.DESC"
 msgid "This gate outputs a Green Signal if exactly one of its Inputs is receiving a Green Signal."
-msgstr "Deze poort geeft een groen signaal af als precies één van zijn ingangen een groen signaal ontvangt."
+msgstr "Deze poort geeft een Groen Signaal af als precies één van zijn ingangen een Groen Signaal ontvangt."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.EFFECT"
 msgid "Outputs a <b><style=\"logic_on\">Green Signal</style></b> if exactly one of its Inputs is receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs a <b><style=\"logic_off\">Red Signal</style></b> if both or neither Inputs are receiving a <b><style=\"logic_on\">Green Signal</style></b>."
-msgstr "Geeft een <b><style=\"logic_on\">groen signaal</style></b> als precies één van de ingangen <b><style=\"logic_on\">groen</style></b> ontvangt.\n\nGeeft een <b><style=\"logic_off\">Rood signaal</style></b> als beide of geen van beide ingangen een <b><style=\"logic_on\">Groen Signaal</style></b> ontvangen."
+msgstr "Geeft een <b><style=\"logic_on\">Groen Signaal</style></b> als precies één van de ingangen <b><style=\"logic_on\">groen</style></b> ontvangt.\n\nGeeft een <b><style=\"logic_off\">Rood signaal</style></b> als beide of geen van beide ingangen een <b><style=\"logic_on\">Groen Signaal</style></b> ontvangen."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.NAME"
@@ -9247,12 +9247,12 @@ msgstr "<link=\"LOGICGATEXOR\">XOR-poort</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if exactly one of its Inputs is receiving <b><style=\"logic_on\">Green</style></b>"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als precies één van zijn ingangen <b><style=\"logic_on\">groen</style></b> ontvangt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als precies één van zijn ingangen <b><style=\"logic_on\">groen</style></b> ontvangt"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_INACTIVE"
 msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> if both Input signals match (any color)"
-msgstr "Stuurt een <b><style=\"logic_off\">rood signaal</style></b> als beide ingangssignalen overeenkomen (elke kleur)"
+msgstr "Stuurt een <b><style=\"logic_off\">Rood Signaal</style></b> als beide ingangssignalen overeenkomen (elke kleur)"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_NAME"
@@ -9267,7 +9267,7 @@ msgstr "De hamer maakt mooie geluiden als hij gebouwen raakt."
 #. STRINGS.BUILDINGS.PREFABS.LOGICHAMMER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHAMMER.EFFECT"
 msgid "In its default orientation, the hammer strikes the building to the left when it receives a <b><style=\"logic_on\">Green Signal</style></b>.\n\nEach building has a unique sound when struck by the hammer.\n\nThe hammer does no damage when it strikes."
-msgstr "In de standaard oriëntatie raakt de hamer het gebouw aan de linkerkant wanneer het een <b><style=\"logic_on\">groen signaal</style></b> ontvangt.\n\nElk gebouw heeft een uniek geluid als hij door de hamer wordt geraakt.\n\nDe hamer richt geen schade aan als hij slaat."
+msgstr "In de standaard oriëntatie raakt de hamer het gebouw aan de linkerkant wanneer het een <b><style=\"logic_on\">Groen Signaal</style></b> ontvangt.\n\nElk gebouw heeft een uniek geluid als hij door de hamer wordt geraakt.\n\nDe hamer richt geen schade aan als hij slaat."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICHAMMER.INPUT_NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHAMMER.INPUT_NAME"
@@ -9302,7 +9302,7 @@ msgstr "Radbolt-sensoren kunnen een signaal sturen als er een Radbolt overheen g
 #. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when Radbolts detected enters the chosen range."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> wanneer gedetecteerde Radbolts het gekozen bereik binnengaat."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer gedetecteerde Radbolts het gekozen bereik binnengaat."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT"
@@ -9312,7 +9312,7 @@ msgstr "Gedetecteerde Radbolts"
 #. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if detected Radbolts are within the selected range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als gedetecteerde Radbolts binnen het geselecteerde bereik zijn"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als gedetecteerde Radbolts binnen het geselecteerde bereik zijn"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICHEPSENSOR.LOGIC_PORT_INACTIVE"
@@ -9332,7 +9332,7 @@ msgstr "Ontvangt automatiseringssignalen uit de ruimte."
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.EFFECT"
 msgid "Receives a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> from an <link=\"LOGICINTERASTEROIDSENDER\">Automation Broadcaster</link> over vast distances in space.\n\nBoth the Automation Receiver and the Automation Broadcaster must be exposed to space to function."
-msgstr "Ontvangt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> van een <link=\"LOGICINTERASTEROIDSENDER\">Automation Broadcaster</link> over grote afstanden in de ruimte.\n\nZowel de Automation Receiver als de Automation Broadcaster moeten worden blootgesteld aan ruimte om te kunnen functioneren."
+msgstr "Ontvangt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> van een <link=\"LOGICINTERASTEROIDSENDER\">Automation Broadcaster</link> over grote afstanden in de ruimte.\n\nZowel de Automation Receiver als de Automation Broadcaster moeten worden blootgesteld aan ruimte om te kunnen functioneren."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDRECEIVER.LOGIC_PORT"
@@ -9367,7 +9367,7 @@ msgstr "Stuurt automatiseringssignalen de ruimte in."
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> to an <link=\"LOGICINTERASTEROIDRECEIVER\">Automation Receiver</link> over vast distances in space.\n\nBoth the Automation Broadcaster and the Automation Receiver must be exposed to space to function."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> naar een <link=\"LOGICINTERASTEROIDRECEIVER\">automatiseringsontvanger</link> over grote afstanden in de ruimte.\n\nZowel de automatiseringszender als de automatiseringsontvanger moeten worden blootgesteld aan ruimte om te functioneren."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> naar een <link=\"LOGICINTERASTEROIDRECEIVER\">automatiseringsontvanger</link> over grote afstanden in de ruimte.\n\nZowel de automatiseringszender als de automatiseringsontvanger moeten worden blootgesteld aan ruimte om te functioneren."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.LOGIC_PORT"
@@ -9392,12 +9392,12 @@ msgstr "<link=\"LOGICINTERASTEROIDSENDER\">Automation Broadcaster</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.DESC"
 msgid "A Memory stores a Green Signal received in the Set Port (S) until the Reset Port (R) receives a Green Signal."
-msgstr "Een geheugen slaat een groen signaal op dat wordt ontvangen in de ingestelde poort (S) totdat de resetpoort (R) een groen signaal ontvangt."
+msgstr "Een geheugen slaat een Groen Signaal op dat wordt ontvangen in de ingestelde poort (S) totdat de resetpoort (R) een Groen Signaal ontvangt."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.EFFECT"
 msgid "Contains an internal Memory, and will output whatever signal is stored in that Memory.\n\nSignals sent to the Inputs <i>only</i> affect the Memory, and do not pass through to the Output. \n\nSending a <b><style=\"logic_on\">Green Signal</style></b> to the Set Port (S) will set the memory to <b><style=\"logic_on\">Green</style></b>. \n\nSending a <b><style=\"logic_on\">Green Signal</style></b> to the Reset Port (R) will reset the memory back to <b><style=\"logic_off\">Red</style></b>."
-msgstr "Bevat een intern geheugen en zal elk signaal uitvoeren dat in dat geheugen is opgeslagen.\n\nSignalen die naar de ingangen worden gestuurd, hebben <i>alleen</i> invloed op het geheugen en gaan niet door naar de uitgang. \n\nHet verzenden van een <b><style=\"logic_on\">groen signaal</style></b> naar de ingestelde poort (S) stelt het geheugen in op <b><style=\"logic_on\">groen</style></b> \n\nHet verzenden van een <b><style=\"logic_on\">groen signaal</style></b> naar de resetpoort (R) zal het geheugen terugzetten naar <b ><style=\"logic_off\">Rood</style></b>."
+msgstr "Bevat een intern geheugen en zal elk signaal uitvoeren dat in dat geheugen is opgeslagen.\n\nSignalen die naar de ingangen worden gestuurd, hebben <i>alleen</i> invloed op het geheugen en gaan niet door naar de uitgang. \n\nHet verzenden van een <b><style=\"logic_on\">Groen Signaal</style></b> naar de ingestelde poort (S) stelt het geheugen in op <b><style=\"logic_on\">groen</style></b> \n\nHet verzenden van een <b><style=\"logic_on\">Groen Signaal</style></b> naar de resetpoort (R) zal het geheugen terugzetten naar <b ><style=\"logic_off\">Rood</style></b>."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.NAME"
@@ -9412,7 +9412,7 @@ msgstr "GEHEUGENUITGANG"
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.READ_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.READ_PORT_ACTIVE"
 msgid "Outputs a <b><style=\"logic_on\">Green Signal</style></b> if the internal Memory is set to <b><style=\"logic_on\">Green</style></b>"
-msgstr "Geeft een <b><style=\"logic_on\">groen signaal</style></b> als het interne geheugen is ingesteld op <b><style=\"logic_on\">groen</style></b>"
+msgstr "Geeft een <b><style=\"logic_on\">Groen Signaal</style></b> als het interne geheugen is ingesteld op <b><style=\"logic_on\">groen</style></b>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.READ_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.READ_PORT_INACTIVE"
@@ -9492,7 +9492,7 @@ msgstr "Atmosensoren kunnen worden gebruikt om overmatige zuurstofproductie en o
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when <link=\"ELEMENTSGAS\">Gas</link> pressure enters the chosen range."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> wanneer <link=\"ELEMENTSGAS\">Gas</link>-druk binnen het gekozen bereik komt."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer <link=\"ELEMENTSGAS\">Gas</link>-druk binnen het gekozen bereik komt."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.LOGIC_PORT"
@@ -9502,7 +9502,7 @@ msgstr "<link=\"ELEMENTSGAS\">Gas</link> Druk"
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if Gas pressure is within the selected range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als de gasdruk binnen het geselecteerde bereik ligt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de gasdruk binnen het geselecteerde bereik ligt"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORGAS.LOGIC_PORT_INACTIVE"
@@ -9522,7 +9522,7 @@ msgstr "Een hydrosensor kan een pomp vertellen om zijn bassin bij te vullen zodr
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORLIQUID.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORLIQUID.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when <link=\"ELEMENTSLIQUID\">Liquid</link> pressure enters the chosen range.\n\nMust be submerged in <link=\"ELEMENTSLIQUID\">Liquid</link>."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> wanneer <link=\"ELEMENTSLIQUID\">Vloeistof</link> druk binnen het gekozen bereik komt.\n\nMoet worden ondergedompeld in <link=\"ELEMENTSLIQUID\">Vloeistof</link>."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer <link=\"ELEMENTSLIQUID\">Vloeistof</link> druk binnen het gekozen bereik komt.\n\nMoet worden ondergedompeld in <link=\"ELEMENTSLIQUID\">Vloeistof</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORLIQUID.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORLIQUID.LOGIC_PORT"
@@ -9532,7 +9532,7 @@ msgstr "<link=\"ELEMENTSLIQUID\">Vloeistof</link> Druk"
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORLIQUID.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORLIQUID.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if Liquid pressure is within the selected range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als de vloeistofdruk binnen het geselecteerde bereik ligt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de vloeistofdruk binnen het geselecteerde bereik ligt"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORLIQUID.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPRESSURESENSORLIQUID.LOGIC_PORT_INACTIVE"
@@ -9552,7 +9552,7 @@ msgstr "Stralingssensoren kunnen gebouwen uitschakelen wanneer ze gevaarlijke ni
 #. STRINGS.BUILDINGS.PREFABS.LOGICRADIATIONSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRADIATIONSENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when ambient <link=\"RADIATION\">Radiation</link> enters the chosen range."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> wanneer omgevings <link=\"RADIATION\">Straling</link> het gekozen bereik binnenkomt."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer omgevings <link=\"RADIATION\">Straling</link> het gekozen bereik binnenkomt."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICRADIATIONSENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRADIATIONSENSOR.LOGIC_PORT"
@@ -9562,7 +9562,7 @@ msgstr "Omgeving <link=\"RADIATION\">Straling</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICRADIATIONSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRADIATIONSENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if ambient <link=\"RADIATION\">Radiation</link> is within the selected range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als de <link=\"RADIATION\">straling</link> in de omgeving binnen het geselecteerde bereik ligt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de <link=\"RADIATION\">straling</link> in de omgeving binnen het geselecteerde bereik ligt"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICRADIATIONSENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRADIATIONSENSOR.LOGIC_PORT_INACTIVE"
@@ -9737,7 +9737,7 @@ msgstr "Signaalschakelaars zetten roosters niet aan en uit zoals stroomschakelaa
 #. STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> on an <link=\"LOGIC\">Automation</link> grid."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> op een <link=\"LOGIC\">Automatisering</link> raster."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> op een <link=\"LOGIC\">Automatisering</link> raster."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.LOGIC_PORT"
@@ -9747,12 +9747,12 @@ msgstr "Signaal wisselen"
 #. STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if toggled ON"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> indien ingeschakeld"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> indien ingeschakeld"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.LOGIC_PORT_INACTIVE"
 msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> if toggled OFF"
-msgstr "Stuurt een <b><style=\"logic_off\">rood signaal</style></b> indien uitgeschakeld"
+msgstr "Stuurt een <b><style=\"logic_off\">Rood Signaal</style></b> indien uitgeschakeld"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICSWITCH.NAME"
@@ -9772,7 +9772,7 @@ msgstr "Thermosensoren kunnen gebouwen uitschakelen wanneer ze gevaarlijke tempe
 #. STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when ambient <link=\"HEAT\">Temperature</link> enters the chosen range."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> wanneer de omgevingstemperatuur <link=\"HEAT\">Temperatuur</link> het gekozen bereik binnenkomt."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer de omgevingstemperatuur <link=\"HEAT\">Temperatuur</link> het gekozen bereik binnenkomt."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT"
@@ -9782,7 +9782,7 @@ msgstr "Omgeving <link=\"HEAT\">Temperatuur</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if ambient <link=\"HEAT\">Temperature</link> is within the selected range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als de omgevingstemperatuur <link=\"HEAT\">temperatuur</link> binnen het geselecteerde bereik ligt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de omgevingstemperatuur <link=\"HEAT\">temperatuur</link> binnen het geselecteerde bereik ligt"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT_INACTIVE"
@@ -9812,7 +9812,7 @@ msgstr "Cyclustijd"
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if current time is within the selected <b><style=\"logic_on\">Green</style></b> range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als de huidige tijd binnen het geselecteerde <b><style=\"logic_on\">groen</style> valt </b> bereik"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de huidige tijd binnen het geselecteerde <b><style=\"logic_on\">groen</style> valt </b> bereik"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.LOGIC_PORT_INACTIVE"
@@ -9842,12 +9842,12 @@ msgstr "Timer Schema"
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> for the selected amount of Green time"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> voor de geselecteerde hoeveelheid groene tijd"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> voor de geselecteerde hoeveelheid groene tijd"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.LOGIC_PORT_INACTIVE"
 msgid "Then, sends a <b><style=\"logic_off\">Red Signal</style></b> for the selected amount of Red time"
-msgstr "Verzendt vervolgens een <b><style=\"logic_off\">rood signaal</style></b> voor de geselecteerde hoeveelheid roodtijd"
+msgstr "Verzendt vervolgens een <b><style=\"logic_off\">Rood Signaal</style></b> voor de geselecteerde hoeveelheid roodtijd"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.NAME"
@@ -9862,7 +9862,7 @@ msgstr "Wattage-sensoren kunnen een signaal afgeven wanneer een gebouw is in- of
 #. STRINGS.BUILDINGS.PREFABS.LOGICWATTAGESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWATTAGESENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when <link=\"POWER\">Wattage</link> consumed enters the chosen range."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> wanneer verbruikt <link=\"POWER\">Wattage</link> binnen het gekozen bereik komt."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer verbruikt <link=\"POWER\">Wattage</link> binnen het gekozen bereik komt."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICWATTAGESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWATTAGESENSOR.LOGIC_PORT"
@@ -9872,7 +9872,7 @@ msgstr "Verbruikt <link=\"POWER\">Wattage</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICWATTAGESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWATTAGESENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if current <link=\"POWER\">Wattage</link> is within the selected range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als het huidige <link=\"POWER\">wattage</link> binnen het geselecteerde bereik valt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als het huidige <link=\"POWER\">wattage</link> binnen het geselecteerde bereik valt"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICWATTAGESENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICWATTAGESENSOR.LOGIC_PORT_INACTIVE"
@@ -11182,7 +11182,7 @@ msgstr "Vier pixels die individueel verschillende kleuren kunnen krijgen."
 #. STRINGS.BUILDINGS.PREFABS.PIXELPACK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIXELPACK.EFFECT"
 msgid "Pixels can be designated a color when it receives a <b><style=\"logic_on\">Green Signal</style></b> and a different color when it receives a <b><style=\"logic_off\">Red Signal</style></b>.\n\nInput from an <link=\"LOGICWIRE\">Automation Wire</link> controls the whole strip. Input from an <link=\"LOGICRIBBON\">Automation Ribbon</link> can control individual pixels on the strip."
-msgstr "Pixels kunnen een kleur toegewezen krijgen wanneer ze een <b><style=\"logic_on\">groen signaal</style></b> ontvangen en een andere kleur wanneer ze een <b><style=\" ontvangen logic_off\">Rood signaal</style></b>.\n\nInvoer van een <link=\"LOGICWIRE\">Automation Wire</link> regelt de hele strip. Invoer van een <link=\"LOGICRIBBON \">Automation Ribbon</link> kan individuele pixels op de strip besturen."
+msgstr "Pixels kunnen een kleur toegewezen krijgen wanneer ze een <b><style=\"logic_on\">Groen Signaal</style></b> ontvangen en een andere kleur wanneer ze een <b><style=\" ontvangen logic_off\">Rood signaal</style></b>.\n\nInvoer van een <link=\"LOGICWIRE\">Automation Wire</link> regelt de hele strip. Invoer van een <link=\"LOGICRIBBON \">Automation Ribbon</link> kan individuele pixels op de strip besturen."
 
 #. STRINGS.BUILDINGS.PREFABS.PIXELPACK.INPUT_NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIXELPACK.INPUT_NAME"
@@ -11957,7 +11957,7 @@ msgstr "Vol/Niet vol"
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when full"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> wanneer vol"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer vol"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_INACTIVE"
@@ -12697,7 +12697,7 @@ msgstr "\"Abstract\"Sculptuur"
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.ACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.ACTIVATE_TOOLTIP"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when reservoir is less than <b>{0}%</b> full, until it is <b>{1}% (High Threshold)</b> full"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> wanneer het reservoir minder dan <b>{0}%</b> vol is, totdat het <b> {1}% (hoge drempel)</b> vol"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer het reservoir minder dan <b>{0}%</b> vol is, totdat het <b> {1}% (hoge drempel)</b> vol"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.DEACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.DEACTIVATE_TOOLTIP"
@@ -12712,7 +12712,7 @@ msgstr "Parameters bijvullen"
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when reservoir is less than <b>Low Threshold</b> full, until <b>High Threshold</b> is reached again"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> wanneer het reservoir minder dan <b>Low Threshold</b> vol is, tot <b>High Threshold</b> b> is weer bereikt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer het reservoir minder dan <b>Low Threshold</b> vol is, tot <b>High Threshold</b> b> is weer bereikt"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_INACTIVE"
@@ -12847,7 +12847,7 @@ msgstr "Kiemsensoren kunnen automatiseringsgedrag helpen beheersen in de aanwezi
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> based on the internal <link=\"DISEASE\">Germ</link> count of the object on the rail."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> gebaseerd op de interne <link=\"DISEASE\">kiem</link> telling van het object op de rail."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> gebaseerd op de interne <link=\"DISEASE\">kiem</link> telling van het object op de rail."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT"
@@ -12857,7 +12857,7 @@ msgstr "Interne <link=\"DISEASE\">kiem</link> telling"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the number of Germs on the object on the rail is within the selected range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als het aantal ziektekiemen op het object op de rail binnen het geselecteerde bereik ligt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als het aantal ziektekiemen op het object op de rail binnen het geselecteerde bereik ligt"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITDISEASESENSOR.LOGIC_PORT_INACTIVE"
@@ -12877,7 +12877,7 @@ msgstr "Elementsensoren kunnen worden gebruikt om de aanwezigheid van een specif
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when the selected item is detected on a rail."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> wanneer het geselecteerde item op een rail wordt gedetecteerd."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer het geselecteerde item op een rail wordt gedetecteerd."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT"
@@ -12887,7 +12887,7 @@ msgstr "Interne <link=\"ELEMENTSLIQUID\">Item</link> Aanwezigheid"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the configured item is detected on the rail"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als het geconfigureerde item op de rail wordt gedetecteerd"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als het geconfigureerde item op de rail wordt gedetecteerd"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITELEMENTSENSOR.LOGIC_PORT_INACTIVE"
@@ -12937,7 +12937,7 @@ msgstr "Thermosensoren schakelen gebouwen uit wanneer hun railinhoud een bepaald
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when rail contents enter the chosen <link=\"HEAT\">Temperature</link> range."
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> of een <b><style=\"logic_off\">rood signaal</style></b> wanneer de railinhoud het gekozen <link=\"HEAT\">temperatuurbereik</link> bereikt."
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer de railinhoud het gekozen <link=\"HEAT\">temperatuurbereik</link> bereikt."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT"
@@ -12947,7 +12947,7 @@ msgstr "Intern item <link=\"HEAT\">Temperatuur</link>"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if the contained item is within the selected Temperature range"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als het ingesloten item binnen het geselecteerde temperatuurbereik valt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als het ingesloten item binnen het geselecteerde temperatuurbereik valt"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITTEMPERATURESENSOR.LOGIC_PORT_INACTIVE"
@@ -13012,7 +13012,7 @@ msgstr "<link=\"SOLIDLIMITVALVE\">Transportbandmeter</link>"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if limit has been reached"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> als limiet is bereikt"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als limiet is bereikt"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.OUTPUT_PORT_INACTIVE"
@@ -13267,7 +13267,7 @@ msgstr "Slimme opslagbakken kunnen de organisatie van resources automatiseren op
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.EFFECT"
 msgid "Stores the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing.\n\nSends a <b><style=\"logic_on\">Green Signal</style></b> when bin is full."
-msgstr "Slaat de <link=\"ELEMENTSSOLID\">vaste materialen</link> van uw keuze op.\n\nStuurt een <b><style=\"logic_on\">groen signaal</style></b> als de bak vol is."
+msgstr "Slaat de <link=\"ELEMENTSSOLID\">vaste materialen</link> van uw keuze op.\n\nStuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de bak vol is."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT"
@@ -13277,7 +13277,7 @@ msgstr "Vol/Niet vol"
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when full"
-msgstr "Stuurt een <b><style=\"logic_on\">groen signaal</style></b> wanneer vol"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer vol"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_INACTIVE"
@@ -15262,7 +15262,7 @@ msgstr "Naast een <link=\"WIRE\">elektrische kabel</link> kunnen de meeste gebou
 #. STRINGS.CODEX.AUTOMATION.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.AUTOMATION.PARAGRAPH_3"
 msgid "There are two signals that an <link=\"LOGICWIRE\">Automation Wire</link> can send: Green and Red. The green signal will usually cause buildings to turn on, and the red signal will usually cause buildings to turn off. Sensors can often be configured to send their green signal only under certain conditions. A <link=\"LOGICTEMPERATURESENSOR\">Thermo Sensor</link> could be configured to only send a green signal if detecting temperatures greater than a chosen value.\n\n"
-msgstr "Er zijn twee signalen die een <link=\"LOGICWIRE\">automatiseringskabel</link> kan verzenden: groen en rood. Het groene signaal zorgt er meestal voor dat gebouwen worden ingeschakeld en het rode signaal zorgt er meestal voor dat gebouwen worden uitgeschakeld. uitschakelen. Sensoren kunnen vaak worden geconfigureerd om alleen onder bepaalde omstandigheden een groen signaal af te geven. Een <link=\"LOGICTEMPERATURESENSOR\">Thermosensor</link> kan worden geconfigureerd om alleen een groen signaal af te geven als er temperaturen worden gedetecteerd die hoger zijn dan een gekozen waarde.\n\n"
+msgstr "Er zijn twee signalen die een <link=\"LOGICWIRE\">automatiseringskabel</link> kan verzenden: groen en rood. Het groene signaal zorgt er meestal voor dat gebouwen worden ingeschakeld en het rode signaal zorgt er meestal voor dat gebouwen worden uitgeschakeld. uitschakelen. Sensoren kunnen vaak worden geconfigureerd om alleen onder bepaalde omstandigheden een Groen Signaal af te geven. Een <link=\"LOGICTEMPERATURESENSOR\">Thermosensor</link> kan worden geconfigureerd om alleen een Groen Signaal af te geven als er temperaturen worden gedetecteerd die hoger zijn dan een gekozen waarde.\n\n"
 
 #. STRINGS.CODEX.AUTOMATION.PARAGRAPH_4
 msgctxt "STRINGS.CODEX.AUTOMATION.PARAGRAPH_4"
@@ -73117,7 +73117,7 @@ msgstr "Klaar om passagier te verzenden."
 #. STRINGS.UI.UISIDESCREENS.WATTAGESWITCHSIDESCREEN.ACTIVATE_IF
 msgctxt "STRINGS.UI.UISIDESCREENS.WATTAGESWITCHSIDESCREEN.ACTIVATE_IF"
 msgid "Send <b><style=\"logic_on\">Green Signal</style></b> if:"
-msgstr "Stuur <b><style=\"logic_on\">groen signaal</style></b> als:"
+msgstr "Stuur <b><style=\"logic_on\">Groen Signaal</style></b> als:"
 
 #. STRINGS.UI.UISIDESCREENS.WATTAGESWITCHSIDESCREEN.COLDER_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.WATTAGESWITCHSIDESCREEN.COLDER_BUTTON"
