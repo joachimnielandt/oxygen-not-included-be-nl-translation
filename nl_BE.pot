@@ -714,7 +714,7 @@ msgstr "Scan Kwaliteit: {Quality}"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP"
-msgid "This scanner dish is currently scanning at <b>{Quality}</b> effectiveness\n\nDecreased scan quality may be due to:\n    â¢ Interference from nearby industrial machinery\n    â¢ Rock or tile obstructing the dish's line of sight on space"
+msgid "This scanner dish is currently scanning at <b>{Quality}</b> effectiveness\n\nDecreased scan quality may be due to:\n    • Interference from nearby industrial machinery\n    • Rock or tile obstructing the dish's line of sight on space"
 msgstr "Effectiviteit van deze scanner schotel is momenteel <b>{Quality}</b> \n\nVerminderende scan kwaliteit kan zijn door:\n    â¢ Storing van nabije industriele machines\n    â¢ Rots of blok dat het zicht van de schotel op de ruimte belemmert"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME
@@ -1060,8 +1060,7 @@ msgstr "Wachten Op Radbolten ({CurrentHEP}/{HEPRequired})"
 #. STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FABRICATORLACKSHEP.TOOLTIP"
 msgid "A queued recipe requires more Radbolts than are currently stored.\n\nCurrently stored: {CurrentHEP}\nRequired for recipe: {HEPRequired}"
-msgstr "Een recept in wachtrij heeft meer Radbolts nodig dat er beschikbaar zijn.\n\nMomenteel beschikbaar: {CurrentHEP}\n"
-"Nodig voor recept: {HEPRequired}"
+msgstr "Een recept in wachtrij heeft meer Radbolts nodig dat er beschikbaar zijn.\n\nMomenteel beschikbaar: {CurrentHEP}\nNodig voor recept: {HEPRequired}"
 
 #. STRINGS.BUILDING.STATUSITEMS.FISHFEEDERACCEPTSMUTANTSEEDS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.FISHFEEDERACCEPTSMUTANTSEEDS.NAME"
@@ -1840,12 +1839,12 @@ msgstr "Deze Duplicant is onder mijn controle"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS"
-msgid "â¢ {0}: {1}"
+msgid "• {0}: {1}"
 msgstr "â¢ {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS"
-msgid "â¢ {0}"
+msgid "• {0}"
 msgstr "â¢ {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
@@ -1870,7 +1869,7 @@ msgstr "Nodige materialen zijn onbeschikbaar of buiten bereik voor dit gebouw:"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM"
-msgid "â¢ {0}"
+msgid "• {0}"
 msgstr "â¢ {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME
@@ -2065,7 +2064,7 @@ msgstr "Verzamel <style=\"KKeyword\">Eieren</style> van <link=\"CREATURES\">Bees
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.LINE_ITEM"
-msgid "â¢ {0}"
+msgid "• {0}"
 msgstr "â¢ {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
@@ -2090,7 +2089,7 @@ msgstr "De <style=\"KKeyword\">Gas Uitvoer</style> van dit gebouw heeft geen aan
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.LINE_ITEM"
-msgid "â¢ {0}"
+msgid "• {0}"
 msgstr "â¢ {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
@@ -2145,7 +2144,7 @@ msgstr "Dit gebouw mankeert vereiste materialen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.LINE_ITEM"
-msgid "â¢ <b>{0}</b>"
+msgid "• <b>{0}</b>"
 msgstr "â¢ <b>{0}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.NAME
@@ -2590,7 +2589,7 @@ msgstr "Interne Koeling"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
-msgid "    â¢ {0}: {1}\n"
+msgid "    • {0}: {1}\n"
 msgstr "    â¢ {0}: {1}\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME
@@ -2675,7 +2674,7 @@ msgstr "Vast {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PATH_NOT_CLEAR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PATH_NOT_CLEAR.TOOLTIP"
-msgid "There are obstructions in the launch trajectory of this rocket:\n    â¢ {0}\n\nThis rocket requires a clear flight path for launch"
+msgid "There are obstructions in the launch trajectory of this rocket:\n    • {0}\n\nThis rocket requires a clear flight path for launch"
 msgstr "Er zijn belemmeringen in had lanceer pad van deze raket:\n    â¢ {0}\n\nDeze raket heeft een vrij vluchtpad nodig om te kunnen lanceren"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
@@ -2880,7 +2879,7 @@ msgstr "Geen Bezorg Bestemming"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP"
-msgid "A delivery destination has not been set    â¢ {0}"
+msgid "A delivery destination has not been set    • {0}"
 msgstr "Een bezorg bestemming werd niet opgegeven    â¢ {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME
@@ -2890,7 +2889,7 @@ msgstr "Lanceer Pad Geblokkerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP"
-msgid "There are obstructions in the launch trajectory of this <link=\"RAILGUN\">Interplanetary Launcher</link>:\n    â¢ {0}\n\nThis launcher requires a clear path to launch payloads"
+msgid "There are obstructions in the launch trajectory of this <link=\"RAILGUN\">Interplanetary Launcher</link>:\n    • {0}\n\nThis launcher requires a clear path to launch payloads"
 msgstr "Er zijn belemmeringen in had lanceer pad van deze <link=\"RAILGUN\">Interplanetaire Lanceerder</link>:\n    â¢ {0}\n\nDeze lanceerder heeft een vrij vluchtpad nodig om iets te kunnen lanceren"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME
@@ -3150,7 +3149,7 @@ msgstr "Niet In Gezichtsveld"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP"
-msgid "This building has no view of space\n\nEnsure an unblocked view of the sky is available to collect <b>Starmap</b> data\n    â¢ Visibility: <b>{VISIBILITY}</b>\n    â¢ Scan Radius: <b>{RADIUS}</b> cells"
+msgid "This building has no view of space\n\nEnsure an unblocked view of the sky is available to collect <b>Starmap</b> data\n    • Visibility: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cells"
 msgstr "Dit gebouw heeft geen zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om <b>Sterrenkaart</b> data te verzamelen\n    â¢ Zichtbaarheid: <b>{VISIBILITY}</b>\n    â¢ Scan Radius: <b>{RADIUS}</b> cellen"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.NAME
@@ -3160,7 +3159,7 @@ msgstr "Verminderde Zichtbaarheid"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP"
-msgid "This building has an inadequate or obscured view of space\n\nEnsure an unblocked view of the sky is available to collect <b>Starmap</b> data\n    â¢ Visibility: <b>{VISIBILITY}</b>\n    â¢ Scan Radius: <b>{RADIUS}</b> cells"
+msgid "This building has an inadequate or obscured view of space\n\nEnsure an unblocked view of the sky is available to collect <b>Starmap</b> data\n    • Visibility: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cells"
 msgstr "Dit gebouw heeft onvoldoende of geblokkeerd zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om <b>Sterrenkaart</b> data te verzamelen\n    â¢ Zichtbaarheid: <b>{VISIBILITY}</b>\n    â¢ Scan Radius: <b>{RADIUS}</b> cellen"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME
@@ -3716,12 +3715,12 @@ msgstr "Wachten op een Duplicant om de stroomsnelheid aan te passen"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS"
-msgid "â¢ {0}: {1}"
+msgid "• {0}: {1}"
 msgstr "â¢ {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS"
-msgid "â¢ {0}"
+msgid "• {0}"
 msgstr "â¢ {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME
@@ -3746,7 +3745,7 @@ msgstr "Dit gebouw heeft Radbolten nodig om te functioneren\n\n\n\nOpen het <b>S
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM"
-msgid "â¢ <style=\"KKeyword\">{0}</style>: <b>{1}</b>"
+msgid "• <style=\"KKeyword\">{0}</style>: <b>{1}</b>"
 msgstr "â¢ <style=\"KKeyword\">{0}</style>: <b>{1}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME
@@ -6278,7 +6277,7 @@ msgstr "Een rustgevend paars behang."
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPURPLE.NAME"
 msgid "<link=\"EXTERIORWALL\">Pastel Purple</link>"
 msgstr "<link=\"EXTERIORWALL\">Pastel Paars</link>"
- 
+
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELYELLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELYELLOW.DESC"
 msgid "A soothing yellow wallpaper."
@@ -16116,7 +16115,7 @@ msgstr "Critter Levering"
 
 #. STRINGS.CODEX.CRYOTANKWARNINGS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRYOTANKWARNINGS.BODY.CONTAINER1"
-msgid "    â¢ Do not leave the contents of the Cryotank 3000 unattended unless an apocalyptic disaster has left you no choice.\n\n    â¢ Ensure that the Cryotank 3000 has enough battery power to remain active for at least 6000 years.\n\n    â¢ Do not attempt to defrost the contents of the Cryotank 3000 while it is submerged in molten hot lava.\n\n    â¢ Use only a qualified Gravitas Cryotank repair facility to repair your Cryotank 3000. Attempting to service the device yourself will void the warranty.\n\n    â¢ Do not put food in the Cryotank 3000. The Cryotank 3000 is not a refrigerator.\n\n    â¢ Do not allow children to play in the Cryotank 3000. The Cryotank 3000 is not a toy.\n\n    â¢ While the Cryotank 3000 is able to withstand a nuclear blast, Gravitas and its subsidiaries are not responsible for what may happen in the resulting nuclear fallout.\n\n    â¢ Wait at least 5 minutes after being unfrozen from the Cryotank 3000 before operating heavy machinery.\n\n    â¢ Each Cryotank 3000 is good for only one use.\n\n"
+msgid "    • Do not leave the contents of the Cryotank 3000 unattended unless an apocalyptic disaster has left you no choice.\n\n    • Ensure that the Cryotank 3000 has enough battery power to remain active for at least 6000 years.\n\n    • Do not attempt to defrost the contents of the Cryotank 3000 while it is submerged in molten hot lava.\n\n    • Use only a qualified Gravitas Cryotank repair facility to repair your Cryotank 3000. Attempting to service the device yourself will void the warranty.\n\n    • Do not put food in the Cryotank 3000. The Cryotank 3000 is not a refrigerator.\n\n    • Do not allow children to play in the Cryotank 3000. The Cryotank 3000 is not a toy.\n\n    • While the Cryotank 3000 is able to withstand a nuclear blast, Gravitas and its subsidiaries are not responsible for what may happen in the resulting nuclear fallout.\n\n    • Wait at least 5 minutes after being unfrozen from the Cryotank 3000 before operating heavy machinery.\n\n    • Each Cryotank 3000 is good for only one use.\n\n"
 msgstr " â¢ Laat de inhoud van de Cryotank 3000 niet onbeheerd achter, tenzij een apocalyptische ramp u geen keus heeft gelaten.\n\n â¢ Zorg ervoor dat de Cryotank 3000 voldoende batterijvermogen heeft om minimaal 6000 jaar actief te blijven. \n\n â¢ Probeer de inhoud van de Cryotank 3000 niet te ontdooien terwijl deze is ondergedompeld in gesmolten hete lava.\n\n â¢ Gebruik alleen een gekwalificeerde Gravitas Cryotank-reparatiefaciliteit om uw Cryotank 3000 te repareren. Als u het apparaat zelf onderhoudt, vervalt de garantie.\n\n â¢ Plaats geen voedsel in de Cryotank 3000. De Cryotank 3000 is geen koelkast.\n\n â¢ Laat kinderen niet in de Cryotank 3000 spelen De Cryotank 3000 is geen speelgoed.\n\n â¢ Hoewel de Cryotank 3000 bestand is tegen een nucleaire ontploffing, zijn Gravitas en zijn dochterondernemingen niet verantwoordelijk voor wat er kan gebeuren in de resulterende nucleaire neerslag.\n\n â ¢ Wacht ten minste 5 minuten na het ontdooien uit de Cryotank 3000 voordat u zware machines bedient.\n\n â¢ Elke Cryotank 3000 is goed voor slechts één gebruik.\n\n"
 
 #. STRINGS.CODEX.CRYOTANKWARNINGS.SUBTITLE
@@ -18876,7 +18875,7 @@ msgstr "Mijnbouw begint zodra materialen zijn geleverd"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.LINE_ITEM
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.LINE_ITEM"
-msgid "    â¢ Entombed"
+msgid "    • Entombed"
 msgstr " â¢ Begraven"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.STATUSITEMS.FOSSILENTOMBED.NAME
@@ -23671,8 +23670,8 @@ msgstr "Bij 0% <style=\"KKeyword\">Wildness</style> wordt een critter <style=\"K
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME"
-msgid "    â¢ Pressure"
-msgstr " â¢ Druk"
+msgid "    • Pressure"
+msgstr "    • Druk"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.TOOLTIP"
@@ -23681,7 +23680,7 @@ msgstr "De groei wordt hervat als de luchtdruk tussen <b>{low_mass}</b> en <b>{h
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME"
-msgid "    â¢ Pressure"
+msgid "    • Pressure"
 msgstr " â¢ Druk"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.TOOLTIP
@@ -23781,7 +23780,7 @@ msgstr "Deze baby snakt naar aandacht van zijn eigen soort"
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.NAME"
-msgid "    â¢ Fertilization"
+msgid "    • Fertilization"
 msgstr " â¢ Bevruchting"
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.TOOLTIP
@@ -23791,7 +23790,7 @@ msgstr "Dit landbouwperceel accepteert geen <style=\"KKeyword\">kunstmest</style
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME"
-msgid "    â¢ Irrigation"
+msgid "    • Irrigation"
 msgstr " â¢ Irrigatie"
 
 #. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.TOOLTIP
@@ -23821,7 +23820,7 @@ msgstr "Dit beestje kan niet genoeg <style=\"KKeyword\">Warmte</style> vasthoude
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD_CROP.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD_CROP.NAME"
-msgid "    â¢ Body Temperature"
+msgid "    • Body Temperature"
 msgstr " â¢ Lichaamstemperatuur"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD_CROP.TOOLTIP
@@ -23861,7 +23860,7 @@ msgstr "De ademhaling van dit beestje heeft een verkoelend effect op de omgeving
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_BLIGHTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_BLIGHTED.NAME"
-msgid "    â¢ Blighted"
+msgid "    • Blighted"
 msgstr " â¢ Verward"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_BLIGHTED.TOOLTIP
@@ -23896,7 +23895,7 @@ msgstr "Vereist: {VEREISTEN}"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_BRIGHT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_BRIGHT.NAME"
-msgid "    â¢ Illumination"
+msgid "    • Illumination"
 msgstr " â¢ Verlichting"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_BRIGHT.TOOLTIP
@@ -23906,7 +23905,7 @@ msgstr "De groei wordt hervat wanneer aan de <style=\"KKeyword\">Light</style>-v
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_DARK.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_DARK.NAME"
-msgid "    â¢ Illumination"
+msgid "    • Illumination"
 msgstr " â¢ Verlichting"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_DARK.TOOLTIP
@@ -23916,7 +23915,7 @@ msgstr "De groei wordt hervat wanneer aan de <style=\"KKeyword\">Light</style>-v
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_NONRADIATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_NONRADIATED.NAME"
-msgid "    â¢ Low Radiation Levels"
+msgid "    • Low Radiation Levels"
 msgstr " â¢ Lage stralingsniveaus"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_NONRADIATED.TOOLTIP
@@ -23926,7 +23925,7 @@ msgstr "De groei wordt hervat wanneer aan de <style=\"KKeyword\">Straling</style
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_RADIATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_RADIATED.NAME"
-msgid "    â¢ High Radiation Levels"
+msgid "    • High Radiation Levels"
 msgstr " â¢ Hoge stralingsniveaus"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_RADIATED.TOOLTIP
@@ -24026,7 +24025,7 @@ msgstr "Dit beestje zoekt een plek om te slapen"
 
 #. STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME"
-msgid "    â¢ Beached"
+msgid "    • Beached"
 msgstr " â¢ Gestrand"
 
 #. STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.TOOLTIP
@@ -24111,7 +24110,7 @@ msgstr "Dit beestje verlaat zijn hol"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENTOMBED.LINE_ITEM"
-msgid "    â¢ Entombed"
+msgid "    • Entombed"
 msgstr " â¢ Begraven"
 
 #. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.NAME
@@ -24336,7 +24335,7 @@ msgstr "Huidige fysieke status: {healthState}"
 
 #. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.LINE_ITEM"
-msgid "    â¢ {0}\n"
+msgid "    • {0}\n"
 msgstr " â¢ {0}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.NAME
@@ -24556,7 +24555,7 @@ msgstr "Verwelkt"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.LINE_ITEM"
-msgid "\n            â¢ {Resource}: {Amount}"
+msgid "\n            • {Resource}: {Amount}"
 msgstr "\n â¢ {Resource}: {Amount}"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
@@ -24571,12 +24570,12 @@ msgstr "De groei wordt hervat wanneer aan de <style=\"KKeyword\">bemestingsverei
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM"
-msgid "\n            â¢ {Resource}: {Amount}"
+msgid "\n            • {Resource}: {Amount}"
 msgstr "\n â¢ {Resource}: {Amount}"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME"
-msgid "    â¢ Irrigation"
+msgid "    • Irrigation"
 msgstr " â¢ Irrigatie"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP
@@ -24586,7 +24585,7 @@ msgstr "De groei wordt hervat wanneer aan de <style=\"KKeyword\">Vloeibare</styl
 
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM"
-msgid "    â¢ {0}\n"
+msgid "    • {0}\n"
 msgstr " â¢ {0}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.NAME
@@ -24701,7 +24700,7 @@ msgstr "Deze plant kan geoogst worden voor materialen"
 
 #. STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.NAME"
-msgid "    â¢ Farm plot inoperable"
+msgid "    • Farm plot inoperable"
 msgstr " â¢ Boerderijperceel onbruikbaar"
 
 #. STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.TOOLTIP
@@ -24961,7 +24960,7 @@ msgstr "Groei zal hervatten als de omstandigheden verbeteren"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGATMOSPHERE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGATMOSPHERE.NAME"
-msgid "    â¢ Atmosphere"
+msgid "    • Atmosphere"
 msgstr " â¢ Sfeer"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGATMOSPHERE.TOOLTIP
@@ -24971,12 +24970,12 @@ msgstr "De groei zal hervatten wanneer het wordt ondergedompeld in een van de vo
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM"
-msgid "            â¢ {0}: {1}\n"
+msgid "            • {0}: {1}\n"
 msgstr " â¢ {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME"
-msgid "    â¢ Fertilization"
+msgid "    • Fertilization"
 msgstr " â¢ Bevruchting"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.TOOLTIP
@@ -24986,12 +24985,12 @@ msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plan
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.LINE_ITEM"
-msgid "                    â¢ {0}: {1}\n"
+msgid "                    • {0}: {1}\n"
 msgstr " â¢ {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME"
-msgid "    â¢ Fertilization"
+msgid "    • Fertilization"
 msgstr " â¢ Bevruchting"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP
@@ -25001,12 +25000,12 @@ msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plan
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM"
-msgid "            â¢ {0}: {1}\n"
+msgid "            • {0}: {1}\n"
 msgstr " â¢ {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME"
-msgid "    â¢ Fertilization"
+msgid "    • Fertilization"
 msgstr " â¢ Bevruchting"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.TOOLTIP
@@ -25016,12 +25015,12 @@ msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plan
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.LINE_ITEM"
-msgid "                    â¢ {0}: {1}\n"
+msgid "                    • {0}: {1}\n"
 msgstr " â¢ {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME"
-msgid "    â¢ Irrigation"
+msgid "    • Irrigation"
 msgstr " â¢ Irrigatie"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.TOOLTIP
@@ -25576,7 +25575,7 @@ msgstr "Minimale straling"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MODIFIER_ENTRY
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MODIFIER_ENTRY"
-msgid "\n    â¢ {0}: {1}"
+msgid "\n    • {0}: {1}"
 msgstr "\n â¢ {0}: {1}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC
@@ -25611,7 +25610,7 @@ msgstr "Moraal"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.QUALITYOFLIFE.TOOLTIP_EXPECTATION
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.QUALITYOFLIFE.TOOLTIP_EXPECTATION"
-msgid "Total <b>Morale Need</b>: {0}\n    â¢ Skills Learned: +{0}"
+msgid "Total <b>Morale Need</b>: {0}\n    • Skills Learned: +{0}"
 msgstr "Totale <b>morele behoefte</b>: {0}\n â¢ geleerde vaardigheden: +{0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.QUALITYOFLIFE.TOOLTIP_EXPECTATION_OVER
@@ -28661,7 +28660,7 @@ msgstr "Verdubbelt kiemgetal elke {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWTH_FORMAT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWTH_FORMAT"
-msgid "    â¢ {0}"
+msgid "    • {0}"
 msgstr " â¢ {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL
@@ -28871,7 +28870,7 @@ msgstr "Onbekende bron"
 
 #. STRINGS.DUPLICANTS.DISEASES.LEGEND_POSTAMBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.LEGEND_POSTAMBLE"
-msgid "\nâ¢  Select an infected object for more details"
+msgid "\n•  Select an infected object for more details"
 msgstr "\nâ¢ Selecteer een geïnfecteerd object voor meer details"
 
 #. STRINGS.DUPLICANTS.DISEASES.MEDICINE.BOOSTER
@@ -33271,7 +33270,7 @@ msgstr "Vervelende longen hoesten"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COUGHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COUGHING.TOOLTIP"
-msgid "Hey! Do that into your elbow\nâ¢ Coughing fit was caused by Yucky Lungs"
+msgid "Hey! Do that into your elbow\n• Coughing fit was caused by Yucky Lungs"
 msgstr "Hé! Doe dat in je elleboog\nâ¢ Hoestbui werd veroorzaakt door Yucky Lungs"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DAILYRATIONLIMITREACHED.NAME
@@ -33391,7 +33390,7 @@ msgstr "Early Bird"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EARLYMORNING.TOOLTIP"
-msgid "This Duplicant is jazzed to start the day\nâ¢ All <style=\"KKeyword\">Attributes</style> <b>+2</b> in the morning"
+msgid "This Duplicant is jazzed to start the day\n• All <style=\"KKeyword\">Attributes</style> <b>+2</b> in the morning"
 msgstr "Deze Duplicant is uitgerust om de dag te beginnen\nâ¢ Alle <style=\"KKeyword\">Attributen</style> <b>+2</b> in de ochtend"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EATDELIVERSTATUS.NAME
@@ -33516,7 +33515,7 @@ msgstr "Belichting"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.TOOLTIP"
-msgid "This Duplicant has been exposed to a concentration of {Sickness} Germs and is at risk of waking up sick on their next shift\n\nExposed {Source}\n\nRate of Contracting {Sickness}: {Chance}\n\nResistance Rating: {Total}\n    â¢ Base {Sickness} Resistance: {Base}\n    â¢ Germ Resistance: {Dupe}\n    â¢ {Severity} Exposure: {ExposureLevelBonus}\n\n<i>(ClickType/Click) to jump to last exposure location</i>"
+msgid "This Duplicant has been exposed to a concentration of {Sickness} Germs and is at risk of waking up sick on their next shift\n\nExposed {Source}\n\nRate of Contracting {Sickness}: {Chance}\n\nResistance Rating: {Total}\n    • Base {Sickness} Resistance: {Base}\n    • Germ Resistance: {Dupe}\n    • {Severity} Exposure: {ExposureLevelBonus}\n\n<i>(ClickType/Click) to jump to last exposure location</i>"
 msgstr "Deze Duplicant is blootgesteld aan een concentratie van {Sickness} ziektekiemen en loopt het risico ziek wakker te worden bij hun volgende shift\n\nBlootgestelde {Bron}\n\nRate of Contracting {Sickness}: {Chance}\n\nResistance Rating: {Total}\n â¢ Base {Sickness} Resistentie: {Base}\n â¢ Ziektekiemresistentie: {Dupe}\n â¢ {Severity} Blootstelling: {ExposureLevelBonus}\n\n<i >(ClickType/Click) om naar de laatste belichtingslocatie te springen</i>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FABRICATEDELIVERSTATUS.NAME
@@ -33876,7 +33875,7 @@ msgstr "Rockfan"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.METEORPHILE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.METEORPHILE.TOOLTIP"
-msgid "This Duplicant is <i>really</i> into meteor showers\nâ¢ All <style=\"KKeyword\">Attributes</style> <b>+3</b> during meteor showers"
+msgid "This Duplicant is <i>really</i> into meteor showers\n• All <style=\"KKeyword\">Attributes</style> <b>+3</b> during meteor showers"
 msgstr "Deze Duplicant houdt <i>echt</i> van meteorenregen\nâ¢ Alle <style=\"KKeyword\">Attributen</style> <b>+3</b> tijdens meteorenregen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MINGLING.NAME
@@ -33986,7 +33985,7 @@ msgstr "Nachtuil"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP"
-msgid "This Duplicant is more efficient on a nighttime <style=\"KKeyword\">Schedule</style>\nâ¢ All <style=\"KKeyword\">Attributes</style> <b>+3</b> at night"
+msgid "This Duplicant is more efficient on a nighttime <style=\"KKeyword\">Schedule</style>\n• All <style=\"KKeyword\">Attributes</style> <b>+3</b> at night"
 msgstr "Deze Duplicant is efficiënter op een nachtelijke <style=\"KKeyword\">Schema</style>\nâ¢ Alle <style=\"KKeyword\">Attributen</style> <b>+3</ b> 's nachts"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOISEMAJOR.NAME
@@ -34991,7 +34990,7 @@ msgstr "Destructief"
 
 #. STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR
 msgctxt "STRINGS.DUPLICANTS.TRAITS.AGGRESSIVE.NOREPAIR"
-msgid "â¢ Will not repair buildings while above 60% <style=\"KKeyword\">Stress</style>"
+msgid "• Will not repair buildings while above 60% <style=\"KKeyword\">Stress</style>"
 msgstr "â¢ Repareert gebouwen niet bij meer dan 60% <style=\"KKeyword\">Stress</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.ALLERGIES.DESC
@@ -35016,7 +35015,7 @@ msgstr "Allergenen veroorzaken overmatige niesbuien"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.DESC"
-msgid "This Duplicant has knowledge from the before times\nâ¢ Starts with 3 skill points"
+msgid "This Duplicant has knowledge from the before times\n• Starts with 3 skill points"
 msgstr "Deze Duplicant heeft kennis van vroeger\nâ¢ Begint met 3 vaardigheidspunten"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANCIENTKNOWLEDGE.NAME
@@ -35286,7 +35285,7 @@ msgstr "Deze Duplicant wordt altijd fris en efficiënt wakker!"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.EXTENDED_DESC"
-msgid "â¢ Morning: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>\nâ¢ Duration: 5 Schedule Blocks"
+msgid "• Morning: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>\n• Duration: 5 Schedule Blocks"
 msgstr "â¢ Ochtend: <b>{0}</b> bonus voor alle <style=\"KKeyword\">Attributen</style>\nâ¢ Duur: 5 Schemablokken"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.NAME
@@ -35301,7 +35300,7 @@ msgstr "Behaalt morgen Attribuutbonussen"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.SHORT_DESC_TOOLTIP"
-msgid "Morning: <b>+2</b> bonus to all <style=\"KKeyword\">Attributes</style>\nâ¢ Duration: 5 Schedule Blocks"
+msgid "Morning: <b>+2</b> bonus to all <style=\"KKeyword\">Attributes</style>\n• Duration: 5 Schedule Blocks"
 msgstr "Ochtend: <b>+2</b> bonus voor alle <style=\"KKeyword\">Attributen</style>\nâ¢ Duur: 5 Schemablokken"
 
 #. STRINGS.DUPLICANTS.TRAITS.FASTLEARNER.DESC
@@ -36216,7 +36215,7 @@ msgstr "Meteorenregen maken deze Duplicant echt, echt hyped"
 
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.METEORPHILE.EXTENDED_DESC"
-msgid "â¢ During meteor showers: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>"
+msgid "• During meteor showers: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>"
 msgstr "â¢ Tijdens meteorenregen: <b>{0}</b> bonus voor alle <style=\"KKeyword\">Attributen</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.NAME
@@ -36381,7 +36380,7 @@ msgstr "Deze Duplicant doet zijn best als hij eigenlijk zou moeten slapen"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.EXTENDED_DESC"
-msgid "â¢ Nighttime: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>\nâ¢ Duration: All Night"
+msgid "• Nighttime: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>\n• Duration: All Night"
 msgstr "â¢ Nighttime: <b>{0}</b> bonus voor alle <style=\"KKeyword\">Attributen</style>\nâ¢ Duur: All Night"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME
@@ -36396,7 +36395,7 @@ msgstr "Behaalt nachtelijke eigenschapsbonussen"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC_TOOLTIP"
-msgid "Nighttime: <b>+3</b> bonus to all <style=\"KKeyword\">Attributes</style>\nâ¢ Duration: All Night"
+msgid "Nighttime: <b>+3</b> bonus to all <style=\"KKeyword\">Attributes</style>\n• Duration: All Night"
 msgstr "Nacht: <b>+3</b> bonus voor alle <style=\"KKeyword\">Attributen</style>\nâ¢ Duur: de hele nacht"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC
@@ -36646,7 +36645,7 @@ msgstr "Meer dan 60% stress: <b>+7</b> bonus voor alle <style=\"KKeyword\">Attri
 
 #. STRINGS.DUPLICANTS.TRAITS.TRAIT_DESCRIPTION_LIST_ENTRY
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TRAIT_DESCRIPTION_LIST_ENTRY"
-msgid "\nâ¢ "
+msgid "\n• "
 msgstr "\nâ¢ "
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
@@ -42976,12 +42975,12 @@ msgstr "De vliegbaan van een raket is onderbroken door een nieuwe astronomische 
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
-msgid "â¢ I can use {Hotkey/PanLeft} and {Hotkey/PanRight} to pan my view left and right, and {Hotkey/PanUp} and {Hotkey/PanDown} to pan up and down.\n\nâ¢ {Hotkey/ZoomIn} lets me zoom in, and {Hotkey/ZoomOut} zooms out.\n\nâ¢ {Hotkey/CameraHome} returns my view to the Printing Pod.\n\nâ¢ I can speed or slow my perception of time using the top left corner buttons, or by pressing {Hotkey/SpeedUp} or {Hotkey/SlowDown}. Pressing {Hotkey/TogglePause} will pause the flow of time entirely.\n\nâ¢ I'll keep records of everything I discover in my personal DATABASE {Hotkey/ManageDatabase} to refer back to if I forget anything important."
+msgid "• I can use {Hotkey/PanLeft} and {Hotkey/PanRight} to pan my view left and right, and {Hotkey/PanUp} and {Hotkey/PanDown} to pan up and down.\n\n• {Hotkey/ZoomIn} lets me zoom in, and {Hotkey/ZoomOut} zooms out.\n\n• {Hotkey/CameraHome} returns my view to the Printing Pod.\n\n• I can speed or slow my perception of time using the top left corner buttons, or by pressing {Hotkey/SpeedUp} or {Hotkey/SlowDown}. Pressing {Hotkey/TogglePause} will pause the flow of time entirely.\n\n• I'll keep records of everything I discover in my personal DATABASE {Hotkey/ManageDatabase} to refer back to if I forget anything important."
 msgstr "â¢ Ik kan {Hotkey/PanLeft} en {Hotkey/PanRight} gebruiken om mijn weergave naar links en rechts te pannen, en {Hotkey/PanUp} en {Hotkey/PanDown} om omhoog en omlaag te pannen.\n\nâ ¢ {Hotkey/ZoomIn} laat me inzoomen en {Hotkey/ZoomOut} zoomt uit.\n\nâ¢ {Hotkey/CameraHome} brengt mijn weergave terug naar de Printing Pod.\n\nâ¢ Ik kan versnellen of vertragen mijn perceptie van tijd met behulp van de knoppen in de linkerbovenhoek of door op {Hotkey/SpeedUp} of {Hotkey/SlowDown} te drukken. Door op {Hotkey/TogglePause} te drukken, wordt de tijdstroom volledig onderbroken.\n\nâ¢ Ik blijf records van alles wat ik ontdek in mijn persoonlijke DATABASE {Hotkey/ManageDatabase} om naar terug te verwijzen als ik iets belangrijks vergeet."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODYALT
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODYALT"
-msgid "â¢ I can use {Hotkey/AnalogCamera} to pan my view.\n\nâ¢ {Hotkey/ZoomIn} lets me zoom in, and {Hotkey/ZoomOut} zooms out.\n\nâ¢ I can speed or slow my perception of time using the top left corner buttons, or by pressing {Hotkey/CycleSpeed}. Pressing {Hotkey/TogglePause} will pause the flow of time entirely.\n\nâ¢ I'll keep records of everything I discover in my personal DATABASE {Hotkey/ManageDatabase} to refer back to if I forget anything important."
+msgid "• I can use {Hotkey/AnalogCamera} to pan my view.\n\n• {Hotkey/ZoomIn} lets me zoom in, and {Hotkey/ZoomOut} zooms out.\n\n• I can speed or slow my perception of time using the top left corner buttons, or by pressing {Hotkey/CycleSpeed}. Pressing {Hotkey/TogglePause} will pause the flow of time entirely.\n\n• I'll keep records of everything I discover in my personal DATABASE {Hotkey/ManageDatabase} to refer back to if I forget anything important."
 msgstr "â¢ Ik kan {Hotkey/AnalogCamera} gebruiken om mijn weergave te pannen.\n\nâ¢ {Hotkey/ZoomIn} laat me inzoomen en {Hotkey/ZoomOut} zoomt uit.\n\nâ¢ I kan mijn waarneming van tijd versnellen of vertragen met behulp van de knoppen in de linkerbovenhoek of door op {Hotkey/CycleSpeed} te drukken. Als u op {Hotkey/TogglePause} drukt, wordt de tijdstroom volledig onderbroken.\n\nâ¢ Ik zal gegevens bijhouden alles wat ik ontdek in mijn persoonlijke DATABASE {Hotkey/ManageDatabase} om naar terug te verwijzen als ik iets belangrijks vergeet."
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
@@ -43346,7 +43345,7 @@ msgstr "Voedseltekort"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP"
-msgid "The colony's <link=\"FOOD\">Food</link> reserves are low:\n\n    â¢ {0} are currently available\n    â¢ {1} is being consumed per cycle\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> can be built from the <b>Food Tab</b> {Hotkey/Plan4}"
+msgid "The colony's <link=\"FOOD\">Food</link> reserves are low:\n\n    • {0} are currently available\n    • {1} is being consumed per cycle\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> can be built from the <b>Food Tab</b> {Hotkey/Plan4}"
 msgstr "De <link=\"FOOD\">Voedsel</link> reserves van de kolonie zijn laag:\n\n â¢ {0} zijn momenteel beschikbaar\n â¢ {1} wordt verbruikt per cyclus\n \n<link=\"MICROBEMUSHER\">Microbe Mushers</link> kunnen worden gebouwd vanaf het <b>Voedsel-tabblad</b> {Hotkey/Plan4}"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME
@@ -43511,7 +43510,7 @@ msgstr "Onvoldoende zuurstofproductie"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.TOOLTIP"
-msgid "My colony is consuming more <link=\"OXYGEN\">Oxygen</link> than it is producing, and will run out air if I do not increase production.\n\nI should check my existing oxygen production buildings to ensure they're operating correctly\n\nâ¢ <link=\"OXYGEN\">Oxygen</link> produced last cycle: {EmittingRate}\nâ¢ Consumed last cycle: {ConsumptionRate}"
+msgid "My colony is consuming more <link=\"OXYGEN\">Oxygen</link> than it is producing, and will run out air if I do not increase production.\n\nI should check my existing oxygen production buildings to ensure they're operating correctly\n\n• <link=\"OXYGEN\">Oxygen</link> produced last cycle: {EmittingRate}\n• Consumed last cycle: {ConsumptionRate}"
 msgstr "Mijn kolonie verbruikt meer <link=\"OXYGEN\">Zuurstof</link> dan het produceert, en zal zonder lucht komen te zitten als ik de productie niet verhoog.\n\nIk zou mijn bestaande gebouwen voor zuurstofproductie moeten controleren om zorg ervoor dat ze correct werken\n\nâ¢ <link=\"OXYGEN\">Zuurstof</link> produceerde laatste cyclus: {EmittingRate}\nâ¢ Verbruikte laatste cyclus: {ConsumptionRate}"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY
@@ -43711,7 +43710,7 @@ msgstr "{0} heeft een eigenschap ontwikkeld"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.TOOLTIP"
-msgid "{0} has developed the trait(s):\n    â¢ {1}"
+msgid "{0} has developed the trait(s):\n    • {1}"
 msgstr "{0} heeft de eigenschap(pen) ontwikkeld:\n â¢ {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.NAME
@@ -43846,7 +43845,7 @@ msgstr "De kolonie geeft prioriteit aan werk boven hun individuele welzijn"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
-msgid "Eureka! We've discovered {0} Technology.\n\nNew buildings have become available:\n  â¢ {1}"
+msgid "Eureka! We've discovered {0} Technology.\n\nNew buildings have become available:\n  • {1}"
 msgstr "Eureka! We hebben {0} technologie ontdekt.\n\nEr zijn nieuwe gebouwen beschikbaar:\n â¢ {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
@@ -43906,7 +43905,7 @@ msgstr "Opmerkingen over het plannen van de tijd van mijn Duplicanten"
 
 #. STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.LINE
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.LINE"
-msgid "\nâ¢ <b>{0}</b>"
+msgid "\n• <b>{0}</b>"
 msgstr "\nâ¢ <b>{0}</b>"
 
 #. STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.MESSAGEBODY
@@ -51251,7 +51250,7 @@ msgstr "<link=\"DECOR\">Decor</link>: {1} (Straal: {2} tegels)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED"
-msgid "    â¢ Diet: {Foodlist}"
+msgid "    • Diet: {Foodlist}"
 msgstr " â¢ Dieet: {Foodlist}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED_ITEM
@@ -51266,7 +51265,7 @@ msgstr "Spijsvertering:"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DIET_PRODUCED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DIET_PRODUCED"
-msgid "    â¢ Excretion: {Items}"
+msgid "    • Excretion: {Items}"
 msgstr " â¢ Excretie: {Items}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DIET_PRODUCED_ITEM
@@ -51281,7 +51280,7 @@ msgstr "{Item}: {Amount} wanneer correct ingevoerd"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DIET_STORED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DIET_STORED"
-msgid "    â¢ Stores: {Foodlist}"
+msgid "    • Stores: {Foodlist}"
 msgstr " â¢ Winkels: {Foodlist}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DISEASECONSUMEDPERUSE
@@ -51666,7 +51665,7 @@ msgstr "{0}: {1} per <link=\"RESEARCH\">Onderzoek</link> punt"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_BUILDINGS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_BUILDINGS"
-msgid "    â¢ Buildings: {buildinglist}"
+msgid "    • Buildings: {buildinglist}"
 msgstr " â¢ Gebouwen: {bouwlijst}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ROCKETRESTRICTION_HEADER
@@ -51961,7 +51960,7 @@ msgstr "Een onderzoeker moet deze geiser analyseren om zijn geoactieve periode t
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED"
-msgid "Dissipates <style=\"consumed\">{0}</style> per second\n\nSum <style=\"KKeyword\">Temperature</style> change can be affected by the material attributes of the cooled substance:\n    â¢ mass\n    â¢ specific heat capacity\n    â¢ surface area\n    â¢ insulation thickness\n    â¢ thermal conductivity"
+msgid "Dissipates <style=\"consumed\">{0}</style> per second\n\nSum <style=\"KKeyword\">Temperature</style> change can be affected by the material attributes of the cooled substance:\n    • mass\n    • specific heat capacity\n    • surface area\n    • insulation thickness\n    • thermal conductivity"
 msgstr "Verdrijft <style=\"consumed\">{0}</style> per seconde\n\nSum <style=\"KKeyword\">Temperatuur</style> verandering kan worden beïnvloed door de materiaalkenmerken van de gekoelde stof:\n â¢ massa\n â¢ soortelijke warmtecapaciteit\n â¢ oppervlakte\n â¢ isolatiedikte\n â¢ thermische geleidbaarheid"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATER_TARGETTEMPERATURE
@@ -51971,7 +51970,7 @@ msgstr "Stopt verwarming wanneer de omringende gemiddelde <style=\"KKeyword\">te
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED"
-msgid "Generates <style=\"produced\">{0}</style> per second\n\nSum <style=\"KKeyword\">Temperature</style> change is affected by the material attributes of the heated substance:\n    â¢ mass\n    â¢ specific heat capacity\n    â¢ surface area\n    â¢ insulation thickness\n    â¢ thermal conductivity"
+msgid "Generates <style=\"produced\">{0}</style> per second\n\nSum <style=\"KKeyword\">Temperature</style> change is affected by the material attributes of the heated substance:\n    • mass\n    • specific heat capacity\n    • surface area\n    • insulation thickness\n    • thermal conductivity"
 msgstr "Genereert <style=\"geproduceerd\">{0}</style> per seconde\n\nSum <style=\"KKeyword\">Temperatuur</style> verandering wordt beïnvloed door de materiële eigenschappen van de verwarmde substantie :\n â¢ massa\n â¢ specifieke warmtecapaciteit\n â¢ oppervlakte\n â¢ isolatiedikte\n â¢ thermische geleidbaarheid"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER
@@ -53016,7 +53015,7 @@ msgstr "Systemen"
 
 #. STRINGS.UI.CODEX.GEYSERS.DESC
 msgctxt "STRINGS.UI.CODEX.GEYSERS.DESC"
-msgid "Geysers and Fumaroles emit elements at variable intervals. They provide a sustainable source of material, albeit in typically low volumes.\n\nThe variable factors of a geyser are:\n\n    â¢ Emission element \n    â¢ Emission temperature \n    â¢ Emission mass \n    â¢ Cycle length \n    â¢ Dormancy duration \n    â¢ Disease emitted"
+msgid "Geysers and Fumaroles emit elements at variable intervals. They provide a sustainable source of material, albeit in typically low volumes.\n\nThe variable factors of a geyser are:\n\n    • Emission element \n    • Emission temperature \n    • Emission mass \n    • Cycle length \n    • Dormancy duration \n    • Disease emitted"
 msgstr "Geisers en Fumarolen stoten elementen uit met variabele tussenpozen. Ze vormen een duurzame bron van materiaal, zij het in typisch lage volumes.\n\nDe variabele factoren van een geiser zijn:\n\n â¢ Emissie-element \n â¢ Emissietemperatuur \n â¢ Emissiemassa \n â¢ Cycluslengte \n â¢ Rustduur \n â¢ Uitgezonden ziekte"
 
 #. STRINGS.UI.CODEX.MANAGEMENT_BUTTON
@@ -53081,7 +53080,7 @@ msgstr "Boodschappen doen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ALLCHORESDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ALLCHORESDIAGNOSTIC.NORMAL"
-msgid "    â¢ {0} errands pending or in progress"
+msgid "    • {0} errands pending or in progress"
 msgstr " â¢ {0} boodschappen in behandeling of bezig"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ALLCHORESDIAGNOSTIC.TOOLTIP_NAME
@@ -53096,7 +53095,7 @@ msgstr "Werktijd"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ALLWORKTIMEDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ALLWORKTIMEDIAGNOSTIC.NORMAL"
-msgid "    â¢ {0} of Duplicant time spent working"
+msgid "    • {0} of Duplicant time spent working"
 msgstr " â¢ {0} van Duplicant tijd besteed aan werken"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ALLWORKTIMEDIAGNOSTIC.TOOLTIP_NAME
@@ -53131,22 +53130,22 @@ msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.DEAD_BATTERY
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.DEAD_BATTERY"
-msgid "    â¢ One or more batteries have died"
+msgid "    • One or more batteries have died"
 msgstr " â¢ Een of meer batterijen zijn leeg"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.LIMITED_CAPACITY
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.LIMITED_CAPACITY"
-msgid "    â¢ Low battery capacity relative to power use"
+msgid "    • Low battery capacity relative to power use"
 msgstr " â¢ Lage batterijcapaciteit in verhouding tot stroomverbruik"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.NONE
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.NONE"
-msgid "    â¢ No batteries are connected to a power grid"
+msgid "    • No batteries are connected to a power grid"
 msgstr " â¢ Er zijn geen batterijen aangesloten op een elektriciteitsnet"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.NORMAL"
-msgid "    â¢ All batteries functional"
+msgid "    • All batteries functional"
 msgstr " â¢ Alle batterijen functioneren"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BATTERYDIAGNOSTIC.TOOLTIP_NAME
@@ -53166,17 +53165,17 @@ msgstr "Controleer genoeg bedden"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.MISSING_ASSIGNMENT
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.MISSING_ASSIGNMENT"
-msgid "    â¢ One or more Duplicants don't have an assigned bed"
+msgid "    • One or more Duplicants don't have an assigned bed"
 msgstr " â¢ Een of meer Duplicanten hebben geen toegewezen bed"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.NORMAL"
-msgid "    â¢ Colony has adequate bedding"
+msgid "    • Colony has adequate bedding"
 msgstr " â¢ Kolonie heeft voldoende bodembedekking"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.NOT_ENOUGH_BEDS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.NOT_ENOUGH_BEDS"
-msgid "    â¢ One or more Duplicants are missing a bed"
+msgid "    • One or more Duplicants are missing a bed"
 msgstr " â¢ Een of meer Duplicanten missen een bed"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BEDDIAGNOSTIC.TOOLTIP_NAME
@@ -53201,17 +53200,17 @@ msgstr "Controleer verstikking"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.NORMAL"
-msgid "    â¢ Oxygen levels are satisfactory"
+msgid "    • Oxygen levels are satisfactory"
 msgstr " â¢ Zuurstofniveaus zijn bevredigend"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.POOR
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.POOR"
-msgid "    â¢ Oxygen is becoming scarce or low pressure"
+msgid "    • Oxygen is becoming scarce or low pressure"
 msgstr " â¢ Zuurstof wordt schaars of lage druk"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.SUFFOCATING
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.SUFFOCATING"
-msgid "    â¢ One or more Duplicants are suffocating"
+msgid "    • One or more Duplicants are suffocating"
 msgstr " â¢ Een of meer Duplicanten zijn aan het stikken"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.BREATHABILITYDIAGNOSTIC.TOOLTIP_NAME
@@ -53236,12 +53235,12 @@ msgstr "Controleer inrichting"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.DECORDIAGNOSTIC.LOW
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.DECORDIAGNOSTIC.LOW"
-msgid "    â¢ Decor levels are low"
+msgid "    • Decor levels are low"
 msgstr " â¢ Decor niveaus zijn laag"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.DECORDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.DECORDIAGNOSTIC.NORMAL"
-msgid "    â¢ Decor levels are satisfactory"
+msgid "    • Decor levels are satisfactory"
 msgstr " â¢ Decor niveaus zijn bevredigend"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.DECORDIAGNOSTIC.TOOLTIP_NAME
@@ -53256,7 +53255,7 @@ msgstr "Begraven"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.BUILDING_ENTOMBED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.BUILDING_ENTOMBED"
-msgid "    â¢ One or more buildings are entombed"
+msgid "    • One or more buildings are entombed"
 msgstr " â¢ Een of meer gebouwen zijn begraven"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.CRITERIA.CHECKENTOMBED
@@ -53266,7 +53265,7 @@ msgstr "Controleer begraven"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.NORMAL"
-msgid "    â¢ No buildings are entombed"
+msgid "    • No buildings are entombed"
 msgstr " â¢ Er worden geen gebouwen begraven"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ENTOMBEDDIAGNOSTIC.TOOLTIP_NAME
@@ -53301,22 +53300,22 @@ msgstr "Controleer verwelking van gewassen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.INOPERATIONAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.INOPERATIONAL"
-msgid "    â¢ One or more farm plots are inoperable"
+msgid "    • One or more farm plots are inoperable"
 msgstr " â¢ Een of meer boerderijpercelen zijn onbruikbaar"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE"
-msgid "    â¢ No farm plots"
+msgid "    • No farm plots"
 msgstr " â¢ Geen landbouwpercelen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE_PLANTED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NONE_PLANTED"
-msgid "    â¢ No crops planted"
+msgid "    • No crops planted"
 msgstr " â¢ Geen gewassen geplant"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.NORMAL"
-msgid "    â¢ Crops are being grown in sufficient quantity"
+msgid "    • Crops are being grown in sufficient quantity"
 msgstr " â¢ Gewassen worden in voldoende hoeveelheid verbouwd"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.TOOLTIP_NAME
@@ -53326,7 +53325,7 @@ msgstr "<b>Gewassen</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.WILTING
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FARMDIAGNOSTIC.WILTING"
-msgid "    â¢ One or more crops are wilting"
+msgid "    • One or more crops are wilting"
 msgstr " â¢ Een of meer gewassen verwelken"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.ALL_NAME
@@ -53336,17 +53335,17 @@ msgstr "Vluchtstatus"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.NORMAL_FLIGHT
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.NORMAL_FLIGHT"
-msgid "    â¢ This rocket is in flight towards its destination"
+msgid "    • This rocket is in flight towards its destination"
 msgstr " â¢ Deze raket is in vlucht richting zijn bestemming"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.NORMAL_LANDED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.NORMAL_LANDED"
-msgid "    â¢ This rocket is currently landed on a <style=\"KKeyword\">Rocket Platform</style>"
+msgid "    • This rocket is currently landed on a <style=\"KKeyword\">Rocket Platform</style>"
 msgstr " â¢ Deze raket is momenteel geland op een <style=\"KKeyword\">Rocket Platform</style>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.NORMAL_UTILITY
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.NORMAL_UTILITY"
-msgid "    â¢ This rocket is performing a task at its destination"
+msgid "    • This rocket is performing a task at its destination"
 msgstr " â¢ Deze raket voert een taak uit op zijn bestemming"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.TOOLTIP_NAME
@@ -53356,12 +53355,12 @@ msgstr "<b>Vluchtstatus</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.WARNING_NO_DESTINATION
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.WARNING_NO_DESTINATION"
-msgid "    â¢ This rocket is suspended in space with no set destination"
+msgid "    • This rocket is suspended in space with no set destination"
 msgstr " â¢ Deze raket hangt in de ruimte zonder vaste bestemming"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.WARNING_NO_SPEED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FLOATINGROCKETDIAGNOSTIC.WARNING_NO_SPEED"
-msgid "    â¢ This rocket's flight has been halted"
+msgid "    • This rocket's flight has been halted"
 msgstr " â¢ De vlucht van deze raket is gestopt"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.ALL_NAME
@@ -53381,32 +53380,32 @@ msgstr "Controleer de hongerdood"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.CRITERIA_HAS_FOOD.FAIL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.CRITERIA_HAS_FOOD.FAIL"
-msgid "    â¢ Duplicants have no food"
+msgid "    • Duplicants have no food"
 msgstr " â¢ Duplicanten hebben geen eten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.CRITERIA_HAS_FOOD.PASS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.CRITERIA_HAS_FOOD.PASS"
-msgid "    â¢ Duplicants have food"
+msgid "    • Duplicants have food"
 msgstr " â¢ Duplicanten hebben eten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.HUNGRY
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.HUNGRY"
-msgid "    â¢ One or more Duplicants are very hungry"
+msgid "    • One or more Duplicants are very hungry"
 msgstr " â¢ Een of meer Duplicanten hebben grote honger"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.LOW_CALORIES
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.LOW_CALORIES"
-msgid "    â¢ Food-to-Duplicant ratio is low"
+msgid "    • Food-to-Duplicant ratio is low"
 msgstr " â¢ Food-to-Duplicant ratio is laag"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.NO_FOOD
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.NO_FOOD"
-msgid "    â¢ Duplicants have no food"
+msgid "    • Duplicants have no food"
 msgstr " â¢ Duplicanten hebben geen eten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.NORMAL"
-msgid "    â¢ Food supply is currently adequate"
+msgid "    • Food supply is currently adequate"
 msgstr " â¢ Voedselvoorziening is momenteel voldoende"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.FOODDIAGNOSTIC.TOOLTIP_NAME
@@ -53456,12 +53455,12 @@ msgstr "Controleer inactief"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.IDLEDIAGNOSTIC.IDLE
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.IDLEDIAGNOSTIC.IDLE"
-msgid "    â¢ One or more Duplicants are idle"
+msgid "    • One or more Duplicants are idle"
 msgstr " â¢ Een of meer Duplicanten zijn inactief"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.IDLEDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.IDLEDIAGNOSTIC.NORMAL"
-msgid "    â¢ All Duplicants currently have tasks"
+msgid "    • All Duplicants currently have tasks"
 msgstr " â¢ Alle duplicaten hebben momenteel taken"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.IDLEDIAGNOSTIC.TOOLTIP_NAME
@@ -53476,22 +53475,22 @@ msgstr "Diagnostiek kan worden gedempt in het <b><color=#E5B000>Alles weergeven<
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA"
-msgid "    â¢ Not enough data for evaluation"
+msgid "    • Not enough data for evaluation"
 msgstr " â¢ Onvoldoende gegevens voor evaluatie"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA_SHORT
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA_SHORT"
-msgid "    â¢ No data"
+msgid "    • No data"
 msgstr " â¢ Geen gegevens"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS"
-msgid "    â¢ There are no Duplicants on this {0}"
+msgid "    • There are no Duplicants on this {0}"
 msgstr " â¢ Er zijn geen duplicaten op deze {0}"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS_REQUESTED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS_REQUESTED"
-msgid "    â¢ Crew must be requested to update this diagnostic"
+msgid "    • Crew must be requested to update this diagnostic"
 msgstr " â¢ Bemanning moet worden verzocht om deze diagnose bij te werken"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.PLACEHOLDER_CRITERIA_NAME
@@ -53521,12 +53520,12 @@ msgstr "Controleer wijziging stroomverbruik"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.POWERUSEDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.POWERUSEDIAGNOSTIC.NORMAL"
-msgid "    â¢ Power supply is satisfactory"
+msgid "    • Power supply is satisfactory"
 msgstr " â¢ Voeding is bevredigend"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.POWERUSEDIAGNOSTIC.OVERLOADED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.POWERUSEDIAGNOSTIC.OVERLOADED"
-msgid "    â¢ One or more power grids are damaged"
+msgid "    • One or more power grids are damaged"
 msgstr " â¢ Een of meer elektriciteitsnetten zijn beschadigd"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.POWERUSEDIAGNOSTIC.SIGNIFICANT_POWER_CHANGE_DETECTED
@@ -53586,7 +53585,7 @@ msgstr "Gezond"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.NORMAL"
-msgid "    â¢ No Radiation concerns"
+msgid "    • No Radiation concerns"
 msgstr " â¢ Geen zorgen over straling"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.RADIATIONDIAGNOSTIC.TOOLTIP_NAME
@@ -53611,17 +53610,17 @@ msgstr "Controleer temperatuur"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA_COOLANT_WARNING
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA_COOLANT_WARNING"
-msgid "    â¢ Coolant tank low"
+msgid "    • Coolant tank low"
 msgstr " â¢ Koelvloeistoftank bijna leeg"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA_TEMPERATURE_WARNING
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.CRITERIA_TEMPERATURE_WARNING"
-msgid "    â¢ Temperature dangerously high"
+msgid "    • Temperature dangerously high"
 msgstr " â¢ Temperatuur gevaarlijk hoog"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.NORMAL"
-msgid "    â¢ Safe"
+msgid "    • Safe"
 msgstr " â¢ Veilig"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.REACTORDIAGNOSTIC.TOOLTIP_NAME
@@ -53641,7 +53640,7 @@ msgstr "Rocket Fuel"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETFUELDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETFUELDIAGNOSTIC.NORMAL"
-msgid "    â¢ This rocket has sufficient fuel"
+msgid "    • This rocket has sufficient fuel"
 msgstr " â¢ Deze raket heeft voldoende brandstof"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETFUELDIAGNOSTIC.TOOLTIP_NAME
@@ -53651,7 +53650,7 @@ msgstr "<b>Raketbrandstof</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETFUELDIAGNOSTIC.WARNING
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETFUELDIAGNOSTIC.WARNING"
-msgid "    â¢ This rocket has no fuel"
+msgid "    • This rocket has no fuel"
 msgstr " â¢ Deze raket heeft geen brandstof"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.ALL_NAME
@@ -53666,12 +53665,12 @@ msgstr "Controleer draaiende raketten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_IN_ORBIT
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_IN_ORBIT"
-msgid "    â¢ There are {0} rockets in orbit waiting to land"
+msgid "    • There are {0} rockets in orbit waiting to land"
 msgstr " â¢ Er zijn {0} raketten in een baan om de aarde die wachten om te landen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_NO_ROCKETS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_NO_ROCKETS"
-msgid "    â¢ No rockets waiting to land"
+msgid "    • No rockets waiting to land"
 msgstr " â¢ Geen raketten die wachten om te landen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_ONE_IN_ORBIT
