@@ -9182,7 +9182,7 @@ msgstr "Geeft een <b><style=\"logic_on\">Groen Signaal</style></b> als de ingang
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.NAME"
 msgid "<link=\"LOGICGATENOT\">NOT Gate</link>"
-msgstr "<link=\"LOGICGATENOT\">GEEN poort</link>"
+msgstr "<link=\"LOGICGATENOT\">GEEN Poort</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_ACTIVE"
@@ -9212,7 +9212,7 @@ msgstr "Geeft een <b><style=\"logic_on\">Groen Signaal</style></b> als ten minst
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.NAME"
 msgid "<link=\"LOGICGATEOR\">OR Gate</link>"
-msgstr "<link=\"LOGICGATEOR\">OF poort</link>"
+msgstr "<link=\"LOGICGATEOR\">OF Poort</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_ACTIVE"
@@ -9242,7 +9242,7 @@ msgstr "Geeft een <b><style=\"logic_on\">Groen Signaal</style></b> als precies Ã
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.NAME"
 msgid "<link=\"LOGICGATEXOR\">XOR Gate</link>"
-msgstr "<link=\"LOGICGATEXOR\">XOR-poort</link>"
+msgstr "<link=\"LOGICGATEXOR\">EXOF Poort</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_ACTIVE"
