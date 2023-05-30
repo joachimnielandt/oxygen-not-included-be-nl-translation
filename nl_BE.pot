@@ -715,7 +715,7 @@ msgstr "Scan Kwaliteit: {Quality}"
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP"
 msgid "This scanner dish is currently scanning at <b>{Quality}</b> effectiveness\n\nDecreased scan quality may be due to:\n    • Interference from nearby industrial machinery\n    • Rock or tile obstructing the dish's line of sight on space"
-msgstr "Effectiviteit van deze scanner schotel is momenteel <b>{Quality}</b> \n\nVerminderende scan kwaliteit kan zijn door:\n    â¢ Storing van nabije industriele machines\n    â¢ Rots of blok dat het zicht van de schotel op de ruimte belemmert"
+msgstr "Effectiviteit van deze scanner schotel is momenteel <b>{Quality}</b> \n\nVerminderende scan kwaliteit kan zijn door:\n    • Storing van nabije industriele machines\n    • Rots of blok dat het zicht van de schotel op de ruimte belemmert"
 
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME"
@@ -1840,12 +1840,12 @@ msgstr "Deze Duplicant is onder mijn controle"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_MASS"
 msgid "• {0}: {1}"
-msgstr "â¢ {0}: {1}"
+msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.LINE_ITEM_UNITS"
 msgid "• {0}"
-msgstr "â¢ {0}"
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
@@ -1870,7 +1870,7 @@ msgstr "Nodige materialen zijn onbeschikbaar of buiten bereik voor dit gebouw:"
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.LINE_ITEM"
 msgid "• {0}"
-msgstr "â¢ {0}"
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME"
@@ -2065,7 +2065,7 @@ msgstr "Verzamel <style=\"KKeyword\">Eieren</style> van <link=\"CREATURES\">Bees
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.LINE_ITEM"
 msgid "• {0}"
-msgstr "â¢ {0}"
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
@@ -2090,7 +2090,7 @@ msgstr "De <style=\"KKeyword\">Gas Uitvoer</style> van dit gebouw heeft geen aan
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.LINE_ITEM"
 msgid "• {0}"
-msgstr "â¢ {0}"
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
@@ -2145,7 +2145,7 @@ msgstr "Dit gebouw mankeert vereiste materialen"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.LINE_ITEM"
 msgid "• <b>{0}</b>"
-msgstr "â¢ <b>{0}</b>"
+msgstr "• <b>{0}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCEMASS.NAME"
@@ -2590,7 +2590,7 @@ msgstr "Interne Koeling"
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
 msgid "    • {0}: {1}\n"
-msgstr "    â¢ {0}: {1}\n"
+msgstr "    • {0}: {1}\n"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME"
@@ -2675,7 +2675,7 @@ msgstr "Vast {0}"
 #. STRINGS.BUILDING.STATUSITEMS.PATH_NOT_CLEAR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PATH_NOT_CLEAR.TOOLTIP"
 msgid "There are obstructions in the launch trajectory of this rocket:\n    • {0}\n\nThis rocket requires a clear flight path for launch"
-msgstr "Er zijn belemmeringen in had lanceer pad van deze raket:\n    â¢ {0}\n\nDeze raket heeft een vrij vluchtpad nodig om te kunnen lanceren"
+msgstr "Er zijn belemmeringen in had lanceer pad van deze raket:\n    • {0}\n\nDeze raket heeft een vrij vluchtpad nodig om te kunnen lanceren"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
@@ -2880,7 +2880,7 @@ msgstr "Geen Bezorg Bestemming"
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP"
 msgid "A delivery destination has not been set    • {0}"
-msgstr "Een bezorg bestemming werd niet opgegeven    â¢ {0}"
+msgstr "Een bezorg bestemming werd niet opgegeven    • {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME"
@@ -2890,7 +2890,7 @@ msgstr "Lanceer Pad Geblokkerd"
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP"
 msgid "There are obstructions in the launch trajectory of this <link=\"RAILGUN\">Interplanetary Launcher</link>:\n    • {0}\n\nThis launcher requires a clear path to launch payloads"
-msgstr "Er zijn belemmeringen in had lanceer pad van deze <link=\"RAILGUN\">Interplanetaire Lanceerder</link>:\n    â¢ {0}\n\nDeze lanceerder heeft een vrij vluchtpad nodig om iets te kunnen lanceren"
+msgstr "Er zijn belemmeringen in had lanceer pad van deze <link=\"RAILGUN\">Interplanetaire Lanceerder</link>:\n    • {0}\n\nDeze lanceerder heeft een vrij vluchtpad nodig om iets te kunnen lanceren"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME"
@@ -3150,7 +3150,7 @@ msgstr "Niet In Gezichtsveld"
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP"
 msgid "This building has no view of space\n\nEnsure an unblocked view of the sky is available to collect <b>Starmap</b> data\n    • Visibility: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cells"
-msgstr "Dit gebouw heeft geen zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om <b>Sterrenkaart</b> data te verzamelen\n    â¢ Zichtbaarheid: <b>{VISIBILITY}</b>\n    â¢ Scan Radius: <b>{RADIUS}</b> cellen"
+msgstr "Dit gebouw heeft geen zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om <b>Sterrenkaart</b> data te verzamelen\n    • Zichtbaarheid: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cellen"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.NAME"
@@ -3160,7 +3160,7 @@ msgstr "Verminderde Zichtbaarheid"
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP"
 msgid "This building has an inadequate or obscured view of space\n\nEnsure an unblocked view of the sky is available to collect <b>Starmap</b> data\n    • Visibility: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cells"
-msgstr "Dit gebouw heeft onvoldoende of geblokkeerd zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om <b>Sterrenkaart</b> data te verzamelen\n    â¢ Zichtbaarheid: <b>{VISIBILITY}</b>\n    â¢ Scan Radius: <b>{RADIUS}</b> cellen"
+msgstr "Dit gebouw heeft onvoldoende of geblokkeerd zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om <b>Sterrenkaart</b> data te verzamelen\n    • Zichtbaarheid: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cellen"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME"
@@ -3716,12 +3716,12 @@ msgstr "Wachten op een Duplicant om de stroomsnelheid aan te passen"
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_MASS"
 msgid "• {0}: {1}"
-msgstr "â¢ {0}: {1}"
+msgstr "• {0}: {1}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.LINE_ITEM_UNITS"
 msgid "• {0}"
-msgstr "â¢ {0}"
+msgstr "• {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME"
@@ -3746,7 +3746,7 @@ msgstr "Dit gebouw heeft Radbolten nodig om te functioneren\n\n\n\nOpen het <b>S
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.LINE_ITEM"
 msgid "• <style=\"KKeyword\">{0}</style>: <b>{1}</b>"
-msgstr "â¢ <style=\"KKeyword\">{0}</style>: <b>{1}</b>"
+msgstr "• <style=\"KKeyword\">{0}</style>: <b>{1}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORREPAIRMATERIALS.NAME"
@@ -4101,7 +4101,7 @@ msgstr "Een lokaas kan Puften of Schijn Insecten naar een bepaalde plek in mijn 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.EFFECT"
 msgid "Attracts one type of airborne critter at a time.\n\nMust be baited with <link=\"SLIMEMOLD\">Slime</link> or <link=\"PHOSPHORITE\">Phosphorite</link>."
-msgstr "Trekt Ã©Ã©n type vliegen beest tegelijk aan.\n\nMoet worden gelokt met <link=\"SLIME MOLD\">Slijm</link> of <link=\"PHOSPHORITE\">Fosforiet</link>."
+msgstr "Trekt één type vliegen beest tegelijk aan.\n\nMoet worden gelokt met <link=\"SLIME MOLD\">Slijm</link> of <link=\"PHOSPHORITE\">Fosforiet</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRBORNECREATURELURE.NAME"
@@ -4421,7 +4421,7 @@ msgstr "Duplicanten zonder bed krijgen een pijnlijke rug van op de grond te slap
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
 msgid "Gives one Duplicant a place to sleep.\n\nDuplicants will automatically return to their cots to sleep at night."
-msgstr "Geeft Ã©Ã©n Duplicant een plek om te slapen.\n\nDuplicanten keren automatisch terug naar hun eigen bed om 's nachts te slapen."
+msgstr "Geeft één Duplicant een plek om te slapen.\n\nDuplicanten keren automatisch terug naar hun eigen bed om 's nachts te slapen."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.FACADES.CREAKY.DESC"
@@ -5820,7 +5820,7 @@ msgstr "Broedmachines kunnen de ideale interne omstandigheden voor eieren van ve
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT"
-msgid "Incubates <link=\"CRITTERS\">Critter</link> eggs until ready to hatch.\n\nAssigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</link> skill."
+msgid "Incubates <link=\"CRITTERS\">Critter</link> eggs until ready to hatch.\n\nAssigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</link> ."
 msgstr "Broedt <link=\"CRITTERS\">Beest</link> eieren tot ze klaar zijn om uit te komen.\n\nToegewezen Duplicanten moeten de <link=\"RANCHING1\">Beest Teelt</link> vaardigheid bezitten."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME
@@ -6805,7 +6805,7 @@ msgstr "<b>Schuift loopbrug uit</b> wanneer een <b><style=\"logic_on\">Groen Sig
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.LOGIC_PORT_INACTIVE"
-msgid "<b>Retracts gantry</b> when a <b><style=\"logic_off\">Red Signal</style></b> is received"
+msgid "<b>Retracts gantry</b> when a <b><style=\"logic_off\">Red Signal</style></b> signal is received"
 msgstr "<b>Trekt loop brug in</b> wanneer een <b><style=\"logic_off\">Rood Signaal</style></b> wordt ontvangen"
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.NAME
@@ -8300,7 +8300,7 @@ msgstr "Dupliceerders vullen vracht tanks met de grondstoffen die ze vinden tijd
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYSMALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYSMALL.EFFECT"
-msgid "Allows Duplicants to store some of the <link=\"ELEMENTSLIQUID\">Liquid</link> resources found during space missions.\n\nStored resources become available to the colony upon the rocket's return.\n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
+msgid "Allows Duplicants to store some of the <link=\"ELEMENTSLIQUID\">Liquid</link> resources found during space missions.\n\nStored resources become available to the colony upon the rocket's return. \n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
 msgstr "Hiermee kunnen Duplicanten een deel van de <link=\"ELEMENTSLIQUID\">Vloeibare</link> grondstoffen opslaan die tijdens ruimtemissies zijn gevonden.\n\nOpgeslagen grondstoffen worden beschikbaar voor de kolonie wanneer de raket terugkeert.\n\nMoet gebouwd worden via <link=\"LAUNCHPAD\">Raket Platform</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAYSMALL.NAME
@@ -14495,7 +14495,7 @@ msgstr "ONDERWERP: Heb je dit gezien?"
 
 #. STRINGS.CODEX.A1A_B111.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A1A_B111.BODY.CONTAINER1"
-msgid "I sent Dr. Holland home today after I found him wandering the lab mumbling to himself. He looked like he hadn't slept in days!\n\nI worry that everyone here is so afraid of disappointing 'The Director' that they are pushing themselves to the breaking point. Next chance I get, I'm going to bring this up with Jackie.\n------------------\n"
+msgid "I sent Dr. Holland home today after I found him wandering the lab mumbling to himself. He looked like he hadn't slept in days!\n\nI worry that everyone here is so afraid of disappointing ‘The Director' that they are pushing themselves to the breaking point. Next chance I get, I'm going to bring this up with Jackie.\n------------------\n"
 msgstr "Ik heb dr. Holland vandaag naar huis gestuurd nadat ik hem in zichzelf mompelend door het lab had gevonden. Hij zag eruit alsof hij al dagen niet had geslapen!\n\nIk maak me zorgen dat iedereen hier zo bang is om de directeur teleur te stellen dat ze zichzelf tot het uiterste drijven. De volgende kans die ik krijg, ga ik dit bespreken met Jackie.\n------------------\n"
 
 #. STRINGS.CODEX.A1A_B111.BODY.CONTAINER2
@@ -18620,7 +18620,7 @@ msgstr "Gegevens controleren"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.BODY.CONTAINER1"
-msgid "Happy 3rd work-iversary, Ada!\n\nI drew this to fill the space left by the cabinet that your chompy critters tore off the wall last week. Hope it's big enough!\n\nI still can't believe they can digest solid steelâyou really know how to breed 'em!\n\n- Liam"
+msgid "Happy 3rd work-iversary, Ada!\n\nI drew this to fill the space left by the cabinet that your chompy critters tore off the wall last week. Hope it's big enough!\n\nI still can't believe they can digest solid steel—you really know how to breed 'em!\n\n- Liam"
 msgstr "Gelukkig derde werkverjaardag, Ada!\n\nIk heb dit getekend om de ruimte te vullen die is ontstaan door de kast die je chompy critters vorige week van de muur hebben gescheurd. Ik hoop dat het groot genoeg is!\n\nIk kan nog steeds niet geloven dat ze kan massief staal verterenâje weet echt hoe je ze moet fokken!\n\n- Liam"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.SUBTITLE
@@ -18645,7 +18645,7 @@ msgstr "Eerste ontmoeting"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.DESCRIPTION"
-msgid "I've discovered a fossilized critter buried in my colonyâat least, part of oneâbut it does not resemble any of the species we have encountered on this asteroid.\n\nWhere did it come from? How did it get here? And what other questions might these bones hold the answer to?\n\nThere is only one way to find out."
+msgid "I've discovered a fossilized critter buried in my colony—at least, part of one—but it does not resemble any of the species we have encountered on this asteroid.\n\nWhere did it come from? How did it get here? And what other questions might these bones hold the answer to?\n\nThere is only one way to find out."
 msgstr "Ik heb een fossiel beestje ontdekt dat begraven ligt in mijn kolonie, althans een deel ervan, maar het lijkt niet op een van de soorten die we op deze asteroïde zijn tegengekomen.\n\nWaar kwam het vandaan? Hoe kwam het komt het hier? En op welke andere vragen kunnen deze botten het antwoord bevatten?\n\nEr is maar één manier om erachter te komen."
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.BEGIN_POPUP.NAME
@@ -18680,7 +18680,7 @@ msgstr "Het lijkt erop dat het DNA van dit wezen ooit werd gebruikt als een soor
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.CONTAINER1"
-msgid "<indent=5%>Dear [REDACTED]\n\nWe are pleased to announce that research objectives for Operation Piazzi's Planet are nearing completion. Thank you all for your patience as we navigated the unprecedented obstacles that such groundbreaking work entails.\n\nWe are aware of rumors regarding documents leaked from Dr. [REDACTED]'s files.\n\nRest assured that the contents of this supposed \"whistleblower\" effort are entirely fabricatedâour technology is far too advanced to allow for the type of miscalculation that would result in OPP shipments arriving at their destination some 10,000 years prior to the targeted date.\n\nOur IT security team is currently investigating the document's digital footprint to determine its origin.\n\nTo express our gratitude for your continued support, we would like to invite key stakeholders to a private launch party held at the Gravitas Facility. The evening will be emceed by Dr. Olivia Broussard, who will present our groundbreaking prototypes along with a five-course meal featuring lab-crafted ingredients.\n\nDue to the sensitive nature of our work, we regret that no additional guests or dietary restrictions can be accommodated at this time.\n\nDirector Stern will be hosting a 30-minute Q&A session after dinner. Questions must be submitted at least 24 hours in advance.\n\nQueries about the [REDACTED] papers will be disregarded.\n\nPlease be advised that the contents of this e-mail will expire three minutes from the time of opening.</indent>"
+msgid "<indent=5%>Dear [REDACTED]\n\nWe are pleased to announce that research objectives for Operation Piazzi's Planet are nearing completion. Thank you all for your patience as we navigated the unprecedented obstacles that such groundbreaking work entails.\n\nWe are aware of rumors regarding documents leaked from Dr. [REDACTED]'s files.\n\nRest assured that the contents of this supposed \"whistleblower\" effort are entirely fabricated—our technology is far too advanced to allow for the type of miscalculation that would result in OPP shipments arriving at their destination some 10,000 years prior to the targeted date.\n\nOur IT security team is currently investigating the document's digital footprint to determine its origin.\n\nTo express our gratitude for your continued support, we would like to invite key stakeholders to a private launch party held at the Gravitas Facility. The evening will be emceed by Dr. Olivia Broussard, who will present our groundbreaking prototypes along with a five-course meal featuring lab-crafted ingredients.\n\nDue to the sensitive nature of our work, we regret that no additional guests or dietary restrictions can be accommodated at this time.\n\nDirector Stern will be hosting a 30-minute Q&A session after dinner. Questions must be submitted at least 24 hours in advance.\n\nQueries about the [REDACTED] papers will be disregarded.\n\nPlease be advised that the contents of this e-mail will expire three minutes from the time of opening.</indent>"
 msgstr "<indent=5%>Beste [REDACTED]\n\nWe zijn verheugd aan te kondigen dat de onderzoeksdoelstellingen voor Operatie Piazzi's Planet hun voltooiing naderen. Bedankt allemaal voor jullie geduld terwijl we de ongekende obstakels navigeerden die dergelijk baanbrekend werk met zich meebrengt.\n\nWe zijn op de hoogte van geruchten over documenten die uit de bestanden van Dr. [REDACTED] zijn gelekt.\n\nWees gerust dat de inhoud van deze vermeende \"klokkenluider\"-poging volledig verzonnen is - onze technologie is veel te geavanceerd om toe te staan voor het type misrekening dat ertoe zou leiden dat OPP-zendingen zo'n 10.000 jaar vóór de beoogde datum op hun bestemming aankomen.\n\nOns IT-beveiligingsteam onderzoekt momenteel de digitale voetafdruk van het document om de oorsprong ervan te bepalen.\n\nOm onze dank uit te spreken voor uw voortdurende steun willen we de belangrijkste belanghebbenden uitnodigen voor een besloten lanceringsfeest in de Gravitas-faciliteit.De avond zal worden geleid door Dr. Olivia Broussard, die onze baanbrekende prototypes zal presenteren, samen met een vijfgangenmaaltijd met ambachtelijke ingrediënten.\n\nVanwege de gevoelige aard van ons werk betreuren we het dat er op dit moment geen extra gasten of dieetbeperkingen kunnen worden ondergebracht.\n\nDirecteur Stern zal na het diner een Q&A-sessie van 30 minuten houden. Vragen moeten ten minste 24 uur van tevoren worden ingediend.\n\nVragen over de [REDACTED] papers worden genegeerd.\n\nHoud er rekening mee dat de inhoud van deze e-mail drie minuten na het openen zal verlopen.< /inspringen>"
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DNADATA_ENTRY_EXPANDED.BODY.EMAILHEADER
@@ -24380,7 +24380,7 @@ msgstr "Dit beest kan niet genoeg <style=\"KKeyword\">warmte</style> afgeven om 
 
 #. STRINGS.CREATURES.STATUSITEMS.HOT_CROP.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT_CROP.NAME"
-msgid "    â¢ Body Temperature"
+msgid "    • Body Temperature"
 msgstr " â¢ Lichaamstemperatuur"
 
 #. STRINGS.CREATURES.STATUSITEMS.HOT_CROP.TOOLTIP
@@ -24560,7 +24560,7 @@ msgstr "\n â¢ {Resource}: {Amount}"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
-msgid "    â¢ Fertilization"
+msgid "    • Fertilization"
 msgstr " â¢ Bevruchting"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP
@@ -53675,7 +53675,7 @@ msgstr " â¢ Geen raketten die wachten om te landen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_ONE_IN_ORBIT
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.NORMAL_ONE_IN_ORBIT"
-msgid "    â¢ {0} is in orbit waiting to land"
+msgid "    • {0} is in orbit waiting to land"
 msgstr " â¢ {0} is in een baan om de aarde en wacht om te landen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.TOOLTIP_NAME
@@ -53685,12 +53685,12 @@ msgstr "<b>Raketten in een baan</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ONE_ROCKETS_STRANDED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ONE_ROCKETS_STRANDED"
-msgid "    â¢ No <link=\"LAUNCHPAD\">Rocket Platform</link> present. {0} stranded"
+msgid "    • No <link=\"LAUNCHPAD\">Rocket Platform</link> present. {0} stranded"
 msgstr " â¢ Geen <link=\"LAUNCHPAD\">Rocket Platform</link> aanwezig. {0} gestrand"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ROCKETS_STRANDED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETINORBITDIAGNOSTIC.WARNING_ROCKETS_STRANDED"
-msgid "    â¢ No <link=\"LAUNCHPAD\">Rocket Platform</link> present. {0} rockets stranded"
+msgid "    • No <link=\"LAUNCHPAD\">Rocket Platform</link> present. {0} rockets stranded"
 msgstr " â¢ Geen <link=\"LAUNCHPAD\">Rocket Platform</link> aanwezig. {0} raketten gestrand"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.ALL_NAME
@@ -53700,7 +53700,7 @@ msgstr "Rocket Oxidizer"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.NORMAL"
-msgid "    â¢ This rocket has sufficient oxidizer"
+msgid "    • This rocket has sufficient oxidizer"
 msgstr " â¢ Deze raket heeft voldoende oxidatiemiddel"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.TOOLTIP_NAME
@@ -53710,7 +53710,7 @@ msgstr "<b>Rocket Oxidizer</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.WARNING
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ROCKETOXIDIZERDIAGNOSTIC.WARNING"
-msgid "    â¢ This rocket has insufficient oxidizer"
+msgid "    • This rocket has insufficient oxidizer"
 msgstr " â¢ Deze raket heeft onvoldoende oxidatiemiddel"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.ALL_NAME
@@ -53725,12 +53725,12 @@ msgstr "Controleer gestrest"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.HIGH_STRESS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.HIGH_STRESS"
-msgid "    â¢ One or more Duplicants is suffering high stress"
+msgid "    • One or more Duplicants is suffering high stress"
 msgstr " â¢ Een of meer Duplicanten hebben last van hoge stress"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.NORMAL"
-msgid "    â¢ Duplicants have acceptable stress levels"
+msgid "    • Duplicants have acceptable stress levels"
 msgstr " â¢ Duplicanten hebben acceptabele stressniveaus"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.STRESSDIAGNOSTIC.TOOLTIP_NAME
@@ -53760,32 +53760,32 @@ msgstr "Check heeft toiletten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.FEW_TOILETS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.FEW_TOILETS"
-msgid "    â¢ Toilet-to-Duplicant ratio is low"
+msgid "    • Toilet-to-Duplicant ratio is low"
 msgstr " â¢ Toilet-to-Duplicant ratio is laag"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.INOPERATIONAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.INOPERATIONAL"
-msgid "    â¢ One or more toilets are out of order"
+msgid "    • One or more toilets are out of order"
 msgstr " â¢ Een of meer toiletten zijn buiten gebruik"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.NO_TOILETS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.NO_TOILETS"
-msgid "    â¢ Colony has no toilets"
+msgid "    • Colony has no toilets"
 msgstr " â¢ Kolonie heeft geen toiletten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.NO_WORKING_TOILETS
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.NO_WORKING_TOILETS"
-msgid "    â¢ Colony has no working toilets"
+msgid "    • Colony has no working toilets"
 msgstr " â¢ Colony heeft geen werkende toiletten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.NORMAL"
-msgid "    â¢ Colony has adequate working toilets"
+msgid "    • Colony has adequate working toilets"
 msgstr " â¢ Colony heeft voldoende werkende toiletten"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.TOILET_URGENT
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.TOILET_URGENT"
-msgid "    â¢ Duplicants urgently need to use a toilet"
+msgid "    • Duplicants urgently need to use a toilet"
 msgstr " â¢ Duplicanten moeten dringend naar het toilet"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TOILETDIAGNOSTIC.TOOLTIP_NAME
@@ -53805,12 +53805,12 @@ msgstr "Controleer gevangen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.NORMAL"
-msgid "    â¢ No Duplicants are trapped"
+msgid "    • No Duplicants are trapped"
 msgstr " â¢ Er worden geen duplicaten vastgehouden"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.STUCK
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.STUCK"
-msgid "    â¢ One or more Duplicants are trapped"
+msgid "    • One or more Duplicants are trapped"
 msgstr " â¢ Een of meer duplicaten zitten vast"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TRAPPEDDUPLICANTDIAGNOSTIC.TOOLTIP_NAME
@@ -53825,7 +53825,7 @@ msgstr "Reistijd"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TRAVEL_TIME.NORMAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.TRAVEL_TIME.NORMAL"
-msgid "    â¢ {0} of Duplicant time spent traveling between errands"
+msgid "    • {0} of Duplicant time spent traveling between errands"
 msgstr " â¢ {0} van dubbele tijd besteed aan reizen tussen boodschappen"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.TRAVEL_TIME.TOOLTIP_NAME
@@ -54485,7 +54485,7 @@ msgstr "Bekijk welke boodschappen dit gebouw kan doen en bekijk de huidige wacht
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_DISEASED
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_DISEASED"
-msgid "\n â¢ {0}"
+msgid "\n • {0}"
 msgstr "\n â¢ {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS
@@ -54495,7 +54495,7 @@ msgstr "{0}: {1}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_ROTTABLE
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_ROTTABLE"
-msgid "\n â¢ {0}"
+msgid "\n • {0}"
 msgstr "\n â¢ {0}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE
@@ -54590,7 +54590,7 @@ msgstr "{0} zijn aanwezig op het oppervlak van het geselecteerde object"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.DYING_OFF.TITLE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.DYING_OFF.TITLE"
-msgid "    â¢ <b>Dying off: {0}</b>"
+msgid "    • <b>Dying off: {0}</b>"
 msgstr " â¢ <b>Stierven: {0}</b>"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.DYING_OFF.TOOLTIP
@@ -54610,7 +54610,7 @@ msgstr "Deze atmosfeer zorgt ervoor dat ziektekiemen zich vermenigvuldigen"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.ENVIRONMENT.TITLE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.ENVIRONMENT.TITLE"
-msgid "    â¢ Surrounded by {0}: {1}"
+msgid "    • Surrounded by {0}: {1}"
 msgstr " â¢ omringd door {0}: {1}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.HALF_LIFE_NEG
@@ -54645,7 +54645,7 @@ msgstr "Over {0} wordt het aantal bacteriën op dit object verdubbeld"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TITLE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TITLE"
-msgid "    â¢ <b>Overpopulated: {0}</b>"
+msgid "    • <b>Overpopulated: {0}</b>"
 msgstr " â¢ <b>Overbevolkt: {0}</b>"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.OVERPOPULATED.TOOLTIP
@@ -54665,7 +54665,7 @@ msgstr "Atmosferische druk zorgt ervoor dat ziektekiemen zich vermenigvuldigen"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.TITLE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.PRESSURE.TITLE"
-msgid "    â¢ Current pressure {0}: {1}"
+msgid "    • Current pressure {0}: {1}"
 msgstr " â¢ Huidige druk {0}: {1}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RADIATION.DIE_TOOLTIP
@@ -54675,7 +54675,7 @@ msgstr "Blootstelling aan straling zorgt ervoor dat ziektekiemen afsterven"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RADIATION.TITLE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RADIATION.TITLE"
-msgid "    â¢ Exposed to {0} Rads: {1}"
+msgid "    • Exposed to {0} Rads: {1}"
 msgstr " â¢ Blootgesteld aan {0} Rads: {1}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.RATE_OF_CHANGE
@@ -54690,7 +54690,7 @@ msgstr "Het aantal ziektekiemen fluctueert met een snelheid van {0}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE"
-msgid "    â¢ Dying on {0}: {1}"
+msgid "    • Dying on {0}: {1}"
 msgstr " â¢ Sterven op {0}: {1}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.DIE_TOOLTIP
@@ -54700,7 +54700,7 @@ msgstr "Contact met deze stof zorgt ervoor dat ziektekiemen afsterven"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.GROW
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.GROW"
-msgid "    â¢ Growing on {0}: {1}"
+msgid "    • Growing on {0}: {1}"
 msgstr " â¢ Groeit op {0}: {1}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.GROW_TOOLTIP
@@ -54710,7 +54710,7 @@ msgstr "Contact met deze stof zorgt ervoor dat ziektekiemen zich vermenigvuldige
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.NEUTRAL
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.NEUTRAL"
-msgid "    â¢ No change on {0}"
+msgid "    • No change on {0}"
 msgstr " â¢ Geen wijziging op {0}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.SUBSTRATE.NEUTRAL_TOOLTIP
@@ -54730,7 +54730,7 @@ msgstr "Door deze temperatuur kunnen ziektekiemen zich vermenigvuldigen"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.TEMPERATURE.TITLE
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.TEMPERATURE.TITLE"
-msgid "    â¢ Current temperature {0}: {1}"
+msgid "    • Current temperature {0}: {1}"
 msgstr " â¢ Huidige temperatuur {0}: {1}"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.DETAILS.GROWTH_FACTORS.TITLE
@@ -54840,7 +54840,7 @@ msgstr "Dit beestje heeft een kans van {1} om {0}s te leggen."
 
 #. STRINGS.UI.DETAILTABS.EGG_CHANCES.CHANCE_MOD_FORMAT
 msgctxt "STRINGS.UI.DETAILTABS.EGG_CHANCES.CHANCE_MOD_FORMAT"
-msgid "    â¢ {0}\n"
+msgid "    • {0}\n"
 msgstr " â¢ {0}\n"
 
 #. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME
@@ -56890,13 +56890,13 @@ msgstr "Standaard morele behoeften"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.ATTRIBUTE_MODIFIER_NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.ATTRIBUTE_MODIFIER_NAME"
-msgid "Totally BlasÃ© (No Morale)"
+msgid "Totally Blasé (No Morale)"
 msgstr "Totally Blasé (No Morale)"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.NAME"
-msgid "Totally BlasÃ©"
-msgstr "Totally BlasÃ©"
+msgid "Totally Blasé"
+msgstr "Totally Blasé"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.MORALE.LEVELS.DISABLED.TOOLTIP"
@@ -58675,7 +58675,7 @@ msgstr "DOE MEE AAN DE DISCUSSIE"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
-msgid "This update includes:\n\nâ¢<indent=20px>New Meteor Blaster and Blastshot Maker buildings.</indent>\nâ¢<indent=20px>New meteor showers in Spaced Out!</indent>\nâ¢<indent=20px>Customizable meteor shower intensity.</indent>\nâ¢<indent=20px>Bug fixes and quality of life improvements.</indent>\n\n   Check out the full patch notes for more details!"
+msgid "This update includes:\n\n•<indent=20px>New Meteor Blaster and Blastshot Maker buildings.</indent>\n•<indent=20px>New meteor showers in Spaced Out!</indent>\n•<indent=20px>Customizable meteor shower intensity.</indent>\n•<indent=20px>Bug fixes and quality of life improvements.</indent>\n\n   Check out the full patch notes for more details!"
 msgstr "Deze update omvat:\n\nâ¢<indent=20px>Nieuwe Meteor Blaster- en Blastshot Maker-gebouwen.</indent>\nâ¢<indent=20px>Nieuwe meteorenregen in Spaced Out!</indent>\nâ¢<indent=20px>Aanpasbare meteorenregenintensiteit.</indent>\nâ¢<indent=20px>Bugfixes en verbeteringen in de levenskwaliteit.</indent>\n\n Bekijk de volledige patch-opmerkingen voor meer informatie details!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
@@ -58975,22 +58975,22 @@ msgstr "Zuurstof niet inbegrepen heeft een <b>grote update</b> gehad sinds dit o
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_AIRFILTER
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_AIRFILTER"
-msgid "â¢<indent=20px><link=\"AIRFILTER\">Deodorizer</link> now requires <b>5w Power</b>.</indent>\nâ¢<indent=20px>Duplicants will get <b>Stinging Eyes</b> from gasses such as chlorine and hydrogen.</indent>"
+msgid "•<indent=20px><link=\"AIRFILTER\">Deodorizer</link> now requires <b>5w Power</b>.</indent>\n•<indent=20px>Duplicants will get <b>Stinging Eyes</b> from gasses such as chlorine and hydrogen.</indent>"
 msgstr "â¢<indent=20px><link=\"AIRFILTER\">Deodorizer</link> vereist nu <b>5w Power</b>.</indent>\nâ¢<indent=20px>Duplicanten krijgt <b>prikkende ogen</b> van gassen zoals chloor en waterstof.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_BUILDINGS
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_BUILDINGS"
-msgid "â¢<indent=20px>The <b><link=\"OXYGENMASKSTATION\">Oxygen Mask Station</link></b> has been added to aid early-game exploration.</indent>\nâ¢<indent=20px>Use the new <b>Meter Valves</b> for precise control of resources in pipes.</indent>"
+msgid "•<indent=20px>The <b><link=\"OXYGENMASKSTATION\">Oxygen Mask Station</link></b> has been added to aid early-game exploration.</indent>\n•<indent=20px>Use the new <b>Meter Valves</b> for precise control of resources in pipes.</indent>"
 msgstr "â¢<indent=20px>Het <b><link=\"OXYGENMASKSTATION\">Oxygen Mask Station</link></b> is toegevoegd om vroege verkenning van games te vergemakkelijken.</indent>\nâ ¢<indent=20px>Gebruik de nieuwe <b>Meter Valves</b> voor nauwkeurige controle van bronnen in leidingen.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_FOOD
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_FOOD"
-msgid "â¢<indent=20px>Fridges are more effective for early-game food storage</indent>\nâ¢<indent=20px><b>Both</b> freezing temperatures and a sterile gas are needed for <b>total food preservation</b>.</indent>"
+msgid "•<indent=20px>Fridges are more effective for early-game food storage</indent>\n•<indent=20px><b>Both</b> freezing temperatures and a sterile gas are needed for <b>total food preservation</b>.</indent>"
 msgstr "â¢<indent=20px>Koelkasten zijn effectiever voor het bewaren van voedsel in een vroeg stadium</indent>\nâ¢<indent=20px><b>Zowel</b> vriestemperaturen als een steriel gas zijn nodig voor <b>volledige voedselconservering</b>.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_SIMULATION
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_SIMULATION"
-msgid "â¢<indent=20px>Many <b>simulation bugs</b> have been fixed.</indent>\nâ¢<indent=20px>This may <b>change the effectiveness</b> of certain contraptions and <link=\"STEAMTURBINE2\">Steam Turbine</link> setups.</indent>"
+msgid "•<indent=20px>Many <b>simulation bugs</b> have been fixed.</indent>\n•<indent=20px>This may <b>change the effectiveness</b> of certain contraptions and <link=\"STEAMTURBINE2\">Steam Turbine</link> setups.</indent>"
 msgstr "â¢<indent=20px>Veel <b>simulatiebugs</b> zijn opgelost.</indent>\nâ¢<indent=20px>Dit kan <b>de effectiviteit veranderen</b> van bepaalde constructies en <link=\"STEAMTURBINE2\">stoomturbine</link> opstellingen.</indent>"
 
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.MERGEDOWNCHANGES_TITLE
@@ -59255,8 +59255,8 @@ msgstr "Celsius"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
-msgid "Change temperature unit to Celsius (Â°C)"
-msgstr "Wijzig temperatuureenheid in Celsius (Â°C)"
+msgid "Change temperature unit to Celsius (°C)"
+msgstr "Wijzig temperatuureenheid in Celsius (°C)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
@@ -59265,7 +59265,7 @@ msgstr "Fahrenheit"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
-msgid "Change temperature unit to Fahrenheit (Â°F)"
+msgid "Change temperature unit to Fahrenheit (°F)"
 msgstr "Wijzig de temperatuureenheid in Fahrenheit (°F)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
@@ -60740,7 +60740,7 @@ msgstr "UITVOER"
 
 #. STRINGS.UI.LOGIC_PORTS.INPUT_PORT_TOOLTIP
 msgctxt "STRINGS.UI.LOGIC_PORTS.INPUT_PORT_TOOLTIP"
-msgid "Input Behavior:\nâ¢ {0}\nâ¢ {1}"
+msgid "Input Behavior:\n• {0}\n• {1}"
 msgstr "Invoergedrag:\nâ¢ {0}\nâ¢ {1}"
 
 #. STRINGS.UI.LOGIC_PORTS.INPUT_PORTS
@@ -60755,7 +60755,7 @@ msgstr "Invoerpoorten veranderen een status op dit gebouw wanneer een signaal wo
 
 #. STRINGS.UI.LOGIC_PORTS.OUTPUT_PORT_TOOLTIP
 msgctxt "STRINGS.UI.LOGIC_PORTS.OUTPUT_PORT_TOOLTIP"
-msgid "Output Behavior:\nâ¢ {0}\nâ¢ {1}"
+msgid "Output Behavior:\n• {0}\n• {1}"
 msgstr "Uitvoergedrag:\nâ¢ {0}\nâ¢ {1}"
 
 #. STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS
@@ -60870,7 +60870,7 @@ msgstr "Sorteren op"
 
 #. STRINGS.UI.MODIFIER_ITEM_TEMPLATE
 msgctxt "STRINGS.UI.MODIFIER_ITEM_TEMPLATE"
-msgid "    â¢ {0}: {1}"
+msgid "    • {0}: {1}"
 msgstr " â¢ {0}: {1}"
 
 #. STRINGS.UI.NA
@@ -63435,7 +63435,7 @@ msgstr "Geen kamer"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.NOROOM.TOO_BIG
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.NOROOM.TOO_BIG"
-msgid "<color=#F44A47FF>    â¢ Size: {0} Tiles\n    â¢ Maximum room size: {1} Tiles</color>"
+msgid "<color=#F44A47FF>    • Size: {0} Tiles\n    • Maximum room size: {1} Tiles</color>"
 msgstr "<color=#F44A47FF> â¢ Grootte: {0} tegels\n â¢ Maximale kamergrootte: {1} tegels</color>"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.ROOM
@@ -65470,12 +65470,12 @@ msgstr "Downtime-moraal: {0}"
 
 #. STRINGS.UI.SCHEDULESCREEN.DUPLICANT_EARLYBIRD_TOOLTIP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.DUPLICANT_EARLYBIRD_TOOLTIP"
-msgid "Early Bird\nâ¢ All <style=\"KKeyword\">Attributes</style> <b>+2</b> in the morning"
+msgid "Early Bird\n• All <style=\"KKeyword\">Attributes</style> <b>+2</b> in the morning"
 msgstr "Early Bird\nâ¢ Alle <style=\"KKeyword\">Kenmerken</style> <b>+2</b> in de ochtend"
 
 #. STRINGS.UI.SCHEDULESCREEN.DUPLICANT_NIGHTOWL_TOOLTIP
 msgctxt "STRINGS.UI.SCHEDULESCREEN.DUPLICANT_NIGHTOWL_TOOLTIP"
-msgid "Night Owl\nâ¢ All <style=\"KKeyword\">Attributes</style> <b>+3</b> at night"
+msgid "Night Owl\n• All <style=\"KKeyword\">Attributes</style> <b>+3</b> at night"
 msgstr "Nachtuil\nâ¢ Alle <style=\"KKeyword\">Attributen</style> <b>+3</b> 's nachts"
 
 #. STRINGS.UI.SCHEDULESCREEN.PAINT_TOOLS
@@ -65575,17 +65575,17 @@ msgstr "{0} heeft <b>al geleerd</b> {1}"
 
 #. STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.PREVENTED_BY_TRAIT
 msgctxt "STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.PREVENTED_BY_TRAIT"
-msgid "    â¢ This Duplicant possesses the <style=\"KKeyword\">{0}</style> Trait and cannot learn this Skill"
+msgid "    • This Duplicant possesses the <style=\"KKeyword\">{0}</style> Trait and cannot learn this Skill"
 msgstr " â¢ Deze Duplicant bezit de eigenschap <style=\"KKeyword\">{0}</style> en kan deze vaardigheid niet leren"
 
 #. STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.REQUIRES_MORE_SKILL_POINTS
 msgctxt "STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.REQUIRES_MORE_SKILL_POINTS"
-msgid "    â¢ Not enough <style=\"KKeyword\">Skill Points</style>"
+msgid "    • Not enough <style=\"KKeyword\">Skill Points</style>"
 msgstr " â¢ Niet genoeg <style=\"KKeyword\">Vaardigheidspunten</style>"
 
 #. STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.REQUIRES_PREVIOUS_SKILLS
 msgctxt "STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.REQUIRES_PREVIOUS_SKILLS"
-msgid "    â¢ Missing prerequisite <style=\"KKeyword\">Skill</style>"
+msgid "    • Missing prerequisite <style=\"KKeyword\">Skill</style>"
 msgstr " â¢ Ontbrekende vereiste <style=\"KKeyword\">Vaardigheid</style>"
 
 #. STRINGS.UI.SKILLS_SCREEN.ASSIGNMENT_REQUIREMENTS.MASTERY.SKILL_APTITUDE
@@ -67390,22 +67390,22 @@ msgstr "Alle bemanningsleden aan boord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.FAILURE"
-msgid "No crew members have boarded this rocket\n\nDuplicants must be assigned to the rocket crew and have access to the module's hatch to board\n\n    â¢ {0}/{1} Boarded"
+msgid "No crew members have boarded this rocket\n\nDuplicants must be assigned to the rocket crew and have access to the module's hatch to board\n\n    • {0}/{1} Boarded"
 msgstr "Er zijn geen bemanningsleden aan boord van deze raket gegaan\n\nDuplicaten moeten worden toegewezen aan de raketbemanning en toegang hebben tot het luik van de module om aan boord te gaan\n\n â¢ {0}/{1} geënterd"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.NONE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.NONE"
-msgid "There are no Duplicants assigned to this rocket crew\n\n    â¢ {0}/{1} Boarded"
+msgid "There are no Duplicants assigned to this rocket crew\n\n    • {0}/{1} Boarded"
 msgstr "Er zijn geen Duplicanten toegewezen aan deze raketbemanning\n\n â¢ {0}/{1} geënterd"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.READY"
-msgid "All Duplicants assigned to the rocket crew are boarded and ready for launch\n\n    â¢ {0}/{1} Boarded"
+msgid "All Duplicants assigned to the rocket crew are boarded and ready for launch\n\n    • {0}/{1} Boarded"
 msgstr "Alle Duplicanten toegewezen aan de raketbemanning zijn aan boord en klaar voor lancering\n\n â¢ {0}/{1} Aan boord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.WARNING"
-msgid "Some Duplicants assigned to this rocket crew have not yet boarded\n\n    â¢ {0}/{1} Boarded"
+msgid "Some Duplicants assigned to this rocket crew have not yet boarded\n\n    • {0}/{1} Boarded"
 msgstr "Sommige duplicanten toegewezen aan deze raketbemanning zijn nog niet aan boord gegaan\n\n â¢ {0}/{1} aan boord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.WARNING
@@ -68295,7 +68295,7 @@ msgstr "{0} / {1}"
 
 #. STRINGS.UI.STARMAP.SUBROW
 msgctxt "STRINGS.UI.STARMAP.SUBROW"
-msgid "â¢  {0}"
+msgid "•  {0}"
 msgstr "â¢ {0}"
 
 #. STRINGS.UI.STARMAP.SUSPEND_DESTINATION_ANALYSIS
@@ -71565,8 +71565,8 @@ msgstr "Zelf"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_COMPULSORY
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_COMPULSORY"
-msgid "{Description}\n\n<b>{Errand}</b> is a Involuntary action and so will occur immediately\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    â¢ Involuntary: {ClassPriority}\n    â¢ All {BestGroup} Errands: {TypePriority}"
-msgstr "{Description}\n\n<b>{Errand}</b> is een Onvrijwillige actie en zal dus onmiddellijk plaatsvinden\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority} \n    â¢ Onvrijwillig: {ClassPriority}\n    â¢ Alle {BestGroup} Boodschappen: {TypePriority}"
+msgid "{Description}\n\n<b>{Errand}</b> is a Involuntary action and so will occur immediately\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Involuntary: {ClassPriority}\n    • All {BestGroup} Errands: {TypePriority}"
+msgstr "{Description}\n\n<b>{Errand}</b> is een Onvrijwillige actie en zal dus onmiddellijk plaatsvinden\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority} \n    • Onvrijwillig: {ClassPriority}\n    • Alle {BestGroup} Boodschappen: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_DESC_ACTIVE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_DESC_ACTIVE"
@@ -71580,13 +71580,13 @@ msgstr "{Name} zou kunnen werken aan <b>{Errand}</b>, maar het krijgt momenteel 
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_EMERGENCY
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_EMERGENCY"
-msgid "{Description}\n\n<b>{Errand}</b> is an Emergency errand and so will be performed before all Regular and Personal errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    â¢ Emergency : {ClassPriority}\n    â¢ This {Building}'s Priority: {BuildingPriority}\n    â¢ All {BestGroup} Errands: {TypePriority}"
-msgstr "{Description}\n\n<b>{Boodschap}</b> is een Noodboodschap en wordt dus uitgevoerd vóór alle Normale en Persoonlijke boodschappen\n\nTotale <style=\"KKeyword\">Prioriteit</ style>: {TotalPriority}\n    â¢ Noodgeval: {ClassPriority}\n    â¢ De prioriteit van dit {gebouw}: {BuildingPriority}\n    â¢ Alle {BestGroup} Boodschappen: {TypePriority}"
+msgid "{Description}\n\n<b>{Errand}</b> is an Emergency errand and so will be performed before all Regular and Personal errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Emergency : {ClassPriority}\n    • This {Building}'s Priority: {BuildingPriority}\n    • All {BestGroup} Errands: {TypePriority}"
+msgstr "{Description}\n\n<b>{Boodschap}</b> is een Noodboodschap en wordt dus uitgevoerd vóór alle Normale en Persoonlijke boodschappen\n\nTotale <style=\"KKeyword\">Prioriteit</ style>: {TotalPriority}\n    • Noodgeval: {ClassPriority}\n    • De prioriteit van dit {gebouw}: {BuildingPriority}\n    • Alle {BestGroup} Boodschappen: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE"
-msgid "{IdleDescription}\n\nDuplicants will only <b>{Errand}</b> when there is nothing else for them to do\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    â¢ Idle: {ClassPriority}\n    â¢ All {BestGroup} Errands: {TypePriority}"
-msgstr "{IdleDescription}\n\nDuplicanten zullen alleen <b>{Errand}</b> doen als ze niets anders te doen hebben\n\nTotale <style=\"KKeyword\">Prioriteit</style>: { TotalPriority}\n    â¢ Inactief: {ClassPriority}\n    â¢ Alle {BestGroup} Boodschappen: {TypePriority}"
+msgid "{IdleDescription}\n\nDuplicants will only <b>{Errand}</b> when there is nothing else for them to do\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Idle: {ClassPriority}\n    • All {BestGroup} Errands: {TypePriority}"
+msgstr "{IdleDescription}\n\nDuplicanten zullen alleen <b>{Errand}</b> doen als ze niets anders te doen hebben\n\nTotale <style=\"KKeyword\">Prioriteit</style>: { TotalPriority}\n    • Inactief: {ClassPriority}\n    • Alle {BestGroup} Boodschappen: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLEDESC_ACTIVE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLEDESC_ACTIVE"
@@ -71605,13 +71605,13 @@ msgstr "--"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_NORMAL
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_NORMAL"
-msgid "{Description}\n\nErrand Type: {Groups}\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    â¢ {Name}'s {BestGroup} Priority: {PersonalPriorityValue} ({PersonalPriority})\n    â¢ This {Building}'s Priority: {BuildingPriority}\n    â¢ All {BestGroup} Errands: {TypePriority}"
-msgstr "{Description}\n\nBoodschap Type: {Groups}\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority}\n    â¢ {Name}'s {BestGroup} Prioriteit : {PersonalPriorityValue} ({PersonalPriority})\n    â¢ De prioriteit van dit {gebouw}: {BuildingPriority}\n    â¢ Alle boodschappen van {BestGroup}: {TypePriority}"
+msgid "{Description}\n\nErrand Type: {Groups}\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • {Name}'s {BestGroup} Priority: {PersonalPriorityValue} ({PersonalPriority})\n    • This {Building}'s Priority: {BuildingPriority}\n    • All {BestGroup} Errands: {TypePriority}"
+msgstr "{Description}\n\nBoodschap Type: {Groups}\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority}\n    • {Name}'s {BestGroup} Prioriteit : {PersonalPriorityValue} ({PersonalPriority})\n    • De prioriteit van dit {gebouw}: {BuildingPriority}\n    • Alle boodschappen van {BestGroup}: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_PERSONAL
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_PERSONAL"
-msgid "{Description}\n\n<b>{Errand}</b> is a Personal Needs errand and so will be performed before all Regular errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    â¢ Personal Needs: {ClassPriority}\n    â¢ All {BestGroup} Errands: {TypePriority}"
-msgstr "{Description}\n\n<b>{Errand}</b> is een Persoonlijke Behoefte boodschap en wordt dus uitgevoerd vóór alle Gewone boodschappen\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority}\n    â¢ Persoonlijke behoeften: {ClassPriority}\n    â¢ Alle {BestGroup} Boodschappen: {TypePriority}"
+msgid "{Description}\n\n<b>{Errand}</b> is a Personal Needs errand and so will be performed before all Regular errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Personal Needs: {ClassPriority}\n    • All {BestGroup} Errands: {TypePriority}"
+msgstr "{Description}\n\n<b>{Errand}</b> is een Persoonlijke Behoefte boodschap en wordt dus uitgevoerd vóór alle Gewone boodschappen\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority}\n    • Persoonlijke behoeften: {ClassPriority}\n    • Alle {BestGroup} Boodschappen: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TRUNCATED_CHORES
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TRUNCATED_CHORES"
@@ -72210,8 +72210,8 @@ msgstr "Verwissel deze raketmodule met die eronder"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEDOWN.INVALID
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEDOWN.INVALID"
-msgid "No module below may be swapped.\n\n    â¢ A module below may be unable to have modules placed below it.\n    â¢ A module below may be unable to fit into the space above it.\n    â¢ This module may be unable to fit into the space below it."
-msgstr "Geen enkele module eronder mag worden verwisseld.\n\n    â¢ Een module eronder mag mogelijk geen modules eronder hebben.\n    â¢ Een module eronder kan mogelijk niet in de ruimte erboven passen.\n    â¢ Deze module past mogelijk niet in de ruimte eronder."
+msgid "No module below may be swapped.\n\n    • A module below may be unable to have modules placed below it.\n    • A module below may be unable to fit into the space above it.\n    • This module may be unable to fit into the space below it."
+msgstr "Geen enkele module eronder mag worden verwisseld.\n\n    • Een module eronder mag mogelijk geen modules eronder hebben.\n    • Een module eronder kan mogelijk niet in de ruimte erboven passen.\n    • Deze module past mogelijk niet in de ruimte eronder."
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEUP.DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEUP.DESC"
@@ -72220,8 +72220,8 @@ msgstr "Verwissel deze raketmodule met die hierboven"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEUP.INVALID
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONSWAPMODULEUP.INVALID"
-msgid "No module above may be swapped.\n\n    â¢ A module above may be unable to have modules placed above it.\n    â¢ A module above may be unable to fit into the space below it.\n    â¢ This module may be unable to fit into the space above it."
-msgstr "Geen enkele module erboven mag worden verwisseld.\n\n    â¢ Een module erboven mag mogelijk geen modules erboven hebben.\n    â¢ Een module erboven kan mogelijk niet in de ruimte eronder passen.\n    â¢ Deze module past mogelijk niet in de ruimte erboven."
+msgid "No module above may be swapped.\n\n    • A module above may be unable to have modules placed above it.\n    • A module above may be unable to fit into the space below it.\n    • This module may be unable to fit into the space above it."
+msgstr "Geen enkele module erboven mag worden verwisseld.\n\n    • Een module erboven mag mogelijk geen modules erboven hebben.\n    • Een module erboven kan mogelijk niet in de ruimte eronder passen.\n    • Deze module past mogelijk niet in de ruimte erboven."
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONVIEWEXTERIOR.DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.BUTTONVIEWEXTERIOR.DESC"
@@ -72265,23 +72265,23 @@ msgstr "Deze motor staat een <b>Maximale Rakethoogte</b> van {0} toe"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.BURDEN
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.BURDEN"
-msgid "    â¢ Burden: {0} ({1})"
-msgstr "    â¢ Last: {0} ({1})"
+msgid "    • Burden: {0} ({1})"
+msgstr "    • Last: {0} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.ENGINEPOWER
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.ENGINEPOWER"
-msgid "    â¢ Engine Power: {0} ({1})"
-msgstr "    â¢ Motor Kracht: {0} ({1})"
+msgid "    • Engine Power: {0} ({1})"
+msgstr "    • Motor Kracht: {0} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.HEIGHT
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.HEIGHT"
-msgid "    â¢ Height: {0}/{2} ({1})"
-msgstr "    â¢ Hoogte: {0}/{2} ({1})"
+msgid "    • Height: {0}/{2} ({1})"
+msgstr "    • Hoogte: {0}/{2} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.HEIGHT_NOMAX
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.HEIGHT_NOMAX"
-msgid "    â¢ Height: {0} ({1})"
-msgstr "    â¢ Hoogte: {0} ({1})"
+msgid "    • Height: {0} ({1})"
+msgstr "    • Hoogte: {0} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.NEGATIVEDELTA
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.NEGATIVEDELTA"
@@ -72295,13 +72295,13 @@ msgstr "<b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.RANGE
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.RANGE"
-msgid "    â¢ Potential Range: {0}/1 kg Fuel ({1})"
-msgstr "    â¢ Mogelijk Bereik: {0}/1 kg Brandstof ({1})"
+msgid "    • Potential Range: {0}/1 kg Fuel ({1})"
+msgstr "    • Mogelijk Bereik: {0}/1 kg Brandstof ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.SPEED
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.SPEED"
-msgid "    â¢ Speed: {0} ({1})"
-msgstr "    â¢ Snelheid: {0} ({1})"
+msgid "    • Speed: {0} ({1})"
+msgstr "    • Snelheid: {0} ({1})"
 
 #. STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.ROCKETMODULESIDESCREEN.MODULESTATCHANGE.TITLE"
@@ -72395,8 +72395,8 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ENGINE_AT_BOTTOM.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ENGINE_AT_BOTTOM.FAILED"
-msgid "â¢ Must install at bottom of rocket"
-msgstr "â¢ Moet geinstalleerd worden onder aan de raket"
+msgid "• Must install at bottom of rocket"
+msgstr "• Moet geinstalleerd worden onder aan de raket"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MATERIALS_AVAILABLE.COMPLETE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MATERIALS_AVAILABLE.COMPLETE"
@@ -72405,8 +72405,8 @@ msgstr "Materialen beschikbaar"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MATERIALS_AVAILABLE.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MATERIALS_AVAILABLE.FAILED"
-msgid "â¢ Materials unavailable"
-msgstr "â¢ Materialen onbeschikbaar"
+msgid "• Materials unavailable"
+msgstr "• Materialen onbeschikbaar"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.COMPLETE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.COMPLETE"
@@ -72415,13 +72415,13 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED"
-msgid "â¢ Engine's height limit reached or exceeded"
-msgstr "â¢ Limiet Motor hoogte bereikt of overschreden"
+msgid "• Engine's height limit reached or exceeded"
+msgstr "• Limiet Motor hoogte bereikt of overschreden"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED_NO_ENGINE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_HEIGHT.FAILED_NO_ENGINE"
-msgid "â¢ Rocket requires space for an engine"
-msgstr "â¢ Raket heeft ruimte nodig voor een motor"
+msgid "• Rocket requires space for an engine"
+msgstr "• Raket heeft ruimte nodig voor een motor"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.COMPLETE"
@@ -72430,8 +72430,8 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.MAX_MODULES.FAILED"
-msgid "â¢ Max module limit of engine reached"
-msgstr "â¢ Max motor module limiet bereikt"
+msgid "• Max module limit of engine reached"
+msgstr "• Max motor module limiet bereikt"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_COMMAND_PER_ROCKET.COMPLETE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_COMMAND_PER_ROCKET.COMPLETE"
@@ -72440,8 +72440,8 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_COMMAND_PER_ROCKET.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_COMMAND_PER_ROCKET.FAILED"
-msgid "â¢ Command module already installed"
-msgstr "â¢ Commando Module reeds geïnstalleerd"
+msgid "• Command module already installed"
+msgstr "• Commando Module reeds geïnstalleerd"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ENGINE_PER_ROCKET.COMPLETE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ENGINE_PER_ROCKET.COMPLETE"
@@ -72450,8 +72450,8 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ENGINE_PER_ROCKET.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.ONE_ENGINE_PER_ROCKET.FAILED"
-msgid "â¢ Engine module already installed"
-msgstr "â¢ Motor module reeds geïnstalleerd"
+msgid "• Engine module already installed"
+msgstr "• Motor module reeds geïnstalleerd"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.PASSENGER_MODULE_AVAILABLE.COMPLETE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.PASSENGER_MODULE_AVAILABLE.COMPLETE"
@@ -72460,8 +72460,8 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.PASSENGER_MODULE_AVAILABLE.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.PASSENGER_MODULE_AVAILABLE.FAILED"
-msgid "â¢ Max number of passenger modules installed"
-msgstr "â¢ Maximum aantal passagiersmodules geïnstalleerd"
+msgid "• Max number of passenger modules installed"
+msgstr "• Maximum aantal passagiersmodules geïnstalleerd"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.RESEARCHED.COMPLETE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.RESEARCHED.COMPLETE"
@@ -72480,8 +72480,8 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.SPACE_AVAILABLE.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.SPACE_AVAILABLE.FAILED"
-msgid "â¢ Space above rocket blocked"
-msgstr "â¢ Ruimte boven raket geblokkeerd"
+msgid "• Space above rocket blocked"
+msgstr "• Ruimte boven raket geblokkeerd"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.TOP_ONLY.COMPLETE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.TOP_ONLY.COMPLETE"
@@ -72490,8 +72490,8 @@ msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.TOP_ONLY.FAILED
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.CONSTRAINTS.TOP_ONLY.FAILED"
-msgid "â¢ Must install at top of rocket"
-msgstr "â¢ Moet bovenaan de raket geïnstalleerd worden"
+msgid "• Must install at top of rocket"
+msgstr "• Moet bovenaan de raket geïnstalleerd worden"
 
 #. STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SELECTMODULESIDESCREEN.TITLE"
@@ -73355,13 +73355,13 @@ msgstr "Seconden"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.CELSIUS
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.CELSIUS"
-msgid " ÂºC"
-msgstr "ÂºC"
+msgid " ºC"
+msgstr "ºC"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.FAHRENHEIT
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.FAHRENHEIT"
-msgid " ÂºF"
-msgstr "ÂºF"
+msgid " ºF"
+msgstr "ºF"
 
 #. STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN
 msgctxt "STRINGS.UI.UNITSUFFIXES.TEMPERATURE.KELVIN"
