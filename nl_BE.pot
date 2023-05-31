@@ -19,7 +19,7 @@ msgstr ""
 #- radbolts > radbolten
 #- duplicants > duplicanten
 
-# status: 12224
+# status: 12599
 # going to auto-translate, make sure no syntax errors occur. fix language later.
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -4556,7 +4556,7 @@ msgstr "<link=\"BUNKERTILE\">Bunkertegel</link>"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr "Onbeduidend Schilderij"
+msgstr "Matig Schilderij"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
@@ -4696,7 +4696,7 @@ msgstr "Ruw Schilderij"
 #. STRINGS.BUILDINGS.PREFABS.CANVASTALL.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr "Onbeduidend Schilderij"
+msgstr "Matig Schilderij"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASTALL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.DESC"
@@ -4816,7 +4816,7 @@ msgstr "Ruw Schilderij"
 #. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr "Onbeduidend Schilderij"
+msgstr "Matig Schilderij"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.DESC"
@@ -7856,7 +7856,7 @@ msgstr "<link=\"ICEMACHINE\">IJsmachine</link>"
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Ice Sculpture"
-msgstr "Onbeduidende Ijssculptuur"
+msgstr "Matige Ijssculptuur"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.DESC"
@@ -10116,7 +10116,7 @@ msgstr "<link=\"MANUALPRESSUREDOOR\">Handmatige luchtsluis</link>"
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Marble Sculpture"
-msgstr "Middelmatige marmeren sculptuur"
+msgstr "Matige marmeren sculptuur"
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.DESC"
@@ -10356,7 +10356,7 @@ msgstr "Haalt pure {0} uit {1}."
 #. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Metal Sculpture"
-msgstr "Middelmatige metalen sculptuur"
+msgstr "Matige metalen sculptuur"
 
 #. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.DESC"
@@ -10631,7 +10631,7 @@ msgstr "Raketten moeten worden geland om grondstoffen te laden of te lossen."
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.EFFECT"
 msgid "Loads <link=\"ELEMENTSLIQUID\">Liquids</link> to the storage of a linked rocket.\n\nAutomatically links when built to the side of a <link=\"LAUNCHPAD\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link>.\n\nUses the liquid filters set on the rocket's cargo bays."
-msgstr "Laadt <link=\"ELEMENTSLIQUID\">vloeistoffen</link> naar de opslag van een gekoppelde raket.\n\nLinkt automatisch wanneer gebouwd aan de zijkant van een <link=\"LAUNCHPAD\">raketplatform</ link> of een andere <link=\"MODULARLAUNCHPADPORTSOLID\">Raket Port</link>.\n\nGebruikt de vloeistoffilters die op de laadruimten van de raket zijn geplaatst."
+msgstr "Laadt <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> naar de opslag van een gekoppelde raket.\n\nLinkt automatisch wanneer gebouwd aan de zijkant van een <link=\"LAUNCHPAD\">raketplatform</ link> of een andere <link=\"MODULARLAUNCHPADPORTSOLID\">Raket Port</link>.\n\nGebruikt de vloeistoffilters die op de laadruimten van de raket zijn geplaatst."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUID.NAME"
@@ -10646,7 +10646,7 @@ msgstr "Raketten moeten worden geland om grondstoffen te laden of te lossen."
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.EFFECT"
 msgid "Unloads <link=\"ELEMENTSLIQUID\">Liquids</link> from the storage of a linked rocket.\n\nAutomatically links when built to the side of a <link=\"LAUNCHPAD\">Rocket Platform</link> or another <link=\"MODULARLAUNCHPADPORTSOLID\">Rocket Port</link>.\n\nUses the liquid filters set on this unloader."
-msgstr "Loadt <link=\"ELEMENTSLIQUID\">vloeistoffen</link> uit de opslag van een gekoppelde raket.\n\nLinkt automatisch wanneer gebouwd aan de zijkant van een <link=\"LAUNCHPAD\">raketplatform</ link> of een andere <link=\"MODULARLAUNCHPADPORTSOLID\">Raket Port</link>.\n\nGebruikt de vloeistoffilters die op deze ontlader zijn ingesteld."
+msgstr "Loadt <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> uit de opslag van een gekoppelde raket.\n\nLinkt automatisch wanneer gebouwd aan de zijkant van een <link=\"LAUNCHPAD\">raketplatform</ link> of een andere <link=\"MODULARLAUNCHPADPORTSOLID\">Raket Port</link>.\n\nGebruikt de vloeistoffilters die op deze ontlader zijn ingesteld."
 
 #. STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MODULARLAUNCHPADPORTLIQUIDUNLOADER.NAME"
@@ -10786,7 +10786,7 @@ msgstr "Oogst bronnen uit het universum."
 #. STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.EFFECT"
 msgid "Enables a rocket to drill into interstellar debris and collect <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link> and <link=\"ELEMENTSSOLID\">solid</link> resources from space.\n\nEngine must be built via <link=\"LAUNCHPAD\">Rocket Platform</link>. \n\nMust be built at the top of a rocket with <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link> or <link=\"ELEMENTSSOLID\">solid</link> Cargo Module attached to store the appropriate resources."
-msgstr "Hiermee kan een raket in interstellair puin boren en <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">vloeistof</link> en <link=\"ELEMENTSSOLID\" verzamelen>solide</link> bronnen vanuit de ruimte.\n\nMotor moet worden gebouwd via <link=\"LAUNCHPAD\">Raket Platform</link>. \n\nMoet worden gebouwd op de top van een raket met <link= \"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">vloeistof</link> of <link=\"ELEMENTSSOLID\">vast</link> Cargo Module bevestigd om de juiste middelen op te slaan. "
+msgstr "Hiermee kan een raket in interstellair puin boren en <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">vloeistof</link> en <link=\"ELEMENTSSOLID\" verzamelen>solide</link> bronnen vanuit de ruimte.\n\nMotor moet worden gebouwd via <link=\"LAUNCHPAD\">Raket Platform</link>. \n\nMoet worden gebouwd op de top van een raket met <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">vloeistof</link> of <link=\"ELEMENTSSOLID\">vast</link> Cargo Module bevestigd om de juiste middelen op te slaan. "
 
 #. STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.NAME"
@@ -11066,7 +11066,7 @@ msgstr "Dupliceerders kunnen een station niet passeren als er onvoldoende zuurst
 #. STRINGS.BUILDINGS.PREFABS.OXYGENMASKSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENMASKSTATION.EFFECT"
 msgid "Uses designated <link=\"METAL\">Metal Ores</link> from filter settings to create <link=\"OXYGENMASK\">Oxygen Masks</link>.\n\nAutomatically draws in ambient <link=\"OXYGEN\">Oxygen</link> to fill masks.\n\nMarks a threshold where Duplicants must put on or take off a mask.\n\nCan be rotated before construction."
-msgstr "Gebruikt aangewezen <link=\"METAL\">Metaalertsen</link> van filterinstellingen om <link=\"OXYGENMASK\">Zuurstofmaskers</link> te maken.\n\nTekent automatisch de omgeving <link= \"OXYGEN\">Zuurstof</link> om maskers te vullen.\n\nMarkeert een drempel waar Duplicanten een masker moeten op- of afzetten.\n\nKan worden gedraaid voordat het wordt gebouwd."
+msgstr "Gebruikt aangewezen <link=\"METAL\">Metaalertsen</link> van filterinstellingen om <link=\"OXYGENMASK\">Zuurstofmaskers</link> te maken.\n\nTekent automatisch de omgeving <link=\"OXYGEN\">Zuurstof</link> om maskers te vullen.\n\nMarkeert een drempel waar Duplicanten een masker moeten op- of afzetten.\n\nKan worden gedraaid voordat het wordt gebouwd."
 
 #. STRINGS.BUILDINGS.PREFABS.OXYGENMASKSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENMASKSTATION.NAME"
@@ -11151,7 +11151,7 @@ msgstr "<link=\"PHONOBOX\">Jukebot</link>"
 #. STRINGS.BUILDINGS.PREFABS.PIONEERLANDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIONEERLANDER.DESC"
 msgid "Lands a Duplicant on a Planetoid from an orbiting <link=\"PIONEERMODULE\">Trailblazer Module</link>."
-msgstr "Laat een duplicant landen op een planetoïde vanuit een in een baan om de aarde draaiende <link=\"PIONEERMODULE\">Trailblazer Module</link>."
+msgstr "Laat een duplicant landen op een planetoïde vanuit een in een baan om de aarde draaiende <link=\"PIONEERMODULE\">Pionier Module</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.PIONEERLANDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PIONEERLANDER.NAME"
@@ -12136,7 +12136,7 @@ msgstr "Hiermee kunnen <link=\"ELEMENTSGAS\">Gassen</link> in raketopslag worden
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUT.NAME"
 msgid "<link=\"ROCKETINTERIORGASINPUT\">Gas Intake Fitting</link>"
-msgstr "<link=\"ROCKETINTERIORGASINPUT\">Gas Inlaat Fitting</link>"
+msgstr "<link=\"ROCKETINTERIORGASINPUT\">Gas Inlaat Aansluiting</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASINPUTPORT.DESC"
@@ -12166,7 +12166,7 @@ msgstr "Hiermee kunnen <link=\"ELEMENTSGAS\">Gassen</link> uit raketopslag worde
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUT.NAME"
 msgid "<link=\"ROCKETINTERIORGASOUTPUT\">Gas Output Fitting</link>"
-msgstr "<link=\"ROCKETINTERIORGASOUTPUT\">Gas Uitvoer Fitting</link>"
+msgstr "<link=\"ROCKETINTERIORGASOUTPUT\">Gas Uitvoer Aansluiting</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORGASOUTPUTPORT.DESC"
@@ -12196,7 +12196,7 @@ msgstr "Hiermee kunnen <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> in raketopsl
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUT.NAME"
 msgid "<link=\"ROCKETINTERIORLIQUIDINPUT\">Liquid Intake Fitting</link>"
-msgstr "<link=\"ROCKETINTERIORLIQUIDINPUT\">Vloeistof Inlaat Fitting</link>"
+msgstr "<link=\"ROCKETINTERIORLIQUIDINPUT\">Vloeistof Inlaat Aansluiting</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDINPUTPORT.DESC"
@@ -12221,12 +12221,12 @@ msgstr "Hadden we nu maar wat waterballonnen..."
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.EFFECT"
 msgid "Allows <link=\"ELEMENTSLIQUID\">Liquids</link> to be drawn from rocket storage via <link=\"LIQUIDCONDUIT\">Pipes</link>.\n\nDraws liquid from the first Rocket Module with the requested material.\n\nMust be built within the interior of a Rocket Module."
-msgstr "Hiermee kunnen <link=\"ELEMENTSLIQUID\">vloeistoffen</link> worden onttrokken uit raketopslag via <link=\"LIQUIDCONDUIT\">Leidingen</link>.\n\nOnttrekt vloeistof uit de eerste Raket Module met het gevraagde materiaal.\n\nMoet worden gebouwd in het interieur van een Raket Module."
+msgstr "Hiermee kunnen <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> worden uit raketopslag gehaald worden via <link=\"LIQUIDCONDUIT\">Leidingen</link>.\n\nOnttrekt vloeistof uit de eerste Raket Module met het gevraagde materiaal.\n\nMoet worden gebouwd in het interieur van een Raket Module."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUT.NAME"
 msgid "<link=\"ROCKETINTERIORLIQUIDOUTPUT\">Liquid Output Fitting</link>"
-msgstr "<link=\"ROCKETINTERIORLIQUIDOUTPUT\">Aanpassing vloeistofuitvoer</link>"
+msgstr "<link=\"ROCKETINTERIORLIQUIDOUTPUT\">Vloeistof Uitvoer Aansluiting</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.DESC"
@@ -12241,37 +12241,37 @@ msgstr "Maakt een directe verbinding mogelijk met de <link=\"HABITATMODULEMEDIUM
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORLIQUIDOUTPUTPORT.NAME"
 msgid "<link=\"ROCKETINTERIORLIQUIDOUTPUTPORT\">Liquid Spacefarer Output Port</link>"
-msgstr "<link=\"ROCKETINTERIORLIQUIDOUTPUTPORT\">Uitgangspoort voor vloeibare ruimtevaarder</link>"
+msgstr "<link=\"ROCKETINTERIORLIQUIDOUTPUTPORT\">Vloeistof Ruimtevaarder Uitvoer Poort</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.DESC"
 msgid "Outlets conveniently power buildings inside a cockpit using their rocket's power stores."
-msgstr "Outlets voeden gemakkelijk gebouwen in een cockpit met behulp van de energieopslag van hun raket."
+msgstr "Stopcontacten voorzien op handige wijze gebouwen in een cockpit van stroom met behulp van de energieopslag van hun raket."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.EFFECT"
 msgid "Provides <link=\"POWER\">Power</link> to connected buildings.\n\nPulls power from <link=\"BATTERYMODULE\">Battery Modules</link> and Rocket Engines.\n\nMust be built within the interior of a Rocket Module."
-msgstr "Levert <link=\"POWER\">Stroom</link> aan aangesloten gebouwen.\n\nHaalt stroom van <link=\"BATTERYMODULE\">Batterijmodules</link> en Raketmotoren.\n\nMust worden gebouwd in het interieur van een Raket Module."
+msgstr "Levert <link=\"POWER\">Stroom</link> aan aangesloten gebouwen.\n\nHaalt stroom van <link=\"BATTERYMODULE\">Batterijmodules</link> en Raketmotoren.\n\nMoet worden gebouwd in het interieur van een Raket Module."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORPOWERPLUG.NAME"
 msgid "<link=\"ROCKETINTERIORPOWERPLUG\">Power Outlet Fitting</link>"
-msgstr "<link=\"ROCKETINTERIORPOWERPLUG\">stopcontactfitting</link>"
+msgstr "<link=\"ROCKETINTERIORPOWERPLUG\">Stroom Stopcontact Aansluiting</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.DESC"
 msgid "Why organize your shelves when you can just shove everything in here?"
-msgstr "Waarom zou je je planken ordenen als je hier gewoon alles in kunt schuiven?"
+msgstr "Waarom zou je je schappen organiseren als je gewoon alles hier in kan proppen?"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.EFFECT"
 msgid "Allows <link=\"ELEMENTSSOLID\">Solid Materials</link> to be moved into rocket storage via <link=\"SOLIDCONDUIT\">Conveyor Rails</link>.\n\nSends solid material to the first Rocket Module with available space.\n\nMust be built within the interior of a Rocket Module."
-msgstr "Hiermee kunnen <link=\"ELEMENTSSOLID\">vaste materialen</link> naar de raketopslag worden verplaatst via <link=\"SOLIDCONDUIT\">transportrails</link>.\n\nStuurt vast materiaal naar de eerste Raketmodule met beschikbare ruimte.\n\nMoet worden gebouwd in het interieur van een Raketmodule."
+msgstr "Hiermee kunnen <link=\"ELEMENTSSOLID\">Vaste Materialen</link> in de raketopslag geplaatst worden via <link=\"SOLIDCONDUIT\">Transportband Rails</link>.\n\nStuurt vast materiaal naar de eerste Raketmodule met beschikbare ruimte.\n\nMoet worden gebouwd in het interieur van een Raketmodule."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDINPUT.NAME"
 msgid "<link=\"ROCKETINTERIORSOLIDINPUT\">Conveyor Receptacle Fitting</link>"
-msgstr "<link=\"ROCKETINTERIORSOLIDINPUT\">Busaansluiting voor transportband</link>"
+msgstr "<link=\"ROCKETINTERIORSOLIDINPUT\">Transportband Vergaarbak Aansluiting</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.DESC"
@@ -12281,27 +12281,27 @@ msgstr "Voor toegang tot uw opgeslagen bagage tijdens de vlucht."
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.EFFECT"
 msgid "Allows <link=\"ELEMENTSSOLID\">Solid Materials</link> to be moved out of rocket storage via <link=\"SOLIDCONDUIT\">Conveyor Rails</link>.\n\nDraws solid material from the first Rocket Module with the requested material.\n\nMust be built within the interior of a Rocket Module."
-msgstr "Hiermee kunnen <link=\"ELEMENTSSOLID\">vaste materialen</link> uit de raketopslag worden verplaatst via <link=\"SOLIDCONDUIT\">transportrails</link>.\n\nOnttrekt vast materiaal uit de eerste Raket Module met het gevraagde materiaal.\n\nMoet worden gebouwd in het interieur van een Raket Module."
+msgstr "Hiermee kunnen <link=\"ELEMENTSSOLID\">Vaste Materialen</link> uit de raketopslag worden verplaatst via <link=\"SOLIDCONDUIT\">Transportband Rails</link>.\n\nOnttrekt vast materiaal uit de eerste Raket Module met het gevraagde materiaal.\n\nMoet worden gebouwd in het interieur van een Raket Module."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETINTERIORSOLIDOUTPUT.NAME"
 msgid "<link=\"ROCKETINTERIORSOLIDOUTPUT\">Conveyor Loader Fitting</link>"
-msgstr "<link=\"ROCKETINTERIORSOLIDOUTPUT\">Conveyor Loader Fitting</link>"
+msgstr "<link=\"ROCKETINTERIORSOLIDOUTPUT\">Transportband Lader Aansluiting</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETPOD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETPOD.DESC"
 msgid "The Duplicant inside is equal parts nervous and excited."
-msgstr "De Duplicant binnenin is zowel nerveus als opgewonden."
+msgstr "De Duplicant vanbinnen is zowel nerveus als opgewonden."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETPOD.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETPOD.EFFECT"
 msgid "Contains a Duplicant deployed from orbit by a <link=\"PIONEERMODULE\">Trailblazer Module</link>.\n\nPod will disintegrate on arrival."
-msgstr "Bevat een Duplicant die vanuit een baan om de aarde wordt ingezet door een <link=\"PIONEERMODULE\">Trailblazer Module</link>.\n\nPod zal uiteenvallen bij aankomst."
+msgstr "Bevat een Duplicant die vanuit een baan wordt ingezet door een <link=\"PIONEERMODULE\">Pionier Module</link>.\n\nPod zal uit elkaar vallen bij aankomst."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETPOD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETPOD.NAME"
 msgid "<link=\"ROCKETPOD\">Trailblazer Deploy Pod</link>"
-msgstr "<link=\"ROCKETPOD\">Trailblazer Pod implementeren</link>"
+msgstr "<link=\"ROCKETPOD\">Pionier Pod Inzetten</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETWALLTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETWALLTILE.DESC"
@@ -12316,27 +12316,27 @@ msgstr "De muren van een raket."
 #. STRINGS.BUILDINGS.PREFABS.ROCKETWALLTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETWALLTILE.NAME"
 msgid "<link=\"ROCKETENVELOPETILE\">Rocket Wall</link>"
-msgstr "<link=\"ROCKETENVELOPETILE\">Raket Wall</link>"
+msgstr "<link=\"ROCKETENVELOPETILE\">Raket Muur</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROLESTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.DESC"
 msgid "A skills board can teach special skills to Duplicants they can't learn on their own."
-msgstr "Een vaardighedenbord kan Duplicanten speciale vaardigheden aanleren die ze zelf niet kunnen leren."
+msgstr "Een vaardighedenbord kan Duplicanten speciale vaardigheden aanleren die ze zichzelf niet kunnen aanleren."
 
 #. STRINGS.BUILDINGS.PREFABS.ROLESTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.EFFECT"
 msgid "Allows Duplicants to spend Skill Points to learn new <link=\"JOBS\">Skills</link>."
-msgstr "Sta Duplicanten toe om vaardigheidspunten uit te geven om nieuwe <link=\"JOBS\">vaardigheden</link> te leren."
+msgstr "Sta Duplicanten toe om Vaardigheid Punten uit te geven om nieuwe <link=\"JOBS\">Vaardigheden</link> te leren."
 
 #. STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROLESTATION.NAME"
 msgid "<link=\"ROLESTATION\">Skills Board</link>"
-msgstr "<link=\"ROLESTATION\">Vaardigheidsbord</link>"
+msgstr "<link=\"ROLESTATION\">Vaardigheden Bord</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.DESC"
 msgid "Rust and salt goes in, oxygen comes out."
-msgstr "Roest en zout gaat erin, zuurstof komt eruit."
+msgstr "Roest en zout gaan erin, zuurstof komt eruit."
 
 #. STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.EFFECT"
@@ -12346,7 +12346,7 @@ msgstr "Zet <link=\"RUST\">Roest</link> om in <link=\"OXYGEN\">Zuurstof</link> e
 #. STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RUSTDEOXIDIZER.NAME"
 msgid "<link=\"RUSTDEOXIDIZER\">Rust Deoxidizer</link>"
-msgstr "<link=\"RUSTDEOXIDIZER\">Roestdeoxidator</link>"
+msgstr "<link=\"RUSTDEOXIDIZER\">Roest Deoxidator</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SAUNA.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SAUNA.DESC"
@@ -12376,12 +12376,12 @@ msgstr "Analyseert automatisch aangrenzende ruimte tijdens een reis. \n\nMoet wo
 #. STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCANNERMODULE.NAME"
 msgid "<link=\"SCANNERMODULE\">Cartographic Module</link>"
-msgstr "<link=\"SCANNERMODULE\">Cartografische module</link>"
+msgstr "<link=\"SCANNERMODULE\">Cartografische Module</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCOUTLANDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTLANDER.DESC"
 msgid "Lands <link=\"SCOUT\">Rover</link> on a Planetoid when <link=\"SCOUTMODULE\">Rover's Module</link> is in orbit."
-msgstr "Laat <link=\"SCOUT\">Rover</link> op een planetoïde landen wanneer <link=\"SCOUTMODULE\">Rover's Module</link> zich in een baan om de aarde bevindt."
+msgstr "Laat <link=\"SCOUT\">Rover</link> op een Planetoïde landen wanneer <link=\"SCOUTMODULE\">Rover's Module</link> zich in een baan om de aarde bevindt."
 
 #. STRINGS.BUILDINGS.PREFABS.SCOUTLANDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTLANDER.NAME"
@@ -12396,7 +12396,7 @@ msgstr "Rover kan verkenningen uitvoeren van planetoïden die geen gebouwde rake
 #. STRINGS.BUILDINGS.PREFABS.SCOUTMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTMODULE.EFFECT"
 msgid "Deploys one <link=\"SCOUT\">Rover Bot</link> for remote Planetoid exploration.\n\nDeployment is available while in a Starmap hex adjacent to a Planetoid. \n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
-msgstr "Zet één <link=\"SCOUT\">Rover Bot</link> in voor verkenning van planetoïden op afstand.\n\nInzet is mogelijk in een Starmap-hex naast een planetoïde. \n\nMoet worden gebouwd via <link= \"LAUNCHPAD\">Raket-platform</link>."
+msgstr "Zet één <link=\"SCOUT\">Rover Bot</link> in voor verkenning van planetoïden op afstand.\n\nInzet is mogelijk in een Sterrenkaart-hex naast een planetoïde. \n\nMoet worden gebouwd via <link=\"LAUNCHPAD\">Raket Platform</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.SCOUTMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTMODULE.NAME"
@@ -12406,7 +12406,7 @@ msgstr "<link=\"SCOUTMODULE\">Rover's Module</link>"
 #. STRINGS.BUILDINGS.PREFABS.SCOUTROCKETPOD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTROCKETPOD.DESC"
 msgid "Good luck out there, boy!"
-msgstr "Veel succes daar, jongen!"
+msgstr "Veel succes ginder, jongen!"
 
 #. STRINGS.BUILDINGS.PREFABS.SCOUTROCKETPOD.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCOUTROCKETPOD.EFFECT"
@@ -12421,7 +12421,7 @@ msgstr "<link=\"SCOUTROCKETPOD\">Rover's hondenhok</link>"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Sculpture"
-msgstr "Middelmatige sculptuur"
+msgstr "Matige sculptuur"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.DESC"
@@ -12431,12 +12431,12 @@ msgstr "Dupliceerders die kunstvaardigheden hebben geleerd, kunnen meer decorati
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EFFECT"
 msgid "Moderately increases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be sculpted by a Duplicant."
-msgstr "Verhoogt het <link=\"DECOR\">decor</link> matig, wat bijdraagt aan het <link=\"MORALE\">moreel</link>.\n\nMoet worden vormgegeven door een Duplicant."
+msgstr "Verhoogt het <link=\"DECOR\">Decor</link> matig, wat bijdraagt aan het <link=\"MORALE\">Moreel</link>.\n\nMoet worden vormgegeven door een Duplicant."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.EXCELLENTQUALITYNAME"
 msgid "Genius Sculpture"
-msgstr "Geniale sculptuur"
+msgstr "Geniale Sculptuur"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_1.DESC"
@@ -12446,7 +12446,7 @@ msgstr "Een meesterlijke weergave van een in gedachten verzonken wetenschapper."
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_1.NAME"
 msgid "<link=\"SCULPTUREAMAZING1\">The Hypothesizer</link>"
-msgstr "<link=\"SCULPTUREAMAZING1\">De hypothese</link>"
+msgstr "<link=\"SCULPTUREAMAZING1\">De Hypotheser</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_2.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_2.DESC"
@@ -12456,7 +12456,7 @@ msgstr "Een meesterlijke weergave van een atleet die verbannen is uit de gemeens
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_2.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_2.NAME"
 msgid "<link=\"SCULPTUREAMAZING2\">Plate Chucker</link>"
-msgstr "<link=\"SCULPTUREAMAZING2\">Plaatsnijder</link>"
+msgstr "<link=\"SCULPTUREAMAZING2\">Platensmijter</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_3.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_3.DESC"
@@ -12471,7 +12471,7 @@ msgstr "<link=\"SCULPTUREAMAZING3\">Voor de strijd</link>"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_4.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_4.DESC"
 msgid "A masterful portrayal of a gentle, plant-tending critter."
-msgstr "Een meesterlijke weergave van een zachtaardig, plantenverzorgend wezen."
+msgstr "Een meesterlijke weergave van een zachtaardig, plantenverzorgend beestje."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_4.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_4.NAME"
@@ -12491,7 +12491,7 @@ msgstr "<link=\"SCULPTURECRAP1\">Onverklaarbaar</link>"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_GOOD_1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_GOOD_1.DESC"
 msgid "Ode to the bow and arrow, love's equivalent to a mining gun...but for hearts."
-msgstr "Ode aan pijl en boog, liefde is gelijk aan een mijnwapen... maar dan voor harten."
+msgstr "Ode aan pijl en boog, liefde is gelijk aan een mijn wapen... maar dan eentje voor het hart."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_GOOD_1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_GOOD_1.NAME"
@@ -12501,12 +12501,12 @@ msgstr "<link=\"SCULPTUREGOOD1\">O Cupido, mijn Cupido</link>"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.NAME"
 msgid "<link=\"SCULPTURE\">Large Sculpting Block</link>"
-msgstr "<link=\"SCULPTURE\">Groot beeldhouwblok</link>"
+msgstr "<link=\"SCULPTURE\">Groot Beeldhouwblok</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.POORQUALITYNAME"
 msgid "\"Abstract\" Sculpture"
-msgstr "\"Abstract\" Sculptuur"
+msgstr "\"Abstracte\" Sculptuur"
 
 #. STRINGS.BUILDINGS.PREFABS.SETLOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SETLOCKER.DESC"
@@ -12516,7 +12516,7 @@ msgstr "Een basis metalen kluisje.\n\nHet bevat een assortiment aan persoonlijke
 #. STRINGS.BUILDINGS.PREFABS.SETLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SETLOCKER.NAME"
 msgid "Locker"
-msgstr "Kluizen"
+msgstr "Kluis"
 
 #. STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHEARINGSTATION.DESC"
@@ -12541,7 +12541,7 @@ msgstr "Regelmatig douchen voorkomt dat Duplicants microben verspreiden naar de 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.EFFECT"
 msgid "Improves Duplicant <link=\"MORALE\">Morale</link> and removes surface <link=\"DISEASE\">Germs</link>."
-msgstr "Verbetert Duplicant <link=\"MORALE\">Moraal</link> en verwijdert oppervlakkige <link=\"DISEASE\">Kiemen</link>."
+msgstr "Verbetert Duplicant <link=\"MORALE\">Moraal</link> en verwijdert oppervlakkige <link=\"DISEASE\">Microben</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.SHOWER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SHOWER.NAME"
@@ -12551,12 +12551,12 @@ msgstr "<link=\"DOUCHE\">Douche</link>"
 #. STRINGS.BUILDINGS.PREFABS.SINGLEPLAYERARCADE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLEPLAYERARCADE.DESC"
 msgid "Space Brawler IV! For one player."
-msgstr "Space Brawler IV! Voor één speler."
+msgstr "Ruimte Gevecht IV! Voor één speler."
 
 #. STRINGS.BUILDINGS.PREFABS.SINGLEPLAYERARCADE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLEPLAYERARCADE.EFFECT"
 msgid "Allows a Duplicant to play video games solo on their breaks.\n\nIncreases Duplicant <link=\"MORALE\">Morale</link>."
-msgstr "Hiermee kan een Duplicant alleen videogames spelen tijdens hun pauzes.\n\nVerhoogt het <link=\"MORALE\">Moraal</link> van de Duplicant."
+msgstr "Hiermee kan een Duplicant op zichzelf videospellen spelen tijdens hun pauze.\n\nVerhoogt het <link=\"MORALE\">Moraal</link> van de Duplicant."
 
 #. STRINGS.BUILDINGS.PREFABS.SINGLEPLAYERARCADE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLEPLAYERARCADE.NAME"
@@ -12591,12 +12591,12 @@ msgstr "Vaste oxidatiemiddelen zorgen ervoor dat raketbrandstof efficiënt kan w
 #. STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.EFFECT"
 msgid "Stores <link=\"FERTILIZER\">Fertilizer</link> and <link=\"OXYROCK\">Oxylite</link> for burning rocket fuels. \n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
-msgstr "Slaat <link=\"FERTILIZER\">Meststof</link> en <link=\"OXYROCK\">Oxylite</link> op voor het verbranden van raketbrandstoffen. \n\nMoet worden gebouwd via <link=\"LAUNCHPAD \">Raketplatform</link>."
+msgstr "Slaat <link=\"FERTILIZER\">Meststof</link> en <link=\"OXYROCK\">Oxylite</link> op voor het verbranden van raketbrandstoffen. \n\nMoet worden gebouwd via <link=\"LAUNCHPAD\">Raketplatform</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.NAME"
 msgid "<link=\"SMALLOXIDIZERTANK\">Small Solid Oxidizer Tank</link>"
-msgstr "<link=\"SMALLOXIDIZERTANK\">Kleine vaste oxidatietank</link>"
+msgstr "<link=\"SMALLOXIDIZERTANK\">Kleine Vaste Oxidatie Tank</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.UI_FILTER_CATEGORY
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLOXIDIZERTANK.UI_FILTER_CATEGORY"
@@ -12606,7 +12606,7 @@ msgstr "Geaccepteerde oxidatoren"
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Sculpture"
-msgstr "Middelmatige sculptuur"
+msgstr "Matige sculptuur"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.DESC"
@@ -12741,7 +12741,7 @@ msgstr "Sprankelend water geeft een duplicant een twinkeling."
 #. STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.EFFECT"
 msgid "Creates soda from <link=\"WATER\">Water</link> and <link=\"CARBONDIOXIDE\">Carbon Dioxide</link>.\n\nConsuming soda water increases Duplicant <link=\"MORALE\">Morale</link>."
-msgstr "Maakt frisdrank van <link=\"WATER\">Water</link> en <link=\"CARBONDIOXIDE\">Kooldioxide</link>.\n\nHet consumeren van sodawater verhoogt Duplicant <link=\"MORALE \">Moreel</link>."
+msgstr "Maakt frisdrank van <link=\"WATER\">Water</link> en <link=\"CARBONDIOXIDE\">Kooldioxide</link>.\n\nHet consumeren van sodawater verhoogt Duplicant <link=\"MORALE\">Moreel</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.NAME"
@@ -12801,7 +12801,7 @@ msgstr "Duplicaten vullen vrachtruimen met alle middelen die ze vinden tijdens r
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.EFFECT"
 msgid "Allows Duplicants to store some of the <link=\"ELEMENTSSOLID\">Solid Materials</link> found during space missions.\n\nStored resources become available to the colony upon the rocket's return. \n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
-msgstr "Hiermee kunnen Duplicanten een deel van de <link=\"ELEMENTSSOLID\">vaste materialen</link> opslaan die tijdens ruimtemissies zijn gevonden.\n\nOpgeslagen hulpbronnen komen beschikbaar voor de kolonie wanneer de raket terugkeert. \n\nMoet worden gebouwd via <link=\"LAUNCHPAD\">Raket-platform</link>."
+msgstr "Hiermee kunnen Duplicanten een deel van de <link=\"ELEMENTSSOLID\">vaste materialen</link> opslaan die tijdens ruimtemissies zijn gevonden.\n\nOpgeslagen hulpbronnen komen beschikbaar voor de kolonie wanneer de raket terugkeert. \n\nMoet worden gebouwd via <link=\"LAUNCHPAD\">Raket Platform</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCARGOBAYSMALL.NAME"
@@ -13431,7 +13431,7 @@ msgstr "Het schattige gezichtje is voorgeïnstalleerd."
 #. STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.EFFECT"
 msgid "Deploys an automated <link=\"SWEEPBOT\">Sweepy Bot</link> to sweep up <link=\"ELEMENTSSOLID\">Solid</link> debris and <link=\"ELEMENTSLIQUID\">Liquid</link> spills.\n\nDock stores <link=\"ELEMENTSLIQUID\">Liquids</link> and <link=\"ELEMENTSSOLID\">Solids</link> gathered by the Sweepy.\n\nUses <link=\"POWER\">Power</link> to recharge the Sweepy.\n\nDuplicants will empty Dock storage into available storage bins."
-msgstr "Zet een geautomatiseerde <link=\"SWEEPBOT\">Sweepy Bot</link> in om <link=\"ELEMENTSSOLID\">vast</link> puin en <link=\"ELEMENTSLIQUID\">vloeistof< op te ruimen /link> morsen.\n\nDock slaat <link=\"ELEMENTSLIQUID\">vloeistoffen</link> en <link=\"ELEMENTSSOLID\">vaste stoffen</link> op verzameld door de Sweepy.\n\nGebruikt <link=\"POWER\">Stroom</link> om de Sweepy op te laden.\n\nDuplicanten zullen Dock-opslag legen in beschikbare opslagbakken."
+msgstr "Zet een geautomatiseerde <link=\"SWEEPBOT\">Sweepy Bot</link> in om <link=\"ELEMENTSSOLID\">vast</link> puin en <link=\"ELEMENTSLIQUID\">vloeistof< op te ruimen /link> morsen.\n\nDock slaat <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> en <link=\"ELEMENTSSOLID\">vaste stoffen</link> op verzameld door de Sweepy.\n\nGebruikt <link=\"POWER\">Stroom</link> om de Sweepy op te laden.\n\nDuplicanten zullen Dock-opslag legen in beschikbare opslagbakken."
 
 #. STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWEEPBOTSTATION.NAME"
@@ -13801,7 +13801,7 @@ msgstr "Wandtoiletten brengen minder microben over op Duplicants en hoeven niet 
 #. STRINGS.BUILDINGS.PREFABS.WALLTOILET.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLTOILET.EFFECT"
 msgid "Gives Duplicants a place to relieve themselves. Empties directly on the other side of the wall.\n\nSpreads very few <link=\"DISEASE\">Germs</link>."
-msgstr "Geeft Duplicanten een plek om zichzelf te ontlasten. Leegt direct aan de andere kant van de muur.\n\nVerspreidt zeer weinig <link=\"DISEASE\">Kiemen</link>."
+msgstr "Geeft Duplicanten een plek om zichzelf te ontlasten. Leegt direct aan de andere kant van de muur.\n\nVerspreidt zeer weinig <link=\"DISEASE\">Microben</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.WALLTOILET.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLTOILET.NAME"
@@ -13881,7 +13881,7 @@ msgstr "Gootstenen zijn voorzien van een waterleiding en hoeven niet handmatig g
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.EFFECT"
 msgid "Removes <link=\"DISEASE\">Germs</link> from Duplicants.\n\nGerm-covered Duplicants use Sinks when passing by in the selected direction."
-msgstr "Verwijdert <link=\"DISEASE\">Kiemen</link> van Duplicanten.\n\nMet microben bedekte Duplicanten gebruiken Sinks wanneer ze langskomen in de geselecteerde richting."
+msgstr "Verwijdert <link=\"DISEASE\">Microben</link> van Duplicanten.\n\nMet microben bedekte Duplicanten gebruiken Sinks wanneer ze langskomen in de geselecteerde richting."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME"
@@ -15251,7 +15251,7 @@ msgstr "Poorten"
 #. STRINGS.CODEX.AUTOMATION.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.AUTOMATION.PARAGRAPH_1"
 msgid "Automation is a tool for controlling the operation of buildings based on what sensors in the colony are detecting.\n\nA <link=\"CEILINGLIGHT\">Ceiling Light</link> could be configured to automatically turn on when a <link=\"DUPLICANTSENSOR\">Duplicant Motion Sensor</link> detects a Duplicant in the room.\n\nA <link=\"LIQUIDPUMP\">Liquid Pump</link> might activate only when a <link=\"LOGICELEMENTSENSORLIQUID\">Liquid Element Sensor</link> detects water.\n\nA <link=\"AIRCONDITIONER\">Thermo Regulator</link> might activate only when the <link=\"LOGICTEMPERATURESENSOR\">Thermo Sensor</link> detects too much heat.\n\n"
-msgstr "Automatisering is een hulpmiddel om de werking van gebouwen te regelen op basis van wat sensoren in de kolonie detecteren.\n\nEen <link=\"CEILINGLIGHT\">plafondverlichting</link> kan worden geconfigureerd om automatisch aan te gaan wanneer een <link=\"DUPLICANTSENSOR\">Duplicant Beweging Sensor</link> detecteert een duplicant in de kamer.\n\nEen <link=\"LIQUIDPUMP\">vloeistofpomp</link> wordt mogelijk alleen geactiveerd wanneer een <link= \"LOGICELEMENTSENSORLIQUID\">Liquid Element Sensor</link> detecteert water.\n\nEen <link=\"AIRCONDITIONER\">Thermoregelaar</link> wordt mogelijk alleen geactiveerd wanneer de <link=\"LOGICTEMPERATURESENSOR\">Thermo Sensor</link> detecteert te veel warmte.\n\n"
+msgstr "Automatisering is een hulpmiddel om de werking van gebouwen te regelen op basis van wat sensoren in de kolonie detecteren.\n\nEen <link=\"CEILINGLIGHT\">plafondverlichting</link> kan worden geconfigureerd om automatisch aan te gaan wanneer een <link=\"DUPLICANTSENSOR\">Duplicant Beweging Sensor</link> detecteert een duplicant in de kamer.\n\nEen <link=\"LIQUIDPUMP\">vloeistofpomp</link> wordt mogelijk alleen geactiveerd wanneer een <link=\"LOGICELEMENTSENSORLIQUID\">Liquid Element Sensor</link> detecteert water.\n\nEen <link=\"AIRCONDITIONER\">Thermoregelaar</link> wordt mogelijk alleen geactiveerd wanneer de <link=\"LOGICTEMPERATURESENSOR\">Thermo Sensor</link> detecteert te veel warmte.\n\n"
 
 #. STRINGS.CODEX.AUTOMATION.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.AUTOMATION.PARAGRAPH_2"
@@ -16196,7 +16196,7 @@ msgstr "Lage decoratie kan Duplicant <link=\"STRESS\">Stress</link> verhogen. Ge
 #. STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2"
 msgid "Many things have an effect on the Decor value of a tile. A building's effect is expressed as a strength value and a radius. Often that effect is positive, but many buildings also lower the decor value of an area too. <link=\"PLANTS\">Plants</link>, <link=\"CREATURES\">Critters</link>, and <link=\"BUILDCATEGORYFURNITURE\">Furniture</link> often increase decor while industrial buildings and rot often decrease it. Duplicants experience the combined decor of all objects affecting a tile.\n\nThe <link=\"PRICKLEGRASS\">Bluff Briar</link> has a decor value of 25 and a radius of 4 tiles. \nThe <link=\"MICROBEMUSHER\">Microbe Musher</link> has a decor value of -15 and a radius of 3 tiles. \nThe result of placing a <link=\"MICROBEMUSHER\">Microbe Musher</link> next to a <link=\"PRICKLEGRASS\">Bluff Briar</link> would be a combined decor value of 10"
-msgstr "Veel dingen hebben een effect op de decorwaarde van een tegel. Het effect van een gebouw wordt uitgedrukt als een sterktewaarde en een straal. Vaak is dat effect positief, maar veel gebouwen verlagen ook de decorwaarde van een gebied. <link= \"PLANTS\">Planten</link>, <link=\"CREATURES\">Beestjes</link> en <link=\"BUILDCATEGORYFURNITURE\">Meubels</link> verhogen vaak het decor terwijl industriële gebouwen rotten verklein het vaak. Dupliceerders ervaren het gecombineerde decor van alle objecten die een tegel beïnvloeden.\n\nDe <link=\"PRICKLEGRASS\">Bluff Briar</link> heeft een decorwaarde van 25 en een straal van 4 tegels. \nDe <link=\"MICROBEMUSHER\">Microbe Musher</link> heeft een decorwaarde van -15 en een straal van 3 tegels. \nHet resultaat van het plaatsen van een <link=\"MICROBEMUSHER\">Microbe Musher</link> naast een <link=\"PRICKLEGRASS\">Bluff Briar</link> zou een gecombineerde decorwaarde van 10 zijn"
+msgstr "Veel dingen hebben een effect op de decorwaarde van een tegel. Het effect van een gebouw wordt uitgedrukt als een sterktewaarde en een straal. Vaak is dat effect positief, maar veel gebouwen verlagen ook de decorwaarde van een gebied. <link=\"PLANTS\">Planten</link>, <link=\"CREATURES\">Beestjes</link> en <link=\"BUILDCATEGORYFURNITURE\">Meubels</link> verhogen vaak het decor terwijl industriële gebouwen rotten verklein het vaak. Dupliceerders ervaren het gecombineerde decor van alle objecten die een tegel beïnvloeden.\n\nDe <link=\"PRICKLEGRASS\">Bluff Briar</link> heeft een decorwaarde van 25 en een straal van 4 tegels. \nDe <link=\"MICROBEMUSHER\">Microbe Musher</link> heeft een decorwaarde van -15 en een straal van 3 tegels. \nHet resultaat van het plaatsen van een <link=\"MICROBEMUSHER\">Microbe Musher</link> naast een <link=\"PRICKLEGRASS\">Bluff Briar</link> zou een gecombineerde decorwaarde van 10 zijn"
 
 #. STRINGS.CODEX.DECORSYSTEM.TITLE
 msgctxt "STRINGS.CODEX.DECORSYSTEM.TITLE"
@@ -16321,7 +16321,7 @@ msgstr "Het bouwen van een raket vereist eerst het bouwen van een <link=\"LAUNCH
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_2"
 msgid "To scan space and see nearby intersteller destinations a <link=\"CLUSTERTELESCOPE\">Telescope</link> must first be built on the surface of a Planetoid. <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link> in orbit around a Planetoid, and <link=\"SCANNERMODULE\">Cartographic Module</link> attached to a rocket can also reveal places on a Starmap.\n\nAlways check engine fuel to determine if your rocket can reach its destination, keeping in mind rockets can only land on Plantoids with a <link=\"LAUNCHPAD\">Rocket Platform</link> on it although some modules like <link=\"SCOUTMODULE\">Rover's Modules</link> and <link=\"PIONEERMODULE\">Trailblazer Modules</link> can be sent to the surface of a Planetoid from a rocket in orbit.\n\n"
-msgstr "Om de ruimte te scannen en interstellerbestemmingen in de buurt te zien, moet eerst een <link=\"CLUSTERTELESCOPE\">telescoop</link> op het oppervlak van een planetoïde worden gebouwd. <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab< /link> in een baan rond een planetoïde, en een <link=\"SCANNERMODULE\">cartografische module</link> bevestigd aan een raket kan ook plaatsen op een sterrenkaart onthullen.\n\nControleer altijd de motorbrandstof om te bepalen of je raket dat kan zijn bestemming bereiken, rekening houdend met het feit dat raketten alleen op Plantoids kunnen landen met een <link=\"LAUNCHPAD\">Raket Platform</link> erop, hoewel sommige modules zoals <link=\"SCOUTMODULE\">Rover's Modules</link> en <link=\"PIONEERMODULE\">Trailblazer-modules</link> kunnen vanuit een raket in een baan om de aarde naar het oppervlak van een planetoïde worden gestuurd.\n\n"
+msgstr "Om de ruimte te scannen en interstellerbestemmingen in de buurt te zien, moet eerst een <link=\"CLUSTERTELESCOPE\">telescoop</link> op het oppervlak van een planetoïde worden gebouwd. <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab< /link> in een baan rond een planetoïde, en een <link=\"SCANNERMODULE\">cartografische module</link> bevestigd aan een raket kan ook plaatsen op een sterrenkaart onthullen.\n\nControleer altijd de motorbrandstof om te bepalen of je raket dat kan zijn bestemming bereiken, rekening houdend met het feit dat raketten alleen op Plantoids kunnen landen met een <link=\"LAUNCHPAD\">Raket Platform</link> erop, hoewel sommige modules zoals <link=\"SCOUTMODULE\">Rover's Modules</link> en <link=\"PIONEERMODULE\">Pionier-modules</link> kunnen vanuit een raket in een baan om de aarde naar het oppervlak van een planetoïde worden gestuurd.\n\n"
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_3"
@@ -17066,7 +17066,7 @@ msgstr "Extreem blije reacties"
 #. STRINGS.CODEX.MORALE.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_1"
 msgid "Morale describes the relationship between a Duplicant's <link=\"ROLES\">Skills</link> and their Lifestyle. The more skills a Duplicant has, the higher their morale expectation will be. Duplicants with morale below their expectation will experience a <link=\"STRESS\">Stress</link> penalty. Comforts such as quality <link=\"FOOD\">Food</link>, nice rooms, and recreation will increase morale.\n\n"
-msgstr "Moraal beschrijft de relatie tussen de <link=\"ROLES\">vaardigheden</link> van een Duplicant en zijn levensstijl. Hoe meer vaardigheden een Duplicant heeft, hoe hoger hun moreelverwachting zal zijn. Duplicanten met een moreel dat onder hun verwachting ligt, zullen ervaren een <link=\"STRESS\">Stress</link> straf. Comfort zoals kwaliteitsvol <link=\"FOOD\">Eten</link>, mooie kamers en recreatie zullen het moreel verhogen.\n\n"
+msgstr "Moraal beschrijft de relatie tussen de <link=\"ROLES\">Vaardigheden</link> van een Duplicant en zijn levensstijl. Hoe meer vaardigheden een Duplicant heeft, hoe hoger hun moreelverwachting zal zijn. Duplicanten met een moreel dat onder hun verwachting ligt, zullen ervaren een <link=\"STRESS\">Stress</link> straf. Comfort zoals kwaliteitsvol <link=\"FOOD\">Eten</link>, mooie kamers en recreatie zullen het moreel verhogen.\n\n"
 
 #. STRINGS.CODEX.MORALE.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.MORALE.PARAGRAPH_2"
@@ -18041,7 +18041,7 @@ msgstr "Een geselecteerde onderzoekstaak is voltooid zodra er voldoende onderzoe
 #. STRINGS.CODEX.RESEARCH.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.RESEARCH.PARAGRAPH_3"
 msgid "Advanced research tasks require special research stations to generate the proper kind of research points. These research stations often consume more advanced resources.\n\nUsing higher-level research stations also requires Duplicants to have learned higher level research <link=\"ROLES\">skills</link>.\n\nNovice Research is performed at the <link=\"RESEARCHCENTER\">Research Station</link>\nAdvanced Research is performed at the <link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>\nInterstellar Research is performed at the <link=\"COSMICRESEARCHCENTER\">Virtual Planetarium</link>\n\n"
-msgstr "Geavanceerde onderzoekstaken vereisen speciale onderzoeksstations om het juiste soort onderzoekspunten te genereren. Deze onderzoeksstations verbruiken vaak meer geavanceerde bronnen.\n\nHet gebruik van onderzoeksstations van een hoger niveau vereist ook dat Duplicanten onderzoek op een hoger niveau hebben geleerd <link=\" ROLLEN\">vaardigheden</link>.\n\nBeginnend onderzoek wordt uitgevoerd op het <link=\"RESEARCHCENTER\">Onderzoeksstation</link>\nGeavanceerd onderzoek wordt uitgevoerd op het <link=\"ADVANCEDRESEARCHCENTER\"> Supercomputer</link>\nInterstellair onderzoek wordt uitgevoerd in het <link=\"COSMICRESEARCHCENTER\">Virtueel Planetarium</link>\n\n"
+msgstr "Geavanceerde onderzoekstaken vereisen speciale onderzoeksstations om het juiste soort onderzoekspunten te genereren. Deze onderzoeksstations verbruiken vaak meer geavanceerde bronnen.\n\nHet gebruik van onderzoeksstations van een hoger niveau vereist ook dat Duplicanten onderzoek op een hoger niveau hebben geleerd <link=\" ROLLEN\">Vaardigheden</link>.\n\nBeginnend onderzoek wordt uitgevoerd op het <link=\"RESEARCHCENTER\">Onderzoeksstation</link>\nGeavanceerd onderzoek wordt uitgevoerd op het <link=\"ADVANCEDRESEARCHCENTER\"> Supercomputer</link>\nInterstellair onderzoek wordt uitgevoerd in het <link=\"COSMICRESEARCHCENTER\">Virtueel Planetarium</link>\n\n"
 
 #. STRINGS.CODEX.RESEARCH.TITLE
 msgctxt "STRINGS.CODEX.RESEARCH.TITLE"
@@ -18076,7 +18076,7 @@ msgstr "Een geselecteerde onderzoekstaak is voltooid zodra er voldoende onderzoe
 #. STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.PARAGRAPH_3"
 msgid "Advanced research tasks require special research stations to generate the proper kind of research points. These research stations often consume more advanced resources.\n\nUsing higher level research stations also requires Duplicants to have learned higher level research <link=\"ROLES\">skills</link>.\n\nNovice Research is performed at the <link=\"RESEARCHCENTER\">Research Station</link>\nAdvanced Research is performed at the <link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>\nInterstellar Research is performed at the <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link>\nApplied Sciences Research is performed at the <link=\"NUCLEARRESEARCHCENTER\">Materials Study Terminal</link>\n\n"
-msgstr "Geavanceerde onderzoekstaken vereisen speciale onderzoeksstations om het juiste soort onderzoekspunten te genereren. Deze onderzoeksstations verbruiken vaak meer geavanceerde bronnen.\n\nHet gebruik van onderzoeksstations van een hoger niveau vereist ook dat Duplicanten onderzoek op een hoger niveau hebben geleerd <link=\"ROLES \">vaardigheden</link>.\n\nBeginnend onderzoek wordt uitgevoerd in het <link=\"RESEARCHCENTER\">Onderzoeksstation</link>\nGeavanceerd onderzoek wordt uitgevoerd in het <link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>\nInterstellair onderzoek wordt uitgevoerd in het <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link>\nApplied Sciences Research wordt uitgevoerd in het <link=\"NUCLEARRESEARCHCENTER\">Materiaalstudieterminal< /link>\n\n"
+msgstr "Geavanceerde onderzoekstaken vereisen speciale onderzoeksstations om het juiste soort onderzoekspunten te genereren. Deze onderzoeksstations verbruiken vaak meer geavanceerde bronnen.\n\nHet gebruik van onderzoeksstations van een hoger niveau vereist ook dat Duplicanten onderzoek op een hoger niveau hebben geleerd <link=\"ROLES\">Vaardigheden</link>.\n\nBeginnend onderzoek wordt uitgevoerd in het <link=\"RESEARCHCENTER\">Onderzoeksstation</link>\nGeavanceerd onderzoek wordt uitgevoerd in het <link=\"ADVANCEDRESEARCHCENTER\">Super Computer</link>\nInterstellair onderzoek wordt uitgevoerd in het <link=\"ORBITALRESEARCHCENTER\">Orbital Data Collection Lab</link>\nApplied Sciences Research wordt uitgevoerd in het <link=\"NUCLEARRESEARCHCENTER\">Materiaalstudieterminal< /link>\n\n"
 
 #. STRINGS.CODEX.RESEARCHDLC1.TITLE
 msgctxt "STRINGS.CODEX.RESEARCHDLC1.TITLE"
@@ -21371,7 +21371,7 @@ msgstr "<link=\"BEE\">Beetiny</link>"
 #. STRINGS.CREATURES.SPECIES.BEE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BEE.DESC"
 msgid "Beetas are hostile critters that thrive in <link=\"RADIATION\">Radioactive</link> environments.\n\nThey commonly gather <link=\"URANIUMORE\">Uranium</link> for their <link=\"BEEHIVE\">Beeta Hives</link> to produce <link=\"ENRICHEDURANIUM\">Enriched Uranium</link>."
-msgstr "Beeta's zijn vijandige wezens die gedijen in <link=\"RADIATION\">Radioactieve</link> omgevingen.\n\nZe verzamelen gewoonlijk <link=\"URANIUMORE\">Uranium</link> voor hun <link= \"BIJENKORF\">Bietenkorven</link> om <link=\"ENRICHEDURANIUM\">verrijkt uranium</link> te produceren."
+msgstr "Beeta's zijn vijandige wezens die gedijen in <link=\"RADIATION\">Radioactieve</link> omgevingen.\n\nZe verzamelen gewoonlijk <link=\"URANIUMORE\">Uranium</link> voor hun <link=\"BIJENKORF\">Bietenkorven</link> om <link=\"ENRICHEDURANIUM\">verrijkt uranium</link> te produceren."
 
 #. STRINGS.CREATURES.SPECIES.BEE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BEE.NAME"
@@ -21521,7 +21521,7 @@ msgstr "<link=\"CRABFRESHWATER\">Sanishell Spawn</link>"
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.DESC"
 msgid "Sanishells are nonhostile critters that thrive in <link=\"WATER\">Water</link> and eliminate <link=\"DISEASE\">Germs</link> from any liquid it inhabits.\n\nThey eat <link=\"TOXICSAND\">Polluted Dirt</link>, <link=\"SLIMEMOLD\">Slime</link> and <link=\"COMPOST\">Rot Piles</link>."
-msgstr "Sanishells zijn niet-vijandige wezens die gedijen in <link=\"WATER\">Water</link> en <link=\"DISEASE\">Kiemen</link> elimineren uit elke vloeistof die het bewoont.\n\nZe eten <link=\"TOXICSAND\">Vervuild Aarde</link>, <link=\"SLIMEMOLD\">Slijm</link> en <link=\"COMPOST\">Rotpalen</link>."
+msgstr "Sanishells zijn niet-vijandige wezens die gedijen in <link=\"WATER\">Water</link> en <link=\"DISEASE\">Microben</link> elimineren uit elke vloeistof die het bewoont.\n\nZe eten <link=\"TOXICSAND\">Vervuild Aarde</link>, <link=\"SLIMEMOLD\">Slijm</link> en <link=\"COMPOST\">Rotpalen</link>."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_FRESH_WATER.EGG_NAME"
@@ -25611,7 +25611,7 @@ msgstr "Moraal"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.QUALITYOFLIFE.TOOLTIP_EXPECTATION
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.QUALITYOFLIFE.TOOLTIP_EXPECTATION"
 msgid "Total <b>Morale Need</b>: {0}\n    • Skills Learned: +{0}"
-msgstr "Totale <b>morele behoefte</b>: {0}\n    • geleerde vaardigheden: +{0}"
+msgstr "Totale <b>morele behoefte</b>: {0}\n    • geleerde Vaardigheden: +{0}"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.QUALITYOFLIFE.TOOLTIP_EXPECTATION_OVER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.QUALITYOFLIFE.TOOLTIP_EXPECTATION_OVER"
@@ -26476,7 +26476,7 @@ msgstr "Hoesten"
 #. STRINGS.DUPLICANTS.CHORES.COUGH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.TOOLTIP"
 msgid "Coughing is a symptom of <link=\"SLIMESICKNESS\">Slimelung</link> and spreads airborne <style=\"KKeyword\">Germs</style>"
-msgstr "Hoesten is een symptoom van <link=\"SLIMESICKNESS\">Slimelung</link> en verspreidt <style=\"KKeyword\">Kiemen</style> via de lucht"
+msgstr "Hoesten is een symptoom van <link=\"SLIMESICKNESS\">Slimelung</link> en verspreidt <style=\"KKeyword\">Microben</style> via de lucht"
 
 #. STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME"
@@ -27956,7 +27956,7 @@ msgstr "Erts schrobben"
 #. STRINGS.DUPLICANTS.CHORES.SCRUBORE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SCRUBORE.TOOLTIP"
 msgid "Material ore can be scrubbed to remove <style=\"KKeyword\">Germs</style> present on its surface"
-msgstr "Materiaal erts kan worden geschrobd om <style=\"KKeyword\">Kiemen</style> aanwezig op het oppervlak te verwijderen"
+msgstr "Materiaal erts kan worden geschrobd om <style=\"KKeyword\">Microben</style> aanwezig op het oppervlak te verwijderen"
 
 #. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.NAME"
@@ -28231,7 +28231,7 @@ msgstr "Vaardigheden afleren"
 #. STRINGS.DUPLICANTS.CHORES.UNLEARNSKILL.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.UNLEARNSKILL.TOOLTIP"
 msgid "This Duplicant is unlearning <style=\"KKeyword\">Skills</style>"
-msgstr "Deze kopieerder is <style=\"KKeyword\">vaardigheden</style> aan het afleren"
+msgstr "Deze kopieerder is <style=\"KKeyword\">Vaardigheden</style> aan het afleren"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
@@ -28306,7 +28306,7 @@ msgstr "Handen wassen"
 #. STRINGS.DUPLICANTS.CHORES.WASHHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.TOOLTIP"
 msgid "Good hygiene removes <style=\"KKeyword\">Germs</style> and prevents the spread of <style=\"KKeyword\">Disease</style>"
-msgstr "Goede hygiëne verwijdert <style=\"KKeyword\">Kiemen</style> en voorkomt de verspreiding van <style=\"KKeyword\">Ziekte</style>"
+msgstr "Goede hygiëne verwijdert <style=\"KKeyword\">Microben</style> en voorkomt de verspreiding van <style=\"KKeyword\">Ziekte</style>"
 
 #. STRINGS.DUPLICANTS.CONGENITALTRAITS.BANHI.DESC
 msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.BANHI.DESC"
@@ -28581,7 +28581,7 @@ msgstr "Vermoord door:"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_ON_TOOLTIP"
 msgid "Contact with these substances kills <style=\"KKeyword\">Germs</style> over time"
-msgstr "Contact met deze stoffen doodt na verloop van tijd <style=\"KKeyword\">Kiemen</style>"
+msgstr "Contact met deze stoffen doodt na verloop van tijd <style=\"KKeyword\">Microben</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY"
@@ -28596,7 +28596,7 @@ msgstr "Gedesinfecteerd door:"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_ON_TOOLTIP"
 msgid "Contact with these substances will quickly kill these <style=\"KKeyword\">Germs</style>"
-msgstr "Contact met deze substanties zal deze <style=\"KKeyword\">Kiemen</style> snel doden"
+msgstr "Contact met deze substanties zal deze <style=\"KKeyword\">Microben</style> snel doden"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.DIES_QUICKLY_TOOLTIP"
@@ -28636,7 +28636,7 @@ msgstr "Gecontracteerd via opname\n------------------"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE_TOOLTIP"
 msgid "Duplicants may contract this <style=\"KKeyword\">Disease</style> by ingesting <style=\"KKeyword\">Food</style> contaminated with these <style=\"KKeyword\">Germs</style>"
-msgstr "Duplicanten kunnen deze <style=\"KKeyword\">Ziekte</style> oplopen door inname van <style=\"KKeyword\">Voedsel</style> besmet met deze <style=\"KKeyword\">Kiemen< /stijl>"
+msgstr "Duplicanten kunnen deze <style=\"KKeyword\">Ziekte</style> oplopen door inname van <style=\"KKeyword\">Voedsel</style> besmet met deze <style=\"KKeyword\">Microben< /stijl>"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS"
@@ -28651,7 +28651,7 @@ msgstr "Vermenigvuldigt met:"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_ON_TOOLTIP"
 msgid "These substances allow <style=\"KKeyword\">Germs</style> to spread and reproduce"
-msgstr "Deze stoffen zorgen ervoor dat <style=\"KKeyword\">Kiemen</style> zich kunnen verspreiden en reproduceren"
+msgstr "Deze stoffen zorgen ervoor dat <style=\"KKeyword\">Microben</style> zich kunnen verspreiden en reproduceren"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.GROWS_TOOLTIP"
@@ -28676,12 +28676,12 @@ msgstr "Overleeft in:"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_ON_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_ON_TOOLTIP"
 msgid "<style=\"KKeyword\">Germs</style> will survive contact with these substances, but will not reproduce"
-msgstr "<style=\"KKeyword\">Kiemen</style> overleven contact met deze stoffen, maar planten zich niet voort"
+msgstr "<style=\"KKeyword\">Microben</style> overleven contact met deze stoffen, maar planten zich niet voort"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.NEUTRAL_TOOLTIP"
 msgid "Germ count remains static"
-msgstr "Kiementelling blijft statisch"
+msgstr "Microbentelling blijft statisch"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.PRESSURE_RANGE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.PRESSURE_RANGE"
@@ -28701,7 +28701,7 @@ msgstr "Gecontracteerd via fysiek contact\n------------------"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE_TOOLTIP"
 msgid "Duplicants may contract this <style=\"KKeyword\">Disease</style> by touching objects contaminated with these <style=\"KKeyword\">Germs</style>"
-msgstr "Duplicanten kunnen deze <style=\"KKeyword\">Ziekte</style> oplopen door objecten aan te raken die besmet zijn met deze <style=\"KKeyword\">Kiemen</style>"
+msgstr "Duplicanten kunnen deze <style=\"KKeyword\">Ziekte</style> oplopen door objecten aan te raken die besmet zijn met deze <style=\"KKeyword\">Microben</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SUNBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SUNBORNE"
@@ -28731,7 +28731,7 @@ msgstr "Eten en drinken besmet met voedselvergiftigingsbacteriën zijn onveilig 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.LEGEND_HOVERTEXT"
 msgid "Food Poisoning Germs present\n"
-msgstr "Voedselvergiftiging Kiemen aanwezig\n"
+msgstr "Voedselvergiftiging Microben aanwezig\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME"
@@ -28771,12 +28771,12 @@ msgstr "Overgeven"
 #. STRINGS.DUPLICANTS.DISEASES.FOODSICKNESS.VOMIT_SYMPTOM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODSICKNESS.VOMIT_SYMPTOM_TOOLTIP"
 msgid "Duplicants periodically vomit throughout the day, producing additional <style=\"KKeyword\">Germs</style> and losing <style=\"KKeyword\">Calories</style>"
-msgstr "Duplicanten braken regelmatig gedurende de dag, produceren extra <style=\"KKeyword\">Kiemen</style> en verliezen <style=\"KKeyword\">Calorieën</style>"
+msgstr "Duplicanten braken regelmatig gedurende de dag, produceren extra <style=\"KKeyword\">Microben</style> en verliezen <style=\"KKeyword\">Calorieën</style>"
 
 #. STRINGS.DUPLICANTS.DISEASES.GERMS
 msgctxt "STRINGS.DUPLICANTS.DISEASES.GERMS"
 msgid "Germs"
-msgstr "Kiemen"
+msgstr "Microben"
 
 #. STRINGS.DUPLICANTS.DISEASES.GERMS_CONSUMED_DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.GERMS_CONSUMED_DESCRIPTION"
@@ -29081,7 +29081,7 @@ msgstr "Hoesten"
 #. STRINGS.DUPLICANTS.DISEASES.SLIMESICKNESS.COUGH_SYMPTOM_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMESICKNESS.COUGH_SYMPTOM_TOOLTIP"
 msgid "Duplicants periodically cough up <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>, producing additional <style=\"KKeyword\">Germs</style>"
-msgstr "Duplicanten hoesten periodiek <link=\"CONTAMINATEDOXYGEN\">Verontreinigde Zuurstof</link> op, waardoor extra <style=\"KKeyword\">Kiemen</style> worden geproduceerd"
+msgstr "Duplicanten hoesten periodiek <link=\"CONTAMINATEDOXYGEN\">Verontreinigde Zuurstof</link> op, waardoor extra <style=\"KKeyword\">Microben</style> worden geproduceerd"
 
 #. STRINGS.DUPLICANTS.DISEASES.SLIMESICKNESS.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMESICKNESS.DESCRIPTION"
@@ -29921,7 +29921,7 @@ msgstr "Deze Duplicant vond de algehele <style=\"KKeyword\">Decor</style> gister
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR1.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR1.NAME"
 msgid "Last Cycle's Decor: Mediocre"
-msgstr "Decor van de laatste cyclus: matig"
+msgstr "Decor van de laatste cyclus: Matig"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR1.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR1.TOOLTIP"
@@ -31871,7 +31871,7 @@ msgstr "Geluidsverwachting"
 #. STRINGS.DUPLICANTS.NEEDS.QUALITYOFLIFE.APTITUDE_SKILLS_MOD_NAME
 msgctxt "STRINGS.DUPLICANTS.NEEDS.QUALITYOFLIFE.APTITUDE_SKILLS_MOD_NAME"
 msgid "Interested Skills Learned"
-msgstr "Geïnteresseerde geleerde vaardigheden"
+msgstr "Geïnteresseerde geleerde Vaardigheden"
 
 #. STRINGS.DUPLICANTS.NEEDS.QUALITYOFLIFE.BAD_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.NEEDS.QUALITYOFLIFE.BAD_MODIFIER"
@@ -32381,7 +32381,7 @@ msgstr "<link=\"FARMING2\">Gewasverzorging</link>"
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION"
 msgid "This Duplicant will gain <b>{1}</b> <style=\"KKeyword\">Morale</style> when learning <style=\"KKeyword\">{0}</style> Skills"
-msgstr "Deze Duplicant zal <b>{1}</b> <style=\"KKeyword\">Moraal</style> krijgen bij het leren van <style=\"KKeyword\">{0}</style> vaardigheden"
+msgstr "Deze Duplicant zal <b>{1}</b> <style=\"KKeyword\">Moraal</style> krijgen bij het leren van <style=\"KKeyword\">{0}</style> Vaardigheden"
 
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION_CHOREGROUP
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION_CHOREGROUP"
@@ -37826,7 +37826,7 @@ msgstr "<link=\"MOLTENURANIUM\">Uranium</link>"
 #. STRINGS.ELEMENTS.MUD.DESC
 msgctxt "STRINGS.ELEMENTS.MUD.DESC"
 msgid "A mixture of <link=\"DIRT\">Dirt</link> and <link=\"WATER\">Water</link>.\n\nCan be separated into its base elements using a <link=\"SLUDGEPRESS\">Sludge Press</link>."
-msgstr "Een mengsel van <link=\"DIRT\">Aarde</link> en <link=\"WATER\">Water</link>.\n\nKan worden gescheiden in de basiselementen met behulp van een <link= \"SLUDGEPRESS\">Slibpers</link>."
+msgstr "Een mengsel van <link=\"DIRT\">Aarde</link> en <link=\"WATER\">Water</link>.\n\nKan worden gescheiden in de basiselementen met behulp van een <link=\"SLUDGEPRESS\">Slibpers</link>."
 
 #. STRINGS.ELEMENTS.MUD.NAME
 msgctxt "STRINGS.ELEMENTS.MUD.NAME"
@@ -40226,7 +40226,7 @@ msgstr "Hot Diggity!"
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDOOR.DESCRIPTION
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDOOR.DESCRIPTION"
 msgid "The act of closing a door has apparently lead to a decrease in the <link=\"STRESS\">Stress</link> levels of {dupe}, as well as decreased the exposure of this Duplicant to harmful <link=\"GERMS\">Germs</link>.\n\nWhile it may be more efficient to group all my Duplicants together in common sleeping quarters, it's important to remember the mental benefits to privacy and space to express their individuality."
-msgstr "Het sluiten van een deur heeft blijkbaar geleid tot een verlaging van de <link=\"STRESS\">Stress</link>-niveaus van {dupe}, evenals de blootstelling van deze Duplicant aan schadelijke <link= \"GERMS\">Kiemen</link>.\n\nHoewel het misschien efficiënter is om al mijn Duplicanten samen te groeperen in gemeenschappelijke slaapvertrekken, is het belangrijk om de mentale voordelen van privacy en ruimte om hun individualiteit uit te drukken te onthouden."
+msgstr "Het sluiten van een deur heeft blijkbaar geleid tot een verlaging van de <link=\"STRESS\">Stress</link>-niveaus van {dupe}, evenals de blootstelling van deze Duplicant aan schadelijke <link=\"GERMS\">Microben</link>.\n\nHoewel het misschien efficiënter is om al mijn Duplicanten samen te groeperen in gemeenschappelijke slaapvertrekken, is het belangrijk om de mentale voordelen van privacy en ruimte om hun individualiteit uit te drukken te onthouden."
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDOOR.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSDOOR.NAME"
@@ -43481,7 +43481,7 @@ msgstr "Geen <link=\"WASHBASIN\">Wasbak</link> gebouwd"
 #. STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP"
 msgid "<link=\"DISEASE\">Germs</link> are spreading in the colony because my Duplicants have nowhere to clean up\n\n<link=\"WASHBASIN\">Wash Basins</link> can be built from the <b>Medicine Tab</b> {Hotkey/Plan8}"
-msgstr "<link=\"DISEASE\">Kiemen</link> verspreiden zich in de kolonie omdat mijn Duplicants nergens kunnen opruimen\n\n<link=\"WASHBASIN\">Wasbakken</link> kunnen opgebouwd uit het <b>Medicine Tabblad</b> {Hotkey/Plan8}"
+msgstr "<link=\"DISEASE\">Microben</link> verspreiden zich in de kolonie omdat mijn Duplicants nergens kunnen opruimen\n\n<link=\"WASHBASIN\">Wasbakken</link> kunnen opgebouwd uit het <b>Medicine Tabblad</b> {Hotkey/Plan8}"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME"
@@ -43581,7 +43581,7 @@ msgstr "Deze <link=\"LOGICWIRE\">automatiseringsdraden</link>s zijn gesmolten do
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY"
 msgid "<link=\"DISEASE\">Germs</link> such as <link=\"FOODSICKNESS\">Food Poisoning</link> and <link=\"SLIMESICKNESS\">Slimelung</link> can cause <link=\"DISEASE\">Disease</link> in my Duplicants. I can use the <b>Germ Overlay</b> {Hotkey/Overlay9} to view all germ concentrations in my colony, and even detect the sources spawning them.\n\nBuilding Wash Basins from the <b>Medicine Tab</b> {Hotkey/Plan8} near colony toilets will tell my Duplicants they need to wash up."
-msgstr "<link=\"DISEASE\">Kiemen</link> zoals <link=\"FOODSICKNESS\">Voedselvergiftiging</link> en <link=\"SLIMESICKNESS\">Slimelung</link> kunnen <link=\"DISEASE\">Ziekte</link> in mijn Duplicanten. Ik kan de <b>Germ Overlay</b> {Hotkey/Overlay9} gebruiken om alle kiemconcentraties in mijn kolonie te bekijken en zelfs de bronnen te detecteren ze uitzetten.\n\nWasbakken bouwen vanaf het <b>Medicine Tab</b> {Hotkey/Plan8} in de buurt van kolonietoiletten zal mijn Duplicanten vertellen dat ze zich moeten wassen."
+msgstr "<link=\"DISEASE\">Microben</link> zoals <link=\"FOODSICKNESS\">Voedselvergiftiging</link> en <link=\"SLIMESICKNESS\">Slimelung</link> kunnen <link=\"DISEASE\">Ziekte</link> in mijn Duplicanten. Ik kan de <b>Germ Overlay</b> {Hotkey/Overlay9} gebruiken om alle kiemconcentraties in mijn kolonie te bekijken en zelfs de bronnen te detecteren ze uitzetten.\n\nWasbakken bouwen vanaf het <b>Medicine Tab</b> {Hotkey/Plan8} in de buurt van kolonietoiletten zal mijn Duplicanten vertellen dat ze zich moeten wassen."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME"
@@ -43986,7 +43986,7 @@ msgstr "Een exosuit is gedropt omdat er geen lege dokken beschikbaar waren"
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY"
 msgid "<link=\"ATMOSUIT\">Atmo Suits</link> can be equipped to protect my Duplicants from environmental hazards like extreme <link=\"HEAT\">Heat</link>, airborne <link=\"DISEASE\">Germs</link>, or unbreathable <link=\"ELEMENTSGAS\">Gas</link>. In order to utilize these suits, I'll need to hook up an <link=\"SUITLOCKER\">Atmo Suit Dock</link> to an <link=\"SUITMARKER\">Atmo Suit Checkpoint</link> , then store one of the suits inside.\n\nDuplicants will equip a suit when they walk past the checkpoint in the chosen direction, and will unequip their suit when walking back the opposite way."
-msgstr "<link=\"ATMOSUIT\">Atmo-pakken</link> kunnen worden uitgerust om mijn Duplicanten te beschermen tegen omgevingsgevaren zoals extreme <link=\"HEAT\">hitte</link>, <link=\" in de lucht ZIEKTE\">Kiemen</link>, of niet-ademend <link=\"ELEMENTSGAS\">Gas</link>. Om deze pakken te kunnen gebruiken, moet ik een <link=\"SUITLOCKER\">Atmo Suit Dock</link> aansluiten naar een <link=\"SUITMARKER\">Atmo Suit Checkpoint</link> en bewaar een van de pakken erin.\n\nDuplicaten zullen een pak uitrusten wanneer ze langs het checkpoint lopen in de gekozen richting, en zullen hun uitrusting uittrekken als ze de andere kant op lopen."
+msgstr "<link=\"ATMOSUIT\">Atmo-pakken</link> kunnen worden uitgerust om mijn Duplicanten te beschermen tegen omgevingsgevaren zoals extreme <link=\"HEAT\">hitte</link>, <link=\" in de lucht ZIEKTE\">Microben</link>, of niet-ademend <link=\"ELEMENTSGAS\">Gas</link>. Om deze pakken te kunnen gebruiken, moet ik een <link=\"SUITLOCKER\">Atmo Suit Dock</link> aansluiten naar een <link=\"SUITMARKER\">Atmo Suit Checkpoint</link> en bewaar een van de pakken erin.\n\nDuplicaten zullen een pak uitrusten wanneer ze langs het checkpoint lopen in de gekozen richting, en zullen hun uitrusting uittrekken als ze de andere kant op lopen."
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.NAME"
@@ -45016,7 +45016,7 @@ msgstr "<link=\"FILTER\">Filtratiemedium</link>"
 #. STRINGS.MISC.TAGS.FILTER_DESC
 msgctxt "STRINGS.MISC.TAGS.FILTER_DESC"
 msgid "Filtration Mediums are materials which are supplied to some filtration buildings that are used in separating purified <link=\"ELEMENTSGASSES\">gases</link> or <link=\"ELEMENTSLIQUID\">liquids</link> from their polluted forms.\n\nExamples include filtering <link=\"WATER\">Water</link> from <link=\"DIRTYWATER\">Polluted Water</link> using a <link=\"WATERPURIFIER\">Water Sieve</link>, or a <link=\"AIRFILTER\">Deodorizer</link> purifying <link=\"OXYGEN\">Oxygen</link> from <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>.\n\nFiltration Mediums are a consumable that will be transformed by the filtering process to generate a by-product, like when <link=\"TOXICSAND\">Polluted Dirt</link> is the result after <link=\"SAND\">Sand</link> has been used to filter polluted water. The filtering building will cease to function once the filtering material has been consumed. Once the Filtering Material has been resupplied to the filtering building it will start working again."
-msgstr "Filtratiemedia zijn materialen die worden geleverd aan sommige filtratiegebouwen die worden gebruikt bij het scheiden van gezuiverde <link=\"ELEMENTSGASSES\">gassen</link> of <link=\"ELEMENTSLIQUID\">vloeistoffen</link> van hun vervuilde vormen.\n\nVoorbeelden zijn het filteren van <link=\"WATER\">Water</link> uit <link=\"DIRTYWATER\">Vervuild water</link> met behulp van een <link=\"WATERPURIFIER\"> Waterzeef</link>, of een <link=\"AIRFILTER\">Deodorizer</link> die <link=\"OXYGEN\">Zuurstof</link> zuivert van <link=\"CONTAMINATEDOXYGEN\">Verontreinigde Zuurstof </link>.\n\nFiltratiemedia zijn verbruiksartikelen die door het filterproces worden getransformeerd om een bijproduct te genereren, zoals wanneer <link=\"TOXICSAND\">Vervuild vuil</link> het resultaat is na < link=\"SAND\">Zand</link> is gebruikt om vervuild water te filteren. Het filtergebouw stopt met functioneren zodra het filtermateriaal is verbruikt. Zodra het filtermateriaal weer aan het filtergebouw is geleverd, begint het te werken weer werken."
+msgstr "Filtratiemedia zijn materialen die worden geleverd aan sommige filtratiegebouwen die worden gebruikt bij het scheiden van gezuiverde <link=\"ELEMENTSGASSES\">gassen</link> of <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> van hun vervuilde vormen.\n\nVoorbeelden zijn het filteren van <link=\"WATER\">Water</link> uit <link=\"DIRTYWATER\">Vervuild water</link> met behulp van een <link=\"WATERPURIFIER\"> Waterzeef</link>, of een <link=\"AIRFILTER\">Deodorizer</link> die <link=\"OXYGEN\">Zuurstof</link> zuivert van <link=\"CONTAMINATEDOXYGEN\">Verontreinigde Zuurstof </link>.\n\nFiltratiemedia zijn verbruiksartikelen die door het filterproces worden getransformeerd om een bijproduct te genereren, zoals wanneer <link=\"TOXICSAND\">Vervuild vuil</link> het resultaat is na < link=\"SAND\">Zand</link> is gebruikt om vervuild water te filteren. Het filtergebouw stopt met functioneren zodra het filtermateriaal is verbruikt. Zodra het filtermateriaal weer aan het filtergebouw is geleverd, begint het te werken weer werken."
 
 #. STRINGS.MISC.TAGS.FLYINGCRITTEREDIBLE
 msgctxt "STRINGS.MISC.TAGS.FLYINGCRITTEREDIBLE"
@@ -48111,7 +48111,7 @@ msgstr "<link=\"ACOUSTICS\">Geluidsversterkers</link>"
 #. STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.DESC"
 msgid "Basic technologies for filtering <link=\"ELEMENTSLIQUID\">Liquids</link> and <link=\"ELEMENTSGAS\">Gases</link>."
-msgstr "Basistechnologieën voor het filteren van <link=\"ELEMENTSLIQUID\">vloeistoffen</link> en <link=\"ELEMENTSGAS\">gassen</link>."
+msgstr "Basistechnologieën voor het filteren van <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> en <link=\"ELEMENTSGAS\">gassen</link>."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDFILTRATION.NAME"
@@ -48681,7 +48681,7 @@ msgstr "<link=\"LIQUIDDISTRIBUTION\">Vloeistofdistributie</link>"
 #. STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.DESC"
 msgid "Use pumped <link=\"ELEMENTSLIQUID\">Liquids</link> to filter out unwanted elements."
-msgstr "Gebruik verpompte <link=\"ELEMENTSLIQUID\">vloeistoffen</link> om ongewenste elementen eruit te filteren."
+msgstr "Gebruik verpompte <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> om ongewenste elementen eruit te filteren."
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDFILTERING.NAME"
@@ -50636,7 +50636,7 @@ msgstr "Aanvankelijk is er heel weinig vaste grond in dit bioom om een tijdelijk
 #. STRINGS.SUBWORLDS.BARREN.DESC
 msgctxt "STRINGS.SUBWORLDS.BARREN.DESC"
 msgid "Initial scans of this biome yield no signs of either <link=\"PLANTS\">plant life</link> or <link=\"CREATURES\">critters</link>. It is a land devoid of <link=\"ELEMENTSLIQUID\">liquids</link> and minuscule <link=\"ELEMENTSGAS\">gas</link> deposits. These dry, dusty plains can be mined for building materials but there is little in the way of life sustaining resources here for a colony."
-msgstr "De eerste scans van dit bioom leveren geen tekenen op van <link=\"PLANTS\">plantleven</link> of <link=\"CREATURES\">beestjes</link>. Het is een land verstoken van < link=\"ELEMENTSLIQUID\">vloeistoffen</link> en minuscule <link=\"ELEMENTSGAS\">gas</link> afzettingen. Deze droge, stoffige vlaktes kunnen worden ontgonnen voor bouwmaterialen, maar er is weinig in de weg van levensondersteunende middelen hier voor een kolonie."
+msgstr "De eerste scans van dit bioom leveren geen tekenen op van <link=\"PLANTS\">plantleven</link> of <link=\"CREATURES\">beestjes</link>. Het is een land verstoken van < link=\"ELEMENTSLIQUID\">Vloeistoffen</link> en minuscule <link=\"ELEMENTSGAS\">gas</link> afzettingen. Deze droge, stoffige vlaktes kunnen worden ontgonnen voor bouwmaterialen, maar er is weinig in de weg van levensondersteunende middelen hier voor een kolonie."
 
 #. STRINGS.SUBWORLDS.BARREN.NAME
 msgctxt "STRINGS.SUBWORLDS.BARREN.NAME"
@@ -51381,7 +51381,7 @@ msgstr "<link=\"HEAT\">Koelfactor</link>: {0}"
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_DISEASE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_DISEASE"
 msgid "Germs: {0}"
-msgstr "Kiemen: {0}"
+msgstr "Microben: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_PERIOD
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_PERIOD"
@@ -51831,7 +51831,7 @@ msgstr "Produceert <style=\"geproduceerd\">{1}</style> van <style=\"KKeyword\">{
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_INPUTTEMP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_INPUTTEMP"
 msgid "Produces <style=\"produced\">{1}</style> of <style=\"KKeyword\">{0}</style> when in use\n\nIt will be the combined <style=\"KKeyword\">Temperature</style> of the input materials."
-msgstr "Produceert <style=\"geproduceerd\">{1}</style> van <style=\"KKeyword\">{0}</style> wanneer in gebruik\n\nHet zal de gecombineerde <style= \"KKeyword\">Temperatuur</style> van de invoermaterialen."
+msgstr "Produceert <style=\"geproduceerd\">{1}</style> van <style=\"KKeyword\">{0}</style> wanneer in gebruik\n\nHet zal de gecombineerde <style=\"KKeyword\">Temperatuur</style> van de invoermaterialen."
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_MINORENTITYTEMP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED_MINORENTITYTEMP"
@@ -52126,7 +52126,7 @@ msgstr "{0}"
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVES_DISEASE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVES_DISEASE"
 msgid "The cooking process kills all <style=\"KKeyword\">Germs</style> present in the ingredients, removing the <style=\"KKeyword\">Disease</style> risk when eating the product"
-msgstr "Het kookproces doodt alle <style=\"KKeyword\">Kiemen</style> aanwezig in de ingrediënten, waardoor het <style=\"KKeyword\">Ziekte</style> risico bij het eten van het product wordt verwijderd"
+msgstr "Het kookproces doodt alle <style=\"KKeyword\">Microben</style> aanwezig in de ingrediënten, waardoor het <style=\"KKeyword\">Ziekte</style> risico bij het eten van het product wordt verwijderd"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE"
@@ -52736,7 +52736,7 @@ msgstr "Raketten kunnen niet naar deze hex reizen totdat deze is geanalyseerd\n\
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_LAUNCH_PAD
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_LAUNCH_PAD"
 msgid "There is no <link=\"LAUNCHPAD\">Rocket Platform</link> on this Planetoid for a rocket to land on\n\nUse a <link=\"PIONEERMODULE\">Trailblazer Module</link> or <link=\"SCOUTMODULE\">Rover's Module</link> to deploy a scout and make first contact"
-msgstr "Er is geen <link=\"LAUNCHPAD\">raketplatform</link> op deze planetoïde waarop een raket kan landen\n\nGebruik een <link=\"PIONEERMODULE\">Trailblazer-module</link> of <link=\"SCOUTMODULE\">Rover's Module</link> om een verkenner in te zetten en het eerste contact te maken"
+msgstr "Er is geen <link=\"LAUNCHPAD\">raketplatform</link> op deze planetoïde waarop een raket kan landen\n\nGebruik een <link=\"PIONEERMODULE\">Pionier-module</link> of <link=\"SCOUTMODULE\">Rover's Module</link> om een verkenner in te zetten en het eerste contact te maken"
 
 #. STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_PATH
 msgctxt "STRINGS.UI.CLUSTERMAP.TOOLTIP_INVALID_DESTINATION_NO_PATH"
@@ -54811,7 +54811,7 @@ msgstr "INFECTIEGEGEVENS"
 #. STRINGS.UI.DETAILTABS.DISEASE.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.NAME"
 msgid "Germs"
-msgstr "Kiemen"
+msgstr "Microben"
 
 #. STRINGS.UI.DETAILTABS.DISEASE.NO_CURRENT_GERMS
 msgctxt "STRINGS.UI.DETAILTABS.DISEASE.NO_CURRENT_GERMS"
@@ -61166,12 +61166,12 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.BUILDMENUTITLE"
 msgid "Fittings"
-msgstr "Beslag"
+msgstr "Aansluitingen"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.NAME"
 msgid "Fittings"
-msgstr "Beslag"
+msgstr "Aansluitingen"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.TOOLTIP
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.FITTINGS.TOOLTIP"
@@ -62576,7 +62576,7 @@ msgstr "Automatische gebouwdesinfectie uitgeschakeld."
 #. STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.DISINFECT_THRESHOLD_DIAGRAM.UNITS"
 msgid "Germs"
-msgstr "Kiemen"
+msgstr "Microben"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.HOVERTITLE"
@@ -65106,12 +65106,12 @@ msgstr "Type kiem aanpassen"
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.DISEASE_COUNT.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.DISEASE_COUNT.NAME"
 msgid "Germs"
-msgstr "Kiemen"
+msgstr "Microben"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.DISEASE_COUNT.TOOLTIP
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.DISEASE_COUNT.TOOLTIP"
 msgid "Adjust germ count"
-msgstr "Kiemenaantal aanpassen"
+msgstr "Microbenaantal aanpassen"
 
 #. STRINGS.UI.SANDBOXTOOLS.SETTINGS.ELEMENT.NAME
 msgctxt "STRINGS.UI.SANDBOXTOOLS.SETTINGS.ELEMENT.NAME"
@@ -66691,7 +66691,7 @@ msgstr "Vernietigd Gravitas ruimtestation"
 #. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CARBONASTEROIDFIELD.DESC
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CARBONASTEROIDFIELD.DESC"
 msgid "An asteroid containing <link=\"REFINEDCARBON\">Refined Carbon</link> and <link=\"CARBON\">Coal</link>.\n\nHarvesting resources requires a rocket equipped with a <link=\"NOSECONEHARVEST\">Drillcone</link>."
-msgstr "Een asteroïde met <link=\"REFINEDCARBON\">geraffineerde koolstof</link> en <link=\"CARBON\">steenkool</link>.\n\nVoor het oogsten van grondstoffen is een raket nodig die is uitgerust met een <link= \"NOSECONEHARVEST\">Boorkegel</link>."
+msgstr "Een asteroïde met <link=\"REFINEDCARBON\">geraffineerde koolstof</link> en <link=\"CARBON\">steenkool</link>.\n\nVoor het oogsten van grondstoffen is een raket nodig die is uitgerust met een <link=\"NOSECONEHARVEST\">Boorkegel</link>."
 
 #. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CARBONASTEROIDFIELD.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.CARBONASTEROIDFIELD.NAME"
@@ -71291,7 +71291,7 @@ msgstr "Buffertijd"
 #. STRINGS.UI.UISIDESCREENS.LOGIC_BUFFER_SIDE_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGIC_BUFFER_SIDE_SCREEN.TOOLTIP"
 msgid "Will continue to send a <b><style=\"logic_on\">Green Signal</style></b> for <b>{0} seconds</b> after receiving a <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr "Zal <b>{0} seconden</b> een <b><style=\"logic_on\">Groen Signaal</style></b> blijven sturen na ontvangst van een <b><style= \"logic_off\">Rood Signaal</style></b>"
+msgstr "Zal <b>{0} seconden</b> een <b><style=\"logic_on\">Groen Signaal</style></b> blijven sturen na ontvangst van een <b><style=\"logic_off\">Rood Signaal</style></b>"
 
 #. STRINGS.UI.UISIDESCREENS.LOGIC_FILTER_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.LOGIC_FILTER_SIDE_SCREEN.TITLE"
@@ -73206,7 +73206,7 @@ msgstr "W"
 #. STRINGS.UI.UNITSUFFIXES.GERMS
 msgctxt "STRINGS.UI.UNITSUFFIXES.GERMS"
 msgid "Germs"
-msgstr "Kiemen"
+msgstr "Microben"
 
 #. STRINGS.UI.UNITSUFFIXES.GROWTH
 msgctxt "STRINGS.UI.UNITSUFFIXES.GROWTH"
