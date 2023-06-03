@@ -11,7 +11,7 @@ I try to keep this file up to date, check status below for work in progress.
 # Status
 - All translations were added using automation
 - Syntax was fixed
-- Final manual check up to: line 2000 
+- Final manual check up to: line 10383
 
 # Changelog
 - 2023/05/22 - started translation based on Steam version of `strings_template.pot` 
@@ -20,10 +20,24 @@ I try to keep this file up to date, check status below for work in progress.
 Some things to clean up or check...
 - radbolts > radbolten
 - duplicants > duplicanten
+- snazzy suits
+- primo garb
+- 'cot' > veldbed?
 
 # VIM
 Useful macros:
-- #j# `/msgstr ""f"lzz`
-- #i# `?msgidf"lyi"j0f"p0wlzz`
-- #t# `k0f"lvi"yjjkop0V:!trans -rbkbkbbrief --no-warn Lkb:nlddkf"pv$dkf"pJx0f"l`
-- #u# `upper case selection: :'<,'>s/\%V\<.\%V/\u&/g`
+
+## Go to next empty translation 
+`:let @j /msgstr ""<CR>f"lzz`
+
+## Copy original text 
+`:let @k ?msgid<CR>f"lyi"j0f"p0wlzz`
+
+## Translate current line
+`:let @t k0f"lvi"yjjkop0V:!trans -rbkbkbbrief --no-warn Lkb:nlddkf"pv$dkf"pJx0f"l`
+`:let @t k0f"lyi"j0f"p0f"lvi":!trans -brief --no-autocorrect --no-warn :nl<CR>0f"l
+
+## Uppercase selection
+```vim
+:let @u :'<,'>s/\%V\<.\%V/\u&/g
+```
