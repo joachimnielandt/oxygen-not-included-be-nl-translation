@@ -11,7 +11,7 @@ I try to keep this file up to date, check status below for work in progress.
 # Status
 - All translations were added using automation
 - Syntax was fixed
-- Final manual check up to: line 10383
+- Final manual check up to: line 12553
 
 # Changelog
 - 2023/05/22 - started translation based on Steam version of `strings_template.pot` 
