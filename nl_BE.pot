@@ -12560,7 +12560,7 @@ msgstr "Welke Duplicant houdt er niet van om met modder te spelen?"
 #. STRINGS.BUILDINGS.PREFABS.SLUDGEPRESS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SLUDGEPRESS.EFFECT"
 msgid "Separates <link=\"MUD\">Mud</link> and other sludges into their base elements.\n\nDuplicants will not fabricate items unless recipes are queued."
-msgstr "Scheidt <link=\"MUD\">Modder</link> en ander slib in hun basiselementen.\n\nDuplicanten zullen geen items maken tenzij recepten in de wachtrij staan."
+msgstr "Laat <link=\"MUD\">Modder</link> en ander type slib uiteenvallen tot hun basiselementen.\n\nDuplicanten zullen geen items maken tenzij recepten in de wachtrij staan."
 
 #. STRINGS.BUILDINGS.PREFABS.SLUDGEPRESS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SLUDGEPRESS.NAME"
@@ -12620,7 +12620,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_1.NAME"
 msgid "<link=\"SCULPTURE1X2AMAZING1\">Not a Funnel</link>"
-msgstr "<link=\"SCULPTURE1X2AMAZING1\">Niet een Trecher</link>"
+msgstr "<link=\"SCULPTURE1X2AMAZING1\">Niet een Trechter</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_2.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_2.DESC"
@@ -12725,7 +12725,7 @@ msgstr "Logische Activatie Parameters"
 #. STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.DESC"
 msgid "Sparkling water puts a twinkle in a Duplicant's eye."
-msgstr "Bruiswater geeft een Duplicant een fonkelend oog."
+msgstr "Bruiswater doet de oogjes van Duplicanten fonkelen."
 
 #. STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SODAFOUNTAIN.EFFECT"
@@ -12805,7 +12805,7 @@ msgstr "Rails verplaatsen materialen waar ze het meest nodig zijn, wat Duplicant
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.EFFECT"
 msgid "Transports <link=\"ELEMENTSSOLID\">Solid Materials</link> on a track between <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link> and <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>.\n\nCan be run through wall and floor tile."
-msgstr "Transporteert <link=\"ELEMENTSSOLID\">Vaste Materialen</link> op een spoor tussen <link=\"SOLIDCONDUITINBOX\">Transportband Lader</link> en <link=\"SOLIDCONDUITOUTBOX\">Transportband Opvangbak</link>.\n\nKan door wand- en vloertegels worden gehaald."
+msgstr "Transporteert <link=\"ELEMENTSSOLID\">Vaste Materialen</link> op een spoor tussen <link=\"SOLIDCONDUITINBOX\">Transportband Lader</link> en <link=\"SOLIDCONDUITOUTBOX\">Transportband Vergaarbak</link>.\n\nKan door wand- en vloertegels worden geleid."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUIT.NAME"
@@ -12815,7 +12815,7 @@ msgstr "<link=\"SOLIDCONDUIT\">Transportband Rail</link>"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.DESC"
 msgid "Separating rail systems helps ensure materials go to the intended destinations."
-msgstr "Het scheiden van railsystemen helpt ervoor te zorgen dat materialen naar de bedoelde bestemmingen gaan."
+msgstr "Door railsystemen uit elkaar te houden is het gemakkelijker ervoor te zorgen dat materialen naar de bedoelde bestemmingen gaan."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDCONDUITBRIDGE.EFFECT"
@@ -13025,7 +13025,7 @@ msgstr "Geautomatiseerde transportbanden besparen energie en tijd door Duplicant
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.EFFECT"
 msgid "Connects to an <link=\"LOGIC\">Automation</link> grid to automatically turn <link=\"ELEMENTSSOLID\">Solid Material</link> transport on or off."
-msgstr "Maakt verbinding met een <link=\"LOGIC\">Automaties</link>raster om transport van <link=\"ELEMENTSSOLID\">Vast Materiaal</link> automatisch in of uit te schakelen."
+msgstr "Maakt verbinding met een <link=\"LOGIC\">Automatie</link> netwerk om transport van <link=\"ELEMENTSSOLID\">Vast Materiaal</link> automatisch in of uit te schakelen."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLOGICVALVE.LOGIC_PORT"
@@ -13055,7 +13055,7 @@ msgstr "Het bereik van een auto-veger kan op elk moment worden bekeken door te (
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.EFFECT"
 msgid "Automates <link=\"CHORES\">Sweeping</link> and <link=\"CHORES\">Supplying</link> errands by sucking up all nearby <link=\"DECOR\">Debris</link>.\n\nMaterials are automatically delivered to any <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link>, <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>, storage, or buildings within range."
-msgstr "Automatiseert <link=\"CHORES\">Veeg</link> en <link=\"CHORES\">Lever</link> opdrachten door al het nabijgelegen <link=\"DECOR\">Puin</link> op te zuigen.\n\nMaterialen worden automatisch geleverd aan elke <link=\"SOLIDCONDUITINBOX\">Transportband Lader</link>, <link=\"SOLIDCONDUITOUTBOX\">Transportband Opvangbak</link>, opslag of gebouwen binnen bereik ."
+msgstr "Automatiseert <link=\"CHORES\">Veeg</link> en <link=\"CHORES\">Lever</link> opdrachten door al het nabijgelegen <link=\"DECOR\">Puin</link> op te zuigen.\n\nMaterialen worden automatisch geleverd aan elke <link=\"SOLIDCONDUITINBOX\">Transportband Lader</link>, <link=\"SOLIDCONDUITOUTBOX\">Transportband Vergaarbak</link>, opslag of gebouwen binnen bereik ."
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTRANSFERARM.NAME"
@@ -13215,7 +13215,7 @@ msgstr "Onttrekt <link=\"STEAM\">Stoom</link> uit de tegels direct onder de mach
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.HEAT_SOURCE
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.HEAT_SOURCE"
 msgid "Power Generation Waste"
-msgstr "Verspilde Opgewekte Stroom"
+msgstr "Electriciteitsopwekking Afval"
 
 #. STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STEAMTURBINE2.NAME"
@@ -13225,7 +13225,7 @@ msgstr "<link=\"STEAMTURBINE2\">Stoomturbine</link>"
 #. STRINGS.BUILDINGS.PREFABS.STICKERBOMB.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STICKERBOMB.DESC"
 msgid "Surprise decor sneak attacks a Duplicant's gloomy day."
-msgstr "Verrassingsaanval van het decor valt de sombere dag van een Duplicant aan."
+msgstr "Decor voert verrassingsaanval uit op sombere dag van een Duplicant."
 
 #. STRINGS.BUILDINGS.PREFABS.STICKERBOMB.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STICKERBOMB.NAME"
@@ -13305,7 +13305,7 @@ msgstr "Verbrandt <link=\"SUCROSE\">Sucrose</link> om raketten voort te stuwen v
 #. STRINGS.BUILDINGS.PREFABS.SUGARENGINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUGARENGINE.NAME"
 msgid "<link=\"SUGARENGINE\">Sugar Engine</link>"
-msgstr "<link=\"SUGARENGINE\">Suiker Engine</link>"
+msgstr "<link=\"SUGARENGINE\">Suiker Motor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUITFABRICATOR.DESC"
@@ -13395,7 +13395,7 @@ msgstr "Super Koelvloeistof is een <link=\"FULLERENE\">Fullereen</link> koelvloe
 #. STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.SUPERINSULATOR_RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.SUPERINSULATOR_RECIPE_DESCRIPTION"
 msgid "Insulation reduces <link=\"HEAT\">Heat Transfer</link> and is composed of recrystallized <link=\"KATAIRITE\">Abyssalite</link>."
-msgstr "Isolatie vermindert <link=\"HEAT\">Warmteoverdracht</link> en is samengesteld uit geherkristalliseerd <link=\"KATAIRITE\">Abyssaliet</link>."
+msgstr "Isolatie vermindert <link=\"HEAT\">Warmteoverdracht</link> en is samengesteld uit herkristalliseerd <link=\"KATAIRITE\">Abyssaliet</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.TEMPCONDUCTORSOLID_RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUPERMATERIALREFINERY.TEMPCONDUCTORSOLID_RECIPE_DESCRIPTION"
@@ -13450,7 +13450,7 @@ msgstr "<link=\"SCHAKELAAR\">Schakelaar</link>"
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.SIDESCREEN_TITLE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.SIDESCREEN_TITLE"
 msgid "Switch"
-msgstr "Schakel"
+msgstr "Schakelaar"
 
 #. STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_OFF
 msgctxt "STRINGS.BUILDINGS.PREFABS.SWITCH.TURN_OFF"
@@ -13500,12 +13500,12 @@ msgstr "{attrib}: {amount} (Ten minste één Duplicant)"
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_CHAT_TOOLTIP"
 msgid "Duplicants will gain {amount} {attrib} if they chat with at least one other Duplicant."
-msgstr "Duplicanten krijgen {amount} {attrib} als ze babbelen met ten minste één andere Duplicant."
+msgstr "Duplicanten krijgen {amount} {attrib} als ze met ten minste één andere Duplicant babbelen."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE"
 msgid "{attrib}: {amount} (At least one Duplicant across space)"
-msgstr "{attrib}: {amount} (Ten minste één Duplicant over ruimte)"
+msgstr "{attrib}: {amount} (Ten minste één Duplicant in de ruimte)"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE_TOOLTIP"
@@ -13530,7 +13530,7 @@ msgstr "Transporteert duplicanten en items onmiddellijk naar een ander portaal m
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT"
 msgid "Portal Code Input"
-msgstr "Portaalcode-invoer"
+msgstr "Portaalcode Invoer"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.LOGIC_PORT_ACTIVE"
@@ -13585,7 +13585,7 @@ msgstr "<link=\"TEMPERATURECONTROLLEDSWITCH\">Thermoschakelaar</link>"
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.DESC"
 msgid "Infinite possibilities, with a complimentary side of meteor showers."
-msgstr "Oneindige mogelijkheden, met een toets van meteorenzwermen."
+msgstr "Oneindige mogelijkheden, met een snuifje meteorenzwermen."
 
 #. STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TEMPORALTEAROPENER.EFFECT"
@@ -13760,7 +13760,7 @@ msgstr "Automaat"
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DESC"
 msgid "Duplicants love the feeling of high-powered wind through their hair."
-msgstr "Duplicanten houden van het gevoel van onnatuurlijk sterke wind door hun haar."
+msgstr "Duplicanten houden van het gevoel van onnatuurlijk sterke wind in de haren."
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DISPLACEMENTEFFECT"
@@ -13810,7 +13810,7 @@ msgstr "Een machine die <link=\"ELEMENTSLIQUID\">Vloeistof</link>, <link=\"ELEME
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITRECEIVER.NAME"
 msgid "Supply Teleporter Output"
-msgstr "Voer Teleporter-uitvoer"
+msgstr "Voeding Teleport Uitvoer"
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.DESC"
@@ -13820,12 +13820,12 @@ msgstr "De buizen aan de achterkant verdwijnen in het niets."
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.EFFECT"
 msgid "A machine capable of teleporting <link=\"ELEMENTSLIQUID\">Liquid</link>, <link=\"ELEMENTSSOLID\">Solid</link>, and <link=\"ELEMENTSGAS\">Gas</link> resources to another asteroid.\n\nIt can be activated by a Duplicant with the <link=\"RESEARCHING2\">Field Research</link> skill.\n\nThis is the transmitting side."
-msgstr "Een machine die <link=\"ELEMENTSLIQUID\">Vloeistof</link>, <link=\"ELEMENTSSOLID\">Vast</link> en <link=\"ELEMENTSGAS\">Gas</link> kan teleporteren link> grondstoffen naar een andere asteroïde.\n\nHet kan worden geactiveerd door een Duplicant met de vaardigheid <link=\"RESEARCHING2\">Veld Onderzoek</link>.\n\nDit is de zendkant."
+msgstr "Een machine die <link=\"ELEMENTSLIQUID\">Vloeistof</link>, <link=\"ELEMENTSSOLID\">Vast</link> en <link=\"ELEMENTSGAS\">Gas</link> grondstoffen kan teleporteren naar een andere asteroïde.\n\nZe kan worden geactiveerd door een Duplicant met de vaardigheid <link=\"RESEARCHING2\">Veld Onderzoek</link>.\n\nDit is de zendkant."
 
 #. STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPCONDUITSENDER.NAME"
 msgid "Supply Teleporter Input"
-msgstr "Voed Teleport Invoer"
+msgstr "Voeding Teleport Invoer"
 
 #. STRINGS.BUILDINGS.PREFABS.WARPPORTAL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPPORTAL.DESC"
@@ -13840,7 +13840,7 @@ msgstr "Teleport Zender"
 #. STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.DESC"
 msgid "The functional remnants of an intricate teleportation system.\n\nThis is the incoming side."
-msgstr "De functionele overblijfselen van een ingewikkeld teleportatiesysteem.\n\nDit is de inkomende kant."
+msgstr "De functionele overblijfselen van een ingewikkeld teleportatiesysteem.\n\nDit is de binnenkomende kant."
 
 #. STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WARPRECEIVER.NAME"
@@ -13850,7 +13850,7 @@ msgstr "Teleport Ontvanger"
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC"
 msgid "Germ spread can be reduced by building these where Duplicants often get dirty."
-msgstr "Verspreiding van microben kan worden verminderd door deze te bouwen waar Duplicanten vaak vuil worden."
+msgstr "Verspreiding van microben kan worden verminderd door deze te bouwen op plaatsen waar Duplicanten vaak vuil worden."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.EFFECT"
@@ -13975,7 +13975,7 @@ msgstr "Het opsplitsen van generatoren in afzonderlijke systemen kan overbelasti
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.EFFECT"
 msgid "Carries more <link=\"POWER\">Wattage</link> than a regular <link=\"WIREBRIDGE\">Wire Bridge</link> without overloading.\n\nRuns one wire section over another without joining them.\n\nCan be run through wall and floor tile."
-msgstr "Draagt meer <link=\"POWER\">Wattage</link> dan een gewone <link=\"WIREBRIDGE\">Kabel Brug</link> zonder overbelasting.\n\nLeidt een kabelsectie over een andere uit zonder samen te voegen ze.\n\nKan door wand- en vloertegels worden gehaald."
+msgstr "Draagt meer <link=\"POWER\">Wattage</link> dan een gewone <link=\"WIREBRIDGE\">Kabel Brug</link> zonder overbelasting.\n\nLeidt een kabelsectie over een andere uit zonder samen te voegen ze.\n\nKan door wand- en vloertegels worden geleid."
 
 #. STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WIREREFINEDBRIDGE.NAME"
