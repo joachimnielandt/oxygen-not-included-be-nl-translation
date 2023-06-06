@@ -7500,7 +7500,7 @@ msgstr "<link=\"HABITATMODULESMALL\">Solo Ruimtevaarder Neuskegel</link>"
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC"
 msgid "Hand sanitizers kill germs more effectively than wash basins."
-msgstr "Handreinigers doden microben effectiever dan wastafels."
+msgstr "Handreinigers doden microben effectiever dan wasbakken."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT"
@@ -7815,7 +7815,7 @@ msgstr "<link=\"HYDROPONICFARM\">Hydroponische Boerderij</link>"
 #. STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.DESC"
 msgid "A Duplicant can work an Ice-E fan to temporarily cool small areas as needed."
-msgstr "Een Duplicant kan een Ice-E ventilator gebruiken om kleine gebieden tijdelijk af te koelen als dat nodig is."
+msgstr "Een Duplicant kan een IJ-s ventilator gebruiken om kleine gebieden tijdelijk af te koelen als dat nodig is."
 
 #. STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.EFFECT"
@@ -7825,7 +7825,7 @@ msgstr "Gebruikt <link=\"ICEORE\">IJs</link> om een klein deel van de <link=\"HE
 #. STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICECOOLEDFAN.NAME"
 msgid "<link=\"ICECOOLEDFAN\">Ice-E Fan</link>"
-msgstr "<link=\"ICECOOLEDFAN\">Ice-E Ventilator</link>"
+msgstr "<link=\"ICECOOLEDFAN\">IJ-s Ventilator</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ICEMACHINE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICEMACHINE.DESC"
@@ -13855,27 +13855,27 @@ msgstr "Verspreiding van microben kan worden verminderd door deze te bouwen op p
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.EFFECT"
 msgid "Removes some <link=\"DISEASE\">Germs</link> from Duplicants.\n\nGerm-covered Duplicants use Wash Basins when passing by in the selected direction."
-msgstr "Verwijdert sommige <link=\"DISEASE\">Microben</link> van Duplicanten.\n\nMet microben bedekte Duplicanten gebruiken wastafels wanneer ze in de geselecteerde richting passeren."
+msgstr "Verwijdert sommige <link=\"DISEASE\">Microben</link> van Duplicanten.\n\nMet microben bedekte Duplicanten gebruiken wasbakken wanneer ze in de geselecteerde richting passeren."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME"
 msgid "<link=\"WASHBASIN\">Wash Basin</link>"
-msgstr "<link=\"WASTAFEL\">Wastafel</link>"
+msgstr "<link=\"WASTAFEL\">Wasbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.DESC"
 msgid "Sinks are plumbed and do not need to be manually emptied or refilled."
-msgstr "Wastafels zijn voorzien van een waterleiding en hoeven niet handmatig geleegd of bijgevuld te worden."
+msgstr "Wasbakken zijn voorzien van een waterleiding en hoeven niet handmatig geleegd of bijgevuld te worden."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.EFFECT"
 msgid "Removes <link=\"DISEASE\">Germs</link> from Duplicants.\n\nGerm-covered Duplicants use Sinks when passing by in the selected direction."
-msgstr "Verwijdert <link=\"DISEASE\">Microben</link> van Duplicanten.\n\nMet microben bedekte Duplicanten gebruiken Wastafels wanneer ze langskomen in de geselecteerde richting."
+msgstr "Verwijdert <link=\"DISEASE\">Microben</link> van Duplicanten.\n\nMet microben bedekte Duplicanten gebruiken Wasbakken wanneer ze langskomen in de geselecteerde richting."
 
 #. STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WASHSINK.NAME"
 msgid "<link=\"WASHSINK\">Sink</link>"
-msgstr "<link=\"WASHSINK\">Wastafel</link>"
+msgstr "<link=\"WASHSINK\">Wasbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.WATERCOOLER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WATERCOOLER.DESC"
@@ -17990,7 +17990,7 @@ msgstr "Bij het vervoeren van radioactieve materialen zoals <link=\"URANIUMORE\"
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_2"
 msgid "Duplicants who are exposed to <link=\"RADIATIONSICKNESS\">Radioactive Contaminants</link> will need to wear protection or they risk coming down with <link=\"RADIATIONSICKNESS\">Radiation Sickness</link>.\n\nSome Duplicants will have more of a natural resistance to radiation, but prolonged exposure will still increase their chances of becoming sick.\n\nConsuming <link=\"BASICRADPILL\">Rad Pills</link> or seafood such as <link=\"COOKEDFISH\">Cooked Seafood</link> or <link=\"SEALETTUCE\">Waterweed</link> increases a Duplicant's radiation resistance, but will not cure a Duplicant's <link=\"RADIATIONSICKNESS\">Radiation Sickness</link> once they have become infected.\n\nOn the other hand, exposure to radiation will kill <link=\"FOODPOISONING\">Food Poisoning</link>, <link=\"SLIMELUNG\">Slimelung</link> and <link=\"ZOMBIESPORES\">Zombie Spores</link> on surfaces (including on Duplicants).\n\n"
-msgstr "Duplicanten die worden blootgesteld aan <link=\"RADIATIONSICKNESS\">Radioactieve verontreinigingen</link> moeten bescherming dragen, anders lopen ze het risico <link=\"RADIATIONSICKNESS\">Stralingsziekte</link> te krijgen.\n\nSommige Duplicanten hebben een meer natuurlijke weerstand tegen straling, maar langdurige blootstelling verhoogt nog steeds hun kans om ziek te worden.\n\nHet consumeren van <link=\"BASICRADPILL\">Rad Pills</link> of zeevruchten zoals < link=\"COOKEDFISH\">Gekookte Zeevruchten</link> of <link=\"SEALETTUCE\">Waterkruid</link> verhoogt de stralingsweerstand van een Duplicant, maar zal de <link=\"RADIATIONSICKNESS\"> van een Duplicant niet genezen Stralingsziekte</link> als ze eenmaal besmet zijn geraakt.\n\nAan de andere kant zal blootstelling aan straling <link=\"FOODPOISONING\">Voedselvergiftiging</link>, <link=\"SLIMELUNG\"> doden Slimelung</link> en <link=\"ZOMBIESPORES\">Zombiesporen</link> op oppervlakken (inclusief Duplicanten).\n\n"
+msgstr "Duplicanten die worden blootgesteld aan <link=\"RADIATIONSICKNESS\">Radioactieve verontreinigingen</link> moeten bescherming dragen, anders lopen ze het risico <link=\"RADIATIONSICKNESS\">Stralingsziekte</link> te krijgen.\n\nSommige Duplicanten hebben een meer natuurlijke weerstand tegen straling, maar langdurige blootstelling verhoogt nog steeds hun kans om ziek te worden.\n\nHet consumeren van <link=\"BASICRADPILL\">Rad Pills</link> of zeevruchten zoals < link=\"COOKEDFISH\">Gekookte Zeevruchten</link> of <link=\"SEALETTUCE\">Waterkruid</link> verhoogt de stralingsweerstand van een Duplicant, maar zal de <link=\"RADIATIONSICKNESS\"> van een Duplicant niet genezen Stralingsziekte</link> als ze eenmaal besmet zijn geraakt.\n\nAan de andere kant zal blootstelling aan straling <link=\"FOODPOISONING\">Voedselvergiftiging</link>, <link=\"SLIMELUNG\"> doden Slijmlong</link> en <link=\"ZOMBIESPORES\">Zombiesporen</link> op oppervlakken (inclusief Duplicanten).\n\n"
 
 #. STRINGS.CODEX.RADIATION.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.RADIATION.PARAGRAPH_3"
@@ -26465,7 +26465,7 @@ msgstr "Hoesten"
 #. STRINGS.DUPLICANTS.CHORES.COUGH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.COUGH.TOOLTIP"
 msgid "Coughing is a symptom of <link=\"SLIMESICKNESS\">Slimelung</link> and spreads airborne <style=\"KKeyword\">Germs</style>"
-msgstr "Hoesten is een symptoom van <link=\"SLIMESICKNESS\">Slimelung</link> en verspreidt <style=\"KKeyword\">Microben</style> via de lucht"
+msgstr "Hoesten is een symptoom van <link=\"SLIMESICKNESS\">Slijmlong</link> en verspreidt <style=\"KKeyword\">Microben</style> via de lucht"
 
 #. STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.CROP_TEND.NAME"
@@ -29050,17 +29050,17 @@ msgstr "Minor"
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.DESC"
 msgid "Slimelung germs are found in <link=\"SLIMEMOLD\">Slime</link> and <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>. Inhaling these germs can cause Duplicants to cough and struggle to breathe."
-msgstr "Slimelung-bacteriën worden aangetroffen in <link=\"SLIMEMOLD\">Slijm</link> en <link=\"CONTAMINATEDOXYGEN\">Vervuilde Zuurstof</link>. Het inademen van deze microben kan Duplicanten doen hoesten en moeite hebben met ademen ."
+msgstr "Slijmlong-bacteriën worden aangetroffen in <link=\"SLIMEMOLD\">Slijm</link> en <link=\"CONTAMINATEDOXYGEN\">Vervuilde Zuurstof</link>. Het inademen van deze microben kan Duplicanten doen hoesten en moeite hebben met ademen ."
 
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.LEGEND_HOVERTEXT"
 msgid "Slimelung Germs present\n"
-msgstr "Slimelungkiemen aanwezig\n"
+msgstr "Slijmlongkiemen aanwezig\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.NAME"
 msgid "<link=\"SLIMELUNG\">Slimelung</link>"
-msgstr "<link=\"SLIMELUNG\">Slimelung</link>"
+msgstr "<link=\"SLIMELUNG\">Slijmlong</link>"
 
 #. STRINGS.DUPLICANTS.DISEASES.SLIMESICKNESS.COUGH_SYMPTOM
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMESICKNESS.COUGH_SYMPTOM"
@@ -29095,7 +29095,7 @@ msgstr "Deze Duplicant hoest ongeveer elke <b>{0}</b>\n\nElke keer dat ze hoeste
 #. STRINGS.DUPLICANTS.DISEASES.SLIMESICKNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMESICKNESS.NAME"
 msgid "<link=\"SLIMESICKNESS\">Slimelung</link>"
-msgstr "<link=\"SLIMESICKNESS\">Slimelung</link>"
+msgstr "<link=\"SLIMESICKNESS\">Slijmlong</link>"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.BEDREST
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.BEDREST"
@@ -30120,12 +30120,12 @@ msgstr "Deze kopieerder is blootgesteld aan <link=\"FOODPOISONING\">Voedselvergi
 #. STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOSLIMEGERMS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOSLIMEGERMS.NAME"
 msgid "Slimelung Exposure"
-msgstr "Slimelung Blootstelling"
+msgstr "Slijmlong Blootstelling"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOSLIMEGERMS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOSLIMEGERMS.TOOLTIP"
 msgid "This Duplicant was exposed to <link=\"SLIMELUNG\">Slimelung</link> and is at risk of developing the <style=\"KKeyword\">Disease</style>"
-msgstr "Deze kopieerder is blootgesteld aan <link=\"SLIMELUNG\">Slimelung</link> en loopt het risico de <style=\"KKeyword\">Ziekte</style> te ontwikkelen"
+msgstr "Deze kopieerder is blootgesteld aan <link=\"SLIMELUNG\">Slijmlong</link> en loopt het risico de <style=\"KKeyword\">Ziekte</style> te ontwikkelen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOZOMBIESPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOZOMBIESPORES.NAME"
@@ -30160,12 +30160,12 @@ msgstr "Deze Duplicant liep <link=\"FOODSICKNESS\">Voedselvergiftiging</link> op
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKSLIMEGERMS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKSLIMEGERMS.NAME"
 msgid "Contracted: Slimelung"
-msgstr "Gecontracteerd: Slimelung"
+msgstr "Gecontracteerd: Slijmlong"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKSLIMEGERMS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKSLIMEGERMS.TOOLTIP"
 msgid "This Duplicant contracted <link=\"SLIMESICKNESS\">Slimelung</link> after a recent <style=\"KKeyword\">Germ</style> exposure and will begin exhibiting symptoms shortly"
-msgstr "Deze Duplicant heeft <link=\"SLIMESICKNESS\">Slimelung</link> opgelopen na een recente blootstelling aan <style=\"KKeyword\">Germ</style> en zal binnenkort symptomen beginnen te vertonen"
+msgstr "Deze Duplicant heeft <link=\"SLIMESICKNESS\">Slijmlong</link> opgelopen na een recente blootstelling aan <style=\"KKeyword\">Germ</style> en zal binnenkort symptomen beginnen te vertonen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKZOMBIESPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKZOMBIESPORES.NAME"
@@ -31215,12 +31215,12 @@ msgstr "Deze Duplicant wordt moe"
 #. STRINGS.DUPLICANTS.MODIFIERS.SLIMESICKNESSRECOVERY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLIMESICKNESSRECOVERY.NAME"
 msgid "Slimelung Antibodies"
-msgstr "Slimelung Antilichamen"
+msgstr "Slijmlong Antilichamen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLIMESICKNESSRECOVERY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLIMESICKNESSRECOVERY.TOOLTIP"
 msgid "This Duplicant recently recovered from <link=\"SLIMESICKNESS\">Slimelung</link> and is temporarily immune to the <style=\"KKeyword\">Disease</style>"
-msgstr "Deze Duplicant is onlangs hersteld van <link=\"SLIMESICKNESS\">Slimelung</link> en is tijdelijk immuun voor de <style=\"KKeyword\">Ziekte</style>"
+msgstr "Deze Duplicant is onlangs hersteld van <link=\"SLIMESICKNESS\">Slijmlong</link> en is tijdelijk immuun voor de <style=\"KKeyword\">Ziekte</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDFLOWERS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDFLOWERS.NAME"
@@ -43240,7 +43240,7 @@ msgstr "Geweldig!\n\nMijn Duplicanten zijn erin geslaagd om door het oppervlak v
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.MESSAGEBODY"
 msgid "The <link=\"FOOD\">Food</link> my Duplicants cook will only ever be as clean as the ingredients used to make it. Storing food in sterile or <link=\"REFRIGERATOR\">Refrigerated</link> environments will keep food free of <link=\"DISEASE\">Germs</link>, while carefully placed hygiene stations like <link=\"WASHBASIN\">Wash Basin</link> or <link=\"SHOWER\">Shower</link> will prevent the cooks from infecting the food by handling it.\n\nDangerously contaminated food can be sent to compost by (ClickType/clicking) the <b>Compost</b> button on the selected item."
-msgstr "Het <link=\"FOOD\">Eten</link> dat mijn Duplicanten koken, is net zo schoon als de ingrediënten die gebruikt zijn om het te maken. Voedsel in steriele of <link=\"REFRIGERATOR\">Gekoelde</link> omgevingen bewaren houdt het vrij van <link=\"DISEASE\">Microben</link>, terwijl zorgvuldig geplaatste hygiënestations zoals <link=\"WASHBASIN\">Wastafels</link> of <link=\"DOUCHE\">Douches</link> voorkomt dat de koks het voedsel infecteren door het te hanteren.\n\nGevaarlijk besmet voedsel kan naar de compost worden gestuurd door (ClickType/klik) op de knop <b>Composteren</b> op het geselecteerde item."
+msgstr "Het <link=\"FOOD\">Eten</link> dat mijn Duplicanten koken, is net zo schoon als de ingrediënten die gebruikt zijn om het te maken. Voedsel in steriele of <link=\"REFRIGERATOR\">Gekoelde</link> omgevingen bewaren houdt het vrij van <link=\"DISEASE\">Microben</link>, terwijl zorgvuldig geplaatste hygiënestations zoals <link=\"WASHBASIN\">Wasbakken</link> of <link=\"DOUCHE\">Douches</link> voorkomt dat de koks het voedsel infecteren door het te hanteren.\n\nGevaarlijk besmet voedsel kan naar de compost worden gestuurd door (ClickType/klik) op de knop <b>Composteren</b> op het geselecteerde item."
 
 #. STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DISEASE_COOKING.NAME"
@@ -43305,27 +43305,27 @@ msgstr "Deze Duplicanten zijn overleden:"
 #. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.NAME"
 msgid "Fabricator idle"
-msgstr "Fabricator inactief"
+msgstr "Fabrikant inactief"
 
 #. STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FABRICATOREMPTY.TOOLTIP"
 msgid "These fabricators have no recipes queued:"
-msgstr "Deze fabricators hebben geen recepten in de wachtrij:"
+msgstr "Deze fabrikanten hebben geen recepten in de wachtrij:"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.MESSAGEBODY"
 msgid "By building a <link=\"LIQUIDPUMPINGSTATION\">Pitcher Pump</link> from the <b>Plumbing Tab</b> {Hotkey/Plan5} over a pool of liquid, my Duplicants will be able to bottle it up and manually deliver it wherever it needs to go."
-msgstr "Door een <link=\"LIQUIDPUMPINGSTATION\">Pitcher Pump</link> te bouwen vanaf het <b>Plumbing Tab</b> {Hotkey/Plan5} boven een plas vloeistof, kunnen mijn Duplicanten het bottelen omhoog en handmatig afleveren waar het ook heen moet."
+msgstr "Door een <link=\"LIQUIDPUMPINGSTATION\">Kruikpomp</link> te bouwen vanuit de <b>Loodgieter Tab</b> {Hotkey/Plan5}, bovenop een plas vloeistof, kunnen mijn Duplicanten het bottelen en handmatig gaan leveren."
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
 msgid "Tutorial: Fetching Water"
-msgstr "Tutorial: Water halen"
+msgstr "Tutorial: Water Halen"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP"
 msgid "Notes on liquid resource gathering"
-msgstr "Opmerkingen over het verzamelen van liquide grondstoffen"
+msgstr "Opmerkingen over het verzamelen van vloeibare grondstoffen"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.NAME"
@@ -43335,7 +43335,7 @@ msgstr "Voedseltekort"
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP"
 msgid "The colony's <link=\"FOOD\">Food</link> reserves are low:\n\n    • {0} are currently available\n    • {1} is being consumed per cycle\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> can be built from the <b>Food Tab</b> {Hotkey/Plan4}"
-msgstr "De <link=\"FOOD\">Voedsel</link> reserves van de kolonie zijn laag:\n\n    • {0} zijn momenteel beschikbaar\n    • {1} wordt verbruikt per cyclus\n \n<link=\"MICROBEMUSHER\">Microbe Mushers</link> kunnen worden gebouwd vanaf het <b>Voedsel-tabblad</b> {Hotkey/Plan4}"
+msgstr "De <link=\"FOOD\">Voedsel</link> reserves van de kolonie zijn laag:\n\n    • {0} zijn momenteel beschikbaar\n    • {1} wordt verbruikt per cyclus\n \n<link=\"MICROBEMUSHER\">Microbe Mushers</link> kunnen worden gebouwd vanaf het <b>Voedsel tabblad</b> {Hotkey/Plan4}"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME"
@@ -43380,7 +43380,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.NAME"
 msgid "The colony is once again in open space"
-msgstr "De kolonie is weer in de open ruimte"
+msgstr "De kolonie is weer in open ruimte"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDGONE.TOOLTIP"
@@ -43390,7 +43390,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.NAME"
 msgid "The gas cloud is at its densest point"
-msgstr "De gaswolk is op het dichtste punt"
+msgstr "De gaswolk is op zijn dichtst"
 
 #. STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GASCLOUDPEAK.TOOLTIP"
@@ -43410,7 +43410,7 @@ msgstr "Een giftige <style=\"KKeyword\">Gas</style> wolk zal spoedig de kolonie 
 #. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.NAME"
 msgid "Genes Shuffled"
-msgstr "Genen geschud"
+msgstr "Genen Geschud"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.SUFFIX"
@@ -43420,17 +43420,17 @@ msgstr " heeft <style=\"KKeyword\">{0}</style> ontwikkeld"
 #. STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENESHUFFLER.TOOLTIP"
 msgid "These Duplicants had their genetic makeup modified:"
-msgstr "Deze Duplicanten hadden hun genetische make-up aangepast:"
+msgstr "Deze Duplicanten hebben hun genen aangepast gekregen:"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.MESSAGEBODY"
 msgid "Deeply probing the genes of the {Plant} plant have led to the discovery of a promising new cultivatable mutation:\n\n<b>{Subspecies}</b>\n\n{Info}"
-msgstr "Het diepgaand onderzoeken van de genen van de {Plant}-plant heeft geleid tot de ontdekking van een veelbelovende nieuwe kweekbare mutatie:\n\n<b>{Subspecies}</b>\n\n{Info}"
+msgstr "Het diepgaand onderzoeken van de genen van de {Plant} plant heeft geleid tot de ontdekking van een veelbelovende nieuwe kweekbare mutatie:\n\n<b>{Subspecies}</b>\n\n{Info}"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.NAME"
 msgid "Seed Analysis Complete"
-msgstr "Zaadanalyse voltooid"
+msgstr "Zaadanalyse Voltooid"
 
 #. STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.GENETICANALYSISCOMPLETE.TOOLTIP"
@@ -43440,7 +43440,7 @@ msgstr "{Plant} Analyse voltooid!"
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.NAME"
 msgid "Healing"
-msgstr "Genezing"
+msgstr "Geneest"
 
 #. STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALING.TOOLTIP"
@@ -43460,7 +43460,7 @@ msgstr " heeft <style=\"KKeyword\">{0}</style> ontwikkeld"
 #. STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HEALINGTRAITGAIN.TOOLTIP"
 msgid "These Duplicants' injuries weren't set and healed improperly.\nThey developed <style=\"KKeyword\">Traits</style> as a result:"
-msgstr "De verwondingen van deze Duplicanten waren niet goed gezet en genezen.\nZe ontwikkelden <style=\"KKeyword\">Traits</style> als resultaat:"
+msgstr "De verwondingen van deze Duplicanten waren niet goed gezet en zijn slecht genezen.\nZe ontwikkelden <style=\"KKeyword\">Kenmerken</style> als resultaat:"
 
 #. STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.NAME"
@@ -43470,7 +43470,7 @@ msgstr "Geen <link=\"WASHBASIN\">Wasbak</link> gebouwd"
 #. STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.HYGENE_NEEDED.TOOLTIP"
 msgid "<link=\"DISEASE\">Germs</link> are spreading in the colony because my Duplicants have nowhere to clean up\n\n<link=\"WASHBASIN\">Wash Basins</link> can be built from the <b>Medicine Tab</b> {Hotkey/Plan8}"
-msgstr "<link=\"DISEASE\">Microben</link> verspreiden zich in de kolonie omdat mijn Duplicanten nergens kunnen opruimen\n\n<link=\"WASHBASIN\">Wasbakken</link> kunnen opgebouwd uit het <b>Medicine Tabblad</b> {Hotkey/Plan8}"
+msgstr "<link=\"DISEASE\">Microben</link> verspreiden zich in de kolonie omdat mijn Duplicanten nergens kunnen opruimen\n\n<link=\"WASHBASIN\">Wasbakken</link> kunnen gebouwd worden in het <b>Geneeskunde Tabblad</b> {Hotkey/Plan8}"
 
 #. STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.IMMIGRANTSLEFT.NAME"
@@ -43485,7 +43485,7 @@ msgstr "De zorgpakketten zijn gedesintegreerd en afdrukbare Duplicanten zijn uit
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.NAME"
 msgid "Duplicants' expectations increased"
-msgstr "Verwachtingen van kopieerders verhoogd"
+msgstr "Verwachtingen van Duplicanten verhoogd"
 
 #. STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INCREASEDEXPECTATIONS.TOOLTIP"
@@ -43495,17 +43495,17 @@ msgstr "Duplicanten hebben na verloop van tijd betere voorzieningen nodig.\nDeze
 #. STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.NAME"
 msgid "Insufficient Oxygen generation"
-msgstr "Onvoldoende zuurstofproductie"
+msgstr "Onvoldoende Zuurstofproductie"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSUFFICIENTOXYGENLASTCYCLE.TOOLTIP"
 msgid "My colony is consuming more <link=\"OXYGEN\">Oxygen</link> than it is producing, and will run out air if I do not increase production.\n\nI should check my existing oxygen production buildings to ensure they're operating correctly\n\n• <link=\"OXYGEN\">Oxygen</link> produced last cycle: {EmittingRate}\n• Consumed last cycle: {ConsumptionRate}"
-msgstr "Mijn kolonie verbruikt meer <link=\"OXYGEN\">Zuurstof</link> dan het produceert, en zal zonder lucht komen te zitten als ik de productie niet verhoog.\n\nIk zou mijn bestaande gebouwen voor zuurstofproductie moeten controleren om zorg ervoor dat ze correct werken\n\n   • <link=\"OXYGEN\">Zuurstof</link> produceerde laatste cyclus: {EmittingRate}\n   • Verbruikte laatste cyclus: {ConsumptionRate}"
+msgstr "Mijn kolonie verbruikt meer <link=\"OXYGEN\">Zuurstof</link> dan het produceert, en zal zonder lucht komen te zitten als ik de productie niet verhoog.\n\nIk zou mijn bestaande gebouwen voor zuurstofproductie moeten controleren om zorg ervoor dat ze correct werken\n\n   • <link=\"OXYGEN\">Zuurstof</link> geproduceerd laatste cyclus: {EmittingRate}\n   • Verbruikt laatste cyclus: {ConsumptionRate}"
 
 #. STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.MESSAGEBODY"
 msgid "The temperature of an environment can have positive or negative effects on the well-being of my Duplicants, as well as the plants and critters in my colony. Selecting {Hotkey/Overlay3} will open the Temperature Overlay where I can check for any hot or cold spots.\n\nI can use a Utility building like an Ice-E Fan or a Space Heater to make an area colder or warmer. However, I will have limited success changing the temperature of a room unless I build the area with insulating tiles to prevent cold or warm air from escaping."
-msgstr "De temperatuur van een omgeving kan positieve of negatieve effecten hebben op het welzijn van mijn Duplicanten, evenals de planten en beestjes in mijn kolonie. Door {Hotkey/Overlay3} te selecteren, wordt de Temperatuuroverlay geopend waar ik kan controleren op hete of koude plekken.\n\nIk kan een utiliteitsgebouw zoals een Ice-E Fan of een Space Heater gebruiken om een gebied kouder of warmer te maken. Ik zal echter beperkt succes hebben bij het veranderen van de temperatuur van een kamer, tenzij ik het gebied bouw met isolerende tegels om te voorkomen dat koude of warme lucht ontsnapt."
+msgstr "De temperatuur van een omgeving kan positieve of negatieve effecten hebben op het welzijn van mijn Duplicanten, evenals de planten en beestjes in mijn kolonie. Door {Hotkey/Overlay3} te selecteren, wordt de Temperatuuroverlay geopend waar ik kan controleren op hete of koude plekken.\n\nIk kan een utiliteitsgebouw zoals een IJ-s Ventilator of een Ruimtekachel gebruiken om een gebied kouder of warmer te maken. Ik zal echter beperkt succes hebben bij het veranderen van de temperatuur van een kamer, tenzij ik het gebied bouw met isolerende tegels om te voorkomen dat koude of warme lucht ontsnapt."
 
 #. STRINGS.MISC.NOTIFICATIONS.INSULATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.INSULATION.NAME"
@@ -43535,7 +43535,7 @@ msgstr "Kenmerktoename"
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.SUFFIX"
 msgid " - {0} Skill Level modifier raised to +{1}"
-msgstr " - {0} Modifier voor vaardigheidsniveau verhoogd naar +{1}"
+msgstr " - {0} Aanpassing Vaardigheidsniveau verhoogd naar +{1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LEVELUP.TOOLTIP"
@@ -43545,12 +43545,12 @@ msgstr "De <style=\"KKeyword\">Attributen</style> van deze Duplicanten zijn verb
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.MESSAGEBODY"
 msgid "Duplicants have limited jumping and climbing abilities. They can only climb two tiles high and cannot fit into spaces shorter than two tiles, or cross gaps wider than one tile. I should keep this in mind while placing errands.\n\nTo check if an errand I've placed is accessible, I can select a Duplicant and (ClickType/click) <b>Show Navigation</b> to view all areas within their reach."
-msgstr "Dupliceren hebben beperkte spring- en klimmogelijkheden. Ze kunnen slechts twee tegels hoog klimmen en kunnen niet passen in ruimtes korter dan twee tegels, of openingen oversteken die breder zijn dan één tegel. Ik moet hier rekening mee houden bij het plaatsen van boodschappen.\n\nControleren als een boodschap die ik heb geplaatst toegankelijk is, kan ik een Duplicant selecteren en (ClickType/click) <b>Toon navigatie</b> om alle gebieden binnen hun bereik te bekijken."
+msgstr "Duplicanten hebben beperkte spring- en klimmogelijkheden. Ze kunnen slechts twee tegels hoog klimmen en passen niet in ruimtes korter dan twee tegels. Ze kunnen geen openingen oversteken die breder zijn dan één tegel. Ik moet hier rekening mee houden bij het geven van opdrachten.\n\nOm te controleren of een opdracht die ik heb geplaatst toegankelijk is, kan ik een Duplicant selecteren en (ClickType/click) <b>Toon Navigatie</b> om alle gebieden binnen hun bereik te bekijken."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
 msgid "Video: Duplicant Movement"
-msgstr "Video: dubbele verplaatsing"
+msgstr "Video: Duplicanten Beweging"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP"
@@ -43560,27 +43560,27 @@ msgstr "Opmerkingen over de manoeuvreerbaarheid van mijn Duplicanten"
 #. STRINGS.MISC.NOTIFICATIONS.LOGIC_CIRCUIT_OVERLOADED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOGIC_CIRCUIT_OVERLOADED.NAME"
 msgid "Logic Circuit Overloaded"
-msgstr "Logisch circuit overbelast"
+msgstr "Logisch Circuit Overbelast"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOGIC_CIRCUIT_OVERLOADED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOGIC_CIRCUIT_OVERLOADED.TOOLTIP"
 msgid "These <link=\"LOGICWIRE\">Automation Wire</link>s melted due to more bits of data being sent over them than they can support"
-msgstr "Deze <link=\"LOGICWIRE\">Automatiesdraden</link>s zijn gesmolten doordat er meer gegevens over zijn verzonden dan ze kunnen ondersteunen"
+msgstr "Deze <link=\"LOGICWIRE\">Automatie Kabel</link>s zijn gesmolten doordat er meer gegevens over zijn verzonden dan ze kunnen ondersteunen"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.MESSAGEBODY"
 msgid "<link=\"DISEASE\">Germs</link> such as <link=\"FOODSICKNESS\">Food Poisoning</link> and <link=\"SLIMESICKNESS\">Slimelung</link> can cause <link=\"DISEASE\">Disease</link> in my Duplicants. I can use the <b>Germ Overlay</b> {Hotkey/Overlay9} to view all germ concentrations in my colony, and even detect the sources spawning them.\n\nBuilding Wash Basins from the <b>Medicine Tab</b> {Hotkey/Plan8} near colony toilets will tell my Duplicants they need to wash up."
-msgstr "<link=\"DISEASE\">Microben</link> zoals <link=\"FOODSICKNESS\">Voedselvergiftiging</link> en <link=\"SLIMESICKNESS\">Slimelung</link> kunnen <link=\"DISEASE\">Ziekte</link> in mijn Duplicanten. Ik kan de <b>Germ Overlay</b> {Hotkey/Overlay9} gebruiken om alle kiemconcentraties in mijn kolonie te bekijken en zelfs de bronnen te detecteren ze uitzetten.\n\nWasbakken bouwen vanaf het <b>Medicine Tab</b> {Hotkey/Plan8} in de buurt van kolonietoiletten zal mijn Duplicanten vertellen dat ze zich moeten wassen."
+msgstr "<link=\"DISEASE\">Microben</link> zoals <link=\"FOODSICKNESS\">Voedselvergiftiging</link> en <link=\"SLIMESICKNESS\">Slijmlong</link> kunnen <link=\"DISEASE\">Ziekte</link> bij mijn Duplicanten veroorzaken. Ik kan de <b>Microbe Overlay</b> {Hotkey/Overlay9} gebruiken om alle microbeconcentraties in mijn kolonie te bekijken en zelfs de bronnen te detecteren.\n\nWasbakken bouwen vanuit de <b>Geneeskunde Tab</b> {Hotkey/Plan8} in de buurt van toiletten zal mijn Duplicanten vertellen dat ze zich moeten wassen."
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.NAME"
 msgid "Tutorial: Germs and Disease"
-msgstr "Tutorial: microben en ziekten"
+msgstr "Tutorial: Microben en Ziekte"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOTS_OF_GERMS.TOOLTIP"
 msgid "Notes on Duplicant disease risks"
-msgstr "Opmerkingen over de risico's van dubbele ziekte"
+msgstr "Opmerkingen over Duplicant ziekterisico's"
 
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME"
@@ -43595,12 +43595,12 @@ msgstr "Deze grondstoffen zijn niet beschikbaar:"
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.MESSAGEBODY"
 msgid "<link=\"DIRTYWATER\">Polluted Water</link> slowly emits <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> which accelerates the spread of <link=\"DISEASE\">Disease</link>.\n\nDuplicants will also be <link=\"STRESS\">Stressed</link> by walking through Polluted Water, so I should have my Duplicants clean up spills by (ClickType/clicking) and dragging the <b>Mop Tool</b> {Hotkey/Mop}"
-msgstr "<link=\"DIRTYWATER\">Vervuild water</link> stoot langzaam <link=\"CONTAMINATEDOXYGEN\">Vervuilde zuurstof</link> uit, wat de verspreiding van <link=\"DISEASE\">Ziekte< versnelt /link>.\n\nDuplicanten zullen ook <link=\"STRESS\">Gestresst</link> raken door door Vervuild Water te lopen, dus ik zou mijn Duplicanten gemorste vloeistoffen moeten laten opruimen door (ClickType/klik) en de < b>Dweilgereedschap</b> {Sneltoets/Dweil}"
+msgstr "<link=\"DIRTYWATER\">Vervuild Water</link> stoot langzaam <link=\"CONTAMINATEDOXYGEN\">Vervuilde Zuurstof</link> uit, wat de verspreiding van <link=\"DISEASE\">Ziekte</link> versnelt.\n\nDuplicanten zullen ook <link=\"STRESS\">Gestresseerd</link> raken door door Vervuild Water te lopen, dus ik zou mijn Duplicanten gemorste vloeistoffen moeten laten opruimen door te (ClickType/klik) en slepen met het <b>Dweilgereedschap</b> {Hotkey/Mop}"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.NAME"
 msgid "Tutorial: Polluted Water"
-msgstr "Tutorial: vervuild water"
+msgstr "Tutorial: Vervuild Water"
 
 #. STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MOPPINGMESSAGE.TOOLTIP"
@@ -43610,17 +43610,17 @@ msgstr "Opmerkingen over het omgaan met vervuilde materialen"
 #. STRINGS.MISC.NOTIFICATIONS.MORALE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MORALE.MESSAGEBODY"
 msgid "Food, Rooms, Decor, and Recreation all have an effect on Duplicant Morale. Good experiences improve their Morale, while poor experiences lower it. When a Duplicant's Morale is below their Expectations, they will become Stressed.\n\nDuplicants' Expectations will get higher as they are given new Skills, and the colony will have to be improved to keep up their Morale. An overview of Morale and Stress can be viewed on the Vitals screen."
-msgstr "Eten, kamers, inrichting en recreatie hebben allemaal een effect op het moreel van de Duplicant. Goede ervaringen verbeteren hun moreel, terwijl slechte ervaringen het verlagen. Wanneer het moreel van een Duplicant beneden hun verwachtingen ligt, zullen ze gestrest raken.\n\nVerwachtingen van Duplicanten zullen hoger worden naarmate ze nieuwe vaardigheden krijgen, en de kolonie zal moeten worden verbeterd om hun moreel op peil te houden. Een overzicht van moreel en stress kan worden bekeken op het scherm Vitals."
+msgstr "Eten, Kamers, Decor en Ontspanning hebben allemaal een effect op het moreel van de Duplicant. Goede ervaringen verbeteren hun moreel, terwijl slechte ervaringen het verlagen. Wanneer het moreel van een Duplicant beneden de verwachtingen ligt, zullen ze gestresseerd raken.\n\nVerwachtingen van Duplicanten zullen hoger worden naarmate ze nieuwe vaardigheden krijgen, en de kolonie zal moeten worden verbeterd om hun moreel op peil te houden. Een overzicht van Moreel en Stress kan worden bekeken op het scherm Vitals."
 
 #. STRINGS.MISC.NOTIFICATIONS.MORALE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MORALE.NAME"
 msgid "Video: Duplicant Morale"
-msgstr "Video: dubbel moreel"
+msgstr "Video: Duplicant Moreel"
 
 #. STRINGS.MISC.NOTIFICATIONS.MORALE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MORALE.TOOLTIP"
 msgid "Notes on Duplicant expectations"
-msgstr "Opmerkingen over dubbele verwachtingen"
+msgstr "Opmerkingen over Duplicant verwachtingen"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEARLYDRY.NAME"
@@ -43640,7 +43640,7 @@ msgstr "Kolonie vereist een <link=\"POWER\">Stroombron</link>"
 #. STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDENERGYSOURCE.TOOLTIP"
 msgid "<link=\"POWER\">Power</link> is required to operate electrical buildings\n\n<link=\"MANUALGENERATOR\">Manual Generators</link> and <link=\"WIRE\">Wire</link> can be built from the <link=\"[3]\">Power Tab</link>"
-msgstr "<link=\"POWER\">Stroom</link> is vereist om elektrische gebouwen te bedienen\n\n<link=\"MANUALGENERATOR\">Handgeneratoren</link> en <link=\"WIRE\">Wire</link> kan worden opgebouwd uit de <link=\"[3]\">Stroom Tab</link>"
+msgstr "<link=\"POWER\">Stroom</link> is vereist om elektrische gebouwen te bedienen\n\n<link=\"MANUALGENERATOR\">Handgeneratoren</link> en <link=\"WIRE\">Kabel</link> kan worden gebouwd vanuit de <link=\"[3]\">Stroom Tab</link>"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.NAME"
@@ -43650,37 +43650,37 @@ msgstr "Kolonie vereist een voedselbron"
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
 msgid "The colony will exhaust their supplies without a new <link=\"FOOD\">Food</link> source\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> can be built from the <b>Food Tab</b> {Hotkey/Plan4}"
-msgstr "De kolonie raakt uitgeput zonder een nieuwe <link=\"FOOD\">Voedsel</link> bron\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> kunnen worden gebouwd van de <b>Tabblad Eten</b> {Hotkey/Plan4}"
+msgstr "De kolonie raakt uitgeput zonder een nieuwe <link=\"FOOD\">Voedsel</link> bron\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> kunnen worden gebouwd vanuit de <b>Eten Tab</b> {Hotkey/Plan4}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
 msgid "No <link=\"COT\">Cots</link> built"
-msgstr "Geen <link=\"COT\">Bedjes</link> gebouwd"
+msgstr "Geen <link=\"COT\">Bedden</link> gebouwd"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.TOOLTIP"
 msgid "My Duplicants would appreciate a place to sleep\n\n<link=\"COTS\">Cots</link> can be built from the <b>Furniture Tab</b> {Hotkey/Plan9}"
-msgstr "Mijn Duplicanten zouden een slaapplek waarderen\n\n<link=\"COTS\">Kinderbedjes</link> kunnen worden gebouwd vanaf het <b>Tabblad Meubels</b> {Hotkey/Plan9}"
+msgstr "Mijn Duplicanten zouden een slaapplek waarderen\n\n<link=\"COTS\">Bedden</link> kunnen worden gebouwd vanaf de <b>Meubel Tab</b> {Hotkey/Plan9}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.NAME"
 msgid "No <link=\"OUTHOUSE\">Outhouse</link> built"
-msgstr "Geen <link=\"OUTHOUSE\">Bijgebouw</link> gebouwd"
+msgstr "Geen <link=\"OUTHOUSE\">Buitentoilet</link> gebouwd"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDTOILET.TOOLTIP"
 msgid "My Duplicants have nowhere to relieve themselves\n\n<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> {Hotkey/Plan5}"
-msgstr "Mijn Duplicanten kunnen nergens hun behoefte doen\n\n<link=\"OUTHOUSE\">Bijgebouwen</link> kunnen worden gebouwd vanaf het <b>Loodgieterstabblad</b> {Hotkey/Plan5}"
+msgstr "Mijn Duplicanten kunnen nergens hun behoefte doen\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanaf de <b>Loodgieter Tab</b> {Hotkey/Plan5}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.NAME"
 msgid "New Automation Port"
-msgstr "Nieuwe automatiespoort"
+msgstr "Nieuwe Automatie Poort"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEW_AUTOMATION_WARNING.TOOLTIP"
 msgid "This building has a new automation port and is unintentionally connected to an existing <link=\"LOGICWIRE\">Automation Wire</link>"
-msgstr "Dit gebouw heeft een nieuwe automatiespoort en is onbedoeld verbonden met een bestaande <link=\"LOGICWIRE\">Automatie Kabel</link>"
+msgstr "Dit gebouw heeft een nieuwe automatie poort en is onbedoeld verbonden met een bestaande <link=\"LOGICWIRE\">Automatie Kabel</link>"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.NAME"
@@ -43690,7 +43690,7 @@ msgstr "Nieuw Mutant Zaad Ontdekt"
 #. STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWMUTANTSEED.TOOLTIP"
 msgid "A new mutant variety of the {Plant} has been found. Analyze it at the <link=\"GENETICANALYSISSTATION\">Botanical Analyzer</link> to learn more!"
-msgstr "Er is een nieuwe gemuteerde variant van de {Plant} gevonden. Analyseer deze bij de <link=\"GENETICANALYSISSTATION\">Botanical Analyzer</link> voor meer informatie!"
+msgstr "Er is een nieuwe gemuteerde variant van de {Plant} gevonden. Analyseer deze bij de <link=\"GENETICANALYSISSTATION\">Botanische Analyseerder</link> voor meer informatie!"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEWTRAIT.NAME"
@@ -43710,7 +43710,7 @@ msgstr "Geen <link=\"DOCTORSTATION\">Ziekenboeg</link> gebouwd"
 #. STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_MEDICAL_COTS.TOOLTIP"
 msgid "There is nowhere for sick Duplicants receive medical care\n\n<link=\"DOCTORSTATION\">Sick Bays</link> can be built from the <b>Medicine Tab</b> {Hotkey/Plan8}"
-msgstr "Er is nergens plaats voor zieke Duplicanten krijgen medische zorg\n\n<link=\"DOCTORSTATION\">Ziekenbaaien</link> kunnen worden gebouwd vanaf het <b>Medicine Tabblad</b> {Hotkey/Plan8}"
+msgstr "Er is nergens plaats voor zieke Duplicanten om medische zorg te ontvangen\n\n<link=\"DOCTORSTATION\">Ziekenbaaien</link> kunnen worden gebouwd vanuit de <b>Geneeskunde Tab</b> {Hotkey/Plan8}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.NAME"
@@ -43720,7 +43720,7 @@ msgstr "Geen <link=\"OXYGEN\">Zuurstofgenerator</link> gebouwd"
 #. STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NO_OXYGEN_GENERATOR.TOOLTIP"
 msgid "My colony is not producing any new <link=\"OXYGEN\">Oxygen</link>\n\n<link=\"MINERALDEOXIDIZER\">Oxygen Diffusers</link> can be built from the <b>Oxygen Tab</b> {Hotkey/Plan2}"
-msgstr "Mijn kolonie produceert geen nieuwe <link=\"OXYGEN\">Zuurstof</link>\n\n<link=\"MINERALDEOXIDIZER\">Zuurstofverspreiders</link> kunnen worden gebouwd van de <b> Zuurstof-tabblad</b> {Sneltoets/Plan2}"
+msgstr "Mijn kolonie produceert geen nieuwe <link=\"OXYGEN\">Zuurstof</link>\n\n<link=\"MINERALDEOXIDIZER\">Zuurstofverspreiders</link> kunnen worden gebouwd van de <b> Zuurstof Tab</b> {Sneltoets/Plan2}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NOALERTS.NAME"
@@ -43755,12 +43755,12 @@ msgstr "Geblokkeerde <style=\"KKeyword\">Buizen</style> hebben ervoor gezorgd da
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.MESSAGEBODY"
 msgid "When connecting pipes for plumbing, it is useful to have the Plumbing Overlay {Hotkey/Overlay6} selected. Each building which requires plumbing must have their Building Intake connected to the Output Pipe from a source such as a Liquid Pump. Liquid Pumps must be submerged in liquid and attached to a power source to function.\n\nBuildings often output contaminated water which must flow out of the building through piping from the Output Pipe. The water can then be expelled through a Liquid Vent, or filtered through a Water Sieve for reuse.\n\nVentilation applies the same principles to gases. Select the Ventilation Overlay {Hotkey/Overlay7} to see how gases are being moved around the colony."
-msgstr "Bij het aansluiten van leidingen voor sanitair, is het handig om de overlay voor sanitair {Hotkey/Overlay6} te selecteren. Elk gebouw dat sanitair nodig heeft, moet zijn gebouwinlaat hebben aangesloten op de uitvoerleiding van een bron zoals een vloeistofpomp. Vloeistofpompen moeten worden ondergedompeld in vloeistof en aangesloten op een stroombron om te functioneren.\n\nGebouwen stoten vaak verontreinigd water uit dat het gebouw uit moet stromen via leidingen van de uitvoerpijp. Het water kan vervolgens worden afgevoerd via een vloeistofopening of gefilterd door een Waterzeef voor hergebruik.\n\nVentilatie past dezelfde principes toe op gassen. Selecteer de ventilatie-overlay {Hotkey/Overlay7} om te zien hoe gassen door de kolonie worden verplaatst."
+msgstr "Bij het aansluiten van leidingen voor sanitair, is het handig om de overlay voor sanitair {Hotkey/Overlay6} te selecteren. Elk gebouw dat sanitair nodig heeft, moet zijn Gebouw Inlaat hebben aangesloten op de Uitvoer Leiding van een bron zoals een Vloeistofpomp. Vloeistofpompen moeten worden ondergedompeld in vloeistof en aangesloten op een stroombron om te functioneren.\n\nGebouwen stoten vaak vervuild water uit dat het gebouw uit moet stromen via de uitvoerpijp. Het water kan vervolgens worden afgevoerd via een vloeistofopening of gefilterd door een Waterzeef voor hergebruik.\n\nVentilatie past dezelfde principes toe op gassen. Selecteer de Ventilatie Overlay {Hotkey/Overlay7} om te zien hoe gassen door de kolonie worden verplaatst."
 
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME"
 msgid "Video: Plumbing and Ventilation"
-msgstr "Video: sanitair en ventilatie"
+msgstr "Video: Sanitair en Ventilatie"
 
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.TOOLTIP"
@@ -43770,12 +43770,12 @@ msgstr "Opmerkingen over het verbinden van gebouwen met leidingen"
 #. STRINGS.MISC.NOTIFICATIONS.POWER.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.POWER.MESSAGEBODY"
 msgid "Generators are considered \"Producers\" of Power, while the various buildings and machines in the colony are considered \"Consumers\". Each Consumer will pull a certain wattage from the power circuit it is connected to, which can be checked at any time by (ClickType/clicking) the building and going to the Energy Tab.\n\nI can use the Power Overlay {Hotkey/Overlay2} to quickly check the status of all my circuits. If the Consumers are taking more wattage than the Generators are creating, the Batteries will drain and there will be brownouts.\n\nAdditionally, if the Consumers are pulling more wattage through the Wires than the Wires can handle, they will overload and burn out. To correct both these situations, I will need to reorganize my Consumers onto separate circuits."
-msgstr "Generatoren worden beschouwd als \"producenten\" van stroom, terwijl de verschillende gebouwen en machines in de kolonie worden beschouwd als \"consumenten\". Elke consument trekt een bepaald wattage uit het stroomcircuit waarop hij is aangesloten, wat kan worden gecontroleerd op elk gewenst moment door (ClickType/klik) het gebouw en ga naar het tabblad Energie.\n\nIk kan de Stroom Overlay {Hotkey/Overlay2} gebruiken om snel de status van al mijn circuits te controleren. Als de verbruikers meer wattage nemen dan de generatoren creëren, de batterijen raken leeg en er zullen brownouts zijn.\n\nBovendien, als de consumenten meer wattage door de draden trekken dan de draden aankunnen, zullen ze overbelasten en doorbranden. Om beide situaties te corrigeren, heb ik zal mijn consumenten moeten reorganiseren op afzonderlijke circuits."
+msgstr "Generatoren worden beschouwd als \"Producenten\" van Stroom, terwijl de verschillende gebouwen en machines in de kolonie worden beschouwd als \"Consumenten\". Elke Consument trekt een bepaald wattage uit het stroomcircuit waarop hij is aangesloten, wat kan worden gecontroleerd op elk gewenst moment door te (ClickType/klik) op het gebouw en naar de Energie tab te gaan.\n\nIk kan de Stroom Overlay {Hotkey/Overlay2} gebruiken om snel de status van al mijn circuits te controleren. Als de Consumenten meer wattage nemen dan de Generatoren creëren, raken de batterijen leeg en er zullen brownouts zijn.\n\nBovendien, als de Consumenten meer wattage door de Kabels trekken dan de Kabels aankunnen, zullen ze overbelasten en doorbranden. Om beide situaties te corrigeren, heb ik zal mijn Consumenten moeten reorganiseren op afzonderlijke circuits."
 
 #. STRINGS.MISC.NOTIFICATIONS.POWER.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.POWER.NAME"
 msgid "Video: Power Circuits"
-msgstr "Video: stroomcircuits"
+msgstr "Video: Stroomcircuits"
 
 #. STRINGS.MISC.NOTIFICATIONS.POWER.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.POWER.TOOLTIP"
@@ -43785,12 +43785,12 @@ msgstr "Opmerkingen over het beheer van elektriciteit"
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.MESSAGEBODY"
 msgid "Duplicants will choose where to work based on the priority of the errands that I give them. I can open the <b>Priorities Screen</b> {Hotkey/ManagePriorities} to set their <style=\"KKeyword\">Duplicant Priorities</style>, and the <b>Priority Tool</b> {Hotkey/Prioritize} to fine tune <style=\"KKeyword\">Building Priority</style>. Many buildings will also let me change their Priority level when I select them."
-msgstr "Duplicanten kiezen waar ze willen werken op basis van de prioriteit van de boodschappen die ik ze geef. Ik kan het <b>Prioriteitenscherm</b> {Hotkey/ManagePriorities} openen om hun <style=\"KKeyword\"> in te stellen Dubbele prioriteiten</style> en de <b>Prioriteitstool</b> {Hotkey/Prioritize} om <style=\"KKeyword\">Gebouwprioriteit</style> te verfijnen. Bij veel gebouwen kan ik ook hun Prioriteitsniveau wanneer ik ze selecteer."
+msgstr "Duplicanten kiezen waar ze willen werken op basis van de prioriteit van de boodschappen die ik ze geef. Ik kan het <b>Prioriteitenscherm</b> {Hotkey/ManagePriorities} openen om hun <style=\"KKeyword\">Duplicant Prioriteiten</style> in te stellen, en de <b>Prioriteitstool</b> {Hotkey/Prioritize} om <style=\"KKeyword\">Gebouwprioriteit</style> te verfijnen. Bij veel gebouwen kan ik ook hun Prioriteitsniveau instellen wanneer ik ze selecteer."
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
 msgid "Tutorial: Errand Priorities"
-msgstr "Tutorial: boodschappenprioriteiten"
+msgstr "Tutorial: Boodschap Prioriteiten"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
@@ -43800,7 +43800,7 @@ msgstr "Opmerkingen over de prioriteiten van mijn Duplicanten"
 #. STRINGS.MISC.NOTIFICATIONS.RADIATION.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RADIATION.MESSAGEBODY"
 msgid "Objects such as <link=\"URANIUMORE\">Uranium Ore</link> and <link=\"BEE\">Beeta Hives</link> emit a <link=\"RADIOACTIVE\">Radioactive</link> energy that can be toxic to my Duplicants.\n\nI can use the <b>Radiation Overlay</b> {Hotkey/Overlay15} to check the scope of the Radiation field. Building thick walls around radiation emitters will dampen the field and protect my Duplicants from getting <link=\"RADIATIONSICKNESS\">Radiation Sickness</link> ."
-msgstr "Objecten zoals <link=\"URANIUMORE\">Uranium Ore</link> en <link=\"BEE\">Beeta Hives</link> zenden een <link=\"RADIOACTIVE\">Radioactieve</link> energie die giftig kan zijn voor mijn Duplicanten.\n\nIk kan de <b>Radiation Overlay</b> {Hotkey/Overlay15} gebruiken om de reikwijdte van het stralingsveld te controleren. Het bouwen van dikke muren rond stralingszenders zal de veld en bescherm mijn Duplicanten tegen het krijgen van <link=\"RADIATIONSICKNESS\">Stralingsziekte</link> ."
+msgstr "Objecten zoals <link=\"URANIUMORE\">Uranium Ore</link> en <link=\"BEE\">Beeta Hives</link> zenden een <link=\"RADIOACTIVE\">Radioactieve</link> energie die schakelijk kan zijn voor mijn Duplicanten.\n\nIk kan de <b>Radiation Overlay</b> {Hotkey/Overlay15} gebruiken om de reikwijdte van het Stralingsveld te controleren. Het bouwen van dikke muren rond stralingszenders zal het veld dempen en mijn Duplicanten beschermen tegen <link=\"RADIATIONSICKNESS\">Stralingsziekte</link> ."
 
 #. STRINGS.MISC.NOTIFICATIONS.RADIATION.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RADIATION.NAME"
@@ -43820,27 +43820,27 @@ msgstr "Reactor Kernsmelting"
 #. STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REACTORMELTDOWN.TOOLTIP"
 msgid "A Research Reactor has overheated and is melting down! Extreme radiation is flooding the area"
-msgstr "Een onderzoeksreactor is oververhit geraakt en smelt! Extreme straling overspoelt het gebied"
+msgstr "Een Onderzoeksreactor is oververhit geraakt en smelt! Extreme straling overspoelt het gebied"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr "Rood alarm"
+msgstr "Rood Alarm"
 
 #. STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.REDALERT.TOOLTIP"
 msgid "The colony is prioritizing work over their individual well-being"
-msgstr "De kolonie geeft prioriteit aan werk boven hun individuele welzijn"
+msgstr "De kolonie geeft prioriteit aan werk boven het individuele welzijn"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.MESSAGEBODY"
 msgid "Eureka! We've discovered {0} Technology.\n\nNew buildings have become available:\n  • {1}"
-msgstr "Eureka! We hebben {0} technologie ontdekt.\n\nEr zijn nieuwe gebouwen beschikbaar:\n    • {1}"
+msgstr "Eureka! We hebben {0} Technologie ontdekt.\n\nEr zijn nieuwe gebouwen beschikbaar:\n    • {1}"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.NAME"
 msgid "Research Complete"
-msgstr "Onderzoek voltooid"
+msgstr "Onderzoek Voltooid"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESEARCHCOMPLETE.TOOLTIP"
@@ -43855,7 +43855,7 @@ msgstr "Vaardigheden resetten"
 #. STRINGS.MISC.NOTIFICATIONS.RESETSKILL.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESETSKILL.TOOLTIP"
 msgid "These Duplicants have had their <style=\"KKeyword\">Skill Points</style> refunded:"
-msgstr "Deze Duplicanten hebben hun <style=\"KKeyword\">Vaardigheidspunten</style> terugbetaald gekregen:"
+msgstr "Deze Duplicanten hebben hun <style=\"KKeyword\">Vaardigheidspunten</style> vrijgemaakt:"
 
 #. STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.RESOURCEMELTED.NAME"
@@ -43875,12 +43875,12 @@ msgstr "{0}: {1}!"
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULE_CHANGED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULE_CHANGED.TOOLTIP"
 msgid "Duplicants assigned to <style=\"KKeyword\">{0}</style> have started their <b>{1}</b> block.\n\n{2}\n\nOpen the <style=\"KKeyword\">Schedule Screen</style> {Hotkey/ManageSchedule} to change blocks or assignments"
-msgstr "Duplicanten toegewezen aan <style=\"KKeyword\">{0}</style> zijn begonnen met hun <b>{1}</b> blok.\n\n{2}\n\nOpen de <style =\"KKeyword\">Planningsscherm</style> {Hotkey/ManageSchedule} om blokken of toewijzingen te wijzigen"
+msgstr "Duplicanten toegewezen aan <style=\"KKeyword\">{0}</style> zijn begonnen met hun <b>{1}</b> blok.\n\n{2}\n\nOpen het <style =\"KKeyword\">Planning Scherm</style> {Hotkey/ManageSchedule} om blokken of toewijzingen te wijzigen"
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.MESSAGEBODY"
 msgid "My Duplicants will only eat, sleep, work, or bathe during the times I allot for such activities.\n\nTo make the best use of their time, I can open the <b>Schedule Tab</b> {Hotkey/ManageSchedule} to adjust the colony's schedule and plan how they should utilize their day."
-msgstr "Mijn Duplicanten eten, slapen, werken of baden alleen tijdens de tijden die ik toewijs voor dergelijke activiteiten.\n\nOm hun tijd zo goed mogelijk te benutten, kan ik de <b>Schedule Tab</b> {Hotkey openen /ManageSchedule} om het schema van de kolonie aan te passen en te plannen hoe ze hun dag moeten besteden."
+msgstr "Mijn Duplicanten eten, slapen, werken of baden alleen tijdens de tijden die ik toewijs voor dergelijke activiteiten.\n\nOm hun tijd zo goed mogelijk te benutten, kan ik de <b>Planning Tab</b> {Hotkey/ManageSchedule} openen om het schema van de kolonie aan te passen en te plannen hoe ze hun dag moeten besteden."
 
 #. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.NAME"
@@ -43895,7 +43895,7 @@ msgstr "Opmerkingen over het plannen van de tijd van mijn Duplicanten"
 #. STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.LINE
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.LINE"
 msgid "\n• <b>{0}</b>"
-msgstr "\n   • <b>{0}</b>"
+msgstr "\n• <b>{0}</b>"
 
 #. STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SKILL_POINT_EARNED.MESSAGEBODY"
@@ -43915,7 +43915,7 @@ msgstr "{Duplicant} heeft hard gewerkt en is klaar om een nieuwe vaardigheid te 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY"
 msgid "Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket Platform</link> and adding modules from the menu. All components of the Rocket Checklist will need to be complete before being capable of launching.\n\nA <link=\"CLUSTERTELESCOPE\">Telescope</link> needs to be built on the surface of a Planetoid in order to use the <style=\"KKeyword\">Starmap Screen</style> {Hotkey/ManageStarmap} to see and set course for new destinations."
-msgstr "Het bouwen van een raket vereist eerst het bouwen van een <link=\"LAUNCHPAD\">Raket Platform</link> en het toevoegen van modules vanuit het menu. Alle onderdelen van de Raket Checklist moeten compleet zijn voordat ze kunnen worden gelanceerd.\n \nEen <link=\"CLUSTERTELESCOPE\">Telescoop</link> moet op het oppervlak van een planetoïde worden gebouwd om het <style=\"KKeyword\">Sterrenkaart-scherm</style> {Hotkey/ManageSterrenkaart } om nieuwe bestemmingen te bekijken en koers te zetten."
+msgstr "Het bouwen van een raket vereist eerst het bouwen van een <link=\"LAUNCHPAD\">Raket Platform</link> en het toevoegen van modules vanuit het menu. Alle onderdelen van de Raket Checklist moeten compleet zijn voordat kan worden gelanceerd.\n \nEen <link=\"CLUSTERTELESCOPE\">Telescoop</link> moet op het oppervlak van een planetoïde worden gebouwd om het <style=\"KKeyword\">Sterrenkaart Scherm</style> {Hotkey/ManageSterrenkaart } te kunnen gebruiken, nieuwe bestemmingen te bekijken en koers te zetten."
 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME"
@@ -43930,7 +43930,7 @@ msgstr "Opmerkingen over reizen in de ruimte"
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY"
 msgid "At 100% <link=\"STRESS\">Stress</link>, a Duplicant will have a nervous breakdown and be unable to work.\n\nBreakdowns can manifest in different colony-threatening ways, such as the destruction of buildings or the binge eating of food.\n\nI can select a Duplicant and mouse over <link=\"STRESS\">Stress</link> in their STATUS TAB to view their individual <link=\"STRESS\">Stress Factors</link>, and hopefully minimize them before they become a problem."
-msgstr "Bij 100% <link=\"STRESS\">Stress</link> zal een Duplicant een zenuwinzinking krijgen en niet in staat zijn om te werken.\n\nPanieken kunnen zich op verschillende manieren manifesteren die de kolonie bedreigen, zoals de vernietiging van gebouwen of eetbuien.\n\nIk kan een Duplicant selecteren en met de muis over <link=\"STRESS\">Stress</link> in hun STATUS-tabblad gaan om hun individuele <link=\"STRESS\">Stressfactoren</link> en hopelijk minimaliseren voordat ze een probleem worden."
+msgstr "Bij 100% <link=\"STRESS\">Stress</link> zal een Duplicant een zenuwinzinking krijgen en niet in staat zijn om te werken.\n\nPanieken kunnen zich op verschillende manieren manifesteren die de kolonie bedreigen, zoals de vernietiging van gebouwen of eetbuien.\n\nIk kan een Duplicant selecteren en met de muis over <link=\"STRESS\">Stress</link> in hun STATUS tab gaan om hun individuele <link=\"STRESS\">Stressfactoren</link> te bekijken en hopelijk minimaliseren voordat ze een probleem worden."
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME"
@@ -43955,7 +43955,7 @@ msgstr "Deze gebouwen zijn ingestort:"
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME"
 msgid "Structural damage"
-msgstr "Structuurschade"
+msgstr "Structurele schade"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP"
@@ -43965,32 +43965,32 @@ msgstr "De structurele integriteit van deze gebouwen is aangetast"
 #. STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.NAME"
 msgid "No Docks available"
-msgstr "Geen Doks beschikbaar"
+msgstr "Geen Dokken beschikbaar"
 
 #. STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUIT_DROPPED.TOOLTIP"
 msgid "An exosuit was dropped because there were no empty docks available"
-msgstr "Een exosuit is gedropt omdat er geen lege dokken beschikbaar waren"
+msgstr "Een exopak werd op de grond gelegd omdat er geen lege dokken beschikbaar waren"
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.MESSAGEBODY"
 msgid "<link=\"ATMOSUIT\">Atmo Suits</link> can be equipped to protect my Duplicants from environmental hazards like extreme <link=\"HEAT\">Heat</link>, airborne <link=\"DISEASE\">Germs</link>, or unbreathable <link=\"ELEMENTSGAS\">Gas</link>. In order to utilize these suits, I'll need to hook up an <link=\"SUITLOCKER\">Atmo Suit Dock</link> to an <link=\"SUITMARKER\">Atmo Suit Checkpoint</link> , then store one of the suits inside.\n\nDuplicants will equip a suit when they walk past the checkpoint in the chosen direction, and will unequip their suit when walking back the opposite way."
-msgstr "<link=\"ATMOSUIT\">Atmo-pakken</link> kunnen worden uitgerust om mijn Duplicanten te beschermen tegen omgevingsgevaren zoals extreme <link=\"HEAT\">Hitte</link>, <link=\" in de lucht ZIEKTE\">Microben</link>, of niet-ademend <link=\"ELEMENTSGAS\">Gas</link>. Om deze pakken te kunnen gebruiken, moet ik een <link=\"SUITLOCKER\">Atmopak Dok</link> aansluiten naar een <link=\"SUITMARKER\">Atmopak Controlepost</link> en bewaar een van de pakken erin.\n\nDuplicanten zullen een pak uitrusten wanneer ze langs het controlepost lopen in de gekozen richting, en zullen hun uitrusting uittrekken als ze de andere kant op lopen."
+msgstr "<link=\"ATMOSUIT\">Atmopakken</link> kunnen worden uitgerust om mijn Duplicanten te beschermen tegen omgevingsgevaren zoals extreme <link=\"HEAT\">Hitte</link>, <link=\"ZIEKTE\">Microben</link> in de lucht, of niet-adembaar <link=\"ELEMENTSGAS\">Gas</link>. Om deze pakken te kunnen gebruiken, moet ik een <link=\"SUITLOCKER\">Atmopak Dok</link> aansluiten op een <link=\"SUITMARKER\">Atmopak Controlepost</link> en één van de pakken erin bewaren.\n\nDuplicanten zullen een pak aandoen wanneer ze langs de controlepost in de gekozen richting lopen, en zullen hun pak uittrekken als ze de andere kant op lopen."
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.NAME"
 msgid "Tutorial: Atmo Suits"
-msgstr "Tutorial: Atmo-pakken"
+msgstr "Tutorial: Atmopakken"
 
 #. STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SUITS.TOOLTIP"
 msgid "Notes on using atmo suits"
-msgstr "Opmerkingen over het gebruik van atmo-pakken"
+msgstr "Opmerkingen over het gebruik van atmopakken"
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
 msgid "Duplicants always perform errands in order of highest to lowest priority. They will harvest <link=\"FOOD\">Food</link> before they build, for example, or always build new structures before they mine materials.\n\nI can open the <b>Priorities Screen</b> {Hotkey/ManagePriorities} to set which Errand Types Duplicants may or may not perform, or to specialize skilled Duplicants for particular Errand Types."
-msgstr "Duplicanten voeren boodschappen altijd uit in de volgorde van hoogste naar laagste prioriteit. Ze oogsten bijvoorbeeld <link=\"FOOD\">Voedsel</link> voordat ze bouwen, of bouwen altijd nieuwe structuren voordat ze materialen ontginnen.\n \nIk kan het <b>Prioriteitenscherm</b> {Hotkey/ManagePriorities} openen om in te stellen welke boodschappentypen Duplicanten wel of niet mogen uitvoeren, of om bekwame Duplicanten te specialiseren voor bepaalde Boodschappentypen."
+msgstr "Duplicanten voeren opdrachten altijd uit in de volgorde van hoogste naar laagste prioriteit. Ze oogsten bijvoorbeeld <link=\"FOOD\">Voedsel</link> voordat ze bouwen, of bouwen altijd nieuwe structuren voordat ze materialen ontginnen.\n\nIk kan het <b>Prioriteitenscherm</b> {Hotkey/ManagePriorities} openen om in te stellen welke types Opdrachten Duplicanten wel of niet mogen uitvoeren, of om bekwaamde Duplicanten te specialiseren voor bepaalde types Opdrachten."
 
 #. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
@@ -50005,7 +50005,7 @@ msgstr "Toilet"
 #. STRINGS.ROOMS.CRITERIA.WASH_STATION.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.WASH_STATION.DESCRIPTION"
 msgid "Requires one or more Wash Basins, Sinks, Hand Sanitizers, or Showers"
-msgstr "Vereist een of meer wastafels, gootstenen, handontsmettingsmiddelen of douches"
+msgstr "Vereist een of meer wasbakken, gootstenen, handontsmettingsmiddelen of douches"
 
 #. STRINGS.ROOMS.CRITERIA.WASH_STATION.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.WASH_STATION.NAME"
@@ -50710,7 +50710,7 @@ msgstr "Mars"
 #. STRINGS.SUBWORLDS.MARSH.UTILITY
 msgctxt "STRINGS.SUBWORLDS.MARSH.UTILITY"
 msgid "Marsh Biomes contain large amounts of <link=\"SLIMEMOLD\">Slime</link> which can be converted into <link=\"ALGAE\">Algae</link> and provide a valuable resource for growing <link=\"MUSHROOMPLANT\">Dusk Caps</link> as well as feeding to <link=\"PACUSPECIES\">Pacus</link> for producing some higher tier <link=\"FOOD\">food</link>.\n\nBecause of the high degree of probability that this biome will infect my Duplicants with <link=\"SLIMELUNG\">Slimelung</link>, it may be prudent to limit access to this area to essential activities only until my Duplicants are able to set up suitable protection."
-msgstr "Marsh Biomes bevatten grote hoeveelheden <link=\"SLIMEMOLD\">Slijm</link> die kunnen worden omgezet in <link=\"ALGAE\">Algen</link> en een waardevolle grondstof vormen voor het kweken <link =\"MUSHROOMPLANT\">Schemer Kaps</link> evenals voeding aan <link=\"PACUSPECIES\">Pacus</link> voor het produceren van hoger niveau <link=\"FOOD\">Voedsel</link>.\n\nVanwege de grote kans dat dit bioom mijn Duplicanten zal infecteren met <link=\"SLIMELUNG\">Slimelung</link>, kan het verstandig zijn om de toegang tot dit gebied te beperken tot alleen essentiële activiteiten totdat mijn Duplicanten zijn in staat om passende bescherming op te zetten."
+msgstr "Marsh Biomes bevatten grote hoeveelheden <link=\"SLIMEMOLD\">Slijm</link> die kunnen worden omgezet in <link=\"ALGAE\">Algen</link> en een waardevolle grondstof vormen voor het kweken <link =\"MUSHROOMPLANT\">Schemer Kaps</link> evenals voeding aan <link=\"PACUSPECIES\">Pacus</link> voor het produceren van hoger niveau <link=\"FOOD\">Voedsel</link>.\n\nVanwege de grote kans dat dit bioom mijn Duplicanten zal infecteren met <link=\"SLIMELUNG\">Slijmlong</link>, kan het verstandig zijn om de toegang tot dit gebied te beperken tot alleen essentiële activiteiten totdat mijn Duplicanten zijn in staat om passende bescherming op te zetten."
 
 #. STRINGS.SUBWORLDS.METALLIC.DESC
 msgctxt "STRINGS.SUBWORLDS.METALLIC.DESC"
@@ -62580,7 +62580,7 @@ msgstr "Microbebron"
 #. STRINGS.UI.OVERLAYS.DISEASE.INFECTION_SOURCE_TOOLTIP
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.INFECTION_SOURCE_TOOLTIP"
 msgid "<b>Germ Source</b>\nAreas where germs are produced\n* Placing Wash Basins or Hand Sanitizers near these areas may prevent disease spread"
-msgstr "<b>Microbebron</b>\nGebieden waar microben worden geproduceerd\n* Het plaatsen van wastafels of handontsmettingsmiddelen in de buurt van deze gebieden kan de verspreiding van ziekten voorkomen"
+msgstr "<b>Microbebron</b>\nGebieden waar microben worden geproduceerd\n* Het plaatsen van wasbakken of handontsmettingsmiddelen in de buurt van deze gebieden kan de verspreiding van ziekten voorkomen"
 
 #. STRINGS.UI.OVERLAYS.DISEASE.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DISEASE.NAME"
