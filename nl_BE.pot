@@ -10774,7 +10774,7 @@ msgstr "Verzamelt grondstoffen uit het universum."
 
 #. STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.EFFECT"
-msgid "Enables a rocket to drill into interstellar debris and collect <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link> and <link=\"ELEMENTSSOLID\">solid</link> resources from space.\n\nEngine must be built via <link=\"LAUNCHPAD\">Rocket Platform</link>. \n\nMust be built at the top of a rocket with <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link> or <link=\"ELEMENTSSOLID\">solid</link> Cargo Module attached to store the appropriate resources."
+msgid "Enables a rocket to drill into interstellar debris and collect <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSSOLID\">Solid</link> resources from space.\n\nEngine must be built via <link=\"LAUNCHPAD\">Rocket Platform</link>. \n\nMust be built at the top of a rocket with <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link> or <link=\"ELEMENTSSOLID\">solid</link> Cargo Module attached to store the appropriate resources."
 msgstr "Hiermee kan een raket in interstellair puin boren en <link=\"ELEMENTSGAS\">Gaseuze</link>, <link=\"ELEMENTSLIQUID\">Vloeibare</link> en <link=\"ELEMENTSSOLID\">Vaste</link> grondstoffen verzamelen in de ruimte.\n\nMotor moet worden gebouwd via <link=\"LAUNCHPAD\">Raketplatform</link>. \n\nMoet worden gebouwd op de top van een raket met <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">Vloeistof</link> of <link=\"ELEMENTSSOLID\">Vast</link> Cargo Module bevestigd om de juiste grondstoffen op te slaan. "
 
 #. STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.NAME
@@ -41829,7 +41829,7 @@ msgstr "Geklopte en gevouwen ei inhoud."
 
 #. STRINGS.ITEMS.FOOD.COOKEDFISH.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDFISH.DESC"
-msgid "A cooked piece of freshly caught aquatic critter.\nnUnsurprisinglyit tastes a bit fishy."
+msgid "A cooked piece of freshly caught aquatic critter.\nnUnsurprisingly, it tastes a bit fishy."
 msgstr "Een gekookt stuk vers gevangen waterdier.\n\nHet is niet verwonderlijk dat het een beetje visachtig smaakt."
 
 #. STRINGS.ITEMS.FOOD.COOKEDFISH.NAME
@@ -47390,7 +47390,7 @@ msgstr "Ze waren het braafste meisje."
 #. STRINGS.NAMEGEN.LAUNCHPAD.FORMAT
 msgctxt "STRINGS.NAMEGEN.LAUNCHPAD.FORMAT"
 msgid "Rocket Platform {Name}"
-msgstr "Raketplatform {Naam}"
+msgstr "Raketplatform {Name}"
 
 #. STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ADAPTABLE
 msgctxt "STRINGS.NAMEGEN.ROCKET.ADJECTIVE.ADAPTABLE"
@@ -59121,7 +59121,7 @@ msgstr "Er is onvoldoende schijfruimte om naar uw opslagmap te schrijven.\n\nMaa
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_READ_ONLY
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.SAVE_DIRECTORY_READ_ONLY"
 msgid "A problem occurred while accessing your save directory.\nThis may be because your directory is set to read-only.\n\nPlease ensure your save directory is readable as well as writable and re-launch the game.\n{0}"
-msgstr "Er is een probleem opgetreden bij het openen van je opslagmap.\nDit kan zijn omdat je map is ingesteld op alleen-lezen.\n\nZorg ervoor dat je opslagmap zowel leesbaar als beschrijfbaar is en start het spel opnieuw.\n{0 }"
+msgstr "Er is een probleem opgetreden bij het openen van je opslagmap.\nDit kan zijn omdat je map is ingesteld op alleen-lezen.\n\nZorg ervoor dat je opslagmap zowel leesbaar als beschrijfbaar is en start het spel opnieuw.\n{0}"
 
 #. STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FAILURE
 msgctxt "STRINGS.UI.FRONTEND.SUPPORTWARNINGS.WORLD_GEN_FAILURE"
@@ -60016,7 +60016,7 @@ msgstr "{Hotkey} Prioriteit Verlagen"
 #. STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_MINION_TOOLTIP"
 msgid "Deprioritize <style=\"KKeyword\">All Errands</style> for <b>{Name}</b>"
-msgstr "Deprioriteer <style=\"KKeyword\">Alle Opdrachten</style> voor <b>{Naam}</b>"
+msgstr "Deprioriteer <style=\"KKeyword\">Alle Opdrachten</style> voor <b>{Name}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.DECREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP"
@@ -66926,7 +66926,7 @@ msgstr "Niet geselecteerd"
 #. STRINGS.UI.SPACEDESTINATIONS.ORBIT.NAME_FMT
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.ORBIT.NAME_FMT"
 msgid "Orbiting {Name}"
-msgstr "In een baan om {Naam}"
+msgstr "In een baan om {Name}"
 
 #. STRINGS.UI.SPACEDESTINATIONS.PLANETS.CHLORINEPLANET.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.PLANETS.CHLORINEPLANET.DESCRIPTION"
@@ -68741,7 +68741,7 @@ msgstr "Terug"
 #. STRINGS.UI.TOOLS.GENERIC.BUILDING_HOVER_NAME_FMT
 msgctxt "STRINGS.UI.TOOLS.GENERIC.BUILDING_HOVER_NAME_FMT"
 msgid "{Name}    <style=\"hovercard_element\">({Element})</style>"
-msgstr "{Naam}    <style=\"hovercard_element\">({Element})</style>"
+msgstr "{Name}    <style=\"hovercard_element\">({Element})</style>"
 
 #. STRINGS.UI.TOOLS.GENERIC.LOGIC_INPUT_HOVER_FMT
 msgctxt "STRINGS.UI.TOOLS.GENERIC.LOGIC_INPUT_HOVER_FMT"
@@ -69676,7 +69676,7 @@ msgstr "Deze plant verdrinkt niet"
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_FERTILIZER
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_FERTILIZER"
 msgid "<b>{mass}</b> of <style=\"KKeyword\">Fertilizer</style> is currently available"
-msgstr "<b>{massa}</b> <style=\"KKeyword\">Meststof</style> is momenteel beschikbaar"
+msgstr "<b>{mass}</b> <style=\"KKeyword\">Meststof</style> is momenteel beschikbaar"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_ILLUMINATION_DARK
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_ILLUMINATION_DARK"
@@ -69696,7 +69696,7 @@ msgstr "<b>{mass}</b> <style=\"KKeyword\">Vloeistof</style> is momenteel beschik
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_PRESSURE
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_PRESSURE"
 msgid "The current <style=\"KKeyword\">Gas</style> pressure is <b>{pressure}</b>"
-msgstr "De huidige <style=\"KKeyword\">Gas</style> druk is <b>{druk}</b>"
+msgstr "De huidige <style=\"KKeyword\">Gas</style> druk is <b>{pressure}</b>"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RADIATION
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_RADIATION"
@@ -72836,7 +72836,7 @@ msgstr "Omgevingstemperatuur"
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_ABOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_ABOVE"
 msgid "Will send a <b><style=\"logic_on\">Green Signal</style></b> if the ambient <style=\"KKeyword\">Temperature</style> is above <b>{0}</b>"
-msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de <style=\"KKeyword\">Omgevingstemperatuur</style> hoger is dan <b>{ 0}</b>"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de <style=\"KKeyword\">Omgevingstemperatuur</style> hoger is dan <b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_BELOW
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.TEMPERATURE_TOOLTIP_BELOW"
