@@ -13,7 +13,8 @@ I try to keep this file up to date, check status below for work in progress.
 # Status
 - All translations were added using automation
 - Syntax was fixed
-- Final manual check up to: line 70584
+- Manual pass completed
+- Publish to steam workshop as first version
 
 # Changelog
 - 1.0.0 - 2023/05/22 - started translation based on Steam version of `strings_template.pot` 
