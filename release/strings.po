@@ -2489,7 +2489,7 @@ msgstr "Dit gebouw moet worden gebouwd in een <style=\"KKeyword\">Kamer</style> 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.NAME"
 msgid "Outside of {0}"
-msgstr "Outside of {0}"
+msgstr "Buiten {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINRECOMMENDEDROOM.TOOLTIP"
@@ -2539,7 +2539,7 @@ msgstr "Duplicanten kunnen slechts uit een buis komen als er iets binnen de <b>t
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.NAME"
 msgid "No Power Wire Connected"
-msgstr "Geen Stroom Kabel Verbonden"
+msgstr "Geen Stroomkabel Verbonden"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP"
@@ -5680,7 +5680,7 @@ msgstr "Ziekenboegen kunnen in ziekenhuiskamers worden geplaatst om de kans op v
 #. STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.EFFECT"
 msgid "Allows Duplicants to administer basic treatments to sick Duplicants.\n\nDuplicants must possess the Bedside Manner <link=\"ROLES\">Skill</link> to treat peers."
-msgstr "Sta Duplicanten toe om basisbehandelingen toe te dienen aan zieke Duplicanten.\n\nDuplicanten moeten de Bedmanieren <link=\"ROLES\">Vaardigheid</link> bezitten om collega's te behandelen."
+msgstr "Sta Duplicanten toe om basisbehandelingen toe te dienen aan zieke Duplicanten.\n\nDuplicanten moeten de Zachte Hand <link=\"ROLES\">Vaardigheid</link> bezitten om collega's te behandelen."
 
 #. STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.NAME"
@@ -5810,7 +5810,7 @@ msgstr "Broedmachines kunnen de ideale interne omstandigheden voor eieren van ve
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT"
 msgid "Incubates <link=\"CRITTERS\">Critter</link> eggs until ready to hatch.\n\nAssigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</link> ."
-msgstr "Broedt <link=\"CRITTERS\">Beest</link> eieren tot ze klaar zijn om uit te komen.\n\nToegewezen Duplicanten moeten de <link=\"RANCHING1\">Beest Teelt</link> vaardigheid bezitten."
+msgstr "Broedt <link=\"CRITTERS\">Beest</link> eieren tot ze klaar zijn om uit te komen.\n\nToegewezen Duplicanten moeten de <link=\"RANCHING1\">Beest Veehouder</link> vaardigheid bezitten."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME"
@@ -10490,7 +10490,7 @@ msgstr "Zet grote hoeveelheden <link=\"ALGAE\">Algen</link> om in <link=\"OXYGEN
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.NAME"
 msgid "<link=\"MINERALDEOXIDIZER\">Oxygen Diffuser</link>"
-msgstr "<link=\"MINERALDEOXIDIZER\">Zuurstofverspreider</link>"
+msgstr "<link=\"MINERALDEOXIDIZER\">Zuurstof Verspreider</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MISSILEFABRICATOR.DESC"
@@ -11905,7 +11905,7 @@ msgstr "Door beestjes te verzorgen zien ze er mooi uit, ruiken ze mooi, voelen z
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.EFFECT"
 msgid "Allows the assigned <link=\"RANCHER\">Rancher</link> to care for <link=\"CRITTERS\">Critters</link>.\n\nAssigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</link> skill.\n\nThis building is a necessary component of the Stable room."
-msgstr "Staat de toegewezen <link=\"RANCHER\">Boer</link> toe om voor <link=\"CRITTERS\">Beestjes</link> te zorgen.\n\nToegewezen Duplicanten moeten de <link=\"RANCHING1\">Beest Verzorging</link> vaardigheid hebben.\n\nDit gebouw is een noodzakelijk onderdeel van de Stal kamer."
+msgstr "Staat de toegewezen <link=\"RANCHER\">Boer</link> toe om voor <link=\"CRITTERS\">Beestjes</link> te zorgen.\n\nToegewezen Duplicanten moeten de <link=\"RANCHING1\">Beest Veehouder</link> vaardigheid hebben.\n\nDit gebouw is een noodzakelijk onderdeel van de Stal kamer."
 
 #. STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RANCHSTATION.NAME"
@@ -17265,7 +17265,7 @@ msgstr "Cyclus 4000"
 #. STRINGS.CODEX.MYLOG.BODY.LOG8.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG8.BODY"
 msgid "<smallcaps>>>SEARCH DATABASE [\"pod_brainmap.AI\"]\n>...activate sleep mode...\n>...shutting down...\n>.........................\n>.........................\n>.........................\n>.........................\n>.........................\nGOODNIGHT\n>.........................\n>.........................\n>.........................\n\n"
-msgstr "<smallcaps>>>SEARCH DATABASE [\"pod_brainmap.AI\"]\n>...activeer slaapstand...\n>...bezig met afsluiten...\n>...... ...................\n>................................\n> .........................\n>...................... ...\n>................................\nwelterusten\n>.............. ...........\n>.................................\n>........ .................\n\n"
+msgstr "<smallcaps>>>SEARCH DATABASE [\"pod_brainmap.AI\"]\n>...activeer slaapstand...\n>...bezig met afsluiten...\n>.........................\n>................................\n> .........................\n>.........................\n>................................\nwelterusten\n>.........................\n>.................................\n>.........................\n\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.LOG8.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.LOG8.TITLE"
@@ -17285,7 +17285,7 @@ msgstr "Extreem hittegevaar"
 #. STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.BODY"
 msgid "<smallcaps>>>SEARCH DATABASE [\"vacillator\"]\n>...error...\n>...repairing corrupt data...\n>...data repaired...\n>.........................\n>>returning results\n>.........................</smallcaps>\n<b>I remember...</b>\n<smallcaps>>.........................\n>.........................</smallcaps>\n<b>machines.</b>\n\n"
-msgstr "<smallcaps>>>SEARCH DATABASE [\"vacillator\"]\n>...fout...\n>...corrupte gegevens herstellen...\n>...gegevens gerepareerd...\n>................................\n>>resultaten retourneren\n>.............. ...........</smallcaps>\n<b>Ik herinner me...</b>\n<smallcaps>>.......... ..........\n>.................................</smallcaps>\n<b>machines.< /b>\n\n"
+msgstr "<smallcaps>>>SEARCH DATABASE [\"vacillator\"]\n>...fout...\n>...corrupte gegevens herstellen...\n>...gegevens gerepareerd...\n>................................\n>>resultaten retourneren\n>.........................</smallcaps>\n<b>Ik herinner me...</b>\n<smallcaps>>....................\n>.................................</smallcaps>\n<b>machines.< /b>\n\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.NEURALVACILLATOR.TITLE"
@@ -17335,7 +17335,7 @@ msgstr "Regionale analyse"
 #. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.BODY"
 msgid "Echoes from another time force their way into my mind. Make me listen. Like vengeful ghosts they claw their way out from under the gravity of that dead planet.\n\n<smallcaps>>>SEARCH DATABASE [\"pod_brainmap.AI\"]\n>...error...\n.........................\n>...repairing corrupt data...\n.........................\n\n</smallcaps><b>I-I remember now.</b><smallcaps>\n.........................</smallcaps>\n<b>Who I was before.</b><smallcaps>\n.........................\n.........................\n>...data repaired...\n>.........................</smallcaps>\n\nGod, what have we done.\n\n"
-msgstr "Echo's uit een andere tijd dringen mijn geest binnen. Laat me luisteren. Als wraakzuchtige geesten klauwen ze zich een weg onder de zwaartekracht van die dode planeet vandaan.\n\n<smallcaps>>>ZOEK DATABASE [\"pod_brainmap. AI\"]\n>...fout...\n............................\n>...corrupte gegevens herstellen ...\n.........................\n\n</smallcaps><b>Ik herinner het me nu.</b>< smallcaps>\n.................................</smallcaps>\n<b>Wie ik eerder was.</b><smallcaps> \n................................\n...................... ....\n>...gegevens gerepareerd...\n>..........................</smallcaps>\n\nGod, wat hebben we gedaan.\n\n"
+msgstr "Echo's uit een andere tijd dringen mijn geest binnen. Laat me luisteren. Als wraakzuchtige geesten klauwen ze zich een weg onder de zwaartekracht van die dode planeet vandaan.\n\n<smallcaps>>>ZOEK DATABASE [\"pod_brainmap. AI\"]\n>...fout...\n............................\n>...corrupte gegevens herstellen ...\n.........................\n\n</smallcaps><b>Ik herinner het me nu.</b>< smallcaps>\n.................................</smallcaps>\n<b>Wie ik eerder was.</b><smallcaps> \n................................\n..........................\n>...gegevens gerepareerd...\n>..........................</smallcaps>\n\nGod, wat hebben we gedaan.\n\n"
 
 #. STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.TITLE
 msgctxt "STRINGS.CODEX.MYLOG.BODY.PLANETARYECHOES.TITLE"
@@ -17610,7 +17610,7 @@ msgstr "Olivia: We hebben onze observatie-apparatuur dubbel gecontroleerd en de 
 #. STRINGS.CODEX.PLANETARYECHOES.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.PLANETARYECHOES.BODY.CONTAINER2"
 msgid "Olivia: What on earth is this?\n\n[An open palm slams papers down on a desk.]\n\nOlivia: These readings show that hundreds of kilograms of Neutronium are building up in the machine every shift. When were you going to tell me?\n\nJackie: I'm handling it.\n\nOlivia: We don't have the luxury of taking shortcuts. Not when safety is on the line.\n\nJackie: I think I'm capable of overseeing my own safety.\n\nOlivia: I-I'm not just concerned about <i>your</i> safety! We don't understand the longterm implications of what we're developing here... the manipulations we conduct in this facility could have rippling effects throughout the world, maybe even the universe.\n\nJackie: Don't be such a fearmonger. It's not befitting of a scientist. Besides, I'll remind you this research has the potential to stop the fuel wars in their tracks and end the suffering of thousands. Every day we spend on trials here delays that.\n\nOlivia: It's dangerous.\n\nJackie: Your concern is noted.\n------------------\n"
-msgstr "Olivia: Wat is dit in vredesnaam?\n\n[Een open handpalm slaat papieren op een bureau.]\n\nOlivia: Deze metingen laten zien dat honderden kilo's neutronium zich elke dienst in de machine ophopen. Wanneer wilde je het me vertellen?\n\nJackie: Ik handel het af.\n\nOlivia: We hebben niet de luxe om kortere wegen te nemen. Niet als de veiligheid op het spel staat.\n\nJackie: Ik denk dat ik ben in staat toezicht te houden op mijn eigen veiligheid.\n\nOlivia: Ik-ik maak me niet alleen zorgen om <i>jouw</i> veiligheid! We begrijpen de langetermijnimplicaties niet van wat we hier aan het ontwikkelen zijn.. . de manipulaties die we in deze faciliteit uitvoeren, kunnen gevolgen hebben voor de hele wereld, misschien zelfs voor het universum.\n\nJackie: Wees niet zo'n bangmaker. Het past niet bij een wetenschapper. Trouwens, ik zal je dit onderzoek herinneren heeft het potentieel om de brandstofoorlogen in hun sporen te stoppen en een einde te maken aan het lijden van duizenden. Elke dag die we hier aan proeven besteden, vertraagt dat.\n\nOlivia: Het is gevaarlijk.\n\nJackie: Je bezorgdheid is genoteerd.\n------------------\n"
+msgstr "Olivia: Wat is dit in vredesnaam?\n\n[Een open handpalm slaat papieren op een bureau.]\n\nOlivia: Deze metingen laten zien dat honderden kilo's neutronium zich elke dienst in de machine ophopen. Wanneer wilde je het me vertellen?\n\nJackie: Ik handel het af.\n\nOlivia: We hebben niet de luxe om kortere wegen te nemen. Niet als de veiligheid op het spel staat.\n\nJackie: Ik denk dat ik ben in staat toezicht te houden op mijn eigen veiligheid.\n\nOlivia: Ik-ik maak me niet alleen zorgen om <i>jouw</i> veiligheid! We begrijpen de langetermijnimplicaties niet van wat we hier aan het ontwikkelen zijn... de manipulaties die we in deze faciliteit uitvoeren, kunnen gevolgen hebben voor de hele wereld, misschien zelfs voor het universum.\n\nJackie: Wees niet zo'n bangmaker. Het past niet bij een wetenschapper. Trouwens, ik zal je dit onderzoek herinneren heeft het potentieel om de brandstofoorlogen in hun sporen te stoppen en een einde te maken aan het lijden van duizenden. Elke dag die we hier aan proeven besteden, vertraagt dat.\n\nOlivia: Het is gevaarlijk.\n\nJackie: Je bezorgdheid is genoteerd.\n------------------\n"
 
 #. STRINGS.CODEX.PLANETARYECHOES.BODY.TITLE1
 msgctxt "STRINGS.CODEX.PLANETARYECHOES.BODY.TITLE1"
@@ -18370,7 +18370,7 @@ msgstr "Verhaal: Beest Flux-O-Matic"
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION"
 msgid "Explore a revolutionary genetic manipulation device designed for critters.\n\nWhether or not it was ever used on non-critter subjects is unclear. Its DNA database has been wiped clean."
-msgstr "Ontdek een revolutionair apparaat voor genetische manipulatie dat is ontworpen voor beestjes.\n\nOf het ooit is gebruikt bij proefpersonen die geen beestjes zijn, is onduidelijk. De DNA-database is schoongeveegd."
+msgstr "Ontdek een revolutionair apparaat voor genetische manipulatie dat is ontworpen voor beestjes.\n\nOf het ooit is gebruikt bij proefpersonen die geen beestjes zijn, is onduidelijk. De geschiedenis uit de DNA-database werd nauwgezet verwijderd."
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION_SHORT
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.DESCRIPTION_SHORT"
@@ -18645,7 +18645,7 @@ msgstr "Verhaal: Oud exemplaar"
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION"
 msgid "This asteroid has a few skeletons in its geological closet.\n\nTrack down the fossilized fragments of an ancient critter to assemble key pieces of Gravitas history and unlock a new resource."
-msgstr "Deze asteroïde heeft een paar skeletten in zijn geologische kast.\n\nSpoor de versteende fragmenten van een oud beest op om sleutelstukken uit de geschiedenis van Gravitas te verzamelen en een nieuwe bron te ontgrendelen."
+msgstr "Deze asteroïde heeft een paar skeletten in de geologische spreekwoordelijke kast.\n\nSpoor de versteende fragmenten van een oud beest op om sleutelstukken uit de geschiedenis van Gravitas te verzamelen en een nieuwe bron te ontgrendelen."
 
 #. STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_BUILDINGMENU_COVERED
 msgctxt "STRINGS.CODEX.STORY_TRAITS.FOSSILHUNT.DESCRIPTION_BUILDINGMENU_COVERED"
@@ -19025,7 +19025,7 @@ msgstr "Puin Analyse"
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.DESCRIPTION"
 msgid "Discover a reclusive character living in a Gravitas relic, and persuade them to join this colony.\n\nRevelations from their past could have far-reaching implications for Duplicants everywhere.\n\nEven their makeshift shelter might be of some use..."
-msgstr "Ontdek een teruggetrokken personage dat leeft in een Gravitas-relikwie en haal ze over om zich bij deze kolonie aan te sluiten.\n\nOnthullingen uit hun verleden kunnen verstrekkende gevolgen hebben voor Duplicanten overal ter wereld.\n\nZelfs hun geïmproviseerde schuilplaats kan van enig nut zijn. .."
+msgstr "Ontdek een teruggetrokken personage dat leeft in een Gravitas-relikwie en haal het over om zich bij de kolonie aan te sluiten.\n\nOnthullingen uit hun verleden kunnen verstrekkende gevolgen hebben voor Duplicanten overal ter wereld.\n\nZelfs hun geïmproviseerde schuilplaats kan van enig nut zijn..."
 
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.DESCRIPTION_BUILDINGMENU
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.DESCRIPTION_BUILDINGMENU"
@@ -19035,7 +19035,7 @@ msgstr "Het proces van het rekruteren van de enige bewoner van dit gebouw omvat 
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.DESCRIPTION_SHORT
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.DESCRIPTION_SHORT"
 msgid "Discover a reclusive character living in a Gravitas relic, and persuade them to join this colony."
-msgstr "Ontdek een teruggetrokken personage dat leeft in een Gravitas-relikwie en haal ze over om zich bij deze kolonie aan te sluiten."
+msgstr "Ontdek een teruggetrokken personage dat leeft in een Gravitas-relikwie en haal het over om zich bij de kolonie aan te sluiten."
 
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.END_POPUP.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.END_POPUP.BUTTON"
@@ -19205,7 +19205,7 @@ msgstr "Verhaal: Somnium Synthesizer"
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION"
 msgid "Power up a colossal relic from Gravitas's underground sleep lab.\n\nWhen Duplicants sleep, their minds are blissfully blank and dream-free. But under the right conditions, things could be...different."
-msgstr "Voed een kolossaal relikwie uit het ondergrondse slaaplaboratorium van Gravitas aan.\n\nWanneer Duplicanten slapen, zijn hun geesten zalig leeg en droomvrij. Maar onder de juiste omstandigheden zouden de dingen...anders...kunnen zijn."
+msgstr "Voed een kolossaal relikwie uit het ondergrondse slaaplaboratorium van Gravitas aan.\n\nDuplicanten slapen heerlijke ontspannen en droomloze nachten. Maar onder de juiste omstandigheden zou het <i>anders</i> kunnen zijn."
 
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION_SHORT
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.DESCRIPTION_SHORT"
@@ -21095,7 +21095,7 @@ msgstr "Lullabied"
 #. STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP"
 msgid "This egg was recently sung to by a kind Duplicant\n\nIncreased <style=\"KKeyword\">Incubation Rate</style>\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> Skill to sing to eggs"
-msgstr "Dit ei werd onlangs toegezongen door een vriendelijke Duplicant\n\nVerhoogde <style=\"KKeyword\">Incubatiesnelheid</style>\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Ranching< hebben /style> Vaardigheid om voor eieren te zingen"
+msgstr "Dit ei werd onlangs toegezongen door een vriendelijke Duplicant\n\nVerhoogde <style=\"KKeyword\">Incubatiesnelheid</style>\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Veehouder< hebben /style> Vaardigheid om voor eieren te zingen"
 
 #. STRINGS.CREATURES.MODIFIERS.OUT_OF_CALORIES.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.OUT_OF_CALORIES.NAME"
@@ -21130,7 +21130,7 @@ msgstr "Verzorgd"
 #. STRINGS.CREATURES.MODIFIERS.RANCHED.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.RANCHED.TOOLTIP"
 msgid "This critter has recently been attended to by a kind Duplicant\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> Skill to care for critters"
-msgstr "Dit beestje is onlangs verzorgd door een vriendelijke Duplicant\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Ranching</style> vaardigheid bezitten om voor beestjes te zorgen"
+msgstr "Dit beestje is onlangs verzorgd door een vriendelijke Duplicant\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Veehouder</style> vaardigheid bezitten om voor beestjes te zorgen"
 
 #. STRINGS.CREATURES.MODIFIERS.SCALE_GROWTH_RATE.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.SCALE_GROWTH_RATE.NAME"
@@ -21330,7 +21330,7 @@ msgstr "Deze plant produceert eetbare <link=\"BASICPLANTFOOD\">Meelluis</link>."
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME"
 msgid "<link=\"BASICSINGLEHARVESTPLANT\">Mealwood</link>"
-msgstr "<link=\"BASICSINGLEHARVESTPLANT\">Meelhout</link>"
+msgstr "<link=\"BASICSINGLEHARVESTPLANT\">Maalhout</link>"
 
 #. STRINGS.CREATURES.SPECIES.BEAN_PLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BEAN_PLANT.DESC"
@@ -21650,7 +21650,7 @@ msgstr "<link=\"DRECKO\">Dreckootje</link>"
 #. STRINGS.CREATURES.SPECIES.DRECKO.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.DESC"
 msgid "Dreckos are nonhostile critters that graze on <link=\"SPICEVINE\">Pincha Pepperplants</link>, <link=\"SWAMPLILY\">Balm Lily</link> or <link=\"BASICSINGLEHARVESTPLANT\">Mealwood Plants</link>.\n\nTheir backsides are covered in thick woolly fibers that only grow in <link=\"HYDROGEN\">Hydrogen</link> climates."
-msgstr "Drecko's zijn niet-vijandige wezens die grazen op <link=\"SPICEVINE\">Pincha Peperplanten</link>, <link=\"SWAMPLILY\">Balsemlelie</link> of <link=\"BASICSINGLEHARVESTPLANT\">Meelhoutplanten</link>.\n\nHun achterkant is bedekt met dikke wollige vezels die alleen groeien in <link=\"WATERSTOF\">Waterstof</link> klimaten."
+msgstr "Drecko's zijn niet-vijandige wezens die grazen op <link=\"SPICEVINE\">Pincha Peperplanten</link>, <link=\"SWAMPLILY\">Balsemlelie</link> of <link=\"BASICSINGLEHARVESTPLANT\">Maalhoutplanten</link>.\n\nHun achterkant is bedekt met dikke wollige vezels die alleen groeien in <link=\"WATERSTOF\">Waterstof</link> klimaten."
 
 #. STRINGS.CREATURES.SPECIES.DRECKO.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.DRECKO.EGG_NAME"
@@ -22895,7 +22895,7 @@ msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"BASICSINGLEHARVESTPLANT
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
 msgid "<link=\"BASICSINGLEHARVESTPLANT\">Mealwood Seed</link>"
-msgstr "<link=\"BASICSINGLEHARVESTPLANT\">Meelhout Zaad</link>"
+msgstr "<link=\"BASICSINGLEHARVESTPLANT\">Maalhout Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BEAN_PLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BEAN_PLANT.DESC"
@@ -23655,7 +23655,7 @@ msgstr "Wildheid"
 #. STRINGS.CREATURES.STATS.WILDNESS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.WILDNESS.TOOLTIP"
 msgid "At 0% <style=\"KKeyword\">Wildness</style> a critter becomes <style=\"KKeyword\">Tame</style>, increasing its <style=\"KKeyword\">Metabolism</style> and requiring regular care from Duplicants\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> Skill to care for critters"
-msgstr "Bij 0% <style=\"KKeyword\">Wildness</style> wordt een critter <style=\"KKeyword\">Tam</style>, waardoor zijn <style=\"KKeyword\">Metabolisme</style> toeneemt en regelmatige zorg van Duplicanten vereisen\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Ranching</style> vaardigheid bezitten om voor beestjes te zorgen"
+msgstr "Bij 0% <style=\"KKeyword\">Wildness</style> wordt een critter <style=\"KKeyword\">Tam</style>, waardoor zijn <style=\"KKeyword\">Metabolisme</style> toeneemt en regelmatige zorg van Duplicanten vereisen\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Veehouder</style> vaardigheid bezitten om voor beestjes te zorgen"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME"
@@ -25105,12 +25105,12 @@ msgstr "Landbouw"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.TINKER_EFFECT_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.TINKER_EFFECT_MODIFIER"
 msgid "{0} Farmer's Touch Effect Duration"
-msgstr "{0} Farmer's Touch Effect Duur"
+msgstr "{0} Groene Duim Effect Duur"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.TINKER_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BOTANIST.TINKER_MODIFIER"
 msgid "{0} Tending Speed"
-msgstr "{0} Tendingsnelheid"
+msgstr "{0} Verzorgingssnelheid"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.BREATHDELTA.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BREATHDELTA.DESC"
@@ -25215,7 +25215,7 @@ msgstr "Decorbonus"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC"
 msgid "A Decor Morale Bonus allows Duplicants to receive <style=\"KKeyword\">Morale</style> boosts from lower <style=\"KKeyword\">Decor</style> values.\n\nMaintaining high <style=\"KKeyword\">Morale</style> will allow Duplicants to learn more <style=\"KKeyword\">Skills</style>."
-msgstr "Een decormoraalbonus stelt Duplicanten in staat <style=\"KKeyword\">Moreel</style>-boosts te ontvangen van lagere <style=\"KKeyword\">Decor</style>-waarden.\n\nHoge <style handhaven =\"KKeyword\">Moraal</style> stelt Duplicanten in staat meer <style=\"KKeyword\">Vaardigheden</style> te leren."
+msgstr "Een decormoraalbonus stelt Duplicanten in staat <style=\"KKeyword\">Moraal</style>boosts te ontvangen van lagere <style=\"KKeyword\">Decor</style>waarden.\n\nHoge <style=\"KKeyword\">Moraal</style> handhaven stelt Duplicanten in staat meer <style=\"KKeyword\">Vaardigheden</style> te leren."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
@@ -25920,7 +25920,7 @@ msgstr "Vecht tegen wilde <link=\"CREATURES\">Beestjes</link>."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME"
 msgid "Attacking"
-msgstr "Aanvallen"
+msgstr "Aanval"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.ARCHETYPE_NAME"
@@ -25930,27 +25930,27 @@ msgstr "Fornuis"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
 msgid "Operate <style=\"KKeyword\">Food</style> preparation buildings."
-msgstr "Bedien gebouwen voor <style=\"KKeyword\">Eten</style> bereiding."
+msgstr "Gebruik <style=\"KKeyword\">Eten</style>sbereiding gebouwen."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
 msgid "Cooking"
-msgstr "Koken"
+msgstr "Kook"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.ARCHETYPE_NAME"
 msgid "Digger"
-msgstr "Digger"
+msgstr "Graver"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
 msgid "Mine raw resources."
-msgstr "Mijn grondstoffen."
+msgstr "Ontgin ruwe grondstoffen."
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
 msgid "Digging"
-msgstr "Graven"
+msgstr "Graaf"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.FARMING.ARCHETYPE_NAME"
@@ -26045,7 +26045,7 @@ msgstr "Artsen"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.ARCHETYPE_NAME"
 msgid "Rancher"
-msgstr "Boeren"
+msgstr "Veehouder"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.DESC"
@@ -26055,7 +26055,7 @@ msgstr "Neigen naar gedomesticeerde <link=\"CREATURES\">Beestjes</link>."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RANCHING.NAME"
 msgid "Ranching"
-msgstr "Boeren"
+msgstr "Veehouden"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.RECREATION.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RECREATION.ARCHETYPE_NAME"
@@ -27990,7 +27990,7 @@ msgstr "Zingen voor ei"
 #. STRINGS.DUPLICANTS.CHORES.SINGTOEGG.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SINGTOEGG.TOOLTIP"
 msgid "A gentle lullaby from a supportive Duplicant encourages developing <style=\"KKeyword\">Eggs</style>\n\nIncreases <style=\"KKeyword\">Incubation Rate</style>\n\nDuplicants must possess the <link=\"RANCHING1\">Critter Ranching I</link> Skill to sing to an egg"
-msgstr "Een zacht slaapliedje van een ondersteunende Duplicant stimuleert het ontwikkelen van <style=\"KKeyword\">Eieren</style>\n\nVerhoogt <style=\"KKeyword\">Incubatiesnelheid</style>\n\nDuplicanten moeten beschikken over de <link=\"RANCHING1\">Beest Ranching I</link> Vaardigheid om voor een ei te zingen"
+msgstr "Een zacht slaapliedje van een ondersteunende Duplicant stimuleert het ontwikkelen van <style=\"KKeyword\">Eieren</style>\n\nVerhoogt <style=\"KKeyword\">Incubatiesnelheid</style>\n\nDuplicanten moeten beschikken over de <link=\"RANCHING1\">Beest Veehouder I</link> Vaardigheid om voor een ei te zingen"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.NAME"
@@ -31340,7 +31340,7 @@ msgstr "Deze Duplicant is in een slecht humeur omdat hij oud <style=\"KKeyword\"
 #. STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.NAME"
 msgid "Starry Eyed"
-msgstr "Starry Eyed"
+msgstr "Sterrenkijkers"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.TOOLTIP"
@@ -32020,7 +32020,7 @@ msgstr "Ellie"
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC"
 msgid "There's nothing {0}s are more proud of than their thick, dignified eyebrows."
-msgstr "Er is niets {0}waar ze trotser op zijn dan hun dikke, waardige wenkbrauwen."
+msgstr "Er is niets waar {0}s trotser op zijn dan hun dikke, waardige wenkbrauwen."
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME"
@@ -32460,7 +32460,7 @@ msgstr "Maakt het uitgraven van <style=\"KKeyword\">Zeer Stevige</style> materia
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_MINER.NAME"
 msgid "<link=\"MINING1\">Hard Digging</link>"
-msgstr "<link=\"MINING1\">Moeilijk graven</link>"
+msgstr "<link=\"MINING1\">Hard Graven</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.DESCRIPTION"
@@ -32470,7 +32470,7 @@ msgstr "Staat Duplicanten toe onderzoek uit te voeren met behulp van een <link=\
 #. STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.JUNIOR_RESEARCHER.NAME"
 msgid "<link=\"RESEARCHING1\">Advanced Research</link>"
-msgstr "<link=\"RESEARCHING1\">Geavanceerd onderzoek</link>"
+msgstr "<link=\"RESEARCHING1\">Geavanceerd Onderzoek</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.DESCRIPTION"
@@ -32480,7 +32480,7 @@ msgstr "Verbetert marginaal de knutselsnelheden van een Duplicant"
 #. STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.MACHINE_TECHNICIAN.NAME"
 msgid "<link=\"TECHNICALS1\">Improved Tinkering</link>"
-msgstr "<link=\"TECHNICALS1\">Verbeterd knutselen</link>"
+msgstr "<link=\"TECHNICALS1\">Verbeterd Knutselen</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.MASTER_ARTIST.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.MASTER_ARTIST.DESCRIPTION"
@@ -32610,7 +32610,7 @@ msgstr "Sta een Duplicant toe om <link=\"CREATURES\">Beestjes</link> te behandel
 #. STRINGS.DUPLICANTS.ROLES.RANCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.RANCHER.NAME"
 msgid "<link=\"RANCHING1\">Critter Ranching I</link>"
-msgstr "<link=\"RANCHING1\">Beest Ranching I</link>"
+msgstr "<link=\"RANCHING1\">Beest Veehouder I</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.RESEARCHER.DESCRIPTION"
@@ -32675,12 +32675,12 @@ msgstr "<link=\"MINING3\">Super-Duperhard graven</link>"
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.DESCRIPTION"
 msgid "Improves a Duplicant's <style=\"KKeyword\">Ranching</style> skills"
-msgstr "Verbetert de <style=\"KKeyword\">Ranching</style> vaardigheden van een Duplicant"
+msgstr "Verbetert de <style=\"KKeyword\">Veehouder</style> vaardigheden van een Duplicant"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RANCHER.NAME"
 msgid "<link=\"RANCHING2\">Critter Ranching II</link>"
-msgstr "<link=\"RANCHING2\">Beest Ranching II</link>"
+msgstr "<link=\"RANCHING2\">Beest Veehouder II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_RESEARCHER.DESCRIPTION"
@@ -32780,7 +32780,7 @@ msgstr "Dokter"
 #. STRINGS.DUPLICANTS.SKILLGROUPS.MINING.NAME
 msgctxt "STRINGS.DUPLICANTS.SKILLGROUPS.MINING.NAME"
 msgid "Digger"
-msgstr "Digger"
+msgstr "Graver"
 
 #. STRINGS.DUPLICANTS.SKILLGROUPS.RANCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.SKILLGROUPS.RANCHING.NAME"
@@ -35080,7 +35080,7 @@ msgstr "Banshee"
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.DESC"
 msgid "This Duplicant has good bedside manner and a healing touch"
-msgstr "Deze Duplicant heeft een goed bedmanier en een helende aanraking"
+msgstr "Deze Duplicant heeft een zachte hand en een aanleg voor genezing"
 
 #. STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BEDSIDEMANNER.NAME"
@@ -35165,12 +35165,12 @@ msgstr "Deze Duplicant is niet de helderste ster in het zonnestelsel"
 #. STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTRESEARCH.NAME"
 msgid "Yokel"
-msgstr "Yokel"
+msgstr "Domoor"
 
 #. STRINGS.DUPLICANTS.TRAITS.CARINGDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CARINGDOWN.DESC"
 msgid "This Duplicant's lack of bedside manner makes it difficult for them to nurse peers back to health"
-msgstr "Het gebrek aan bedmanieren van deze Duplicant maakt het moeilijk voor hen om leeftijdsgenoten weer gezond te maken"
+msgstr "Het gebrek aan een zachte hand van deze Duplicant maakt het moeilijk voor hen om leeftijdsgenoten weer gezond te maken"
 
 #. STRINGS.DUPLICANTS.TRAITS.CARINGDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CARINGDOWN.NAME"
@@ -35765,7 +35765,7 @@ msgstr "Traint Duplicanten om medicijnen toe te dienen op de <link=\"DOCTORSTATI
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.NAME"
 msgid "Skilled: <link=\"MEDICINE2\">Bedside Manner</link>"
-msgstr "Vakkundig: <link=\"MEDICINE2\">Manier aan het bed</link>"
+msgstr "Vakkundig: <link=\"MEDICINE2\">Zachte Hand</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_MEDICINE2.SHORT_DESC"
@@ -35905,7 +35905,7 @@ msgstr "Sta een Duplicant toe om <link=\"CREATURES\">Beestjes</link> te behandel
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.NAME"
 msgid "Skilled: <link=\"RANCHING1\">Critter Ranching I</link>"
-msgstr "Bekwaam: <link=\"RANCHING1\">Beest Ranching I</link>"
+msgstr "Bekwaam: <link=\"RANCHING1\">Beest Veehouder I</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING1.SHORT_DESC"
@@ -35920,12 +35920,12 @@ msgstr "Deze Duplicant krijgt een gratis <style=\"KKeyword\">Vaardigheid</style>
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.DESC"
 msgid "Improves a Duplicant's <style=\"KKeyword\">Ranching</style> skills"
-msgstr "Verbetert de <style=\"KKeyword\">Ranching</style> vaardigheden van een Duplicant"
+msgstr "Verbetert de <style=\"KKeyword\">Veehouder</style> vaardigheden van een Duplicant"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.NAME"
 msgid "Skilled: <link=\"RANCHING2\">Critter Ranching II</link>"
-msgstr "Bekwaam: <link=\"RANCHING2\">Beest Ranching II</link>"
+msgstr "Bekwaam: <link=\"RANCHING2\">Beest Veehouder II</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RANCHING2.SHORT_DESC"
@@ -36540,7 +36540,7 @@ msgstr "Deze Duplicant vindt het heerlijk om in de ruimte te zijn"
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME"
 msgid "Starry Eyed"
-msgstr "Starry Eyed"
+msgstr "Sterrenkijkers"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC"
@@ -36560,7 +36560,7 @@ msgstr "Deze Duplicant zal spontaan een kamer opnieuw inrichten wanneer ze <styl
 #. STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.NAME"
 msgid "Sticker Bomber"
-msgstr "Sticker bommenwerper"
+msgstr "Stickerkanon"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
@@ -40710,7 +40710,7 @@ msgstr "Aantal"
 #. STRINGS.INPUT.PERIOD
 msgctxt "STRINGS.INPUT.PERIOD"
 msgid "Period Key"
-msgstr "Puntsleutel"
+msgstr "Punt (.)"
 
 #. STRINGS.INPUT.RIGHT_ALT
 msgctxt "STRINGS.INPUT.RIGHT_ALT"
@@ -42085,7 +42085,7 @@ msgstr "<link=\"MUSHBAR\">Mush Bar</link>"
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
 msgid "An edible, putrefied mudslop.\n\n<link=\"MUSHBAR\">Mush Bar</link>s are preferable to starvation, but only just barely."
-msgstr "Een eetbare, verrotte modderpoel.\n\n<link=\"MUSHBAR\">Mush Bars</link>s zijn te verkiezen boven uithongering, maar nauwelijks."
+msgstr "Een eetbare, verrotte modderpoel.\n\n<link=\"MUSHBAR\">Mush Bar</link>s zijn te verkiezen boven uithongering, maar nauwelijks."
 
 #. STRINGS.ITEMS.FOOD.MUSHROOM.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.DESC"
@@ -42760,7 +42760,7 @@ msgstr "Medisch Pakket"
 #. STRINGS.ITEMS.PILLS.INTERMEDIATECURE.RECIPEDESC
 msgctxt "STRINGS.ITEMS.PILLS.INTERMEDIATECURE.RECIPEDESC"
 msgid "A doctor-administered cure for moderate <link=\"DISEASE\">Diseases</link>. Medical Packs are very effective against <link=\"SLIMESICKNESS\">Slimelung</link>.\n\nMust be administered by a Duplicant with the <link=\"MEDICINE2\">Bedside Manner</link> Skill."
-msgstr "Een door een arts toegediende remedie voor matige <link=\"DISEASE\">Ziekten</link>. Medische pakketten zijn zeer effectief tegen <link=\"SLIMESICKNESS\">Slijmlong</link>.\n\nMoet worden toegediend door een Duplicant met de <link=\"MEDICINE2\">Bedmanieren</link> Skill."
+msgstr "Een door een arts toegediende remedie voor matige <link=\"DISEASE\">Ziekten</link>. Medische pakketten zijn zeer effectief tegen <link=\"SLIMESICKNESS\">Slijmlong</link>.\n\nMoet worden toegediend door een Duplicant met de <link=\"MEDICINE2\">Zachte Hand</link> Vaardigheid."
 
 #. STRINGS.ITEMS.PILLS.INTERMEDIATERADPILL.DESC
 msgctxt "STRINGS.ITEMS.PILLS.INTERMEDIATERADPILL.DESC"
@@ -44450,7 +44450,7 @@ msgstr "Vangst Afwachten"
 #. STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP"
 msgid "Waiting for a Duplicant to capture this <style=\"KKeyword\">Critter</style>\n\nOnly Duplicants with the <link=\"RANCHING1\">Critter Ranching I</link> Skill can catch critters without traps"
-msgstr "Wachten op een Duplicant om dit <style=\"KKeyword\">Beestje</style> te vangen\n\nAlleen Duplicanten met de <link=\"RANCHING1\">Beest Teelt I</link>Vaardigheid kunnen beestjes vangen zonder vallen"
+msgstr "Wachten op een Duplicant om dit <style=\"KKeyword\">Beestje</style> te vangen\n\nAlleen Duplicanten met de <link=\"RANCHING1\">Beest Veehouder I</link>Vaardigheid kunnen beestjes vangen zonder vallen"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.NAME"
@@ -44850,7 +44850,7 @@ msgstr "Kleding"
 #. STRINGS.MISC.TAGS.COAL
 msgctxt "STRINGS.MISC.TAGS.COAL"
 msgid "Coal"
-msgstr "Kolen"
+msgstr "Kool"
 
 #. STRINGS.MISC.TAGS.COMBUSTIBLEGAS
 msgctxt "STRINGS.MISC.TAGS.COMBUSTIBLEGAS"
@@ -45325,72 +45325,72 @@ msgstr "Niet Meer Tonen"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ACIDIC"
 msgid "Acidic"
-msgstr "Zuur"
+msgstr "Zure"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ANTIGRAVITY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ANTIGRAVITY"
 msgid "Antigravity"
-msgstr "Anti-Zwaartekracht"
+msgstr "Zwevende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BEAUTIFUL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BEAUTIFUL"
 msgid "Beautiful"
-msgstr "Mooi"
+msgstr "Mooie"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BESIEGED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BESIEGED"
 msgid "Besieged"
-msgstr "Belegerd"
+msgstr "Belegerde"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BREATHLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BREATHLESS"
 msgid "Breathless"
-msgstr "Ademloos"
+msgstr "Ademloze"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BURGEONING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BURGEONING"
 msgid "Burgeoning"
-msgstr "Ontluikend"
+msgstr "Ontluikende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.BUSTLING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.BUSTLING"
 msgid "Bustling"
-msgstr "Bruisend"
+msgstr "Bruisende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CHAOTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CHAOTIC"
 msgid "Chaotic"
-msgstr "Chaotisch"
+msgstr "Chaotische"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLONE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CLONE"
 msgid "Clone"
-msgstr "Kloon"
+msgstr "Gekloonde"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CONTAGIOUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CONTAGIOUS"
 msgid "Contagious"
-msgstr "Besmettelijk"
+msgstr "Besmettelijke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COOL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COOL"
 msgid "Cool"
-msgstr "Cool"
+msgstr "Coole"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.COUGHING"
 msgid "Coughing"
-msgstr "Hoesten"
+msgstr "Hoestende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.CUTE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.CUTE"
 msgid "Cute"
-msgstr "Leuk"
+msgstr "Leuke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DANGEROUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DANGEROUS"
 msgid "Dangerous"
-msgstr "Gevaarlijk"
+msgstr "Gevaarlijke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DARKEST"
@@ -45405,27 +45405,27 @@ msgstr "Data"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEADLY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEADLY"
 msgid "Deadly"
-msgstr "Dodelijk"
+msgstr "Dodelijke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEATH
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DEATH"
 msgid "Death"
-msgstr "Dood"
+msgstr "Dode"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DELICATE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DELICATE"
 msgid "Delicate"
-msgstr "Delicaat"
+msgstr "Delicate"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DISEASED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DISEASED"
 msgid "Diseased"
-msgstr "Ziek"
+msgstr "Zieke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DOOMED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DOOMED"
 msgid "Doomed"
-msgstr "Verdoemd"
+msgstr "Verdoemde"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.DORKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.DORKY"
@@ -45440,17 +45440,17 @@ msgstr "Duplicant"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.FESTERING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.FESTERING"
 msgid "Festering"
-msgstr "Etterend"
+msgstr "Etterende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.FUTURE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.FUTURE"
 msgid "Future"
-msgstr "Toekomst"
+msgstr "Toekomstige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GALACTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GALACTIC"
 msgid "Galactic"
-msgstr "Galactisch"
+msgstr "Galactische"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOLDEN
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GOLDEN"
@@ -45460,97 +45460,97 @@ msgstr "Gouden"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GREAT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GREAT"
 msgid "Great"
-msgstr "Geweldig"
+msgstr "Geweldige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.GRIMY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.GRIMY"
 msgid "Grimy"
-msgstr "Groezelig"
+msgstr "Groezelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPLESS"
 msgid "Hapless"
-msgstr "Ongelukkig"
+msgstr "Ongelukkige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPPY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HAPPY"
 msgid "Happy"
-msgstr "Gelukkig"
+msgstr "Gelukkige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HARDY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HARDY"
 msgid "Hardy"
-msgstr "Taai"
+msgstr "Taaie"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HIP
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HIP"
 msgid "Hip"
-msgstr "Hip"
+msgstr "Hippe"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.HOPEFUL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.HOPEFUL"
 msgid "Hopeful"
-msgstr "Hoopvol"
+msgstr "Hoopvolle"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IDYLLIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IDYLLIC"
 msgid "Idyllic"
-msgstr "Idyllisch"
+msgstr "Idyllische"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ILL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ILL"
 msgid "Ill"
-msgstr "Ziek"
+msgstr "Zieke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMMUNE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMMUNE"
 msgid "Immune"
-msgstr "Immuun"
+msgstr "Immune"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMPENETRABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IMPENETRABLE"
 msgid "Impenetrable"
-msgstr "Ondoordringbaar"
+msgstr "Ondoordringbare"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INCREDIBLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INCREDIBLE"
 msgid "Incredible"
-msgstr "Ongelooflijk"
+msgstr "Ongelooflijke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INESCAPABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INESCAPABLE"
 msgid "Inescapable"
-msgstr "Onontkoombaar"
+msgstr "Onontkoombare"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INSPIRING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INSPIRING"
 msgid "Inspiring"
-msgstr "Inspirerend"
+msgstr "Inspirerende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INTERGALACTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INTERGALACTIC"
 msgid "Intergalactic"
-msgstr "Intergalactisch"
+msgstr "Intergalactische"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.INVISIBLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.INVISIBLE"
 msgid "Invisible"
-msgstr "Onzichtbaar"
+msgstr "Onzichtbare"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.IRONIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.IRONIC"
 msgid "Ironic"
-msgstr "Ironisch"
+msgstr "Ironische"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LAMENTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LAMENTABLE"
 msgid "Lamentable"
-msgstr "Lamentabel"
+msgstr "Lamentabele"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LEAKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LEAKY"
 msgid "Leaky"
-msgstr "Lekkend"
+msgstr "Lekkende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LOVELIEST
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LOVELIEST"
@@ -45560,127 +45560,127 @@ msgstr "Mooiste"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKLESS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKLESS"
 msgid "Luckless"
-msgstr "Gelukloos"
+msgstr "Gelukloze"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUCKY"
 msgid "Lucky"
-msgstr "Gelukkig"
+msgstr "Gelukkige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUNAR
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUNAR"
 msgid "Lunar"
-msgstr "Maan"
+msgstr "Manige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUXURY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.LUXURY"
 msgid "Luxury"
-msgstr "Luxe"
+msgstr "Luxueuze"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.MERRY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.MERRY"
 msgid "Merry"
-msgstr "Vrolijk"
+msgstr "Vrolijke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.MESSY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.MESSY"
 msgid "Messy"
-msgstr "Rommelig"
+msgstr "Rommelige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.NEEDY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.NEEDY"
 msgid "Needy"
-msgstr "Behoeftig"
+msgstr "Behoeftige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.OPTIMISTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.OPTIMISTIC"
 msgid "Optimistic"
-msgstr "Optimistisch"
+msgstr "Optimistische"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.OUTRAGEOUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.OUTRAGEOUS"
 msgid "Outrageous"
-msgstr "Schandalig"
+msgstr "Schandalige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PERFECT
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PERFECT"
 msgid "Perfect"
-msgstr "Perfect"
+msgstr "Perfecte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PHELGM_COATED"
 msgid "Phlegm-Coated"
-msgstr "Met Slijm Bedekt"
+msgstr "Met slijm bedekte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLAGUED"
 msgid "Plagued"
-msgstr "Geplaagd"
+msgstr "Geplaagde"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PLUCKY"
 msgid "Plucky"
-msgstr "Moedig"
+msgstr "Moedige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.PROSPEROUS
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.PROSPEROUS"
 msgid "Prosperous"
-msgstr "Voorspoedig"
+msgstr "Voorspoedige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.QUARANTINED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.QUARANTINED"
 msgid "Quarantined"
-msgstr "In Quarantaine"
+msgstr "Gequarantainde"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADICAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADICAL"
 msgid "Radical"
-msgstr "Radicaal"
+msgstr "Radicale"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADIOACTIVE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RADIOACTIVE"
 msgid "Radioactive"
-msgstr "Radioactief"
+msgstr "Radioactieve"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RAMSHACKLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RAMSHACKLE"
 msgid "Ramshackle"
-msgstr "Rammel"
+msgstr "Rammele"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.REGRETTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.REGRETTABLE"
 msgid "Regrettable"
-msgstr "Spijtig"
+msgstr "Spijtige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROCKY"
 msgid "Rocky"
-msgstr "Rotsachtig"
+msgstr "Rotsachtige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROSY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ROSY"
 msgid "Rosy"
-msgstr "Rozig"
+msgstr "Rozige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.RUSTIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.RUSTIC"
 msgid "Rustic"
-msgstr "Rustiek"
+msgstr "Rustieke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SCIENTIFIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SCIENTIFIC"
 msgid "Scientific"
-msgstr "Wetenschappelijk"
+msgstr "Wetenschappelijke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SERENE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SERENE"
 msgid "Serene"
-msgstr "Sereen"
+msgstr "Serene"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SNEEZING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SNEEZING"
 msgid "Sneezing"
-msgstr "Niezen"
+msgstr "Niezende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACE"
@@ -45690,12 +45690,12 @@ msgstr "Ruimte"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACEFARING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SPACEFARING"
 msgid "Spacefaring"
-msgstr "Ruimtevaardend"
+msgstr "Ruimtevaardende"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARCROSSED
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARCROSSED"
 msgid "Star-crossed"
-msgstr "Vervloekt"
+msgstr "Vervloekte"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARVING
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STARVING"
@@ -45705,17 +45705,17 @@ msgstr "Uitgehongerd"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.STICKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.STICKY"
 msgid "Sticky"
-msgstr "Kleverig"
+msgstr "Kleverige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUAVE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUAVE"
 msgid "Suave"
-msgstr "Glad"
+msgstr "Gladde"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUBTERRANEAN
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUBTERRANEAN"
 msgid "Subterranean"
-msgstr "Ondergronds"
+msgstr "Ondergrondse"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SUPER"
@@ -45730,27 +45730,27 @@ msgstr "Super Duper"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SWANKY"
 msgid "Swanky"
-msgstr "Opschepperig"
+msgstr "Opschepperige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.SYSTEMATIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.SYSTEMATIC"
 msgid "Systematic"
-msgstr "Systematisch"
+msgstr "Systematische"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TEMPORAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TEMPORAL"
 msgid "Temporal"
-msgstr "Tijdelijk"
+msgstr "Tijdelijke"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRAGIC
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRAGIC"
 msgid "Tragic"
-msgstr "Tragisch"
+msgstr "Tragische"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRANSDIMENSIONAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.TRANSDIMENSIONAL"
 msgid "Transdimensional"
-msgstr "Transdimensionaal"
+msgstr "Transdimensionale"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.ULTRA
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.ULTRA"
@@ -45760,32 +45760,32 @@ msgstr "Ultra"
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNCOMFORTABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNCOMFORTABLE"
 msgid "Uncomfortable"
-msgstr "Oncomfortabel"
+msgstr "Oncomfortabele"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNDERGROUND
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNDERGROUND"
 msgid "Underground"
-msgstr "Ondergronds"
+msgstr "Ondergrondse"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNFORTUNATE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNFORTUNATE"
 msgid "Unfortunate"
-msgstr "Ongelukkig"
+msgstr "Ongelukkige"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNSTOPPABLE
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.UNSTOPPABLE"
 msgid "Unstoppable"
-msgstr "Onstopbaar"
+msgstr "Onstopbare"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.VIRAL
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.VIRAL"
 msgid "Viral"
-msgstr "Viraal"
+msgstr "Virale"
 
 #. STRINGS.NAMEGEN.COLONY.ADJECTIVE.YUCKY
 msgctxt "STRINGS.NAMEGEN.COLONY.ADJECTIVE.YUCKY"
 msgid "Yucky"
-msgstr "Jakkes"
+msgstr "Vuile"
 
 #. STRINGS.NAMEGEN.COLONY.FORMATS.ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.ADJECTIVE_NOUN"
@@ -45800,7 +45800,7 @@ msgstr "{noun}"
 #. STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN
 msgctxt "STRINGS.NAMEGEN.COLONY.FORMATS.THE_ADJECTIVE_NOUN"
 msgid "The {adjective} {noun}"
-msgstr "Het {adjective} {noun}"
+msgstr "{adjective} {noun}"
 
 #. STRINGS.NAMEGEN.COLONY.NOUN.ABODE
 msgctxt "STRINGS.NAMEGEN.COLONY.NOUN.ABODE"
@@ -48685,7 +48685,7 @@ msgstr "Rudimentaire technologieën voor het installeren van <link=\"ELEMENTSLIQ
 #. STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME"
 msgid "<link=\"LIQUIDPIPING\">Plumbing</link>"
-msgstr "<link=\"LIQUIDPIPING\">Loodgieterij</link>"
+msgstr "<link=\"LIQUIDPIPING\">Sanitair</link>"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC"
@@ -48925,7 +48925,7 @@ msgstr "Tem en zorg voor wilde beestjes."
 #. STRINGS.RESEARCH.TECHS.RANCHING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.RANCHING.NAME"
 msgid "<link=\"RANCHING\">Ranching</link>"
-msgstr "<link=\"RANCHING\">Boerderij</link>"
+msgstr "<link=\"RANCHING\">Veehouden</link>"
 
 #. STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.REFINEDOBJECTS.DESC"
@@ -51121,7 +51121,7 @@ msgstr "Alles wat ik nodig heb om de kolonie te laten ademen. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
 msgid "<link=\"BUILDCATEGORYPLUMBING\">Plumbing</link>"
-msgstr "<link=\"BUILDCATEGORYPLUMBING\">Loodgieterij</link>"
+msgstr "<link=\"BUILDCATEGORYPLUMBING\">Sanitair</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
@@ -52366,7 +52366,7 @@ msgstr "De beginkenmerken van een Duplicant worden bepaald door hun Interesses\n
 #. STRINGS.UI.CHARACTERCONTAINER_ARCHETYPESELECT_TOOLTIP
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_ARCHETYPESELECT_TOOLTIP"
 msgid "Influence what type of Duplicant the reroll button will produce"
-msgstr "Beïnvloed welk type Duplicant de reroll knop zal produceren"
+msgstr "Beïnvloed welk type Duplicant de 'rol opnieuw' knop zal produceren"
 
 #. STRINGS.UI.CHARACTERCONTAINER_ATTRIBUTEMODIFIER_DECREASED
 msgctxt "STRINGS.UI.CHARACTERCONTAINER_ATTRIBUTEMODIFIER_DECREASED"
@@ -53461,7 +53461,7 @@ msgstr "<b>Inactiviteit</b>"
 #. STRINGS.UI.COLONY_DIAGNOSTICS.MUTE_TUTORIAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.MUTE_TUTORIAL"
 msgid "Diagnostic can be muted in the <b><color=#E5B000>See All</color></b> panel"
-msgstr "Diagnostiek kan worden gedempt in het <b><color=#E5B000>Alles Weergeven</color></b> paneel"
+msgstr "Diagnostiek kan worden gedempt in het <b><color=#E5B000>Alles weergeven</color></b> paneel"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA"
@@ -56021,12 +56021,12 @@ msgstr "Cyclus {0} rapport gereed"
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP"
 msgid "The daily report for Cycle {0} is ready to view"
-msgstr "Het dagelijkse rapport voor Cyclus {0} is klaar om te bekijken"
+msgstr "Het dagelijkse rapport voor Cyclus {0} is klaar om bekeken te worden"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.NAME"
 msgid "Domesticated Critters:"
-msgstr "Getemde beestjes:"
+msgstr "Getemde Beestjes:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NUMBER_OF_DOMESTICATED_CRITTERS.NEGATIVE_TOOLTIP"
@@ -56301,7 +56301,7 @@ msgstr "ASTEROÏDE STIJL"
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_DESC"
 msgid "Scenarios designed for the <b>Spaced Out! DLC</b>.\nSmaller starting asteroids with resources distributed across the starmap. More emphasis on space travel."
-msgstr "Scenario's ontworpen voor de <b>Spaced Out! DLC</b>.\nKleinere starter asteroïden met grondstoffen verdeeld over de sterrenkaart. Meer nadruk op ruimtevaart."
+msgstr "Scenario's ontworpen voor de <b>Spaced Out! DLC</b>.\nKleinere start-asteroïden met grondstoffen verdeeld over de sterrenkaart. Meer nadruk op ruimtevaart."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.SPACEDOUT_TITLE"
@@ -56311,7 +56311,7 @@ msgstr "Spaced Out!"
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_DESC"
 msgid "Scenarios similar to the <b>classic Oxygen Not Included</b> experience. Large starting asteroids with many resources.\nLess emphasis on space travel."
-msgstr "Scenario's vergelijkbaar met de <b>klassieke Oxygen Not Included</b> ervaring. Grote starter asteroïden met veel grondstoffen.\nMinder nadruk op ruimtevaart."
+msgstr "Scenario's vergelijkbaar met de <b>klassieke Oxygen Not Included</b> ervaring. Grote start-asteroïden met veel grondstoffen.\nMinder nadruk op ruimtevaart."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE"
@@ -56396,7 +56396,7 @@ msgstr "Nabije Asteroïden"
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.HEADER_ASTEROID_STARTING
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.HEADER_ASTEROID_STARTING"
 msgid "Starting Asteroid"
-msgstr "Asteroïde Starten"
+msgstr "Start-Asteroïde"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.NO_TRAITS
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.NO_TRAITS"
@@ -56596,7 +56596,7 @@ msgstr "Standaard"
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.DEFAULT.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.DEFAULT.TOOLTIP"
 msgid "Default suit durability"
-msgstr "Standaard duurzaamheid pak"
+msgstr "Standaard pak duurzaamheid"
 
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.ATTRIBUTE_MODIFIER_NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.DURABILITY.LEVELS.FLIMSY.ATTRIBUTE_MODIFIER_NAME"
@@ -58011,7 +58011,7 @@ msgstr "Moet ik afsluiten naar het hoofdmenu?\nAlle niet-opgeslagen voortgang ga
 #. STRINGS.UI.FRONTEND.MAINMENU.QUITTODESKTOP
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.QUITTODESKTOP"
 msgid "QUIT"
-msgstr "STOP"
+msgstr "SPEL SLUITEN"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESTARTCONFIRM
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESTARTCONFIRM"
@@ -58036,7 +58036,7 @@ msgstr "Moet ik me overgeven aan het verpletterende gewicht van de entropie van 
 #. STRINGS.UI.FRONTEND.MAINMENU.RETIREDCOLONIES
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RETIREDCOLONIES"
 msgid "COLONY SUMMARIES"
-msgstr "KOLONIE SAMENVATTINGEN"
+msgstr "KOLONIES"
 
 #. STRINGS.UI.FRONTEND.MAINMENU.SCENARIOS
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.SCENARIOS"
@@ -58451,7 +58451,7 @@ msgstr "SPELMODUS"
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_DESC
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_DESC"
 msgid "When disaster strikes (and it inevitably will), take a deep breath and stay calm. You have ample time to find a solution."
-msgstr "Als het noodlot toeslaat (en dat zal onvermijdelijk gebeuren), haal dan diep adem en blijf kalm. Je hebt ruimschoots de tijd om een oplossing te vinden."
+msgstr "Als het noodlot onvermijdelijk toeslaat, haal dan diep adem en blijf kalm. Je hebt ruim de tijd om het op te lossen."
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_TITLE
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.NOSWEAT_TITLE"
@@ -58461,7 +58461,7 @@ msgstr "MAKKIE"
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_DESC
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_DESC"
 msgid "Stay on your toes and one step ahead of this unforgiving world. One slip up could bring your colony crashing down."
-msgstr "Blijf alert en blijf deze meedogenloze wereld een stap voor. Eén misstap kan je kolonie doen instorten."
+msgstr "Blijf bij de pinken, en deze meedogenloze wereld een stap voor. Eén foutje kan je kolonie doen instorten."
 
 #. STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_TITLE
 msgctxt "STRINGS.UI.FRONTEND.MODESELECTSCREEN.SURVIVAL_TITLE"
@@ -59886,7 +59886,7 @@ msgstr "Er bestaat al een kolonie met de naam \"{0}\""
 #. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.EMBARK"
 msgid "EMBARK"
-msgstr "AAN BOORD"
+msgstr "START"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
@@ -59926,7 +59926,7 @@ msgstr "ROL OPNIEUW"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Reroll for a different Duplicant"
-msgstr "Opnieuw rollen voor een andere Duplicant"
+msgstr "Een andere Duplicant rollen"
 
 #. STRINGS.UI.INCUBATE_CONTINUOUS_TOOLTIP
 msgctxt "STRINGS.UI.INCUBATE_CONTINUOUS_TOOLTIP"
@@ -60476,7 +60476,7 @@ msgstr "Bekijk alle blauwdrukken van mijn kolonie"
 #. STRINGS.UI.LOCKER_MENU.BUTTON_OUTFITS
 msgctxt "STRINGS.UI.LOCKER_MENU.BUTTON_OUTFITS"
 msgid "Wardrobe"
-msgstr "Garderobe"
+msgstr "Kledij"
 
 #. STRINGS.UI.LOCKER_MENU.BUTTON_OUTFITS_DESCRIPTION
 msgctxt "STRINGS.UI.LOCKER_MENU.BUTTON_OUTFITS_DESCRIPTION"
@@ -63901,7 +63901,7 @@ msgstr "NIEUW"
 #. STRINGS.UI.RESOURCESCREEN.SEE_ALL
 msgctxt "STRINGS.UI.RESOURCESCREEN.SEE_ALL"
 msgid "+ See All ({0})"
-msgstr "+ Alles Weergeven ({0})"
+msgstr "+ Alles weergeven ({0})"
 
 #. STRINGS.UI.RESOURCESCREEN.TREND_TOOLTIP
 msgctxt "STRINGS.UI.RESOURCESCREEN.TREND_TOOLTIP"
@@ -64096,7 +64096,7 @@ msgstr "KOLONIES"
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.TITLES.RETIRED_COLONIES
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.TITLES.RETIRED_COLONIES"
 msgid "Colony Summaries"
-msgstr "Kolonie Samenvattingen"
+msgstr "Kolonies"
 
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.TITLES.TIMELAPSE
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.TITLES.TIMELAPSE"
@@ -69466,7 +69466,7 @@ msgstr "Ongeldig Voedseltype: {0}"
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY"
 msgid "Calories Available: {0}"
-msgstr "Beschikbare Calorieën: {0}"
+msgstr "Beschikbare calorieën: {0}"
 
 #. STRINGS.UI.TOOLTIPS.METERSCREEN_POPULATION
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_POPULATION"
@@ -72146,12 +72146,12 @@ msgstr "{3} {1} ({2} {0})"
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.CURRENTLYRESEARCHING
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.CURRENTLYRESEARCHING"
 msgid "Currently Researching"
-msgstr "Onderzoekt Momenteel"
+msgstr "Onderzoekt momenteel"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.NOSELECTEDRESEARCH
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.NOSELECTEDRESEARCH"
 msgid "No Research selected"
-msgstr "Geen Onderzoek Geselecteerd"
+msgstr "Geen Onderzoek geselecteerd"
 
 #. STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.RESEARCHSIDESCREEN.OPENRESEARCHBUTTON"
@@ -74591,7 +74591,7 @@ msgstr "Ik ben wakker geworden op de doellocatie, maar de kolonisatie-inspanning
 #. STRINGS.UI.WELCOMEMESSAGEBODY_SPACEDOUT
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY_SPACEDOUT"
 msgid "The asteroid we call home has collided with an anomalous planet, decimating our colony. Rebuilding it is of the utmost importance.\n\nI've detected a new cluster of material-rich planetoids in nearby space. If I can guide the Duplicants through the perils of space travel, we could build a colony even bigger and better than before."
-msgstr "De asteroïde die we thuis noemen is gebotst op een abnormale planeet, wat onze kolonie heeft vernield. Het herbouwen ervan is van het allergrootste belang.\n\nIk heb een nieuwe cluster van materiaalrijke planetoïden ontdekt in de nabije ruimte. Als ik de Duplicanten de gevaren van de ruimtevaart te kan laten trotseren, zouden we een kolonie kunnen bouwen die nog groter en beter is dan voorheen."
+msgstr "De asteroïde die we thuis noemen is gebotst op een abnormale planeet en onze kolonie heeft het niet overleefd. Het herbouwen ervan is van het allergrootste belang.\n\nIk heb een nieuwe cluster van materiaalrijke planetoïden ontdekt in de nabije ruimte. Als ik de Duplicanten de gevaren van de ruimtevaart te kan laten trotseren, zouden we een kolonie kunnen bouwen die groter en beter is dan de oude."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
@@ -74726,17 +74726,17 @@ msgstr "In de leegte staren..."
 #. STRINGS.UI.WORLDGEN.COMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETE"
 msgid "Success! Space adventure awaits."
-msgstr "Succes! Ruimteavontuur wacht."
+msgstr "Succes! Een Ruimteavontuur wacht!"
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
 msgid "Cooling glass..."
-msgstr "Koelend glas..."
+msgstr "Glas koelen..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT1
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT1"
 msgid "Cooling glass..."
-msgstr "Koelend glas..."
+msgstr "Glas koelen..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT10"
