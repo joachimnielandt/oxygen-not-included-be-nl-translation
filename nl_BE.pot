@@ -2084,7 +2084,7 @@ msgstr "• {0}"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
 msgid "No Liquid Intake\n{LiquidRequired}"
-msgstr "Geen Vloeistof Invoer\n{VloeistofRequired}"
+msgstr "Geen Vloeistof Invoer\n{LiquidRequired}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
@@ -2234,7 +2234,7 @@ msgstr "Deze gebouwen vereisen een analyse focus:"
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLEANALYSISSELECTED.TOOLTIP"
 msgid "Select an unknown destination from the <b>Starmap</b> {Hotkey/ManageStarmap} to begin analysis"
-msgstr "Selecteer een onbekende bestemming van de <b>Sterrenkaart</b> {Hotkey/ManageSterrenkaart} om de analyse te beginnen"
+msgstr "Selecteer een onbekende bestemming van de <b>Sterrenkaart</b> {Hotkey/ManageStarmap} om de analyse te beginnen"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME"
@@ -2374,7 +2374,7 @@ msgstr "Selecteer een <link=\"TECH\">Onderzoek</link>sproject in de <b>Onderzoek
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP"
 msgid "Select a <link=\"TECH\">Research</link> project in the <b>Research Tree</b> {Hotkey/ManageResearch} or a Destination in the <b>Starmap</b> {Hotkey/ManageStarmap}"
-msgstr "Selecteer een <link=\"TECH\">Onderzoek</link>sproject in de <b>Onderzoeksboom</b> {Hotkey/ManageResearch} of een Bestemming op de <b>Sterrenkaart</b> {Hotkey/ManageSterrenkaart}"
+msgstr "Selecteer een <link=\"TECH\">Onderzoek</link>sproject in de <b>Onderzoeksboom</b> {Hotkey/ManageResearch} of een Bestemming op de <b>Sterrenkaart</b> {Hotkey/ManageStarmap}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME"
@@ -2844,12 +2844,12 @@ msgstr "Dit gebouw pompt aan een gemiddeld volume van <style=\"produced\">{FlowR
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.NAME"
 msgid "Liquid Available: {Liquids}"
-msgstr "Vloeistof Beschikbaar: {Vloeistofs}"
+msgstr "Vloeistof Beschikbaar: {Liquids}"
 
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGSTATION.TOOLTIP"
 msgid "This pumping station has access to: {Liquids}"
-msgstr "Dit pompstation heeft toegang tot: {Vloeistofs}"
+msgstr "Dit pompstation heeft toegang tot: {Liquids}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RADIATOR_ENERGY_CURRENT_EMISSION_RATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RADIATOR_ENERGY_CURRENT_EMISSION_RATE.NAME"
@@ -2884,7 +2884,7 @@ msgstr "Er zijn belemmeringen in het lanceer pad van deze <link=\"RAILGUN\">Inte
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME"
 msgid "Cleaning Rails: {timeleft}"
-msgstr "Rails Propermaken: {timeLeft}"
+msgstr "Rails Propermaken: {timeleft}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.TOOLTIP"
@@ -7735,7 +7735,7 @@ msgstr "<link=\"HOTTUB\">Bubbelbad</link>"
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.TEMPERATURE_REQUIREMENT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.TEMPERATURE_REQUIREMENT"
 msgid "Minimum {element} Temperature: {temperature}"
-msgstr "Minimale {element} Temperatuur: {temperatuur}"
+msgstr "Minimale {element} Temperatuur: {temperature}"
 
 #. STRINGS.BUILDINGS.PREFABS.HOTTUB.TEMPERATURE_REQUIREMENT_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.HOTTUB.TEMPERATURE_REQUIREMENT_TOOLTIP"
@@ -23880,7 +23880,7 @@ msgstr "<b>{0}</b> Lux"
 #. STRINGS.CREATURES.STATUSITEMS.CROP_SLEEPING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_SLEEPING.TOOLTIP"
 msgid "Requires: {REQUIREMENTS}"
-msgstr "Vereist: {VEREISTEN}"
+msgstr "Vereist: {REQUIREMENTS}"
 
 #. STRINGS.CREATURES.STATUSITEMS.CROP_TOO_BRIGHT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CROP_TOO_BRIGHT.NAME"
@@ -24050,7 +24050,7 @@ msgstr "Kieskeurige eter: precies goed"
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.PREFERRED_TEMP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.PREFERRED_TEMP"
 msgid "Last eaten: {element} at {temperature}"
-msgstr "Laatst gegeten: {element} bij {temperatuur}"
+msgstr "Laatst gegeten: {element} bij {temperature}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.TOOLTIP"
@@ -24070,7 +24070,7 @@ msgstr "De <style=\"KKeyword\">Quill Growth</style> van dit beestje is gestopt o
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.NAME"
 msgid "Picky Eater: {reason}"
-msgstr "Kieskeurige eter: {reden}"
+msgstr "Kieskeurige eter: {reason}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOO_COLD
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOO_COLD"
@@ -24920,7 +24920,7 @@ msgstr "Dit eten is warm\n\n<style=\"KKeyword\">Temperaturen</style> boven <b>{R
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
 msgid "Growth Halted{Reasons}"
-msgstr "Groei gestopt{Redenen}"
+msgstr "Groei gestopt{Reasons}"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
@@ -24930,7 +24930,7 @@ msgstr "Groei zal hervatten als de omstandigheden verbeteren"
 #. STRINGS.CREATURES.STATUSITEMS.WILTING_NON_GROWING_PLANT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING_NON_GROWING_PLANT.NAME"
 msgid "Growth Halted{Reasons}"
-msgstr "Groei gestopt{Redenen}"
+msgstr "Groei gestopt{Reasons}"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTING_NON_GROWING_PLANT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING_NON_GROWING_PLANT.TOOLTIP"
@@ -24940,7 +24940,7 @@ msgstr "Groei zal hervatten als de omstandigheden verbeteren"
 #. STRINGS.CREATURES.STATUSITEMS.WILTINGDOMESTIC.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTINGDOMESTIC.NAME"
 msgid "Growth Halted{Reasons}"
-msgstr "Groei gestopt{Redenen}"
+msgstr "Groei gestopt{Reasons}"
 
 #. STRINGS.CREATURES.STATUSITEMS.WILTINGDOMESTIC.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTINGDOMESTIC.TOOLTIP"
@@ -24955,7 +24955,7 @@ msgstr "    • Sfeer"
 #. STRINGS.CREATURES.STATUSITEMS.WRONGATMOSPHERE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGATMOSPHERE.TOOLTIP"
 msgid "Growth will resume when submersed in one of the following <style=\"KKeyword\">Gases</style>: {elements}"
-msgstr "De groei zal hervatten wanneer het wordt ondergedompeld in een van de volgende <style=\"KKeyword\">Gassen</style>: {elementen}"
+msgstr "De groei zal hervatten wanneer het wordt ondergedompeld in een van de volgende <style=\"KKeyword\">Gassen</style>: {elements}"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM"
@@ -27685,7 +27685,7 @@ msgstr "#{0}"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.SUCCESS_ROW
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.SUCCESS_ROW"
 msgid "{Duplicant} -- {Rank}"
-msgstr "{Duplicant} -- {Rang}"
+msgstr "{Duplicant} -- {Rank}"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.TREATMENT_AVAILABLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.TREATMENT_AVAILABLE"
@@ -29180,12 +29180,12 @@ msgstr "Blootstelling aan de zon"
 #. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE"
 msgid "May cause {Diseases}"
-msgstr "Kan {Ziekten} veroorzaken"
+msgstr "Kan {Diseases} veroorzaken"
 
 #. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE"
 msgid "May cause {Diseases}"
-msgstr "Kan {Ziekten} veroorzaken"
+msgstr "Kan {Diseases} veroorzaken"
 
 #. STRINGS.DUPLICANTS.DISEASES.TYPE.AILMENT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.TYPE.AILMENT"
@@ -29615,7 +29615,7 @@ msgstr "Klein comfort"
 #. STRINGS.DUPLICANTS.MODIFIERS.BONUSTOILET1.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BONUSTOILET1.TOOLTIP"
 msgid "This Duplicant visited the {building} and appreciated the small comforts"
-msgstr "Deze Duplicant bezocht het {gebouw} en waardeerde het kleine comfort"
+msgstr "Deze Duplicant bezocht het {building} en waardeerde het kleine comfort"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BONUSTOILET2.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BONUSTOILET2.NAME"
@@ -32375,7 +32375,7 @@ msgstr "Deze Duplicant zal <b>{1}</b> <style=\"KKeyword\">Moraal</style> krijgen
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION_CHOREGROUP
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.APTITUDE_DESCRIPTION_CHOREGROUP"
 msgid "{2}\n\nThis Duplicant will gain <b>+{1}</b> <style=\"KKeyword\">Morale</style> when learning <style=\"KKeyword\">{0}</style> Skills"
-msgstr "{2}\n\nDeze Duplicant krijgt <b>+{1}</b> <style=\"KKeyword\">Moraal</style> bij het leren van <style=\"KKeyword\">{0 }</style> Vaardigheden"
+msgstr "{2}\n\nDeze Duplicant krijgt <b>+{1}</b> <style=\"KKeyword\">Moraal</style> bij het leren van <style=\"KKeyword\">{0}</style> Vaardigheden"
 
 #. STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS
 msgctxt "STRINGS.DUPLICANTS.ROLES.GROUPS.SUITS"
@@ -33125,7 +33125,7 @@ msgstr "Deze Duplicant transporteert materialen naar <b>{Target}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.NAME"
 msgid "Breaking {Target}"
-msgstr "{Doel} breken"
+msgstr "{Target} breken"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREAKWORKSTATUS.TOOLTIP"
@@ -33195,7 +33195,7 @@ msgstr "Deze Duplicant transporteert materialen naar <b>{Target}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.NAME"
 msgid "Sweeping {Target}"
-msgstr "Vegen {Doel}"
+msgstr "Vegen {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEARING.TOOLTIP"
@@ -33285,7 +33285,7 @@ msgstr "Deze Duplicant heeft hun toegewezen <link=\"FOOD\">Rantsoen</link> voor 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEAD.NAME"
 msgid "Dead: {Death}"
-msgstr "Dood: {Dood}"
+msgstr "Dood: {Death}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEAD.TOOLTIP"
@@ -33305,7 +33305,7 @@ msgstr "Deze Duplicant transporteert materialen naar <b>{Target}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME"
 msgid "Deconstructing {Target}"
-msgstr "Deconstrueren {Doel}"
+msgstr "Deconstrueren {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP"
@@ -33315,7 +33315,7 @@ msgstr "Deze Duplicant is de <b>{Target}</b> aan het deconstrueren"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEMOLISHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEMOLISHING.NAME"
 msgid "Demolishing {Target}"
-msgstr "{Doel} slopen"
+msgstr "{Target} slopen"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEMOLISHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEMOLISHING.TOOLTIP"
@@ -33415,7 +33415,7 @@ msgstr "Duplicanten adem <link=\"CARBONDIOXIDE\">Koolstofdioxide</link> uit"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME"
 msgid "Emptying {Target}"
-msgstr "{Doel} leegmaken"
+msgstr "{Target} leegmaken"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.TOOLTIP"
@@ -33670,7 +33670,7 @@ msgstr "Deze Duplicant transporteert materialen naar <b>{Target}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.NAME"
 msgid "Harvesting {Target}"
-msgstr "Oogsten {Doel}"
+msgstr "Oogsten {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HARVESTING.TOOLTIP"
@@ -42960,7 +42960,7 @@ msgstr "Vliegroute Geblokkeerd"
 #. STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BADROCKETPATH.TOOLTIP"
 msgid "A rocket's flight path has been interrupted by a new astronomical discovery.\nOpen the <style=\"KKeyword\">Starmap Screen</style> {Hotkey/ManageStarmap} to reassign rocket paths"
-msgstr "De vliegroute van een raket is onderbroken door een nieuwe astronomische ontdekking.\nOpen het <style=\"KKeyword\">Sterrenkaart Scherm</style> {Hotkey/ManageSterrenkaart} om raketpaden opnieuw toe te wijzen"
+msgstr "De vliegroute van een raket is onderbroken door een nieuwe astronomische ontdekking.\nOpen het <style=\"KKeyword\">Sterrenkaart Scherm</style> {Hotkey/ManageStarmap} om raketpaden opnieuw toe te wijzen"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.MESSAGEBODY"
@@ -43215,7 +43215,7 @@ msgstr "Deze Duplicanten stierven door een gebrek aan <link=\"OXYGEN\">Zuurstof<
 #. STRINGS.MISC.NOTIFICATIONS.DIGGING.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DIGGING.MESSAGEBODY"
 msgid "Everything a colony needs to get going is found in the ground. Instructing Duplicants to dig out areas means we can find food, mine resources to build infrastructure, and clear space for the colony to grow. I can access the Dig Tool with {Hotkey/Dig}, which allows me to select the area where I want my Duplicants to dig.\n\nDuplicants will need to gain the Superhard Digging skill to mine Abyssalite and the Superduperhard Digging skill to mine Diamond and Obsidian. Without the proper skills, these materials will be undiggable."
-msgstr "Alles wat een kolonie nodig heeft om op gang te komen, is in de grond te vinden. Duplicanten instrueren om gebieden uit te graven betekent dat we voedsel kunnen vinden, grondstoffen kunnen delven om infrastructuur te bouwen en ruimte vrijmaken voor de kolonie om te groeien. Ik heb toegang tot de Graaf Tool met { Hotkey/Dig}, waarmee ik het gebied kan selecteren waar ik mijn Duplicanten wil laten graven.\n\nDuplicanten moeten de Superhard Graven-vaardigheid verwerven om Abyssalite te delven en de Superduperhard Graven-vaardigheid om Diamant en Obsidiaan te delven. Zonder de juiste vaardigheden, zullen deze materialen ongraafbaar zijn."
+msgstr "Alles wat een kolonie nodig heeft om op gang te komen, is in de grond te vinden. Duplicanten instrueren om gebieden uit te graven betekent dat we voedsel kunnen vinden, grondstoffen kunnen delven om infrastructuur te bouwen en ruimte vrijmaken voor de kolonie om te groeien. Ik heb toegang tot de Graaf Tool met {Hotkey/Dig}, waarmee ik het gebied kan selecteren waar ik mijn Duplicanten wil laten graven.\n\nDuplicanten moeten de Superhard Graven-vaardigheid verwerven om Abyssalite te delven en de Superduperhard Graven-vaardigheid om Diamant en Obsidiaan te delven. Zonder de juiste vaardigheden, zullen deze materialen ongraafbaar zijn."
 
 #. STRINGS.MISC.NOTIFICATIONS.DIGGING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.DIGGING.NAME"
@@ -60051,7 +60051,7 @@ msgstr "{Hotkey} Prioriteit Verhogen"
 #. STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_MINION_TOOLTIP"
 msgid "Prioritize <style=\"KKeyword\">All Errands</style> for <b>{Name}</b>"
-msgstr "Geef prioriteit aan <style=\"KKeyword\">Alle Opdrachten</style> voor <b>{naam}</b>"
+msgstr "Geef prioriteit aan <style=\"KKeyword\">Alle Opdrachten</style> voor <b>{Name}</b>"
 
 #. STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.INCREASE_ROW_PRIORITY_NEW_MINION_TOOLTIP"
@@ -72796,12 +72796,12 @@ msgstr "Omgevingsdruk"
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_ABOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_ABOVE"
 msgid "Will send a <b><style=\"logic_on\">Green Signal</style></b> if the <style=\"KKeyword\">Pressure</style> is above <b>{0}</b>"
-msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de <style=\"KKeyword\">Druk</style> hoger is dan <b>{0 }</b>"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de <style=\"KKeyword\">Druk</style> hoger is dan <b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_BELOW
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.PRESSURE_TOOLTIP_BELOW"
 msgid "Will send a <b><style=\"logic_on\">Green Signal</style></b> if the <style=\"KKeyword\">Pressure</style> is below <b>{0}</b>"
-msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de <style=\"KKeyword\">Druk</style> lager is dan <b>{0 }</b>"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> als de <style=\"KKeyword\">Druk</style> lager is dan <b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.RADIATION
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.RADIATION"
