@@ -1,28 +1,19 @@
 # About
-Flemish translation of Oxygen Not Included. 
+Dutch/Flemish translation of Oxygen Not Included. Published on https://steamcommunity.com/sharedfiles/filedetails/?id=2986507109.
 
 # Contribute
 How to contribute:
-- Create a new branch and modify `nl_BE.pot`. 
+- Create a new branch and modify `strings.po`. 
 - Create a pull request to merge into the `main` branch.
 
 When using VIM, check the `.vim` file for some handy shortcuts.
 
-I try to keep this file up to date, check status below for work in progress.
+# Test locally
+Put the `release` files into the following folder: `C:\Users\<username>\Documents\Klei\OxygenNotIncluded\mods\local\nl-be-flemish`. This should result in a new `Translation` being available in ONI. Select it in the main menu under `Translations`.
 
-# Status
-- All translations were added using automation
-- Syntax was fixed
-- Manual pass completed
-- Publish to steam workshop as first version
-
-# Changelog
-- 1.0.0 - 2023/05/22 - started translation based on Steam version of `strings_template.pot` 
-
-# Todo
+# Todo / ideas
 Some things to clean up or check...
 - radbolts > radbolten
-- duplicants > duplicanten
 - snazzy suits
 - primo garb
 - 'cot' > veldbed?
