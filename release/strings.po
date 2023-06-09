@@ -32580,7 +32580,7 @@ msgstr "Hiermee kan een Duplicant <style=\"KKeyword\">Pijpen</style> legen zonde
 #. STRINGS.DUPLICANTS.ROLES.PLUMBER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.PLUMBER.NAME"
 msgid "<link=\"BASEKEEPING2\">Plumbing</link>"
-msgstr "<link=\"BASEKEEPING2\">Sanitair</link>"
+msgstr "<link=\"BASEKEEPING2\">Loodgieterij</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION"
@@ -43760,7 +43760,7 @@ msgstr "Bij het aansluiten van leidingen voor sanitair, is het handig om de over
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME"
 msgid "Video: Plumbing and Ventilation"
-msgstr "Video: Sanitair en Ventilatie"
+msgstr "Video: Loodgieterij en Ventilatie"
 
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.TOOLTIP"
@@ -48605,7 +48605,7 @@ msgstr "<link=\"ELEMENTSLIQUID\">Vloeibare</link> infrastructuur die bestand is 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDLIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDLIQUIDPIPING.NAME"
 msgid "<link=\"IMPROVEDLIQUIDPIPING\">Improved Plumbing</link>"
-msgstr "<link=\"IMPROVEDLIQUIDPIPING\">Verbeterd Sanitair</link>"
+msgstr "<link=\"IMPROVEDLIQUIDPIPING\">Verbeterd Loodgieten</link>"
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC"
@@ -48685,7 +48685,7 @@ msgstr "Rudimentaire technologieën voor het installeren van <link=\"ELEMENTSLIQ
 #. STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME"
 msgid "<link=\"LIQUIDPIPING\">Plumbing</link>"
-msgstr "<link=\"LIQUIDPIPING\">Sanitair</link>"
+msgstr "<link=\"LIQUIDPIPING\">Loodgieterij</link>"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC"
@@ -51121,7 +51121,7 @@ msgstr "Alles wat ik nodig heb om de kolonie te laten ademen. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
 msgid "<link=\"BUILDCATEGORYPLUMBING\">Plumbing</link>"
-msgstr "<link=\"BUILDCATEGORYPLUMBING\">Sanitair</link>"
+msgstr "<link=\"BUILDCATEGORYPLUMBING\">Loodgieterij</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
@@ -61491,12 +61491,12 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.BUILDMENUTITLE"
 msgid "Plumbing"
-msgstr "Sanitair"
+msgstr "Loodgieterij"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.NAME"
 msgid "Plumbing"
-msgstr "Sanitair"
+msgstr "Loodgieterij"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.TOOLTIP
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.TOOLTIP"
@@ -62921,7 +62921,7 @@ msgstr "LICHT OVERLAY"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON"
 msgid "Plumbing Overlay"
-msgstr "Sanitair Overlay"
+msgstr "Loodgieter Overlay"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED"
@@ -63401,7 +63401,7 @@ msgstr "Meestal Veilig"
 #. STRINGS.UI.OVERLAYS.ROOMS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.BUTTON"
 msgid "Room Overlay"
-msgstr "Ruimte Overlay"
+msgstr "Kamer Overlay"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.HOVERTITLE"
