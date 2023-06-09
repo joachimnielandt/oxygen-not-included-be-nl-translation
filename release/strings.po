@@ -6215,7 +6215,7 @@ msgstr "Een kokhals-inducerend behang."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.NAME"
 msgid "<link=\"EXTERIORWALL\">Mush Bar Print</link>"
-msgstr "<link=\"EXTERIORWALL\">Mush Bar Opdruk</link>"
+msgstr "<link=\"EXTERIORWALL\">Brijreep Opdruk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC"
@@ -6725,7 +6725,7 @@ msgstr "Trekt één type vliegend beestje aan.\n\nEenmalig gebruik."
 #. STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.NAME"
 msgid "<link=\"FLYINGCREATUREBAIT\">Airborne Critter Bait</link>"
-msgstr "<link=\"FLYINGCREATUREBAIT\">Vliegend Beest Lokaas</link>"
+msgstr "<link=\"FLYINGCREATUREBAIT\">Vliegend Lokaas</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC"
@@ -34050,12 +34050,12 @@ msgstr "Geen bijgebouwen gebouwd"
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP"
 msgid "<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> {Hotkey/Plan5}.\n\nThese Duplicants are in need of an <link=\"OUTHOUSE\">Outhouse</link>:"
-msgstr "<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanaf het <b>Loodgieters-tabblad</b> {Hotkey/Plan5}.\n\nDeze Duplicanten hebben een <link=\"BUITENGEBOUW\">Buitentoilet</link> nodig:"
+msgstr "<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanaf de <b>Loodgieter Tab</b> {Hotkey/Plan5}.\n\nDeze Duplicanten hebben een <link=\"BUITENGEBOUW\">Buitentoilet</link> nodig:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP"
 msgid "There are no <link=\"OUTHOUSE\">Outhouses</link> available for this Duplicant\n\n<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> {Hotkey/Plan5}"
-msgstr "Er zijn geen <link=\"OUTHOUSE\">Buitentoiletten</link> beschikbaar voor deze Duplicant\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanuit de <b>Sanitair Tabblad</b> {Hotkey/Plan5}"
+msgstr "Er zijn geen <link=\"OUTHOUSE\">Buitentoiletten</link> beschikbaar voor deze Duplicant\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanuit de <b>Loodgieter Tabblad</b> {Hotkey/Plan5}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME"
@@ -34660,7 +34660,7 @@ msgstr "De <b>Mop Tool</b> {Hotkey/Mop} kan worden gebruikt om Duplicant-gerelat
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP"
 msgid "This poor Duplicant couldn't find an <link=\"OUTHOUSE\">Outhouse</link> in time and is super embarrassed\n\n<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> {Hotkey/Plan5}"
-msgstr "Deze arme Duplicant kon geen <link=\"OUTHOUSE\">Buitentoilet</link> op tijd vinden en schaamt zich enorm\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen opgebouwd uit het <b>tabblad Sanitair</b> {Hotkey/Plan5}"
+msgstr "Deze arme Duplicant kon geen <link=\"OUTHOUSE\">Buitentoilet</link> op tijd vinden en schaamt zich enorm\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen opgebouwd uit de <b>Loodgieter Tab</b> {Hotkey/Plan5}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME"
@@ -39780,7 +39780,7 @@ msgstr "Ze drijven <i>en</i> schitteren!"
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.BALLOON_GREEN_LONG_SPARKLES.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.BALLOON_GREEN_LONG_SPARKLES.NAME"
 msgid "<link=\"EQUIPPABLEBALLOON\">Mush Bar Glitter</link>"
-msgstr "<link=\"EQUIPPABLEBALLOON\">Mush Bar Glitter</link>"
+msgstr "<link=\"EQUIPPABLEBALLOON\">Brijreep Glitter</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.BALLOON_PINK_LONG_SPARKLES.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.BALLOON_PINK_LONG_SPARKLES.DESC"
@@ -41375,7 +41375,7 @@ msgstr "Lichte overlay"
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6"
 msgid "Plumbing Overlay"
-msgstr "Sanitair Overlay"
+msgstr "Loodgieter Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7"
@@ -41415,77 +41415,77 @@ msgstr "Pan omhoog"
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN1
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN1"
 msgid "Base Build Menu"
-msgstr "Basisopbouwmenu"
+msgstr "Basis Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN10
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN10"
 msgid "Station Build Menu"
-msgstr "Menu Station bouwen"
+msgstr "Station Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN11
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN11"
 msgid "Utility Build Menu"
-msgstr "Utility Build-menu"
+msgstr "Voorziening Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN12
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN12"
 msgid "Automation Build Menu"
-msgstr "Menu Automatie bouwen"
+msgstr "Automatie Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN13
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN13"
 msgid "Shipping Build Menu"
-msgstr "Scheepsopbouwmenu"
+msgstr "Transport Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN14
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN14"
 msgid "Rocketry Build Menu"
-msgstr "Raket bouwmenu"
+msgstr "Raket Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN15
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN15"
 msgid "Radiation Build Menu"
-msgstr "Menu Stralingsopbouw"
+msgstr "Straling Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN2
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN2"
 msgid "Oxygen Build Menu"
-msgstr "Zuurstofopbouwmenu"
+msgstr "Zuurstof Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN3
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN3"
 msgid "Power Build Menu"
-msgstr "Stroom Build-menu"
+msgstr "Stroom Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN4
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN4"
 msgid "Food Build Menu"
-msgstr "Voedsel Build Menu"
+msgstr "Voedsel Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN5
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN5"
 msgid "Plumbing Build Menu"
-msgstr "Menu Sanitair Bouwen"
+msgstr "Loodgieter Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN6
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN6"
 msgid "Ventilation Build Menu"
-msgstr "Ventilatie bouwmenu"
+msgstr "Ventilatie Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN7
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN7"
 msgid "Refinement Build Menu"
-msgstr "Verfijning Build Menu"
+msgstr "Verfijning Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN8
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN8"
 msgid "Medicine Build Menu"
-msgstr "Medicijn Build-menu"
+msgstr "Geneeskunde Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN9
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN9"
 msgid "Furniture Build Menu"
-msgstr "Menu Meubelbouw"
+msgstr "Meubel Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE"
@@ -42075,17 +42075,17 @@ msgstr "<link=\"SLA\">Sla</link> heerlijk geslonken in de <link=\"GAMMARAYOVEN\"
 #. STRINGS.ITEMS.FOOD.MUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
 msgid "An edible, putrefied mudslop.\n\nMush Bars are preferable to starvation, but only just barely."
-msgstr "Een eetbare, verrotte modderpoel.\n\nMush Bars zijn te verkiezen boven uithongering, maar nauwelijks."
+msgstr "Een eetbare, verrotte modderpoel.\n\nBrijreeps zijn te verkiezen boven uithongering, maar nauwelijks."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
 msgid "<link=\"MUSHBAR\">Mush Bar</link>"
-msgstr "<link=\"MUSHBAR\">Mush Bar</link>"
+msgstr "<link=\"MUSHBAR\">Brijreep</link>"
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
 msgid "An edible, putrefied mudslop.\n\n<link=\"MUSHBAR\">Mush Bar</link>s are preferable to starvation, but only just barely."
-msgstr "Een eetbare, verrotte modderpoel.\n\n<link=\"MUSHBAR\">Mush Bar</link>s zijn te verkiezen boven uithongering, maar nauwelijks."
+msgstr "Een eetbare, verrotte modderpoel.\n\n<link=\"MUSHBAR\">Brijreep</link>s zijn te verkiezen boven uithongering, maar nauwelijks."
 
 #. STRINGS.ITEMS.FOOD.MUSHROOM.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.DESC"
@@ -51736,7 +51736,7 @@ msgstr "<style=\"consumed\">{0}</style> van de lading van deze batterij gaat ver
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_LURE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_LURE"
 msgid "This critter can be moved using an <link=\"AIRBORNECREATURELURE\">Airborne Critter Lure</link>"
-msgstr "Dit beest kan worden verplaatst met behulp van een <link=\"AIRBORNECREATURELURE\">Vliegend Beest Lokaas</link>"
+msgstr "Dit beest kan worden verplaatst met behulp van een <link=\"AIRBORNECREATURELURE\">Vliegend Lokaas</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_TRAP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_TRAP"
@@ -54521,7 +54521,7 @@ msgstr "Meer informatie"
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
 msgid "Properties"
-msgstr "Eigenschappen"
+msgstr "Eigenschap"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS"
@@ -55301,7 +55301,7 @@ msgstr "KENMERKEN"
 #. STRINGS.UI.DETAILTABS.STATS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.STATS.NAME"
 msgid "Skills"
-msgstr "Vaardigheden"
+msgstr "Vaardigheid"
 
 #. STRINGS.UI.DETAILTABS.STATS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.STATS.TOOLTIP"
@@ -65736,7 +65736,7 @@ msgstr "Bioluminescent Gesteente"
 #. STRINGS.UI.SPACEARTIFACTS.BLENDER.ARTIFACT
 msgctxt "STRINGS.UI.SPACEARTIFACTS.BLENDER.ARTIFACT"
 msgid "Trace amounts of edible foodstuffs present in this blender indicate that it was probably used to emulsify the ingredients of a mush bar.\n\nIt is also very likely that it was employed at least once in the production of a peanut butter and banana smoothie."
-msgstr "Sporen van eetbare voedingsmiddelen die in deze blender aanwezig zijn, geven aan dat het waarschijnlijk is gebruikt om de ingrediënten van een mush bar te mixen.\n\nHet is ook zeer waarschijnlijk dat het minstens één keer is gebruikt bij de productie van een smoothie met pindakaas en banaan."
+msgstr "Sporen van eetbare voedingsmiddelen die in deze blender aanwezig zijn, geven aan dat het waarschijnlijk is gebruikt om de ingrediënten van een brijreep te mixen.\n\nHet is ook zeer waarschijnlijk dat het minstens één keer is gebruikt bij de productie van een smoothie met pindakaas en banaan."
 
 #. STRINGS.UI.SPACEARTIFACTS.BLENDER.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEARTIFACTS.BLENDER.DESCRIPTION"
