@@ -40665,7 +40665,7 @@ msgstr "Enter"
 #. STRINGS.INPUT.ESCAPE
 msgctxt "STRINGS.INPUT.ESCAPE"
 msgid "Escape"
-msgstr "Ontsnappen"
+msgstr "Escape"
 
 #. STRINGS.INPUT.INSERT
 msgctxt "STRINGS.INPUT.INSERT"
@@ -40695,17 +40695,17 @@ msgstr "Muis"
 #. STRINGS.INPUT.MOUSE_SCROLL_DOWN
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_DOWN"
 msgid "Mouse Scroll Down"
-msgstr "Muis naar beneden scrollen"
+msgstr "Muis Scroll Onder"
 
 #. STRINGS.INPUT.MOUSE_SCROLL_UP
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_UP"
 msgid "Mouse Scroll Up"
-msgstr "Muis omhoog scrollen"
+msgstr "Muis Scroll Boven"
 
 #. STRINGS.INPUT.NUM
 msgctxt "STRINGS.INPUT.NUM"
 msgid "Num"
-msgstr "Aantal"
+msgstr "Num"
 
 #. STRINGS.INPUT.PERIOD
 msgctxt "STRINGS.INPUT.PERIOD"
@@ -40730,12 +40730,12 @@ msgstr "R-Shift"
 #. STRINGS.INPUT.SPACE
 msgctxt "STRINGS.INPUT.SPACE"
 msgid "Space"
-msgstr "Ruimte"
+msgstr "Spatie"
 
 #. STRINGS.INPUT.TAB
 msgctxt "STRINGS.INPUT.TAB"
 msgid "Tab"
-msgstr "Tabblad"
+msgstr "Tab"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1"
