@@ -1794,7 +1794,7 @@ msgstr "Radbolt Verval"
 #. STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP"
 msgid "This building is unable to maintain the integrity of the radbolts it is storing"
-msgstr "Dit gebouw kan de integriteit van de opgeslagen radbolts niet bewaren"
+msgstr "Dit gebouw kan de integriteit van de opgeslagen radbolten niet bewaren"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME"
@@ -5080,7 +5080,7 @@ msgstr "Stelt ervaren Duplicanten in staat extra schwung aan hun garderobe toe t
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.EFFECT"
 msgid "Upgrades <link=\"FUNKYVEST\">Snazzy Suits</link> into <link=\"CUSTOMCLOTHING\">Primo Garb</link>.\n\nDuplicants will not fabricate items unless recipes are queued."
-msgstr "Upgradet <link=\"FUNKYVEST\">Snazzy Suits</link> naar <link=\"CUSTOMCLOTHING\">Primo Gewaad</link>.\n\nDuplicanten zullen geen items fabriceren tenzij recepten in de wachtrij staan."
+msgstr "Upgradet een <link=\"FUNKYVEST\">Hip Pak</link> naar een <link=\"CUSTOMCLOTHING\">Primo Gewaad</link>.\n\nDuplicanten zullen geen items fabriceren tenzij recepten in de wachtrij staan."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.NAME"
@@ -11880,7 +11880,7 @@ msgstr "<link=\"RAILGUN\">Interplanetaire Lanceerder</link>"
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.SIDESCREEN_HEP_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.SIDESCREEN_HEP_REQUIRED"
 msgid "Launch cost: {current} / {required} radbolts"
-msgstr "Lanceerkost: {current} / {required} radbolts"
+msgstr "Lanceerkost: {current} / {required} radbolten"
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.DESC"
@@ -19945,7 +19945,7 @@ msgstr "Radicale reis"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP_DESCRIPTION"
 msgid "Have radbolts travel a cumulative {0}km."
-msgstr "Laat radbolts een cumulatieve {0}km afleggen."
+msgstr "Laat radbolten een cumulatieve {0}km afleggen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION"
@@ -39925,7 +39925,7 @@ msgstr "Kleding"
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME"
 msgid "<link=\"FUNKYVEST\">Snazzy Suit</link>"
-msgstr "<link=\"FUNKYVEST\">Stijlvol pak</link>"
+msgstr "<link=\"FUNKYVEST\">Hip Pak</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
@@ -48830,7 +48830,7 @@ msgstr "<link=\"ATOMIC\">Materiaalwetenschappelijk Onderzoek</link>"
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC"
 msgid "Build a quality cache of radbolts."
-msgstr "Bouw een kwaliteitsopslag van radbolts."
+msgstr "Bouw een kwaliteitsopslag van radbolten."
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME"
@@ -70666,7 +70666,7 @@ msgstr "<link=\"COOLVEST\">Coole Vest</link> ({0})"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST"
 msgid "<link=\"FUNKYVEST\">Snazzy Suit</link> ({0})"
-msgstr "<link=\"FUNKYVEST\">Funky Pak</link> ({0})"
+msgstr "<link=\"FUNKYVEST\">Hip Pak</link> ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.JETSUIT_TANK
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.JETSUIT_TANK"
