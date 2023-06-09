@@ -1794,7 +1794,7 @@ msgstr "Radbolt Verval"
 #. STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOSINGRADBOLTS.TOOLTIP"
 msgid "This building is unable to maintain the integrity of the radbolts it is storing"
-msgstr "Dit gebouw kan de integriteit van de opgeslagen radbolts niet bewaren"
+msgstr "Dit gebouw kan de integriteit van de opgeslagen radbolten niet bewaren"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.NAME"
@@ -5080,7 +5080,7 @@ msgstr "Stelt ervaren Duplicanten in staat extra schwung aan hun garderobe toe t
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.EFFECT"
 msgid "Upgrades <link=\"FUNKYVEST\">Snazzy Suits</link> into <link=\"CUSTOMCLOTHING\">Primo Garb</link>.\n\nDuplicants will not fabricate items unless recipes are queued."
-msgstr "Upgradet <link=\"FUNKYVEST\">Snazzy Suits</link> naar <link=\"CUSTOMCLOTHING\">Primo Gewaad</link>.\n\nDuplicanten zullen geen items fabriceren tenzij recepten in de wachtrij staan."
+msgstr "Upgradet een <link=\"FUNKYVEST\">Hip Pak</link> naar een <link=\"CUSTOMCLOTHING\">Primo Gewaad</link>.\n\nDuplicanten zullen geen items fabriceren tenzij recepten in de wachtrij staan."
 
 #. STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLOTHINGALTERATIONSTATION.NAME"
@@ -6215,7 +6215,7 @@ msgstr "Een kokhals-inducerend behang."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.NAME"
 msgid "<link=\"EXTERIORWALL\">Mush Bar Print</link>"
-msgstr "<link=\"EXTERIORWALL\">Mush Bar Opdruk</link>"
+msgstr "<link=\"EXTERIORWALL\">Brijreep Opdruk</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC"
@@ -6725,7 +6725,7 @@ msgstr "Trekt één type vliegend beestje aan.\n\nEenmalig gebruik."
 #. STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLYINGCREATUREBAIT.NAME"
 msgid "<link=\"FLYINGCREATUREBAIT\">Airborne Critter Bait</link>"
-msgstr "<link=\"FLYINGCREATUREBAIT\">Vliegend Beest Lokaas</link>"
+msgstr "<link=\"FLYINGCREATUREBAIT\">Vliegend Lokaas</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG.DESC"
@@ -11880,7 +11880,7 @@ msgstr "<link=\"RAILGUN\">Interplanetaire Lanceerder</link>"
 #. STRINGS.BUILDINGS.PREFABS.RAILGUN.SIDESCREEN_HEP_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUN.SIDESCREEN_HEP_REQUIRED"
 msgid "Launch cost: {current} / {required} radbolts"
-msgstr "Lanceerkost: {current} / {required} radbolts"
+msgstr "Lanceerkost: {current} / {required} radbolten"
 
 #. STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RAILGUNPAYLOADOPENER.DESC"
@@ -19945,7 +19945,7 @@ msgstr "Radicale reis"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.RADICAL_TRIP_DESCRIPTION"
 msgid "Have radbolts travel a cumulative {0}km."
-msgstr "Laat radbolts een cumulatieve {0}km afleggen."
+msgstr "Laat radbolten een cumulatieve {0}km afleggen."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.REACH_SPACE_ANY_DESTINATION"
@@ -26260,12 +26260,12 @@ msgstr "Deze Duplicant zal binnenkort sterven als ze geen hulp krijgen"
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME"
 msgid "Binge Eat"
-msgstr "Binge Eat"
+msgstr "Schrokken"
 
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS"
 msgid "Binge eating"
-msgstr "Binge-eten"
+msgstr "Schrokt"
 
 #. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.TOOLTIP"
@@ -26495,17 +26495,17 @@ msgstr "DebugGoTo"
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Deconstrueren"
+msgstr "Afbraak"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
 msgid "Going to deconstruct"
-msgstr "Gaan deconstrueren"
+msgstr "Gaat afbreken"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.TOOLTIP"
 msgid "This Duplicant is deconstructing a building"
-msgstr "Deze Duplicant is een gebouw aan het deconstrueren"
+msgstr "Deze Duplicant is een gebouw aan het afbreken"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
@@ -27545,7 +27545,7 @@ msgstr "Buitenwereld"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION"
 msgid "Being deconstructed"
-msgstr "Wordt gedeconstrueerd"
+msgstr "Wordt afgebroken"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE"
@@ -32580,7 +32580,7 @@ msgstr "Hiermee kan een Duplicant <style=\"KKeyword\">Pijpen</style> legen zonde
 #. STRINGS.DUPLICANTS.ROLES.PLUMBER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.PLUMBER.NAME"
 msgid "<link=\"BASEKEEPING2\">Plumbing</link>"
-msgstr "<link=\"BASEKEEPING2\">Sanitair</link>"
+msgstr "<link=\"BASEKEEPING2\">Loodgieterij</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.POWER_TECHNICIAN.DESCRIPTION"
@@ -32635,7 +32635,7 @@ msgstr "<link=\"ROCKETPILOTING1\">Raket Piloting</link>"
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION"
 msgid "Enables a Duplicant to deconstruct Gravitas buildings"
-msgstr "Hiermee kan een Duplicant Gravitas-gebouwen deconstrueren"
+msgstr "Hiermee kan een Duplicant Gravitas-gebouwen afbreken"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME"
@@ -33305,12 +33305,12 @@ msgstr "Deze Duplicant transporteert materialen naar <b>{Target}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME"
 msgid "Deconstructing {Target}"
-msgstr "Deconstrueren {Target}"
+msgstr "Breekt {Target} af"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP"
 msgid "This Duplicant is deconstructing the <b>{Target}</b>"
-msgstr "Deze Duplicant is de <b>{Target}</b> aan het deconstrueren"
+msgstr "Deze Duplicant is <b>{Target}</b> aan het afbreken"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEMOLISHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEMOLISHING.NAME"
@@ -34050,12 +34050,12 @@ msgstr "Geen bijgebouwen gebouwd"
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP"
 msgid "<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> {Hotkey/Plan5}.\n\nThese Duplicants are in need of an <link=\"OUTHOUSE\">Outhouse</link>:"
-msgstr "<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanaf het <b>Loodgieters-tabblad</b> {Hotkey/Plan5}.\n\nDeze Duplicanten hebben een <link=\"BUITENGEBOUW\">Buitentoilet</link> nodig:"
+msgstr "<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanaf de <b>Loodgieter Tab</b> {Hotkey/Plan5}.\n\nDeze Duplicanten hebben een <link=\"BUITENGEBOUW\">Buitentoilet</link> nodig:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.TOOLTIP"
 msgid "There are no <link=\"OUTHOUSE\">Outhouses</link> available for this Duplicant\n\n<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> {Hotkey/Plan5}"
-msgstr "Er zijn geen <link=\"OUTHOUSE\">Buitentoiletten</link> beschikbaar voor deze Duplicant\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanuit de <b>Sanitair Tabblad</b> {Hotkey/Plan5}"
+msgstr "Er zijn geen <link=\"OUTHOUSE\">Buitentoiletten</link> beschikbaar voor deze Duplicant\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen worden gebouwd vanuit de <b>Loodgieter Tabblad</b> {Hotkey/Plan5}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME"
@@ -34660,7 +34660,7 @@ msgstr "De <b>Mop Tool</b> {Hotkey/Mop} kan worden gebruikt om Duplicant-gerelat
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP"
 msgid "This poor Duplicant couldn't find an <link=\"OUTHOUSE\">Outhouse</link> in time and is super embarrassed\n\n<link=\"OUTHOUSE\">Outhouses</link> can be built from the <b>Plumbing Tab</b> {Hotkey/Plan5}"
-msgstr "Deze arme Duplicant kon geen <link=\"OUTHOUSE\">Buitentoilet</link> op tijd vinden en schaamt zich enorm\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen opgebouwd uit het <b>tabblad Sanitair</b> {Hotkey/Plan5}"
+msgstr "Deze arme Duplicant kon geen <link=\"OUTHOUSE\">Buitentoilet</link> op tijd vinden en schaamt zich enorm\n\n<link=\"OUTHOUSE\">Buitentoiletten</link> kunnen opgebouwd uit de <b>Loodgieter Tab</b> {Hotkey/Plan5}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.NAME"
@@ -35095,7 +35095,7 @@ msgstr "Deze Duplicant zal gevaarlijk veel eten als hij <style=\"KKeyword\">Gest
 #. STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BINGEEATER.NAME"
 msgid "Binge Eater"
-msgstr "Binge Eater"
+msgstr "Schrokker"
 
 #. STRINGS.DUPLICANTS.TRAITS.BOTANISTDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.BOTANISTDOWN.DESC"
@@ -35560,7 +35560,7 @@ msgstr "Deze Duplicant krijgt een gratis <style=\"KKeyword\">Vaardigheid</style>
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.DESC"
 msgid "Enables a Duplicant to deconstruct Gravitas buildings"
-msgstr "Hiermee kan een Duplicant Gravitas-gebouwen deconstrueren"
+msgstr "Hiermee kan een Duplicant Gravitas-gebouwen afbreken"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.NAME"
@@ -39780,7 +39780,7 @@ msgstr "Ze drijven <i>en</i> schitteren!"
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.BALLOON_GREEN_LONG_SPARKLES.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.BALLOON_GREEN_LONG_SPARKLES.NAME"
 msgid "<link=\"EQUIPPABLEBALLOON\">Mush Bar Glitter</link>"
-msgstr "<link=\"EQUIPPABLEBALLOON\">Mush Bar Glitter</link>"
+msgstr "<link=\"EQUIPPABLEBALLOON\">Brijreep Glitter</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.BALLOON_PINK_LONG_SPARKLES.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.BALLOON_PINK_LONG_SPARKLES.DESC"
@@ -39925,7 +39925,7 @@ msgstr "Kleding"
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME"
 msgid "<link=\"FUNKYVEST\">Snazzy Suit</link>"
-msgstr "<link=\"FUNKYVEST\">Stijlvol pak</link>"
+msgstr "<link=\"FUNKYVEST\">Hip Pak</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
@@ -40665,7 +40665,7 @@ msgstr "Enter"
 #. STRINGS.INPUT.ESCAPE
 msgctxt "STRINGS.INPUT.ESCAPE"
 msgid "Escape"
-msgstr "Ontsnappen"
+msgstr "Escape"
 
 #. STRINGS.INPUT.INSERT
 msgctxt "STRINGS.INPUT.INSERT"
@@ -40695,17 +40695,17 @@ msgstr "Muis"
 #. STRINGS.INPUT.MOUSE_SCROLL_DOWN
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_DOWN"
 msgid "Mouse Scroll Down"
-msgstr "Muis naar beneden scrollen"
+msgstr "Muis Scroll Onder"
 
 #. STRINGS.INPUT.MOUSE_SCROLL_UP
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_UP"
 msgid "Mouse Scroll Up"
-msgstr "Muis omhoog scrollen"
+msgstr "Muis Scroll Boven"
 
 #. STRINGS.INPUT.NUM
 msgctxt "STRINGS.INPUT.NUM"
 msgid "Num"
-msgstr "Aantal"
+msgstr "Num"
 
 #. STRINGS.INPUT.PERIOD
 msgctxt "STRINGS.INPUT.PERIOD"
@@ -40730,12 +40730,12 @@ msgstr "R-Shift"
 #. STRINGS.INPUT.SPACE
 msgctxt "STRINGS.INPUT.SPACE"
 msgid "Space"
-msgstr "Ruimte"
+msgstr "Spatie"
 
 #. STRINGS.INPUT.TAB
 msgctxt "STRINGS.INPUT.TAB"
 msgid "Tab"
-msgstr "Tabblad"
+msgstr "Tab"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.BUILDINGUTILITY1"
@@ -41255,7 +41255,7 @@ msgstr "Gebouw annuleren"
 #. STRINGS.INPUT_BINDINGS.ROOT.BUILDINGDECONSTRUCT
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.BUILDINGDECONSTRUCT"
 msgid "Building Deconstruct"
-msgstr "Gebouw Deconstrueren"
+msgstr "Gebouw Afbreken"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.CAMERAHOME
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.CAMERAHOME"
@@ -41300,7 +41300,7 @@ msgstr "Desinfecteren"
 #. STRINGS.INPUT_BINDINGS.ROOT.EMPTYPIPE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.EMPTYPIPE"
 msgid "Empty Pipe"
-msgstr "Lege pijp"
+msgstr "Leeg Leiding"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.HARVEST
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.HARVEST"
@@ -41375,7 +41375,7 @@ msgstr "Lichte overlay"
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY6"
 msgid "Plumbing Overlay"
-msgstr "Sanitair Overlay"
+msgstr "Loodgieter Overlay"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.OVERLAY7"
@@ -41415,77 +41415,77 @@ msgstr "Pan omhoog"
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN1
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN1"
 msgid "Base Build Menu"
-msgstr "Basisopbouwmenu"
+msgstr "Basis Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN10
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN10"
 msgid "Station Build Menu"
-msgstr "Menu Station bouwen"
+msgstr "Station Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN11
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN11"
 msgid "Utility Build Menu"
-msgstr "Utility Build-menu"
+msgstr "Voorziening Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN12
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN12"
 msgid "Automation Build Menu"
-msgstr "Menu Automatie bouwen"
+msgstr "Automatie Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN13
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN13"
 msgid "Shipping Build Menu"
-msgstr "Scheepsopbouwmenu"
+msgstr "Transport Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN14
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN14"
 msgid "Rocketry Build Menu"
-msgstr "Raket bouwmenu"
+msgstr "Raket Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN15
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN15"
 msgid "Radiation Build Menu"
-msgstr "Menu Stralingsopbouw"
+msgstr "Straling Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN2
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN2"
 msgid "Oxygen Build Menu"
-msgstr "Zuurstofopbouwmenu"
+msgstr "Zuurstof Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN3
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN3"
 msgid "Power Build Menu"
-msgstr "Stroom Build-menu"
+msgstr "Stroom Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN4
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN4"
 msgid "Food Build Menu"
-msgstr "Voedsel Build Menu"
+msgstr "Voedsel Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN5
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN5"
 msgid "Plumbing Build Menu"
-msgstr "Menu Sanitair Bouwen"
+msgstr "Loodgieter Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN6
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN6"
 msgid "Ventilation Build Menu"
-msgstr "Ventilatie bouwmenu"
+msgstr "Ventilatie Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN7
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN7"
 msgid "Refinement Build Menu"
-msgstr "Verfijning Build Menu"
+msgstr "Verfijning Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN8
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN8"
 msgid "Medicine Build Menu"
-msgstr "Medicijn Build-menu"
+msgstr "Geneeskunde Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PLAN9
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PLAN9"
 msgid "Furniture Build Menu"
-msgstr "Menu Meubelbouw"
+msgstr "Meubel Bouwmenu"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.PRIORITIZE"
@@ -42075,17 +42075,17 @@ msgstr "<link=\"SLA\">Sla</link> heerlijk geslonken in de <link=\"GAMMARAYOVEN\"
 #. STRINGS.ITEMS.FOOD.MUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
 msgid "An edible, putrefied mudslop.\n\nMush Bars are preferable to starvation, but only just barely."
-msgstr "Een eetbare, verrotte modderpoel.\n\nMush Bars zijn te verkiezen boven uithongering, maar nauwelijks."
+msgstr "Een eetbare, verrotte modderpoel.\n\nBrijreeps zijn te verkiezen boven uithongering, maar nauwelijks."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
 msgid "<link=\"MUSHBAR\">Mush Bar</link>"
-msgstr "<link=\"MUSHBAR\">Mush Bar</link>"
+msgstr "<link=\"MUSHBAR\">Brijreep</link>"
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.RECIPEDESC"
 msgid "An edible, putrefied mudslop.\n\n<link=\"MUSHBAR\">Mush Bar</link>s are preferable to starvation, but only just barely."
-msgstr "Een eetbare, verrotte modderpoel.\n\n<link=\"MUSHBAR\">Mush Bar</link>s zijn te verkiezen boven uithongering, maar nauwelijks."
+msgstr "Een eetbare, verrotte modderpoel.\n\n<link=\"MUSHBAR\">Brijreep</link>s zijn te verkiezen boven uithongering, maar nauwelijks."
 
 #. STRINGS.ITEMS.FOOD.MUSHROOM.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOM.DESC"
@@ -43760,7 +43760,7 @@ msgstr "Bij het aansluiten van leidingen voor sanitair, is het handig om de over
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.NAME"
 msgid "Video: Plumbing and Ventilation"
-msgstr "Video: Sanitair en Ventilatie"
+msgstr "Video: Loodgieterij en Ventilatie"
 
 #. STRINGS.MISC.NOTIFICATIONS.PLUMBING.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PLUMBING.TOOLTIP"
@@ -48605,7 +48605,7 @@ msgstr "<link=\"ELEMENTSLIQUID\">Vloeibare</link> infrastructuur die bestand is 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDLIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDLIQUIDPIPING.NAME"
 msgid "<link=\"IMPROVEDLIQUIDPIPING\">Improved Plumbing</link>"
-msgstr "<link=\"IMPROVEDLIQUIDPIPING\">Verbeterd Sanitair</link>"
+msgstr "<link=\"IMPROVEDLIQUIDPIPING\">Verbeterd Loodgieten</link>"
 
 #. STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.IMPROVEDOXYGEN.DESC"
@@ -48685,7 +48685,7 @@ msgstr "Rudimentaire technologieën voor het installeren van <link=\"ELEMENTSLIQ
 #. STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDPIPING.NAME"
 msgid "<link=\"LIQUIDPIPING\">Plumbing</link>"
-msgstr "<link=\"LIQUIDPIPING\">Sanitair</link>"
+msgstr "<link=\"LIQUIDPIPING\">Loodgieterij</link>"
 
 #. STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.LIQUIDTEMPERATURE.DESC"
@@ -48830,7 +48830,7 @@ msgstr "<link=\"ATOMIC\">Materiaalwetenschappelijk Onderzoek</link>"
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.DESC"
 msgid "Build a quality cache of radbolts."
-msgstr "Bouw een kwaliteitsopslag van radbolts."
+msgstr "Bouw een kwaliteitsopslag van radbolten."
 
 #. STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.NUCLEARSTORAGE.NAME"
@@ -51041,7 +51041,7 @@ msgstr "Transporteer erts en vaste materialen rond mijn basis. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
 msgid "<link=\"BUILDCATEGORYEQUIPMENT\">Stations</link>"
-msgstr "<link=\"BUILDCATEGORYEQUIPMENT\">Stations</link>"
+msgstr "<link=\"BUILDCATEGORYEQUIPMENT\">Station</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
@@ -51061,7 +51061,7 @@ msgstr "Houd de geest van mijn Duplicanten hoog en hun buik vol. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME"
 msgid "<link=\"BUILDCATEGORYFURNITURE\">Furniture</link>"
-msgstr "<link=\"BUILDCATEGORYFURNITURE\">Meubels</link>"
+msgstr "<link=\"BUILDCATEGORYFURNITURE\">Meubel</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
@@ -51081,7 +51081,7 @@ msgstr "Hier wordt het een <i>stralende</i> dag. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.NAME"
 msgid "<link=\"BUILDCATEGORYHVAC\">Ventilation</link>"
-msgstr "<link=\"BUILDCATEGORYHVAC\">Ventilatie</link>"
+msgstr "<link=\"BUILDCATEGORYHVAC\"><size=11>Ventilatie</size></link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP"
@@ -51091,7 +51091,7 @@ msgstr "Controleer de gasstroom in de basis. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
 msgid "<link=\"BUILDCATEGORYMEDICAL\">Medicine</link>"
-msgstr "<link=\"BUILDCATEGORYMEDICAL\">Geneeskunde</link>"
+msgstr "<link=\"BUILDCATEGORYMEDICAL\">Genees</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP"
@@ -51121,7 +51121,7 @@ msgstr "Alles wat ik nodig heb om de kolonie te laten ademen. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
 msgid "<link=\"BUILDCATEGORYPLUMBING\">Plumbing</link>"
-msgstr "<link=\"BUILDCATEGORYPLUMBING\">Sanitair</link>"
+msgstr "<link=\"BUILDCATEGORYPLUMBING\"><size=11>Loodgieterij</size></link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
@@ -51141,7 +51141,7 @@ msgstr "Moet je de kolonie van stroom voorzien? Hier zie je hoe dat werkt! {Hotk
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
 msgid "<link=\"BUILDCATEGORYREFINING\">Refinement</link>"
-msgstr "<link=\"BUILDCATEGORYREFINING\">Verfijning</link>"
+msgstr "<link=\"BUILDCATEGORYREFINING\">Verfijn</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
@@ -51151,7 +51151,7 @@ msgstr "Gebruik de grondstoffen die ik wil, filter degene die ik niet wil. {Hotk
 #. STRINGS.UI.BUILDCATEGORIES.ROCKETRY.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.ROCKETRY.NAME"
 msgid "<link=\"BUILDCATEGORYROCKETRY\">Rocketry</link>"
-msgstr "<link=\"BUILDCATEGORYROCKETRY\">Raketbouw</link>"
+msgstr "<link=\"BUILDCATEGORYROCKETRY\">Raket</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.ROCKETRY.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.ROCKETRY.TOOLTIP"
@@ -51736,7 +51736,7 @@ msgstr "<style=\"consumed\">{0}</style> van de lading van deze batterij gaat ver
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_LURE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_LURE"
 msgid "This critter can be moved using an <link=\"AIRBORNECREATURELURE\">Airborne Critter Lure</link>"
-msgstr "Dit beest kan worden verplaatst met behulp van een <link=\"AIRBORNECREATURELURE\">Vliegend Beest Lokaas</link>"
+msgstr "Dit beest kan worden verplaatst met behulp van een <link=\"AIRBORNECREATURELURE\">Vliegend Lokaas</link>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_TRAP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_TRAP"
@@ -54331,7 +54331,7 @@ msgstr "Selectie Wissen"
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DECONSTRUCT_BUTTON
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DECONSTRUCT_BUTTON"
 msgid "Deconstruct"
-msgstr "Deconstrueren"
+msgstr "Afbreken"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DEFAULT_SAVE_NAME
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DEFAULT_SAVE_NAME"
@@ -54521,7 +54521,7 @@ msgstr "Meer informatie"
 #. STRINGS.UI.DETAILTABS.DETAILS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
 msgid "Properties"
-msgstr "Eigenschappen"
+msgstr "Eigenschap"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NET_STRESS"
@@ -55301,7 +55301,7 @@ msgstr "KENMERKEN"
 #. STRINGS.UI.DETAILTABS.STATS.NAME
 msgctxt "STRINGS.UI.DETAILTABS.STATS.NAME"
 msgid "Skills"
-msgstr "Vaardigheden"
+msgstr "Vaardigheid"
 
 #. STRINGS.UI.DETAILTABS.STATS.TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.STATS.TOOLTIP"
@@ -61491,12 +61491,12 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.BUILDMENUTITLE"
 msgid "Plumbing"
-msgstr "Sanitair"
+msgstr "Loodgieterij"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.NAME"
 msgid "Plumbing"
-msgstr "Sanitair"
+msgstr "Loodgieterij"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.TOOLTIP
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.PLUMBINGSTRUCTURES.TOOLTIP"
@@ -61611,7 +61611,7 @@ msgstr "Alles wat nodig is om stress te verminderen en plezier te vergroten."
 #. STRINGS.UI.NEWBUILDCATEGORIES.REFINING.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.REFINING.BUILDMENUTITLE"
 msgid "Refinement"
-msgstr "Verfijning"
+msgstr "Verfijn"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.REFINING.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.REFINING.NAME"
@@ -61656,7 +61656,7 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.ROCKETRY.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ROCKETRY.BUILDMENUTITLE"
 msgid "Rocketry"
-msgstr "Raketbouw"
+msgstr "Raket"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.ROCKETRY.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ROCKETRY.NAME"
@@ -62921,7 +62921,7 @@ msgstr "LICHT OVERLAY"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.BUTTON"
 msgid "Plumbing Overlay"
-msgstr "Sanitair Overlay"
+msgstr "Loodgieter Overlay"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.CONNECTED"
@@ -63401,7 +63401,7 @@ msgstr "Meestal Veilig"
 #. STRINGS.UI.OVERLAYS.ROOMS.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.BUTTON"
 msgid "Room Overlay"
-msgstr "Ruimte Overlay"
+msgstr "Kamer Overlay"
 
 #. STRINGS.UI.OVERLAYS.ROOMS.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.ROOMS.HOVERTITLE"
@@ -65736,7 +65736,7 @@ msgstr "Bioluminescent Gesteente"
 #. STRINGS.UI.SPACEARTIFACTS.BLENDER.ARTIFACT
 msgctxt "STRINGS.UI.SPACEARTIFACTS.BLENDER.ARTIFACT"
 msgid "Trace amounts of edible foodstuffs present in this blender indicate that it was probably used to emulsify the ingredients of a mush bar.\n\nIt is also very likely that it was employed at least once in the production of a peanut butter and banana smoothie."
-msgstr "Sporen van eetbare voedingsmiddelen die in deze blender aanwezig zijn, geven aan dat het waarschijnlijk is gebruikt om de ingrediënten van een mush bar te mixen.\n\nHet is ook zeer waarschijnlijk dat het minstens één keer is gebruikt bij de productie van een smoothie met pindakaas en banaan."
+msgstr "Sporen van eetbare voedingsmiddelen die in deze blender aanwezig zijn, geven aan dat het waarschijnlijk is gebruikt om de ingrediënten van een brijreep te mixen.\n\nHet is ook zeer waarschijnlijk dat het minstens één keer is gebruikt bij de productie van een smoothie met pindakaas en banaan."
 
 #. STRINGS.UI.SPACEARTIFACTS.BLENDER.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEARTIFACTS.BLENDER.DESCRIPTION"
@@ -68376,7 +68376,7 @@ msgstr "(ClickType/Click) om <b>{0}</b> te selecteren"
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
 msgid "Attack"
-msgstr "Val aa "
+msgstr "Val aan"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLACTION"
@@ -68411,7 +68411,7 @@ msgstr "Bouwtool"
 #. STRINGS.UI.TOOLS.CANCEL.NAME
 msgctxt "STRINGS.UI.TOOLS.CANCEL.NAME"
 msgid "Cancel"
-msgstr "Annuleren"
+msgstr "Annuleer"
 
 #. STRINGS.UI.TOOLS.CANCEL.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLACTION"
@@ -68426,7 +68426,7 @@ msgstr "Tool annuleren"
 #. STRINGS.UI.TOOLS.CAPTURE.NAME
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.NAME"
 msgid "Wrangle"
-msgstr "Vastbinden"
+msgstr "Vang"
 
 #. STRINGS.UI.TOOLS.CAPTURE.NOT_CAPTURABLE
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.NOT_CAPTURABLE"
@@ -68471,7 +68471,7 @@ msgstr "Plak Instellingen Tool"
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Deconstrueren"
+msgstr "Afbraak"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
@@ -68481,7 +68481,7 @@ msgstr "SLEEP"
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
 msgid "Deconstruct tool"
-msgstr "Deconstrueer tool"
+msgstr "Afbraak tool"
 
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
@@ -68536,7 +68536,7 @@ msgstr "Gereedschap desinfecteren"
 #. STRINGS.UI.TOOLS.EMPTY_PIPE.NAME
 msgctxt "STRINGS.UI.TOOLS.EMPTY_PIPE.NAME"
 msgid "Empty Pipe"
-msgstr "Lege Leiding"
+msgstr "Leeg"
 
 #. STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLACTION"
@@ -68551,7 +68551,7 @@ msgstr "Leeg Leiding tool"
 #. STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLTIP
 msgctxt "STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLTIP"
 msgid "Extract pipe contents {Hotkey}"
-msgstr "Extraheer leiding inhoud {Hotkey}"
+msgstr "Maak leiding leeg {Hotkey}"
 
 #. STRINGS.UI.TOOLS.FILTER_HOVERCARD_HEADER
 msgctxt "STRINGS.UI.TOOLS.FILTER_HOVERCARD_HEADER"
@@ -70666,7 +70666,7 @@ msgstr "<link=\"COOLVEST\">Coole Vest</link> ({0})"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.FUNKY_VEST"
 msgid "<link=\"FUNKYVEST\">Snazzy Suit</link> ({0})"
-msgstr "<link=\"FUNKYVEST\">Funky Pak</link> ({0})"
+msgstr "<link=\"FUNKYVEST\">Hip Pak</link> ({0})"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.JETSUIT_TANK
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.JETSUIT_TANK"
