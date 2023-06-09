@@ -26495,17 +26495,17 @@ msgstr "DebugGoTo"
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Deconstrueren"
+msgstr "Afbraak"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
 msgid "Going to deconstruct"
-msgstr "Gaan deconstrueren"
+msgstr "Gaat afbreken"
 
 #. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.TOOLTIP"
 msgid "This Duplicant is deconstructing a building"
-msgstr "Deze Duplicant is een gebouw aan het deconstrueren"
+msgstr "Deze Duplicant is een gebouw aan het afbreken"
 
 #. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
@@ -27545,7 +27545,7 @@ msgstr "Buitenwereld"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DECONSTRUCTION"
 msgid "Being deconstructed"
-msgstr "Wordt gedeconstrueerd"
+msgstr "Wordt afgebroken"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.IS_MARKED_FOR_DISABLE"
@@ -32635,7 +32635,7 @@ msgstr "<link=\"ROCKETPILOTING1\">Raket Piloting</link>"
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION"
 msgid "Enables a Duplicant to deconstruct Gravitas buildings"
-msgstr "Hiermee kan een Duplicant Gravitas-gebouwen deconstrueren"
+msgstr "Hiermee kan een Duplicant Gravitas-gebouwen afbreken"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.NAME"
@@ -33305,12 +33305,12 @@ msgstr "Deze Duplicant transporteert materialen naar <b>{Target}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.NAME"
 msgid "Deconstructing {Target}"
-msgstr "Deconstrueren {Target}"
+msgstr "Breekt {Target} af"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DECONSTRUCTING.TOOLTIP"
 msgid "This Duplicant is deconstructing the <b>{Target}</b>"
-msgstr "Deze Duplicant is de <b>{Target}</b> aan het deconstrueren"
+msgstr "Deze Duplicant is <b>{Target}</b> aan het afbreken"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.DEMOLISHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.DEMOLISHING.NAME"
@@ -35560,7 +35560,7 @@ msgstr "Deze Duplicant krijgt een gratis <style=\"KKeyword\">Vaardigheid</style>
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.DESC"
 msgid "Enables a Duplicant to deconstruct Gravitas buildings"
-msgstr "Hiermee kan een Duplicant Gravitas-gebouwen deconstrueren"
+msgstr "Hiermee kan een Duplicant Gravitas-gebouwen afbreken"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_BUILDING3.NAME"
@@ -41255,7 +41255,7 @@ msgstr "Gebouw annuleren"
 #. STRINGS.INPUT_BINDINGS.ROOT.BUILDINGDECONSTRUCT
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.BUILDINGDECONSTRUCT"
 msgid "Building Deconstruct"
-msgstr "Gebouw Deconstrueren"
+msgstr "Gebouw Afbreken"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.CAMERAHOME
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.CAMERAHOME"
@@ -68411,7 +68411,7 @@ msgstr "Bouwtool"
 #. STRINGS.UI.TOOLS.CANCEL.NAME
 msgctxt "STRINGS.UI.TOOLS.CANCEL.NAME"
 msgid "Cancel"
-msgstr "Annuleren"
+msgstr "Annuleer"
 
 #. STRINGS.UI.TOOLS.CANCEL.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLACTION"
@@ -68426,7 +68426,7 @@ msgstr "Tool annuleren"
 #. STRINGS.UI.TOOLS.CAPTURE.NAME
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.NAME"
 msgid "Wrangle"
-msgstr "Vastbinden"
+msgstr "Vang"
 
 #. STRINGS.UI.TOOLS.CAPTURE.NOT_CAPTURABLE
 msgctxt "STRINGS.UI.TOOLS.CAPTURE.NOT_CAPTURABLE"
@@ -68471,7 +68471,7 @@ msgstr "Plak Instellingen Tool"
 #. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
 msgid "Deconstruct"
-msgstr "Deconstrueren"
+msgstr "Afbraak"
 
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
@@ -68481,7 +68481,7 @@ msgstr "SLEEP"
 #. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
 msgid "Deconstruct tool"
-msgstr "Deconstrueer tool"
+msgstr "Afbraak tool"
 
 #. STRINGS.UI.TOOLS.DIG.NAME
 msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
@@ -68536,7 +68536,7 @@ msgstr "Gereedschap desinfecteren"
 #. STRINGS.UI.TOOLS.EMPTY_PIPE.NAME
 msgctxt "STRINGS.UI.TOOLS.EMPTY_PIPE.NAME"
 msgid "Empty Pipe"
-msgstr "Leeg Leiding"
+msgstr "Leeg"
 
 #. STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLACTION"
