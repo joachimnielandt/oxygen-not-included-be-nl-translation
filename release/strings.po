@@ -41300,7 +41300,7 @@ msgstr "Desinfecteren"
 #. STRINGS.INPUT_BINDINGS.ROOT.EMPTYPIPE
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.EMPTYPIPE"
 msgid "Empty Pipe"
-msgstr "Lege pijp"
+msgstr "Leeg Leiding"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.HARVEST
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.HARVEST"
@@ -54331,7 +54331,7 @@ msgstr "Selectie Wissen"
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DECONSTRUCT_BUTTON
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DECONSTRUCT_BUTTON"
 msgid "Deconstruct"
-msgstr "Deconstrueren"
+msgstr "Afbreken"
 
 #. STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DEFAULT_SAVE_NAME
 msgctxt "STRINGS.UI.DEBUG_TOOLS.SAVE_BASE_TEMPLATE.DEFAULT_SAVE_NAME"
@@ -68376,7 +68376,7 @@ msgstr "(ClickType/Click) om <b>{0}</b> te selecteren"
 #. STRINGS.UI.TOOLS.ATTACK.NAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
 msgid "Attack"
-msgstr "Val aa "
+msgstr "Val aan"
 
 #. STRINGS.UI.TOOLS.ATTACK.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLACTION"
@@ -68536,7 +68536,7 @@ msgstr "Gereedschap desinfecteren"
 #. STRINGS.UI.TOOLS.EMPTY_PIPE.NAME
 msgctxt "STRINGS.UI.TOOLS.EMPTY_PIPE.NAME"
 msgid "Empty Pipe"
-msgstr "Lege Leiding"
+msgstr "Leeg Leiding"
 
 #. STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLACTION"
@@ -68551,7 +68551,7 @@ msgstr "Leeg Leiding tool"
 #. STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLTIP
 msgctxt "STRINGS.UI.TOOLS.EMPTY_PIPE.TOOLTIP"
 msgid "Extract pipe contents {Hotkey}"
-msgstr "Extraheer leiding inhoud {Hotkey}"
+msgstr "Maak leiding leeg {Hotkey}"
 
 #. STRINGS.UI.TOOLS.FILTER_HOVERCARD_HEADER
 msgctxt "STRINGS.UI.TOOLS.FILTER_HOVERCARD_HEADER"
