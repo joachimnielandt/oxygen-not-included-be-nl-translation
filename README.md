@@ -15,5 +15,3 @@ Put the `release` files into the following folder: `C:\Users\<username>\Document
 Some things to clean up or check...
 - primo garb
 - 'cot' > veldbed?
-- bluff briar
-- Mafic Rock
