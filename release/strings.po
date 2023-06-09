@@ -51081,7 +51081,7 @@ msgstr "Hier wordt het een <i>stralende</i> dag. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.NAME"
 msgid "<link=\"BUILDCATEGORYHVAC\">Ventilation</link>"
-msgstr "<link=\"BUILDCATEGORYHVAC\">Ventilatie</link>"
+msgstr "<link=\"BUILDCATEGORYHVAC\"><size=11>Ventilatie</size></link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.HVAC.TOOLTIP"
@@ -51121,7 +51121,7 @@ msgstr "Alles wat ik nodig heb om de kolonie te laten ademen. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
 msgid "<link=\"BUILDCATEGORYPLUMBING\">Plumbing</link>"
-msgstr "<link=\"BUILDCATEGORYPLUMBING\">Loodgieterij</link>"
+msgstr "<link=\"BUILDCATEGORYPLUMBING\"><size=11>Loodgieterij</size></link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
