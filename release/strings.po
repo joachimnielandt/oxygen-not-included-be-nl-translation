@@ -51041,7 +51041,7 @@ msgstr "Transporteer erts en vaste materialen rond mijn basis. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
 msgid "<link=\"BUILDCATEGORYEQUIPMENT\">Stations</link>"
-msgstr "<link=\"BUILDCATEGORYEQUIPMENT\">Stations</link>"
+msgstr "<link=\"BUILDCATEGORYEQUIPMENT\">Station</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
@@ -51061,7 +51061,7 @@ msgstr "Houd de geest van mijn Duplicanten hoog en hun buik vol. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME"
 msgid "<link=\"BUILDCATEGORYFURNITURE\">Furniture</link>"
-msgstr "<link=\"BUILDCATEGORYFURNITURE\">Meubels</link>"
+msgstr "<link=\"BUILDCATEGORYFURNITURE\">Meubel</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
@@ -51091,7 +51091,7 @@ msgstr "Controleer de gasstroom in de basis. {Hotkey}"
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
 msgid "<link=\"BUILDCATEGORYMEDICAL\">Medicine</link>"
-msgstr "<link=\"BUILDCATEGORYMEDICAL\">Geneeskunde</link>"
+msgstr "<link=\"BUILDCATEGORYMEDICAL\">Genees</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP"
@@ -51141,7 +51141,7 @@ msgstr "Moet je de kolonie van stroom voorzien? Hier zie je hoe dat werkt! {Hotk
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
 msgid "<link=\"BUILDCATEGORYREFINING\">Refinement</link>"
-msgstr "<link=\"BUILDCATEGORYREFINING\">Verfijning</link>"
+msgstr "<link=\"BUILDCATEGORYREFINING\">Verfijn</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
@@ -51151,7 +51151,7 @@ msgstr "Gebruik de grondstoffen die ik wil, filter degene die ik niet wil. {Hotk
 #. STRINGS.UI.BUILDCATEGORIES.ROCKETRY.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.ROCKETRY.NAME"
 msgid "<link=\"BUILDCATEGORYROCKETRY\">Rocketry</link>"
-msgstr "<link=\"BUILDCATEGORYROCKETRY\">Raketbouw</link>"
+msgstr "<link=\"BUILDCATEGORYROCKETRY\">Raket</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.ROCKETRY.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.ROCKETRY.TOOLTIP"
