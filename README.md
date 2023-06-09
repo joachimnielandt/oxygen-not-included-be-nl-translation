@@ -13,6 +13,5 @@ Put the `release` files into the following folder: `C:\Users\<username>\Document
 
 # Todo / ideas
 Some things to clean up or check...
-- snazzy suits
 - primo garb
 - 'cot' > veldbed?
