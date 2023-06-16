@@ -4,6 +4,9 @@ Changes to the mod will be documented in this file.
 
 # Released
 
+## [1.0.3] 2023/06/16
+- Merged new `strings_template.pot` file
+
 ## [1.0.2] 2023/06/09
 - Tweaked build menu items
 - Replaced 'deconstruct'

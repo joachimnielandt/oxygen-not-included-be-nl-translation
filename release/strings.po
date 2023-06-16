@@ -2183,8 +2183,8 @@ msgstr "Scan Netwerk Kwaliteit: {TotalQuality}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NETWORKQUALITY.TOOLTIP"
-msgid "This scanner network is scanning at <b>{TotalQuality}</b> effectiveness\n\nIt will detect incoming objects <b>{WorstTime}</b> to <b>{BestTime}</b> before they arrive\n\nBuild multiple <link=\"COMETDETECTOR\">Space Scanner</link>s and ensure they're each scanning effectively for the best detection results"
-msgstr "Dit scanner netwerk scant aan <b>{TotalQuality}</b> effectiviteit\n\nHet zal aankomende objecten <b>{WorstTime}</b> tot <b>{BestTime}</b> detecteren voordat ze arriveren\n\nBouw meerdere <link=\"COMETDETECTOR\">Ruimte Scanner</link>s en zorg ervoor dat ze elk effectief aan het scannen zijn voor het beste detectieresultaat"
+msgid "This scanner network is scanning at <b>{TotalQuality}</b> effectiveness\n\nIt will detect incoming objects <b>{WorstTime}</b> to <b>{BestTime}</b> before they arrive\n\nBuild multiple <link=\"COMETDETECTOR\">Space Scanner</link>s to increase surface coverage and improve network quality\n\n    • Surface Coverage: <b>{Coverage}</b>"
+msgstr "Dit scanner netwerk scant aan <b>{TotalQuality}</b> effectiviteit\n\nHet zal aankomende objecten <b>{WorstTime}</b> tot <b>{BestTime}</b> detecteren voordat ze arriveren\n\nBouw meerdere <link=\"COMETDETECTOR\">Ruimte Scanner</link>s om de oppervlakte dekking te vergroten en de kwaliteit van het netwerk te verbeteren\n\n    • Dekking Oppervlakte: <b>{Coverage}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
@@ -2868,8 +2868,8 @@ msgstr "Geen Bezorg Bestemming"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP"
-msgid "A delivery destination has not been set    • {0}"
-msgstr "Een bezorg bestemming werd niet opgegeven    • {0}"
+msgid "A delivery destination has not been set"
+msgstr "Een bezorg bestemming werd niet opgegeven"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.NAME"
@@ -2878,8 +2878,8 @@ msgstr "Lanceer Pad Geblokkeerd"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_PATH_NOT_CLEAR.TOOLTIP"
-msgid "There are obstructions in the launch trajectory of this <link=\"RAILGUN\">Interplanetary Launcher</link>:\n    • {0}\n\nThis launcher requires a clear path to launch payloads"
-msgstr "Er zijn belemmeringen in het lanceer pad van deze <link=\"RAILGUN\">Interplanetaire Lanceerder</link>:\n    • {0}\n\nDeze lanceerder heeft een vrij vluchtpad nodig om iets te kunnen lanceren"
+msgid "There are obstructions in the launch trajectory of this <link=\"RAILGUN\">Interplanetary Launcher</link>\n\nThis launcher requires a clear path to launch payloads"
+msgstr "Er zijn belemmeringen in het lanceer pad van deze <link=\"RAILGUN\">Interplanetaire Lanceerder</link>\n\nDeze lanceerder heeft een vrij vluchtpad nodig om iets te kunnen lanceren"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNCOOLDOWN.NAME"
@@ -3138,8 +3138,7 @@ msgstr "Niet In Gezichtsveld"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_NONE.TOOLTIP"
-msgid "This building has no view of space\n\nEnsure an unblocked view of the sky is available to collect <b>Starmap</b> data\n    • Visibility: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cells"
-msgstr "Dit gebouw heeft geen zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om <b>Sterrenkaart</b> data te verzamelen\n    • Zichtbaarheid: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cellen"
+msgstr "Dit gebouw heeft geen zicht op de ruimte\n\nOm correct te werken heeft dit gebouw een vrij gezichtsveld op de ruimte nodig\n    • Efficiëntie: <b>{VISIBILITY}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.NAME"
@@ -3148,8 +3147,7 @@ msgstr "Verminderde Zichtbaarheid"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACE_VISIBILITY_REDUCED.TOOLTIP"
-msgid "This building has an inadequate or obscured view of space\n\nEnsure an unblocked view of the sky is available to collect <b>Starmap</b> data\n    • Visibility: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cells"
-msgstr "Dit gebouw heeft onvoldoende of geblokkeerd zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om <b>Sterrenkaart</b> data te verzamelen\n    • Zichtbaarheid: <b>{VISIBILITY}</b>\n    • Scan Radius: <b>{RADIUS}</b> cellen"
+msgstr "Dit gebouw heeft een gedeeltelijk geblokkeerd zicht op de ruimte\n\nZorg voor een vrij gezichtsveld op de ruimte om op volle snelheid te werken\n    • Efficiëntie: <b>{VISIBILITY}</b>"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPACECRAFTREADYTOLAND.NAME"
@@ -4672,6 +4670,26 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_K.NAME"
 msgid "<link=\"ARTK\">Sketchy Fungi</link>"
 msgstr "<link=\"ARTK\">Verdachte Schimmels</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_L.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_L.DESC"
+msgid "The furry hat helped keep the artist's bandage on."
+msgstr "De harige hoed die het verband van de artiest bij elkaar hield."
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_L.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_L.NAME"
+msgid "<link=\"ARTL\">Post-Ear Era</link>"
+msgstr "<link=\"ARTL\">Post-Oor Periode</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_M.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_M.DESC"
+msgid "She's not angry, just disappointed."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_M.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_M.NAME"
+msgid "<link=\"ARTM\">Maternal Gaze</link>"
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
 msgid "<link=\"CANVAS\">Blank Canvas</link>"
@@ -4792,6 +4810,26 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_I.NAME"
 msgid "<link=\"ARTTALLI\">Pei Phone</link>"
 msgstr "<link=\"ARTTALLI\">Pei Telefoon</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_J.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_J.DESC"
+msgid "A poster for a blockbuster film that was never made."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_J.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_J.NAME"
+msgid "<link=\"ARTTALLJ\">Duplicants of the Galaxy</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_K.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_K.DESC"
+msgid "The glass and frame are hydrophobic, for easy cleaning."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_K.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_K.NAME"
+msgid "<link=\"ARTTALLK\">Cubist Loo</link>"
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.CANVASTALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.NAME"
 msgid "<link=\"CANVASTALL\">Portrait Canvas</link>"
@@ -4911,6 +4949,26 @@ msgstr "Een sombere studie van de beroemde tunneler."
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_I.NAME"
 msgid "<link=\"ARTWIDEI\">Glorious Vole</link>"
 msgstr "<link=\"ARTWIDEI\">Glorieuze Woelmuis</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_J.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_J.DESC"
+msgid "As far as wave-themed art goes, it's great."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_J.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_J.NAME"
+msgid "<link=\"ARTWIDEJ\">The Swell Swell</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_K.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_K.DESC"
+msgid "The delight on the subjects' faces is contagious."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_K.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_K.NAME"
+msgid "<link=\"ARTWIDEK\">Flight of the Slicksters</link>"
+msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.NAME"
@@ -5516,6 +5574,36 @@ msgstr "Genereert test energie voor late nachten."
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVGENERATOR.NAME"
 msgid "Dev Generator"
 msgstr "Dev Generator"
+
+#. STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.DESC"
+msgid "Radbolts are necessary for producing Materials Science research."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.EFFECT"
+msgid "Generates Radbolts."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT"
+msgid "Do not emit Radbolts"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Emit Radbolts"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.LOGIC_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Do not emit Radbolts"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DEVHEPSPAWNER.NAME"
+msgid "Dev Radbolt Generator"
+msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIFESUPPORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIFESUPPORT.DESC"
@@ -6287,6 +6375,16 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLAID.NAME"
 msgid "<link=\"EXTERIORWALL\">Aqua Plaid Print</link>"
 msgstr "<link=\"EXTERIORWALL\">Aqua Geruite Opdruk</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUNGER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUNGER.DESC"
+msgid "Unclogs one's creative impulses."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUNGER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUNGER.NAME"
+msgid "<link=\"EXTERIORWALL\">Plunger Print</link>"
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.DESC"
 msgid "A precipitation-themed wallpaper."
@@ -6347,9 +6445,30 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SUN.NAME"
 msgid "<link=\"EXTERIORWALL\">Sunshine Print</link>"
 msgstr "<link=\"EXTERIORWALL\">Zonneschijn Opdruk</link>"
 
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.DESC"
+msgid "Softly undulating lines create an undeniable air of loo-xury."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.NAME"
+msgid "<link=\"EXTERIORWALL\">De-loo-xe</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.DESC"
+msgid "The original scratch-and-sniff version was immediately recalled."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.NAME"
+msgid "<link=\"EXTERIORWALL\">Sporechid Print</link>"
+msgstr ""
+
+
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.DESC"
-msgid "Far more practical than gluing real fruit at a wall."
+msgid "Far more practical than gluing real fruit on a wall."
 msgstr "Een pak praktischer dan echt fruit aan een muur plakken."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.NAME
@@ -6459,8 +6578,8 @@ msgstr "Bouw dit voedertoestel boven water om de vissen erin te voeren."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHFEEDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHFEEDER.EFFECT"
-msgid "Automatically dispenses stored <link=\"CRITTERS\">Critter</link> food into the area below.\n\nDispenses once per day."
-msgstr "Geeft automatisch opgeslagen <link=\"CRITTERS\">Beest</link> voedsel af in het gebied eronder.\n\nWerkt eenmaal per dag."
+msgid "Automatically dispenses stored <link=\"CRITTERS\">Critter</link> food into the area below.\n\nDispenses continuously as food is consumed."
+msgstr "Geeft automatisch opgeslagen <link=\"CRITTERS\">Beest</link> voedsel af in het gebied eronder.\n\nWerkt continu wanneer eten opgegeten wordt."
 
 #. STRINGS.BUILDINGS.PREFABS.FISHFEEDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHFEEDER.NAME"
@@ -6601,6 +6720,57 @@ msgstr "Hangende potten kunnen wat Decor aan een kamer toevoegen, zonder gebouwe
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.EFFECT"
 msgid "Houses a single <link=\"PLANTS\">Plant</link> when sown with a <link=\"PLANTS\">Seed</link>.\n\nIncreases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be hung from a ceiling."
 msgstr "Behuist een enkele <link=\"PLANTS\">Plant</link> indien gezaaid met een <link=\"PLANTS\">Zaad</link>.\n\nVerhoogt <link=\"DECOR\">Decor</link>, draagt bij aan <link=\"MORALE\">Moraal</link>.\n\nMoet aan het plafond worden gehangen."
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Dreamy Hanging Pot</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_GREEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_GREEN.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_GREEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_GREEN.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Bright Hanging Pot</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_RED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_RED.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_RED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_RED.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Bold Hanging Pot</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_WHITE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_WHITE.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_WHITE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_WHITE.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Elegant Hanging Pot</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_YELLOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_YELLOW.DESC"
+msgid "Suspended vessels really elevate a plant display."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_YELLOW.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_YELLOW.NAME"
+msgid "<link=\"FLOWERVASEHANGING\">Sunny Hanging Pot</link>"
+msgstr ""
+
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME"
@@ -7864,7 +8034,7 @@ msgstr "Geniale Ijssculptuur"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_1.DESC"
-msgid ""
+msgid "These incisors are the stuff of dental legend."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_AMAZING_1.NAME
@@ -7884,7 +8054,7 @@ msgstr "<link=\"ICESCULPTUREAMAZING2\">IJzig Schaaldier</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_CRAP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_CRAP.DESC"
-msgid ""
+msgid "It's structurally unsound, but otherwise not entirely terrible."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.FACADES.ICESCULPTURE_CRAP.NAME
@@ -21739,8 +21909,8 @@ msgstr "<link=\"FORESTFORAGEPLANTPLANTED\">Hexalent</link>"
 
 #. STRINGS.CREATURES.SPECIES.GASGRASS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.GASGRASS.DESC"
-msgid "Gas Grass."
-msgstr "Gasgras."
+msgid "Gas Grass is an alien lifeform tentatively categorized as a \"plant,\" which makes up the entirety of the <link=\"MOO\">Gassy Moo's</link> diet."
+msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.GASGRASS.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.GASGRASS.DOMESTICATEDDESC"
@@ -25009,13 +25179,13 @@ msgstr "    • {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME"
-msgid "    • Irrigation"
-msgstr "    • Irrigatie"
+msgid "    • Irrigation (Stored)"
+msgstr "    • Irrigatie (Opgeslagen)"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.TOOLTIP"
-msgid "This farm is storing materials that are not suitable for this plant\n\n<style=\"KKeyword\">Empty Storage</style> on this building to remove the incorrect materials"
-msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plant\n\n<style=\"KKeyword\">Lege opslag</style> op dit gebouw om de verkeerde materialen te verwijderen"
+msgid "This farm is storing <style=\"KKeyword\">Liquids</style> that are not suitable for this plant\n\n<style=\"KKeyword\">Empty Storage</style> on this building to remove the unusable liquids"
+msgstr "Deze boerderij slaat <style=\"KKeyword\">Vloeistoffen</style> op die niet geschikt zijn voor deze plant\n\n<style=\"KKeyword\">Leeg Opslag</style> van dit gebouw om de onbruikbare vloeistoffen te verwijderen"
 
 #. STRINGS.DUPLICANTS.ARRIVALTIME
 msgctxt "STRINGS.DUPLICANTS.ARRIVALTIME"
