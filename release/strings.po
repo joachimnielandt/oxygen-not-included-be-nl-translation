@@ -51133,38 +51133,38 @@ msgstr "Rode Ballonnen"
 
 #. STRINGS.STICKERNAMES.STICKER_G
 msgctxt "STRINGS.STICKERNAMES.STICKER_G"
-msgid "g"
-msgstr "g"
+msgid "Bubblies"
+msgstr "Bubbels"
 
 #. STRINGS.STICKERNAMES.STICKER_H
 msgctxt "STRINGS.STICKERNAMES.STICKER_H"
-msgid "h"
-msgstr "h"
+msgid "Yolks"
+msgstr "Eigeel"
 
 #. STRINGS.STICKERNAMES.STICKER_MERMAID
 msgctxt "STRINGS.STICKERNAMES.STICKER_MERMAID"
-msgid "mermaid"
-msgstr "zeemeermin"
+msgid "Mermaids"
+msgstr "Zeemeerminnen"
 
 #. STRINGS.STICKERNAMES.STICKER_MUSHROOM
 msgctxt "STRINGS.STICKERNAMES.STICKER_MUSHROOM"
-msgid "mushroom"
-msgstr "champignon"
+msgid "Fungi"
+msgstr "Champignon"
 
 #. STRINGS.STICKERNAMES.STICKER_PAPERPLANE
 msgctxt "STRINGS.STICKERNAMES.STICKER_PAPERPLANE"
-msgid "paperplane"
-msgstr "vliegertje"
+msgid "Paper Planes"
+msgstr "Vliegertjes"
 
 #. STRINGS.STICKERNAMES.STICKER_PLANT
 msgctxt "STRINGS.STICKERNAMES.STICKER_PLANT"
-msgid "plant"
-msgstr "plant"
+msgid "Leafies"
+msgstr "Groentjes"
 
 #. STRINGS.STICKERNAMES.STICKER_PLANTPOT
 msgctxt "STRINGS.STICKERNAMES.STICKER_PLANTPOT"
-msgid "plantpot"
-msgstr "plantenpot"
+msgid "Jumping Joyas"
+msgstr "Springende Joyas"
 
 #. STRINGS.STICKERNAMES.STICKER_ROCKET
 msgctxt "STRINGS.STICKERNAMES.STICKER_ROCKET"
