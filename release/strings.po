@@ -696,16 +696,6 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.DESTINATIONOUTOFRANGE.TOOLTIP"
 msgid "This rocket lacks the range to reach its destination\n\nRocket Range: {Range}\nDestination Distance: {Distance}"
 msgstr "Deze raket kan niet ver genoeg vliegen om het doel te bereiken\n\nRaket Bereik: {Range}\nAfstand Doel: {Distance}"
 
-#. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.NAME
-msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.NAME"
-msgid "Scan Quality: {Quality}"
-msgstr "Scan Kwaliteit: {Quality}"
-
-#. STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP
-msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORQUALITY.TOOLTIP"
-msgid "This scanner dish is currently scanning at <b>{Quality}</b> effectiveness\n\nDecreased scan quality may be due to:\n    • Interference from nearby industrial machinery\n    • Rock or tile obstructing the dish's line of sight on space"
-msgstr "Effectiviteit van deze scanner schotel is momenteel <b>{Quality}</b> \n\nVermindering van scan kwaliteit kan komen door:\n    • Storing van nabije industriële machines\n    • Rots of tegel belemmert het zicht van de schotel op de ruimte"
-
 #. STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DETECTORSCANNING.NAME"
 msgid "Scanning"
@@ -39399,30 +39389,25 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_YELLOWC
 msgid "Yellowcake Shorts"
 msgstr "Yellowcake Shorts"
 
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.GENERICNAME
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.GENERICNAME"
-msgid "Clothing"
-msgstr "Kleding"
-
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.NAME"
-msgid "<link=\"CLOTHINGBOTTOMS\">Bottoms</link>"
-msgstr "<link=\"KLEDINGBOTTOMS\">Broeken</link>"
-
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.RECIPE_DESC
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.RECIPE_DESC"
-msgid "Testing recipe desc for bottoms skins"
-msgstr "Beschrijving van testrecept voor billenhuiden"
+msgid "Default Bottom"
+msgstr "Standaard Broek"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.DESC"
-msgid "Testing desc for gloves skins"
-msgstr "Testbeschrijving voor handschoenenhuiden"
+msgid "The default gloves."
+msgstr "De standaard handschoenen."
 
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.EFFECT
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.EFFECT"
-msgid "Testing effect for gloves skins"
-msgstr "Testeffect voor handschoenenhuiden"
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.ATHLETE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.ATHLETE.DESC"
+msgid "Crafted for high-speed handshakes."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.ATHLETE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.ATHLETE.NAME"
+msgid "Racing Gloves"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BLACK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BLACK.DESC"
@@ -39443,6 +39428,26 @@ msgstr "Een goed, stevig paar aquablauwe handschoenen die overal bij passen."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BLUE_MIDDLE.NAME"
 msgid "Basic Aqua Gloves"
 msgstr "Basic Aqua-handschoenen"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BLUEGREY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BLUEGREY.DESC"
+msgid "A tough name for soft gloves."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BLUEGREY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BLUEGREY.NAME"
+msgid "Basic Gunmetal Gloves"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BROWN_KHAKI.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BROWN_KHAKI.DESC"
+msgid "They don't show dirt."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BROWN_KHAKI.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_BROWN_KHAKI.NAME"
+msgid "Basic Khaki Gloves"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_GREEN.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_GREEN.DESC"
@@ -39513,6 +39518,16 @@ msgstr "Een goed paar stevige gele handschoenen die overal bij passen."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.BASIC_YELLOW.NAME"
 msgid "Basic Yellow Gloves"
 msgstr "Basic gele handschoenen"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CIRCUIT_GREEN.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CIRCUIT_GREEN.DESC"
+msgid "Great for gesticulating at parties."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CIRCUIT_GREEN.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CIRCUIT_GREEN.NAME"
+msgid "LED Gloves"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_BLUEBERRY.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_BLUEBERRY.DESC"
@@ -39654,30 +39669,25 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_SATSU
 msgid "Superfan Sports Gloves"
 msgstr "Superfan sporthandschoenen"
 
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.GENERICNAME
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.GENERICNAME"
-msgid "Clothing"
-msgstr "Kleding"
-
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.NAME"
-msgid "<link=\"CLOTHINGGLOVES\">Gloves</link>"
-msgstr "<link=\"CLOTHINGGLOVES\">Handschoenen</link>"
+msgid "Default Gloves"
+msgstr "Satndaard Handschoenen"
 
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.RECIPE_DESC
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.RECIPE_DESC"
-msgid "Testing recipe desc for gloves skins"
-msgstr "Beschrijving van testrecept voor handschoenenvellen"
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_HATS.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_HATS.DESC"
+msgid "<DESC>"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_HATS.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_HATS.NAME"
+msgid "Default Headgear"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.DESC"
-msgid "Testing desc for shoes skins"
-msgstr "Bezig met testen van skins voor schoenen"
-
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.EFFECT
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.EFFECT"
-msgid "Testing effect for shoes skins"
-msgstr "Testeffect voor schoenenhuiden"
+msgid "The default style of footwear."
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLACK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLACK.DESC"
@@ -39698,6 +39708,16 @@ msgstr "Een fris paar aquablauwe schoenen die overal bij passen."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLUE_MIDDLE.NAME"
 msgid "Basic Aqua Shoes"
 msgstr "Basic Aqua-schoenen"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLUEGREY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLUEGREY.DESC"
+msgid "A fresh pair of pastel shoes that go with everything."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLUEGREY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_BLUEGREY.NAME"
+msgid "Basic Gunmetal Shoes"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_GREEN.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_GREEN.DESC"
@@ -39748,6 +39768,16 @@ msgstr "Een fris paar rode schoenen die overal bij passen."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_RED.NAME"
 msgid "Basic Red Shoes"
 msgstr "Basic rode schoenen"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_TAN.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_TAN.DESC"
+msgid "They're remarkably unremarkable."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_TAN.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_TAN.NAME"
+msgid "Basic Tan Shoes"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_WHITE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_WHITE.DESC"
@@ -39839,30 +39869,25 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_SATSUMA
 msgid "Superfan Gym Socks"
 msgstr "Superfan Gym Sokken"
 
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.GENERICNAME
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.GENERICNAME"
-msgid "Clothing"
-msgstr "Kleding"
-
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.NAME"
-msgid "<link=\"CLOTHINGSHOES\">Shoes</link>"
-msgstr "<link=\"KLEDINGSCHOENEN\">Schoenen</link>"
-
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.RECIPE_DESC
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.RECIPE_DESC"
-msgid "Testing recipe desc for shoes skins"
-msgstr "Beschrijving van testrecept voor schoenenhuiden"
+msgid "Default Footwear"
+msgstr "Standaard Schoenen"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.DESC"
-msgid "Testing desc for tops skins"
-msgstr "Bezig met testen van skins voor tops"
+msgid "The default shirt."
+msgstr "Het standaard shirt"
 
-#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.EFFECT
-msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.EFFECT"
-msgid "Testing effect for tops skins"
-msgstr "Testeffect voor tops skins"
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.ATHLETE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.ATHLETE.DESC"
+msgid "The epitome of fast fashion."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.ATHLETE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.ATHLETE.NAME"
+msgid "Racing Jacket"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.BASIC_BLACK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.BASIC_BLACK.DESC"
@@ -39953,6 +39978,16 @@ msgstr "Een mooi geel overhemd dat overal bij past."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.BASIC_YELLOW.NAME"
 msgid "Basic Yellow Shirt"
 msgstr "Basic geel shirt"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.CIRCUIT_GREEN.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.CIRCUIT_GREEN.DESC"
+msgid "For dancing in the dark."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.CIRCUIT_GREEN.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.CIRCUIT_GREEN.NAME"
+msgid "LED Jacket"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.JELLYPUFFJACKET_BLUEBERRY.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.JELLYPUFFJACKET_BLUEBERRY.DESC"
@@ -51168,38 +51203,38 @@ msgstr "Springende Joyas"
 
 #. STRINGS.STICKERNAMES.STICKER_ROCKET
 msgctxt "STRINGS.STICKERNAMES.STICKER_ROCKET"
-msgid "rocket"
-msgstr "raket"
+msgid "Rock-Its"
+msgstr "Rak-Etten"
 
 #. STRINGS.STICKERNAMES.STICKER_SPACEPET
 msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET"
-msgid "spacepet"
-msgstr "ruimtedier"
+msgid "Morb Bots"
+msgstr "Morb Bots"
 
 #. STRINGS.STICKERNAMES.STICKER_SPACEPET2
 msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET2"
-msgid "spacepet2"
-msgstr "spacepet2"
+msgid "Puft Bubbles"
+msgstr "Puft Bubbels"
 
 #. STRINGS.STICKERNAMES.STICKER_SPACEPET3
 msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET3"
-msgid "spacepet3"
-msgstr "spacepet3"
+msgid "Pacu Bubbles"
+msgstr "Pacu Bubbels"
 
 #. STRINGS.STICKERNAMES.STICKER_SPACEPET4
 msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET4"
-msgid "spacepet4"
-msgstr "spacepet4"
+msgid "Pip Bots"
+msgstr "Pip Bots"
 
 #. STRINGS.STICKERNAMES.STICKER_SPACEPET5
 msgctxt "STRINGS.STICKERNAMES.STICKER_SPACEPET5"
-msgid "spacepet5"
-msgstr "spacepet5"
+msgid "Slicksters"
+msgstr "Slicksters"
 
 #. STRINGS.STICKERNAMES.STICKER_UNICORN
 msgctxt "STRINGS.STICKERNAMES.STICKER_UNICORN"
-msgid "unicorn"
-msgstr "eenhoorn"
+msgid "Unicorns"
+msgstr "Eenhoorns"
 
 #. STRINGS.SUBWORLDS.AQUATIC.DESC
 msgctxt "STRINGS.SUBWORLDS.AQUATIC.DESC"
@@ -54481,6 +54516,11 @@ msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_CANT_CONSUME"
 msgid "<b>{0}</b> <b>physically cannot</b> eat\n<style=\"KKeyword\">{1}</style>"
 msgstr "<b>{0}</b> <b>kan fysiek niet</b> eten\n<style=\"KKeyword\">{1}</style>"
 
+#. STRINGS.UI.CONSUMABLESSCREEN.FOOD_MORALE
+msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_MORALE"
+msgid "<style=\"KKeyword\">Morale</style>: {0}"
+msgstr ""
+
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_OFF
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_OFF"
 msgid "<b>{0}</b> is <b>not allowed</b> to eat <style=\"KKeyword\">{1}</style>"
@@ -54493,8 +54533,8 @@ msgstr "<b>{0}</b> wordt <b>toegestaan</b> te eten <style=\"KKeyword\">{1}</styl
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY"
-msgid "<style=\"KKeyword\">Morale</style>: {0}"
-msgstr "<style=\"KKeyword\">Moraal</style>: {0}"
+msgid "<style=\"KKeyword\">Quality</style>: {0}"
+msgstr "<style=\"KKeyword\">Kwaliteit</style>: {0}"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY_VS_EXPECTATION
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_QUALITY_VS_EXPECTATION"
@@ -55821,6 +55861,11 @@ msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_METEORSHOWERS"
 msgid "METEOR SHOWERS"
 msgstr "METEORENREGENS"
 
+#. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_MOVABLE
+msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_MOVABLE"
+msgid "MOVING"
+msgstr ""
+
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_REQUIREMENTS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_REQUIREMENTS"
 msgid "REQUIREMENTS"
@@ -56886,6 +56931,26 @@ msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.BLANK_DESC"
 msgid "Select an asteroid style..."
 msgstr "Selecteer een asteroïdestijl..."
 
+#. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.CLASSIC_DESC
+msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.CLASSIC_DESC"
+msgid "Scenarios similar to the <b>classic Oxygen Not Included</b> experience. Large starting asteroids with many resources.\nLess emphasis on space travel."
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.CLASSIC_TITLE
+msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.CLASSIC_TITLE"
+msgid "Classic"
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.EVENT_DESC
+msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.EVENT_DESC"
+msgid "Alternative gameplay experiences, including experimental scenarios designed for special events."
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.EVENT_TITLE
+msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.EVENT_TITLE"
+msgid "The Lab"
+msgstr ""
+
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.HEADER
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.HEADER"
 msgid "ASTEROID STYLE"
@@ -56903,13 +56968,13 @@ msgstr "Spaced Out!"
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_DESC
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_DESC"
-msgid "Scenarios similar to the <b>classic Oxygen Not Included</b> experience. Large starting asteroids with many resources.\nLess emphasis on space travel."
-msgstr "Scenario's vergelijkbaar met de <b>klassieke Oxygen Not Included</b> ervaring. Grote start-asteroïden met veel grondstoffen.\nMinder nadruk op ruimtevaart."
+msgid "Scenarios designed for classic gameplay."
+msgstr "Scenario's ontworpen voor klassieke gameplay."
 
 #. STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE
 msgctxt "STRINGS.UI.FRONTEND.CLUSTERCATEGORYSELECTSCREEN.VANILLA_TITLE"
-msgid "Classic"
-msgstr "Klassiek"
+msgid "Standard"
+msgstr "Standaard"
 
 #. STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY
 msgctxt "STRINGS.UI.FRONTEND.COLONY_SAVE_OPTIONS_SCREEN.AUTOSAVE_FREQUENCY"
@@ -57016,6 +57081,11 @@ msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP"
 msgid "Reroll World Seed\n\nThis will shuffle the layout of your world and the geographical traits listed below"
 msgstr "Reroll Wereld Seed\n\nHierdoor wordt de layout van je wereld en de onderstaande geografische kenmerken in willekeurige volgorde gewijzigd"
 
+#. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP_DISABLED
+msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SHUFFLETOOLTIP_DISABLED"
+msgid "This world's seed is predetermined. It cannot be changed"
+msgstr ""
+
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SINGLE_TRAIT
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SINGLE_TRAIT"
 msgid "1 Trait"
@@ -57048,8 +57118,8 @@ msgstr "<color=#ffff00ff>Te veel!</color>"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TOO_MANY_TRAITS_WARNING_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TOO_MANY_TRAITS_WARNING_TOOLTIP"
-msgid "<color=#ffff00ff>Squeezing this many story traits into this asteroid may cause world gen to fail\n\nConsider lowering the number of story traits or changing the selected asteroid</color>"
-msgstr "<color=#ffff00ff>Het samenpersen van zoveel verhaalkenmerken in deze asteroïde kan ertoe leiden dat de wereldgenerator faalt\n\nOverweeg om het aantal verhaalkenmerken te verlagen of de geselecteerde asteroïde te wijzigen</color>"
+msgid "<color=#ffff00ff>Squeezing this many story traits into this asteroid may cause worldgen to fail\n\nConsider lowering the number of story traits or changing the selected asteroid</color>"
+msgstr "<color=#ffff00ff>Het gebruiken van zoveel verhaalkenmerken in deze asteroïde kan ertoe leiden dat de wereldgenerator faalt\n\nOverweeg om het aantal verhaalkenmerken te verlagen of de geselecteerde asteroïde te wijzigen</color>"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TRAIT_COUNT
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.TRAIT_COUNT"
@@ -57881,6 +57951,11 @@ msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLD_CHOICE.TOOL
 msgid "New worlds added by mods can be selected here"
 msgstr "Nieuwe werelden toegevoegd door mods kunnen hier worden geselecteerd"
 
+#. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLDGEN_SEED.FIXEDSEED
+msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLDGEN_SEED.FIXEDSEED"
+msgid "This is a predetermined seed, and cannot be changed"
+msgstr ""
+
 #. STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLDGEN_SEED.NAME
 msgctxt "STRINGS.UI.FRONTEND.CUSTOMGAMESETTINGSSCREEN.SETTINGS.WORLDGEN_SEED.NAME"
 msgid "Worldgen Seed"
@@ -58168,8 +58243,8 @@ msgstr "Bezig met laden..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
-msgid "<color=#ff0000>Autosave: This file will get deleted as new autosaves are created</color>"
-msgstr "<color=#ff0000>Autosave: Dit bestand wordt verwijderd als er nieuwe autosaves worden gemaakt</color>"
+msgid "<color=#F44A47FF>Autosave: This file will get deleted as new autosaves are created</color>"
+msgstr "<color=#F44A47FF>Autosave: Dit bestand wordt verwijderd als er nieuwe autosaves worden gemaakt</color>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.BACKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.BACKBUTTON"
@@ -58303,8 +58378,8 @@ msgstr "Als u een kolonie converteert om GEEN opslagbestanden in de cloud te geb
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
-msgid "<b><color=#ff0000>Could not load file {0}. Its data may be corrupted.</color></b>"
-msgstr "<b><color=#ff0000>Kon bestand {0} niet laden. De gegevens zijn mogelijk beschadigd.</color></b>"
+msgid "<b><color=#F44A47FF>Could not load file {0}. Its data may be corrupted.</color></b>"
+msgstr "<b><color=#F44A47FF>Kon bestand {0} niet laden. De gegevens zijn mogelijk beschadigd.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CYCLES_SURVIVED
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CYCLES_SURVIVED"
@@ -58330,6 +58405,11 @@ msgstr "<i>Spaced Out!</i> Uitbreiding FIXME"
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.EXPANSION1_RESTART"
 msgid "Loading this colony will require restarting the game with <i>Spaced Out!</i> content enabled"
 msgstr "Het laden van deze kolonie vereist het herstarten van het spel met <i>Spaced Out!</i> content ingeschakeld"
+
+#. STRINGS.UI.FRONTEND.LOADSCREEN.LOAD_MORE_COLONIES_BUTTON
+msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.LOAD_MORE_COLONIES_BUTTON"
+msgid "Load more..."
+msgstr ""
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.LOCAL_SAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.LOCAL_SAVE"
@@ -58443,13 +58523,13 @@ msgstr "LOKALE SAVES"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_SPACED_OUT_TOOLTIP"
-msgid "<color=#ff0000>This save was created in the <i>Spaced Out!</i> DLC. Activate the DLC to play it</color>"
-msgstr "<color=#ff0000>Deze save is gemaakt in de <i>Spaced Out!</i> DLC. Activeer de DLC om deze af te spelen</color>"
+msgid "<color=#F44A47FF>This save was created in the <i>Spaced Out!</i> DLC. Activate the DLC to play it</color>"
+msgstr "<color=#F44A47FF>Deze save is gemaakt in de <i>Spaced Out!</i> DLC. Activeer de DLC om deze af te spelen</color>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_VANILLA_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_FROM_VANILLA_TOOLTIP"
-msgid "<color=#ff0000>This save was created in the base game. Deactivate the <i>Spaced Out!</i> DLC to play it.</color>"
-msgstr "<color=#ff0000>Deze save is gemaakt in het basisspel. Deactiveer de <i>Spaced Out!</i> DLC om het te spelen.</color>"
+msgid "<color=#F44A47FF>This save was created in the base game. Deactivate the <i>Spaced Out!</i> DLC to play it.</color>"
+msgstr "<color=#F44A47FF>>Deze save is gemaakt in het basisspel. Deactiveer de <i>Spaced Out!</i> DLC om het te spelen.</color>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_INFO"
@@ -58483,13 +58563,13 @@ msgstr "Basisspel opslaan"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_MISSING_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_MISSING_CONTENT"
-msgid "<b><color=#ff0000>Could not load file {0}. File was saved with content that is not currently installed.</color></b>"
-msgstr "<b><color=#ff0000>Kon bestand {0} niet laden. Bestand is opgeslagen met inhoud die momenteel niet is geïnstalleerd.</color></b>"
+msgid "<b><color=#F44A47FF>Could not load file {0}. File was saved with content that is not currently installed.</color></b>"
+msgstr "<b><color=#F44A47FF>Kon bestand {0} niet laden. Bestand is opgeslagen met inhoud die momenteel niet is geïnstalleerd.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
-msgid "<b><color=#ff0000>Could not load file {0}. File is using build {1}, v{2}. This build is {3}, v{4}.</color></b>"
-msgstr "<b><color=#ff0000>Kan bestand {0} niet laden. Bestand gebruikt build {1}, v{2}. Deze build is {3}, v{4}.</color></ b>"
+msgid "<b><color=#F44A47FF>Could not load file {0}. File is using build {1}, v{2}. This build is {3}, v{4}.</color></b>"
+msgstr "<b><color=#F44A47FF>Kan bestand {0} niet laden. Bestand gebruikt build {1}, v{2}. Deze build is {3}, v{4}.</color></ b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS"
@@ -58508,13 +58588,13 @@ msgstr "SPEL LADEN"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION"
-msgid "<b><color=#ff0000>This save file is from a previous version of the game and is no longer supported.</color></b>"
-msgstr "<b><color=#ff0000>Dit opslagbestand is van een vorige versie van het spel en wordt niet langer ondersteund.</color></b>"
+msgid "<b><color=#F44A47FF>This save file is from a previous version of the game and is no longer supported.</color></b>"
+msgstr "<b><color=#F44A47FF>Dit opslagbestand is van een vorige versie van het spel en wordt niet langer ondersteund.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_VANILLA_TEMP
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_VANILLA_TEMP"
-msgid "<b><color=#ff0000>This save file is from the base version of the game and currently cannot be loaded while <i>Spaced Out!</i> is installed.</color></b>"
-msgstr "<b><color=#ff0000>Dit opslagbestand is van de basisversie van het spel en kan momenteel niet worden geladen terwijl <i>Spaced Out!</i> is geïnstalleerd.</color></b>"
+msgid "<b><color=#F44A47FF>This save file is from the base version of the game and currently cannot be loaded while <i>Spaced Out!</i> is installed.</color></b>"
+msgstr "<b><color=#F44A47FF>Dit opslagbestand is van de basisversie van het spel en kan momenteel niet worden geladen terwijl <i>Spaced Out!</i> is geïnstalleerd.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.VANILLA_CONTENT"
@@ -59243,8 +59323,8 @@ msgstr "STEAM WORKSHOP"
 
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
-msgid "WHATTA BLAST!"
-msgstr "WAT EEN KNALLER!"
+msgid "JUNE 2023 QOL"
+msgstr "JUNI 2023 QOL"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.NEWS_BODY"
@@ -59258,8 +59338,8 @@ msgstr "DOE MEE AAN DE DISCUSSIE"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
-msgid "This update includes:\n\n•<indent=20px>New Meteor Blaster and Blastshot Maker buildings.</indent>\n•<indent=20px>New meteor showers in Spaced Out!</indent>\n•<indent=20px>Customizable meteor shower intensity.</indent>\n•<indent=20px>Bug fixes and quality of life improvements.</indent>\n\n   Check out the full patch notes for more details!"
-msgstr "This update includes:\n\n•<indent=20px>New Meteor Blaster and Blastshot Maker buildings.</indent>\n•<indent=20px>New meteor showers in Spaced Out!</indent>\n•<indent=20px>Customizable meteor shower intensity.</indent>\n•<indent=20px>Bug fixes and quality of life improvements.</indent>\n\n   Check out the full patch notes for more details!"
+msgid "This update includes:\n\n•<indent=20px>Significant changes to Space Scanner and telescopes.</indent>\n•<indent=20px>New category of cosmetic skins.</indent>\n•<indent=20px>New Move To tool for transporting objects.</indent>\n•<indent=20px>A strange new asteroid and Puft Atmo Suit skin for Klei Fest.</indent>\n•<indent=20px>Bug fixes and quality of life improvements.</indent>\n\n   Check out the full patch notes for more details!"
+msgstr ""
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
@@ -59591,6 +59671,31 @@ msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.NEWAUTOMATIONWARNING_TITLE"
 msgid "AUTOMATION CHANGES"
 msgstr "AUTOMATION CHANGES"
 
+#. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_SPACESCANNERS
+msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_SPACESCANNERS"
+msgid "•<indent=20px>Automation is synced between all Space Scanners targeting the same object.</indent>\n•<indent=20px>Network quality based on the total percentage of sky covered.</indent>\n•<indent=20px>Industrial machinery no longer impacts network quality.</indent>"
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_SUMMARY
+msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_SUMMARY"
+msgid "There have been significant changes to <b>Space Scanners</b> and <b>Telescopes</b> since this save file was created!\n\nMeteor showers have been disabled for 20 cycles to provide time to adapt."
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_TELESCOPES
+msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_TELESCOPES"
+msgid "•<indent=20px>Telescopes have a symmetrical scanning range.</indent>\n•<indent=20px>Obstructions block visibility from the blocked tile out toward the outer edge of scanning range.</indent>"
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_TITLE
+msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_TITLE"
+msgid "JUNE 2023 QoL UPDATE CHANGES"
+msgstr ""
+
+#. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_WARNING
+msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SPACESCANNERANDTELESCOPECHANGES_WARNING"
+msgid "Please note these changes which may affect your existing colony:\n\n"
+msgstr ""
+
 #. STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SUDDENMORALEHELPER
 msgctxt "STRINGS.UI.FRONTEND.SAVEUPGRADEWARNINGS.SUDDENMORALEHELPER"
 msgid "Welcome to the Expressive Upgrade! This update introduces a new Morale system that replaces Food and Decor Expectations that were found in previous versions of the game.\n\nThe game you are trying to load was created before this system was introduced, and will need to be updated. You may either:\n\n\n1) Enable the new Morale system in this save, removing Food and Decor Expectations. It's possible that when you load your save your old colony won't meet your Duplicants' new Morale needs, so they'll receive a 5 cycle Morale boost to give you time to adjust.\n\n2) Disable Morale in this save. The new Morale mechanics will still be visible, but won't affect your Duplicants' stress. Food and Decor expectations will no longer exist in this save."
@@ -59878,7 +59983,7 @@ msgstr "Randomiseer"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.RANDOM_BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.RANDOM_BUTTON_TOOLTIP"
-msgid "Randomize a new world gen seed"
+msgid "Randomize a new worldgen seed"
 msgstr "Randomiseer een new wereldgeneratie seed"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TITLE
@@ -59888,12 +59993,12 @@ msgstr "OPTIES WERELDGENERATIE"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.TOOLTIP"
-msgid "This will override the current world gen seed"
+msgid "This will override the current worldgen seed"
 msgstr "Dit overschrijft de huidige wereldgeneratie seed"
 
 #. STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.USE_SEED
 msgctxt "STRINGS.UI.FRONTEND.WORLD_GEN_OPTIONS_SCREEN.USE_SEED"
-msgid "Set World Gen Seed"
+msgid "Set Worldgen Seed"
 msgstr "Stel Wereldgeneratie Seed In"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD
@@ -60050,6 +60155,11 @@ msgstr "{Attribute} {Value}"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_EFFECTS"
 msgid "Effects:"
 msgstr "Effecten:"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_MORALE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_MORALE"
+msgid "Morale: {0}"
+msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_QUALITY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FOOD_QUALITY"
@@ -60250,6 +60360,11 @@ msgstr "{Attribute} {Value}"
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_EFFECTS"
 msgid "Duplicants will gain the following effects from eating this food: {0}"
 msgstr "Duplicanten krijgen de volgende effecten door het eten van dit voedsel: {0}"
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_MORALE
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_MORALE"
+msgid "Morale: {0}"
+msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_QUALITY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.FOOD_QUALITY"
@@ -60853,13 +60968,13 @@ msgstr "Kunstwerken"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BELT
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BELT"
-msgid "Atmo Suit Belt"
-msgstr "Atmopak Riem"
+msgid "Atmo Belts"
+msgstr "Atmo Riem"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BODY
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BODY"
-msgid "Atmo Suit Body"
-msgstr "Atmopak Body"
+msgid "Atmo Suits"
+msgstr "Atmopakken"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BOOTS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BOOTS"
@@ -60868,13 +60983,18 @@ msgstr "Atmopak Laarzen"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_GLOVES
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_GLOVES"
-msgid "Atmo Suit Gloves"
-msgstr "Atmopak Handschoenen"
+msgid "Atmo Gloves"
+msgstr "Atmo Handschoenen"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_HELMET
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_HELMET"
-msgid "Atmo Suit Helmet"
-msgstr "Atmopak Helm"
+msgid "Atmo Helmets"
+msgstr "Atmo Helm"
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_SHOES
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_SHOES"
+msgid "Atmo Boots"
+msgstr "Atmo Schoenen"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMOSUITS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMOSUITS"
@@ -62601,6 +62721,16 @@ msgctxt "STRINGS.UI.OUTFIT_BROWSER_SCREEN.TOOLTIP_DELETE_OUTFIT_ERROR_READONLY"
 msgid "This outfit cannot be deleted"
 msgstr "Deze outfit kan niet worden verwijderd"
 
+#. STRINGS.UI.OUTFIT_BROWSER_SCREEN.TOOLTIP_FILTER_BY_ATMO_SUITS
+msgctxt "STRINGS.UI.OUTFIT_BROWSER_SCREEN.TOOLTIP_FILTER_BY_ATMO_SUITS"
+msgid "View your Atmo Suit Outfits"
+msgstr ""
+
+#. STRINGS.UI.OUTFIT_BROWSER_SCREEN.TOOLTIP_FILTER_BY_CLOTHING
+msgctxt "STRINGS.UI.OUTFIT_BROWSER_SCREEN.TOOLTIP_FILTER_BY_CLOTHING"
+msgid "View your Clothing Outfits"
+msgstr ""
+
 #. STRINGS.UI.OUTFIT_BROWSER_SCREEN.TOOLTIP_PICK_OUTFIT_ERROR_LOCKED
 msgctxt "STRINGS.UI.OUTFIT_BROWSER_SCREEN.TOOLTIP_PICK_OUTFIT_ERROR_LOCKED"
 msgid "Cannot assign this outfit to {MinionName} because my colony doesn't have all of these blueprints yet"
@@ -62621,63 +62751,13 @@ msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.CONTAINS_NON_OWNED_ITEMS"
 msgid "This outfit cannot be worn because my colony doesn't have all of its blueprints yet."
 msgstr "Deze outfit kan niet gedragen worden omdat mijn kolonie nog niet alle blauwdrukken heeft."
 
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_BELT
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_BELT"
-msgid "Default Belt"
-msgstr "Standaard Riem"
+#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_JOY_RESPONSE_DESC
+msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_JOY_RESPONSE_DESC"
+msgid "Default response to an overjoyed state."
+msgstr ""
 
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_BODY
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_BODY"
-msgid "Default Body"
-msgstr "Standaard Body"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_BOOTS
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_BOOTS"
-msgid "Default Boots"
-msgstr "Standaard Laarzen"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_GLOVES
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_GLOVES"
-msgid "Default Gloves"
-msgstr "Standaard Handschoenen"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_HELMET
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_ATMO_SUIT_HELMET"
-msgid "Default Helmet"
-msgstr "Standaard Helm"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_ACCESSORIES
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_ACCESSORIES"
-msgid "Default Accessory"
-msgstr "Standaard Accessoire"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_BOTTOMS
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_BOTTOMS"
-msgid "Default Bottom"
-msgstr "Standaard Onderste"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_GLOVES
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_GLOVES"
-msgid "Default Gloves"
-msgstr "Standaard Handschoenen"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_HATS
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_HATS"
-msgid "Default Headgear"
-msgstr "Standaard Hoofddeksel"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_SHOES
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_SHOES"
-msgid "Default Footwear"
-msgstr "Standaard Schoeisel"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_TOPS
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_DUPE_TOPS"
-msgid "Default Top"
-msgstr "Standaard Top"
-
-#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_JOY_RESPONSE
-msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_JOY_RESPONSE"
+#. STRINGS.UI.OUTFIT_DESCRIPTION.NO_JOY_RESPONSE_NAME
+msgctxt "STRINGS.UI.OUTFIT_DESCRIPTION.NO_JOY_RESPONSE_NAME"
 msgid "Default Overjoyed Response"
 msgstr "Standaard Dolblije Reactie"
 
@@ -62798,13 +62878,48 @@ msgstr "Standaard Atmopak"
 
 #. STRINGS.UI.OUTFIT_NAME.NONE_JOY_RESPONSE
 msgctxt "STRINGS.UI.OUTFIT_NAME.NONE_JOY_RESPONSE"
-msgid "Default Overjoyed Blueprint"
+msgid "Default Overjoyed Response"
 msgstr "Standaard Dolblije Blauwdruk"
 
 #. STRINGS.UI.OUTFIT_NAME.RESOLVE_CONFLICT
 msgctxt "STRINGS.UI.OUTFIT_NAME.RESOLVE_CONFLICT"
 msgid "{OutfitName} ({ConflictNumber})"
 msgstr "{OutfitName} ({ConflictNumber})"
+
+#. STRINGS.UI.OUTFITS.ATHLETE.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATHLETE.NAME"
+msgid "Racing Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.ATMOSUIT_LIMONE.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_LIMONE.NAME"
+msgid "Citrus Atmo Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.ATMOSUIT_PUFT.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_PUFT.NAME"
+msgid "Puft Atmo Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_BLUE.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_BLUE.NAME"
+msgid "Blue Glitter Atmo Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_GREEN.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_GREEN.NAME"
+msgid "Green Glitter Atmo Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_LAVENDER.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_LAVENDER.NAME"
+msgid "Violet Glitter Atmo Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_RED.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_RED.NAME"
+msgid "Red Glitter Atmo Outfit"
+msgstr ""
 
 #. STRINGS.UI.OUTFITS.BASIC_AQUA.NAME
 msgctxt "STRINGS.UI.OUTFITS.BASIC_AQUA.NAME"
@@ -62885,6 +63000,11 @@ msgstr "Basic Witte Outfit"
 msgctxt "STRINGS.UI.OUTFITS.BASIC_YELLOW.NAME"
 msgid "Basic Yellow Outfit"
 msgstr "Basic Gele Outfit"
+
+#. STRINGS.UI.OUTFITS.CIRCUIT.NAME
+msgctxt "STRINGS.UI.OUTFITS.CIRCUIT.NAME"
+msgid "LED Party Outfit"
+msgstr ""
 
 #. STRINGS.UI.OUTFITS.JELLYPUFF_BLUEBERRY.NAME
 msgctxt "STRINGS.UI.OUTFITS.JELLYPUFF_BLUEBERRY.NAME"
@@ -67978,8 +68098,8 @@ msgstr "Er zijn geen bemanningsleden aan boord van deze raket gegaan\n\nDuplican
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.NONE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.NONE"
-msgid "There are no Duplicants assigned to this rocket crew\n\n    • {0}/{1} Boarded"
-msgstr "Er zijn geen Duplicanten toegewezen aan deze raketbemanning\n\n    • {0}/{1} Geënterd"
+msgid "There are no Duplicants assigned to this rocket crew\n    • {0}/{1} Boarded"
+msgstr "Er zijn geen Duplicanten toegewezen aan deze raketbemanning\n\n    • {0}/{1} Aan Boord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.READY"
@@ -67988,8 +68108,8 @@ msgstr "Alle Duplicanten toegewezen aan de raketbemanning zijn aan boord en klaa
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.TOOLTIP.WARNING"
-msgid "Some Duplicants assigned to this rocket crew have not yet boarded\n\n    • {0}/{1} Boarded"
-msgstr "Sommige Duplicanten toegewezen aan deze raketbemanning zijn nog niet aan boord gegaan\n\n    • {0}/{1} Aan boord"
+msgid "Some Duplicants assigned to this rocket crew have not yet boarded\n    • {0}/{1} Boarded"
+msgstr "Sommige Duplicanten toegewezen aan deze raketbemanning zijn nog niet aan boord gegaan\n    • {0}/{1} Aan boord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.CREW_BOARDED.WARNING"
@@ -74501,6 +74621,26 @@ msgctxt "STRINGS.UI.USERMENUACTIONS.OPENPOI.TOOLTIP_OFF"
 msgid "Cancel this rummage order"
 msgstr "Annuleer deze rommelopdracht"
 
+#. STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME"
+msgid "Move To"
+msgstr ""
+
+#. STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME_OFF
+msgctxt "STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME_OFF"
+msgid "Cancel Move"
+msgstr ""
+
+#. STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP
+msgctxt "STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP"
+msgid "Move this object to a specific location"
+msgstr ""
+
+#. STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP_OFF
+msgctxt "STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP_OFF"
+msgid "Cancel order to move this object"
+msgstr ""
+
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME"
 msgid "Quarantine"
@@ -76285,6 +76425,16 @@ msgstr "Een ijskoude locatie gekenmerkt door overal onherbergzame lage temperatu
 msgctxt "STRINGS.WORLDS.SANDSTONE_FROZEN.NAME"
 msgid "Rime"
 msgstr "Rijm"
+
+#. STRINGS.WORLDS.STRANGE_ASTEROID_KF23.DESCRIPTION
+msgctxt "STRINGS.WORLDS.STRANGE_ASTEROID_KF23.DESCRIPTION"
+msgid "A tilted world, at once strange and...strangely familiar. Its singular terrain is consistent across all universes.\n\nThis resistance to the fluidity of temporal shifts has the cosmos buzzing, as individual colonies compare notes on successes, failures and the bizarre redistribution of resources.\n\n<smallcaps>Released for Klei Fest 2023."
+msgstr ""
+
+#. STRINGS.WORLDS.STRANGE_ASTEROID_KF23.NAME
+msgctxt "STRINGS.WORLDS.STRANGE_ASTEROID_KF23.NAME"
+msgid "Skewed Asteroid"
+msgstr ""
 
 #. STRINGS.WORLDS.STRANGERICHSANDSTONE.DESCRIPTION
 msgctxt "STRINGS.WORLDS.STRANGERICHSANDSTONE.DESCRIPTION"
