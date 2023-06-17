@@ -6,6 +6,8 @@ let @k='k0f"lyi"j0f"p0f"l'
 " replace the selection by an automatic translation
 let @t=":!trans --brief --no-warn :nl"
 
+" put cursor at next empty translation
+map <F7> /msgid ".\+"\nmsgstr "\zs"<CR>zz
 " perform automatic translation of empty string
 map <F8> @kvi"@t<CR>
 " put cursor at next translation
