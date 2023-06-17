@@ -55992,7 +55992,7 @@ msgstr "PATCHNOTITIES"
 #. STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.FULL_PATCH_NOTES"
 msgid "Full Patch Notes"
-msgstr "Volledige Patch Notities"
+msgstr "Volledige Patch Info"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.PREVIOUS_UPDATE.BODY"
@@ -59337,7 +59337,7 @@ msgstr "DOE MEE AAN DE DISCUSSIE"
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid "This update includes:\n\n•<indent=20px>Significant changes to Space Scanner and telescopes.</indent>\n•<indent=20px>New category of cosmetic skins.</indent>\n•<indent=20px>New Move To tool for transporting objects.</indent>\n•<indent=20px>A strange new asteroid and Puft Atmo Suit skin for Klei Fest.</indent>\n•<indent=20px>Bug fixes and quality of life improvements.</indent>\n\n   Check out the full patch notes for more details!"
-msgstr "Deze update omvat:\n\n•<indent=20px>Aanzienlijke wijzigingen aan Ruimtescanner en telescopen.</indent>\n•<indent=20px>Nieuwe categorie cosmetische skins.</indent>\n•< indent=20px>Nieuwe Verplaats Naar tool voor het transporteren van objecten.</indent>\n•<indent=20px>Een vreemde nieuwe asteroïde en Puft Atmopak skin voor Klei Fest.</indent>\n•<indent=20px>Bug fixes en verbeteringen van de kwaliteit van leven.</indent>\n\n Bekijk de volledige patch-opmerkingen voor meer details!"
+msgstr "Deze update omvat:\n\n•<indent=20px>Aanzienlijke wijzigingen aan Ruimtescanner en telescopen.</indent>\n•<indent=20px>Nieuwe categorie cosmetische skins.</indent>\n•<indent=20px>Nieuwe Verplaats Naar tool voor het transporteren van objecten.</indent>\n•<indent=20px>Een vreemde nieuwe asteroïde en Puft Atmopak skin voor Klei Fest.</indent>\n•<indent=20px>Bug fixes en verbeteringen van de kwaliteit van leven.</indent>\n\n Bekijk de volledige patch-opmerkingen voor meer details!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
