@@ -4,6 +4,10 @@ Changes to the mod will be documented in this file.
 
 # Released
 
+## [1.1.0] 2023/06/17
+- Merged new `strings_template.pot` 
+- Klei Fest 2023 ready
+
 ## [1.0.2] 2023/06/09
 - Tweaked build menu items
 - Replaced 'deconstruct'
