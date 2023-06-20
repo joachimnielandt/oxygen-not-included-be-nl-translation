@@ -37931,7 +37931,7 @@ msgstr "(C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) Sucrose is de ruwe vorm van
 #. STRINGS.ELEMENTS.MOLTENSUCROSE.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENSUCROSE.NAME"
 msgid "<link=\"MOLTENSUCROSE\">Sucrose</link>"
-msgstr "<link=\"MOLTENSUCROSE\">Sacharose</link>"
+msgstr "<link=\"MOLTENSUCROSE\">Sucrose</link>"
 
 #. STRINGS.ELEMENTS.MOLTENSYNGAS.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSYNGAS.DESC"
@@ -38541,7 +38541,7 @@ msgstr "(C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) Sucrose is de ruwe vorm van
 #. STRINGS.ELEMENTS.SUCROSE.NAME
 msgctxt "STRINGS.ELEMENTS.SUCROSE.NAME"
 msgid "<link=\"SUCROSE\">Sucrose</link>"
-msgstr "<link=\"SUCROSE\">Sacharose</link>"
+msgstr "<link=\"SUCROSE\">Sucrose</link>"
 
 #. STRINGS.ELEMENTS.SULFUR.DESC
 msgctxt "STRINGS.ELEMENTS.SULFUR.DESC"
