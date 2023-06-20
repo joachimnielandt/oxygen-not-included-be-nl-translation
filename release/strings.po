@@ -10636,7 +10636,7 @@ msgstr "Produceert <link=\"FOOD\">Voedsel</link> van lage kwaliteit met gewone i
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "<link=\"MICROBEMUSHER\">Microbe Musher</link>"
-msgstr "<link=\"MICROBEMUSHER\">Microbe Musher</link>"
+msgstr "<link=\"MICROBEMUSHER\">Microbe Pletter</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
@@ -16346,7 +16346,7 @@ msgstr "Lage decoratie kan Duplicant <link=\"STRESS\">Stress</link> verhogen. Ge
 #. STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.DECORSYSTEM.PARAGRAPH_2"
 msgid "Many things have an effect on the Decor value of a tile. A building's effect is expressed as a strength value and a radius. Often that effect is positive, but many buildings also lower the decor value of an area too. <link=\"PLANTS\">Plants</link>, <link=\"CREATURES\">Critters</link>, and <link=\"BUILDCATEGORYFURNITURE\">Furniture</link> often increase decor while industrial buildings and rot often decrease it. Duplicants experience the combined decor of all objects affecting a tile.\n\nThe <link=\"PRICKLEGRASS\">Bluff Briar</link> has a decor value of 25 and a radius of 4 tiles. \nThe <link=\"MICROBEMUSHER\">Microbe Musher</link> has a decor value of -15 and a radius of 3 tiles. \nThe result of placing a <link=\"MICROBEMUSHER\">Microbe Musher</link> next to a <link=\"PRICKLEGRASS\">Bluff Briar</link> would be a combined decor value of 10"
-msgstr "Veel dingen hebben een effect op de decorwaarde van een tegel. Het effect van een gebouw wordt uitgedrukt als een sterktewaarde en een straal. Vaak is dat effect positief, maar veel gebouwen verlagen ook de decorwaarde van een gebied. <link=\"PLANTS\">Planten</link>, <link=\"CREATURES\">Beestjes</link> en <link=\"BUILDCATEGORYFURNITURE\">Meubels</link> verhogen vaak het decor terwijl industriële gebouwen rotten verklein het vaak. Duplicanten ervaren het gecombineerde decor van alle objecten die een tegel beïnvloeden.\n\nDe <link=\"PRICKLEGRASS\">Blufroos</link> heeft een decorwaarde van 25 en een straal van 4 tegels. \nDe <link=\"MICROBEMUSHER\">Microbe Musher</link> heeft een decorwaarde van -15 en een straal van 3 tegels. \nHet resultaat van het plaatsen van een <link=\"MICROBEMUSHER\">Microbe Musher</link> naast een <link=\"PRICKLEGRASS\">Blufroos</link> zou een gecombineerde decorwaarde van 10 zijn"
+msgstr "Veel dingen hebben een effect op de decorwaarde van een tegel. Het effect van een gebouw wordt uitgedrukt als een sterktewaarde en een straal. Vaak is dat effect positief, maar veel gebouwen verlagen ook de decorwaarde van een gebied. <link=\"PLANTS\">Planten</link>, <link=\"CREATURES\">Beestjes</link> en <link=\"BUILDCATEGORYFURNITURE\">Meubels</link> verhogen vaak het decor terwijl industriële gebouwen rotten verklein het vaak. Duplicanten ervaren het gecombineerde decor van alle objecten die een tegel beïnvloeden.\n\nDe <link=\"PRICKLEGRASS\">Blufroos</link> heeft een decorwaarde van 25 en een straal van 4 tegels. \nDe <link=\"MICROBEMUSHER\">Microbe Pletter</link> heeft een decorwaarde van -15 en een straal van 3 tegels. \nHet resultaat van het plaatsen van een <link=\"MICROBEMUSHER\">Microbe Pletter</link> naast een <link=\"PRICKLEGRASS\">Blufroos</link> zou een gecombineerde decorwaarde van 10 zijn"
 
 #. STRINGS.CODEX.DECORSYSTEM.TITLE
 msgctxt "STRINGS.CODEX.DECORSYSTEM.TITLE"
@@ -27886,7 +27886,7 @@ msgstr "Bezorgen bij {0}"
 #. STRINGS.DUPLICANTS.CHORES.RANCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.STATUS"
 msgid "Ranching"
-msgstr "Boeren"
+msgstr "Veehouden"
 
 #. STRINGS.DUPLICANTS.CHORES.RANCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RANCH.TOOLTIP"
@@ -32946,7 +32946,7 @@ msgstr "Graver"
 #. STRINGS.DUPLICANTS.SKILLGROUPS.RANCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.SKILLGROUPS.RANCHING.NAME"
 msgid "Rancher"
-msgstr "Boeren"
+msgstr "Veehouder"
 
 #. STRINGS.DUPLICANTS.SKILLGROUPS.RESEARCH.NAME
 msgctxt "STRINGS.DUPLICANTS.SKILLGROUPS.RESEARCH.NAME"
@@ -34361,7 +34361,7 @@ msgstr "Deze Duplicant is ziek vanwege <style=\"KKeyword\">Straling</style> verg
 #. STRINGS.DUPLICANTS.STATUSITEMS.RANCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RANCHING.NAME"
 msgid "Ranching"
-msgstr "Boeren"
+msgstr "Veehouden"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RANCHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RANCHING.TOOLTIP"
@@ -43926,7 +43926,7 @@ msgstr "Voedseltekort"
 #. STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODLOW.TOOLTIP"
 msgid "The colony's <link=\"FOOD\">Food</link> reserves are low:\n\n    • {0} are currently available\n    • {1} is being consumed per cycle\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> can be built from the <b>Food Tab</b> {Hotkey/Plan4}"
-msgstr "De <link=\"FOOD\">Voedsel</link> reserves van de kolonie zijn laag:\n\n    • {0} zijn momenteel beschikbaar\n    • {1} wordt verbruikt per cyclus\n \n<link=\"MICROBEMUSHER\">Microbe Mushers</link> kunnen worden gebouwd vanaf het <b>Voedsel tabblad</b> {Hotkey/Plan4}"
+msgstr "De <link=\"FOOD\">Voedsel</link> reserves van de kolonie zijn laag:\n\n    • {0} zijn momenteel beschikbaar\n    • {1} wordt verbruikt per cyclus\n \n<link=\"MICROBEMUSHER\">Microbe Pletter</link> kunnen worden gebouwd vanaf het <b>Voedsel tabblad</b> {Hotkey/Plan4}"
 
 #. STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FOODROT.NAME"
@@ -44241,7 +44241,7 @@ msgstr "Kolonie vereist een voedselbron"
 #. STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDFOOD.TOOLTIP"
 msgid "The colony will exhaust their supplies without a new <link=\"FOOD\">Food</link> source\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> can be built from the <b>Food Tab</b> {Hotkey/Plan4}"
-msgstr "De kolonie raakt uitgeput zonder een nieuwe <link=\"FOOD\">Voedsel</link> bron\n\n<link=\"MICROBEMUSHER\">Microbe Mushers</link> kunnen worden gebouwd vanuit de <b>Eten Tab</b> {Hotkey/Plan4}"
+msgstr "De kolonie raakt uitgeput zonder een nieuwe <link=\"FOOD\">Voedsel</link> bron\n\n<link=\"MICROBEMUSHER\">Microbe Pletter</link> kunnen worden gebouwd vanuit de <b>Eten Tab</b> {Hotkey/Plan4}"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
@@ -62292,12 +62292,12 @@ msgstr ""
 #. STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.BUILDMENUTITLE"
 msgid "Ranching"
-msgstr "Boeren"
+msgstr "Veehouden"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.NAME
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.NAME"
 msgid "Ranching"
-msgstr "Boeren"
+msgstr "Veehouden"
 
 #. STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.TOOLTIP
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.RANCHING.TOOLTIP"
@@ -64532,7 +64532,7 @@ msgstr "Straling"
 #. STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.RANCHING
 msgctxt "STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.RANCHING"
 msgid "Ranching"
-msgstr "Boeren"
+msgstr "Veehouden"
 
 #. STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.ROCKET
 msgctxt "STRINGS.UI.RESEARCHSCREEN.FILTER_BUTTONS.ROCKET"
@@ -75322,7 +75322,7 @@ msgstr "Ik ben wakker geworden op de doellocatie, maar de kolonisatie-inspanning
 #. STRINGS.UI.WELCOMEMESSAGEBODY_SPACEDOUT
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY_SPACEDOUT"
 msgid "The asteroid we call home has collided with an anomalous planet, decimating our colony. Rebuilding it is of the utmost importance.\n\nI've detected a new cluster of material-rich planetoids in nearby space. If I can guide the Duplicants through the perils of space travel, we could build a colony even bigger and better than before."
-msgstr "De asteroïde die we thuis noemen is gebotst op een abnormale planeet en onze kolonie heeft het niet overleefd. Het herbouwen ervan is van het allergrootste belang.\n\nIk heb een nieuwe cluster van materiaalrijke planetoïden ontdekt in de nabije ruimte. Als ik de Duplicanten de gevaren van de ruimtevaart te kan laten trotseren, zouden we een kolonie kunnen bouwen die groter en beter is dan de oude."
+msgstr "De asteroïde die we thuis noemen is gebotst op een abnormale planeet en onze kolonie heeft het niet overleefd. Het herbouwen ervan is van het allergrootste belang.\n\nIk heb een nieuwe cluster van materiaalrijke planetoïden ontdekt in de nabije ruimte. Als ik de Duplicanten de gevaren van de ruimtevaart veilig kan laten trotseren, zouden we een kolonie kunnen bouwen die groter en beter is dan de oude."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
