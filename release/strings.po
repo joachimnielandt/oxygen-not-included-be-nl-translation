@@ -17916,12 +17916,12 @@ msgstr "Puf Prins"
 #. STRINGS.CODEX.PRIORITY.HEADER_1
 msgctxt "STRINGS.CODEX.PRIORITY.HEADER_1"
 msgid "Errand Priority"
-msgstr "Boodschapsprioriteit"
+msgstr "Opdracht Prioriteit"
 
 #. STRINGS.CODEX.PRIORITY.HEADER_2
 msgctxt "STRINGS.CODEX.PRIORITY.HEADER_2"
 msgid "Errand Type Prioritization"
-msgstr "Opdracht Type Prioriteitsbepaling"
+msgstr "Opdracht Type Prioriteit"
 
 #. STRINGS.CODEX.PRIORITY.HEADER_3
 msgctxt "STRINGS.CODEX.PRIORITY.HEADER_3"
@@ -17931,17 +17931,17 @@ msgstr "Prioriteit Tool"
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_1"
 msgid "Duplicants prioritize their errands based on several factors. Some of these can be adjusted to affect errand choice, but some errands (such as seeking breathable <link=\"OXYGEN\">Oxygen</link>) are so important that they cannot be delayed. Errand priority can primarily be controlled by Errand Type prioritization, and then can be further fine-tuned by the <b>Priority Tool</b> {Hotkey/Prioritize}.\n\n"
-msgstr "Duplicanten geven prioriteit aan hun opdrachten op basis van verschillende factoren. Sommige hiervan kunnen worden aangepast om de opdrachtenkeuze te beïnvloeden, maar sommige opdrachten (zoals het zoeken naar ademende <link=\"OXYGEN\">Zuurstof</link>) zijn zo belangrijk dat ze kan niet worden uitgesteld. Boodschappenprioriteit kan voornamelijk worden beheerd door Boodschappentype-prioritering en kan vervolgens verder worden verfijnd met de <b>Priority Tool</b> {Hotkey/Prioritize}.\n\n"
+msgstr "Duplicanten geven prioriteit aan hun opdrachten op basis van verschillende factoren. Sommige hiervan kunnen worden aangepast om de opdrachtenkeuze te beïnvloeden, maar sommige opdrachten (zoals het zoeken naar ademende <link=\"OXYGEN\">Zuurstof</link>) zijn zo belangrijk dat ze kan niet worden uitgesteld. Opdrachtprioriteit kan voornamelijk worden beheerd door Opdracht Type Prioriteit en kan vervolgens verder worden verfijnd met de <b>Priority Tool</b> {Hotkey/Prioritize}.\n\n"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_2"
 msgid "Each errand a Duplicant can perform falls into an Errand Category. These categories can be prioritized on a per-Duplicant basis in the <b>Priorities Screen</b>. Entire errand categories can also be prohibited to a Duplicant if they are meant to never perform errands of that variety. A common configuration is to assign errand type priority based on Duplicant attributes.\n\nFor example, Duplicants who are good at Research could be made to prioritize the Researching errand type. Duplicants with poor Athletics could be made to deprioritize the Supplying and Storing errand types.\n\n"
-msgstr "Elke boodschap die een Duplicant kan uitvoeren, valt in een Boodschappencategorie. Deze categorieën kunnen geprioriteerd worden per Duplicant in het <b>Prioriteitenscherm</b>. Volledige opdrachtencategorieën kunnen ook verboden worden voor een Duplicant als ze bedoeld om nooit opdrachten van die soort uit te voeren. Een gebruikelijke configuratie is om de prioriteit van het opdrachtentype toe te wijzen op basis van Duplicant-attributen.\n\nDuplicanten die goed zijn in Onderzoek kunnen bijvoorbeeld voorrang krijgen op het type Boodschappen doen. Duplicanten met een slechte atletiek kunnen worden gemaakt om prioriteit te geven aan de typen opdrachten leveren en opslaan.\n\n"
+msgstr "Elke opdracht die een Duplicant kan uitvoeren, valt in een Opdracht Categorie. Deze categorieën kunnen per Duplicant een prioriteit krijgen in het <b>Prioriteitenscherm</b>. Volledige opdrachtencategorieën kunnen ook verboden worden voor een Duplicant als ze bedoeld om nooit opdrachten van die soort uit te voeren. Een gebruikelijke configuratie is om de prioriteit van het opdrachtentype toe te wijzen op basis van Duplicant-attributen.\n\nDuplicanten die goed zijn in Onderzoek kunnen bijvoorbeeld voorrang krijgen op het type Opdrachten doen. Duplicanten met een slechte atletiek kunnen worden gemaakt om prioriteit te geven aan de opdracht types Leveren en Opslaan.\n\n"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_3
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_3"
 msgid "The priority of errands can often be modified using the <b>Priority tool</b> {Hotkey/Prioritize}. The values applied by this tool are always less influential than the Errand Type priorities described above. If two errands with equal Errand Type Priority are available to a Duplicant, they will choose the errand with a higher priority setting as applied by the tool.\n\n"
-msgstr "De prioriteit van opdrachten kan vaak worden gewijzigd met behulp van de <b>Prioriteitstool</b> {Hotkey/Prioritize}. De waarden die door deze tool worden toegepast, zijn altijd minder invloedrijk dan de hierboven beschreven prioriteiten van het type opdrachten. Als twee opdrachten met gelijke Boodschap Type Prioriteit is beschikbaar voor een Duplicant, ze zullen de boodschap kiezen met een hogere prioriteitsinstelling zoals toegepast door de tool.\n\n"
+msgstr "De prioriteit van opdrachten kan vaak worden gewijzigd met behulp van de <b>Prioriteitstool</b> {Hotkey/Prioritize}. De waarden die door deze tool worden toegepast, zijn altijd minder invloedrijk dan de hierboven beschreven prioriteiten van het type opdrachten. Als twee opdrachten met gelijke Opdracht Type Prioriteit is beschikbaar voor een Duplicant, ze zullen de opdracht kiezen met een hogere prioriteitsinstelling zoals toegepast door de tool.\n\n"
 
 #. STRINGS.CODEX.PRIORITY.TITLE
 msgctxt "STRINGS.CODEX.PRIORITY.TITLE"
@@ -20281,7 +20281,7 @@ msgstr "Sticht kolonies op {goalBaseCount} asteroïden door Mini-Pods te bouwen 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_CYCLES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_CYCLES"
 msgid "All Dupes completed an Exosuit errand for cycles: {0} / {1}"
-msgstr "Alle Dupes hebben een Exopak-boodschap voltooid voor cycli: {0} / {1}"
+msgstr "Alle Dupes hebben een Exopak opdracht voltooid voor cycli: {0} / {1}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_THIS_CYCLE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.EXOSUIT_THIS_CYCLE"
@@ -27051,7 +27051,7 @@ msgstr "Aanleveren van kritische materialen"
 #. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.TOOLTIP"
 msgid "This Duplicant is delivering materials required to perform <style=\"KKeyword\">Life Support</style> Errands"
-msgstr "Deze Duplicant levert materialen die nodig zijn om <style=\"KKeyword\">Life Support</style> Boodschappen te doen"
+msgstr "Deze Duplicant levert materialen die nodig zijn om <style=\"KKeyword\">Levensondersteuning</style> Opdrachten te doen"
 
 #. STRINGS.DUPLICANTS.CHORES.FETCHRANCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHRANCHING.NAME"
@@ -27566,7 +27566,7 @@ msgstr "Niet genoeg zuurstof"
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CURRENT_ERRAND
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CURRENT_ERRAND"
 msgid "Current Errand"
-msgstr "Huidige boodschap"
+msgstr "Huidige Opdracht"
 
 #. STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CURRENTLY_PEEING
 msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.CURRENTLY_PEEING"
@@ -34711,7 +34711,7 @@ msgstr "Toewijzen {Item} aan {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREFORBUILDPRIORITIZEDDELIVERSTATUS.TOOLTIP"
 msgid "This Duplicant is delivering materials to a <b>{Target}</b> construction errand"
-msgstr "Deze Duplicant levert materialen aan een <b>{Target}</b> bouwboodschap"
+msgstr "Deze Duplicant levert materialen aan een <b>{Target}</b> bouw opdracht"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STOREPRIORITYDELIVERSTATUS.NAME"
@@ -44381,7 +44381,7 @@ msgstr "Duplicanten kiezen waar ze willen werken op basis van de prioriteit van 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
 msgid "Tutorial: Errand Priorities"
-msgstr "Tutorial: Boodschap Prioriteiten"
+msgstr "Tutorial: Opdracht Prioriteiten"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
@@ -44981,7 +44981,7 @@ msgstr "{targetName} heeft {damageAmount} schade opgelopen door de aanval van {a
 #. STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.NAME"
 msgid "Compost Errand"
-msgstr "Compost Boodschap"
+msgstr "Compost Opdracht"
 
 #. STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORCOMPOST.TOOLTIP"
@@ -45001,7 +45001,7 @@ msgstr "Het geselecteerde object bevindt zich momenteel in de composthoop"
 #. STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.NAME"
 msgid "Disinfect Errand"
-msgstr "Desinfecteer Boodschap"
+msgstr "Desinfecteer Opdracht"
 
 #. STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.MARKEDFORDISINFECTION.TOOLTIP"
@@ -45101,7 +45101,7 @@ msgstr "Het geselecteerde object is momenteel <b>{Temp}</b>"
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
 msgid "Sweep Errand"
-msgstr "Veeg Boodschap"
+msgstr "Veeg Opdracht"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
@@ -45121,7 +45121,7 @@ msgstr "Geen beschikbare <link=\"STORAGELOCKER\">Opslagbak</link> kan dit item a
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
 msgid "Harvest Errand"
-msgstr "Oogst Boodschap"
+msgstr "Oogst Opdracht"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
@@ -45156,7 +45156,7 @@ msgstr "Hoge Prioriteit"
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP"
 msgid "This <style=\"KKeyword\">Errand</style> has been marked as important and will be preferred over other pending <style=\"KKeyword\">Errands</style>"
-msgstr "Deze <style=\"KKeyword\">Boodschap</style> is gemarkeerd als belangrijk en heeft de voorkeur boven andere lopende <style=\"KKeyword\">Boodschappen</style>"
+msgstr "Deze <style=\"KKeyword\">Opdracht</style> is gemarkeerd als belangrijk en heeft de voorkeur boven andere lopende <style=\"KKeyword\">Opdrachten</style>"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME"
@@ -45351,7 +45351,7 @@ msgstr "{Target} is momenteel in gebruik"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
 msgid "Dig Errand"
-msgstr "Graaf Boodschap"
+msgstr "Graaf Opdracht"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
@@ -45361,7 +45361,7 @@ msgstr "Tegel zal uitgegraven worden zodra een Duplicant beschikbaar is"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop Errand"
-msgstr "Dweil Boodschap"
+msgstr "Dweil Opdracht"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
@@ -53702,7 +53702,7 @@ msgstr "    • {0} opdrachten in behandeling of bezig"
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ALLCHORESDIAGNOSTIC.TOOLTIP_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ALLCHORESDIAGNOSTIC.TOOLTIP_NAME"
 msgid "<b>Errands</b>"
-msgstr "<b>Boodschappen</b>"
+msgstr "<b>Opdrachten</b>"
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.ALLWORKTIMEDIAGNOSTIC.ALL_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.ALLWORKTIMEDIAGNOSTIC.ALL_NAME"
@@ -54452,7 +54452,7 @@ msgstr "<b>Reistijd</b>"
 #. STRINGS.UI.COLONY_DIAGNOSTICS.WORKTIMEDIAGNOSTIC.ALL_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.WORKTIMEDIAGNOSTIC.ALL_NAME"
 msgid "Errands"
-msgstr "Boodschappen"
+msgstr "Opdrachten"
 
 #. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST
 msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST"
@@ -55067,7 +55067,7 @@ msgstr "Resterende demotijd"
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.AVAILABLE_CHORES
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.AVAILABLE_CHORES"
 msgid "AVAILABLE ERRANDS"
-msgstr "BOODSCHAPPEN BESCHIKBAAR"
+msgstr "OPDRACHTEN BESCHIKBAAR"
 
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.CHORE_TYPE_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.CHORE_TYPE_TOOLTIP"
@@ -55082,7 +55082,7 @@ msgstr "{Name} is momenteel bezet: \"{Errand}\""
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_DESC_INACTIVE
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_DESC_INACTIVE"
 msgid "\"{Errand}\" is #{Rank} on {Name}'s To Do list, after they finish their current errand"
-msgstr "\"{Errand}\" is #{Rang} op de takenlijst van {Name}, nadat ze hun huidige boodschap hebben voltooid"
+msgstr "\"{Errand}\" is #{Rang} op de takenlijst van {Name}, nadat ze hun huidige opdracht hebben voltooid"
 
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_FAILED
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_FAILED"
@@ -60872,7 +60872,7 @@ msgstr "Nabijheid Inschakelen"
 #. STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.TOGGLE_ADVANCED_MODE_TOOLTIP"
 msgid "<b>Errand Proximity Settings</b>\n\nEnabling Proximity settings tells my Duplicants to always choose the closest, most urgent errand to perform.\n\nWhen disabled, Duplicants will choose between two high priority errands based on a hidden priority hierarchy instead.\n\nEnabling Proximity helps cut down on travel time in areas with lots of high priority errands, and is useful for large colonies."
-msgstr "<b>Boodschap Nabijheid Instellingen</b>\n\nDoor Nabijheidsinstellingen in te schakelen, weten mijn Duplicanten altijd de dichtstbijzijnde, meest urgente boodschap te kiezen om uit te voeren.\n\nWanneer uitgeschakeld, zullen Duplicanten kiezen tussen twee opdrachten met hoge prioriteit op basis van een verborgen prioriteitshiërarchie.\n\nAls je Nabijheid inschakelt, kunt je de reistijd verkorten in gebieden met veel opdrachten met hoge prioriteit, en dit is handig voor grote kolonies."
+msgstr "<b>Opdracht Nabijheid Instellingen</b>\n\nDoor Nabijheidsinstellingen in te schakelen, weten mijn Duplicanten altijd de dichtstbijzijnde, meest urgente opdracht te kiezen om uit te voeren.\n\nWanneer uitgeschakeld, zullen Duplicanten kiezen tussen twee opdrachten met hoge prioriteit op basis van een verborgen prioriteitshiërarchie.\n\nAls je Nabijheid inschakelt, kunt je de reistijd verkorten in gebieden met veel opdrachten met hoge prioriteit, en dit is handig voor grote kolonies."
 
 #. STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL
 msgctxt "STRINGS.UI.JOBSSCREEN.TOOLTIP_TOGGLE_ALL"
@@ -64382,7 +64382,7 @@ msgstr "(ClickType/Click) om het Prioriteitenscherm te openen\n\nDuplicanten zul
 #. STRINGS.UI.PRIORITYSCREEN.TOP_PRIORITY
 msgctxt "STRINGS.UI.PRIORITYSCREEN.TOP_PRIORITY"
 msgid "Top Priority\n\nThis priority will override all other priorities and set the colony on Yellow Alert until the errand is completed"
-msgstr "Topprioriteit\n\nDeze prioriteit overschrijft alle andere prioriteiten en zet de kolonie op Geel Alarm totdat de boodschap is voltooid"
+msgstr "Topprioriteit\n\nDeze prioriteit overschrijft alle andere prioriteiten en zet de kolonie op Geel Alarm totdat de opdracht is voltooid"
 
 #. STRINGS.UI.PROCEED_BUTTON
 msgctxt "STRINGS.UI.PROCEED_BUTTON"
@@ -72272,7 +72272,7 @@ msgstr "{Description}\n\n<b>{Errand}</b> is een Onvrijwillige actie en zal dus o
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_DESC_ACTIVE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_DESC_ACTIVE"
 msgid "{Name}'s Current Errand: <b>{Errand}</b>"
-msgstr "Huidige boodschap van {Name}: <b>{Errand}</b>"
+msgstr "Huidige Opdracht van {Name}: <b>{Errand}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_DESC_INACTIVE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_DESC_INACTIVE"
@@ -72282,7 +72282,7 @@ msgstr "{Name} zou kunnen werken aan <b>{Errand}</b>, maar het krijgt momenteel 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_EMERGENCY
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_EMERGENCY"
 msgid "{Description}\n\n<b>{Errand}</b> is an Emergency errand and so will be performed before all Regular and Personal errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Emergency : {ClassPriority}\n    • This {Building}'s Priority: {BuildingPriority}\n    • All {BestGroup} Errands: {TypePriority}"
-msgstr "{Description}\n\n<b>{Errand}</b> is een Noodboodschap en wordt dus uitgevoerd vóór alle Normale en Persoonlijke opdrachten\n\nTotale <style=\"KKeyword\">Prioriteit</ style>: {TotalPriority}\n    • Noodgeval: {ClassPriority}\n    • De prioriteit van dit {Building}: {BuildingPriority}\n    • Alle {BestGroup} Opdrachten: {TypePriority}"
+msgstr "{Description}\n\n<b>{Errand}</b> is een Nood Opdracht en wordt dus uitgevoerd vóór alle Normale en Persoonlijke opdrachten\n\nTotale <style=\"KKeyword\">Prioriteit</ style>: {TotalPriority}\n    • Noodgeval: {ClassPriority}\n    • De prioriteit van dit {Building}: {BuildingPriority}\n    • Alle {BestGroup} Opdrachten: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE"
@@ -72312,7 +72312,7 @@ msgstr "{Description}\n\nOpdracht Type: {Groups}\n\nTotale <style=\"KKeyword\">P
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_PERSONAL
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_PERSONAL"
 msgid "{Description}\n\n<b>{Errand}</b> is a Personal Needs errand and so will be performed before all Regular errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Personal Needs: {ClassPriority}\n    • All {BestGroup} Errands: {TypePriority}"
-msgstr "{Description}\n\n<b>{Errand}</b> is een Persoonlijke Behoefte opdracht en wordt dus uitgevoerd vóór alle Normale opdrachten\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority}\n    • Persoonlijke behoeften: {ClassPriority}\n    • Alle {BestGroup} Boodschappen: {TypePriority}"
+msgstr "{Description}\n\n<b>{Errand}</b> is een Persoonlijke Behoefte opdracht en wordt dus uitgevoerd vóór alle Normale opdrachten\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority}\n    • Persoonlijke behoeften: {ClassPriority}\n    • Alle {BestGroup} Opdrachten: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TRUNCATED_CHORES
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TRUNCATED_CHORES"
