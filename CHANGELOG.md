@@ -4,6 +4,9 @@ Changes to the mod will be documented in this file.
 
 # Released
 
+## [1.1.1] 2023/07/06
+- Minor tweaks
+
 ## [1.1.0] 2023/06/17
 - Merged new `strings_template.pot` 
 - Klei Fest 2023 ready
