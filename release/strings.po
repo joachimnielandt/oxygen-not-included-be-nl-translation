@@ -12221,7 +12221,7 @@ msgstr "Er moet iemand in de buurt zijn om met de knoppen te spelen wanneer de s
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.EFFECT"
 msgid "Allows Duplicants to use pilot-operated rockets and control access to interior buildings.\n\nAssigned Duplicants must have the <link=\"ROCKETPILOTING1\">Rocket Piloting</link> skill."
-msgstr "Staat Duplicanten toe om door een piloot bestuurde raketten te gebruiken en de toegang tot interieursgebouwen te controleren.\n\nToegewezen Duplicanten moeten de vaardigheid <link=\"ROCKETPILOTING1\">Raketbesturing</link> hebben."
+msgstr "Staat Duplicanten toe om door een piloot bestuurde raketten te gebruiken en de toegang tot interieursgebouwen te controleren.\n\nToegewezen Duplicanten moeten de vaardigheid <link=\"ROCKETPILOTING1\">Raket Besturen</link> hebben."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKETCONTROLSTATION.LOGIC_PORT"
@@ -14981,7 +14981,7 @@ msgstr "Resultaten van Atomicon"
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER1"
 msgid "I started work at a new company called the \"Gravitas Facility\" today! I was nervous I wouldn't get the job at first because I was fresh out of school, and I was so so so pushy in the interview, but the Director apparently liked my thesis on the physiological thermal regulation of Arctic lizards. I'll be working with some brilliant geneticists, bioengineering organisms for space travel in harsh environments! It's like a dream come true. I get to work on exciting new research in a place where no one knows me!\n------------------\n"
-msgstr "Ik ben vandaag begonnen bij een nieuw bedrijf genaamd de \"Gravitas Facility\"! Ik was zenuwachtig dat ik de baan in eerste instantie niet zou krijgen omdat ik net van school kwam, en ik was zo opdringerig in het sollicitatiegesprek, maar de directeur vond mijn proefschrift over de fysiologische thermische regulatie van Arctische hagedissen blijkbaar goed. Ik ga samenwerken met een aantal briljante genetici, bio-ingenieurs van organismen voor ruimtereizen in ruige omgevingen! Het is alsof een droom uitkomt. Ik ga aan de slag met opwindend nieuw onderzoek op een plek waar niemand mij kent!\n----\n"
+msgstr "Ik ben vandaag begonnen bij een nieuw bedrijf: de \"Gravitas Faciliteit\"! Ik was zenuwachtig dat ik de baan in eerste instantie niet zou krijgen omdat ik net van school kwam, en ik was zo opdringerig in het sollicitatiegesprek, maar de directeur vond mijn proefschrift over de fysiologische thermische regulatie van Arctische hagedissen blijkbaar goed. Ik ga samenwerken met een aantal briljante genetici, bio-ingenieurs van organismen voor ruimtereizen in ruige omgevingen! Het is alsof een droom uitkomt. Ik ga aan de slag met opwindend nieuw onderzoek op een plek waar niemand mij kent!\n----\n"
 
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER2"
@@ -16466,7 +16466,7 @@ msgstr "Ruimtetransport"
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_1"
 msgid "Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket Platform</link> and adding modules from the menu. All rockets will require an engine, a nosecone and a Command Module piloted by a Duplicant possessing the <link=\"ROCKETPILOTING1\">Rocket Piloting</link> skill or higher. Note that the <link=\"HABITATMODULESMALL\">Solo Spacefarer Nosecone</link> functions as both a Command Module and a nosecone.\n\n"
-msgstr "Het bouwen van een raket vereist eerst het bouwen van een <link=\"LAUNCHPAD\">Raketplatform</link> en het toevoegen van modules vanuit het menu. Alle raketten hebben een motor, een neuskegel en een commandomodule nodig, bestuurd door een Duplicant die de <link=\"ROCKETPILOTING1\">Raket Piloting</link> vaardigheid of hoger. Merk op dat de <link=\"HABITATMODULESMALL\">Solo Ruimtevaarder Neuskegel</link> functioneert als zowel een commandomodule als een neuskegel.\n\n"
+msgstr "Het bouwen van een raket vereist eerst het bouwen van een <link=\"LAUNCHPAD\">Raketplatform</link> en het toevoegen van modules vanuit het menu. Alle raketten hebben een motor, een neuskegel en een commandomodule nodig, bestuurd door een Duplicant die de <link=\"ROCKETPILOTING1\">Raketbesturing</link> vaardigheid of hoger. Merk op dat de <link=\"HABITATMODULESMALL\">Solo Ruimtevaarder Neuskegel</link> functioneert als zowel een commandomodule als een neuskegel.\n\n"
 
 #. STRINGS.CODEX.EXOBASES.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.EXOBASES.PARAGRAPH_2"
@@ -24446,7 +24446,7 @@ msgstr "Dit gebouw is bezig met het analyseren van genetische gegevens van een r
 #. STRINGS.CREATURES.STATUSITEMS.GROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.NAME"
 msgid "Growing [{PercentGrow}%]"
-msgstr "Groeiend [{PercentGrow}%]"
+msgstr "Groeit [{PercentGrow}%]"
 
 #. STRINGS.CREATURES.STATUSITEMS.GROWING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.TOOLTIP"
@@ -25886,7 +25886,7 @@ msgstr "Bepaalt hoeveel snelheidsbonus een Duplicant geeft aan een raket die ze 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.NAME"
 msgid "Piloting"
-msgstr "Piloten"
+msgstr "Vliegt"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.SPEED_MODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SPACENAVIGATION.SPEED_MODIFIER"
@@ -26096,7 +26096,7 @@ msgstr "Gebruik <style=\"KKeyword\">Eten</style>sbereiding gebouwen."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
 msgid "Cooking"
-msgstr "Kook"
+msgstr "Koken"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.ARCHETYPE_NAME"
@@ -26586,12 +26586,12 @@ msgstr "Deze Duplicant kookt <style=\"KKeyword\">Eten</style>"
 #. STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME"
 msgid "Cook Supply"
-msgstr "Kookvoorraad"
+msgstr "Keuken Aanleveren"
 
 #. STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS"
 msgid "Supplying cook ingredients"
-msgstr "Aanleveren kok ingrediënten"
+msgstr "Aanleveren kookingrediënten"
 
 #. STRINGS.DUPLICANTS.CHORES.COOKFETCH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.TOOLTIP"
@@ -30716,7 +30716,7 @@ msgstr "Deze Duplicant surft op kunstmatige golven!"
 #. STRINGS.DUPLICANTS.MODIFIERS.MEDICALCOT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MEDICALCOT.NAME"
 msgid "Triage Cot Rest"
-msgstr "Triage wiegsteun"
+msgstr "Ziektebed Rust"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.MEDICALCOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MEDICALCOT.TOOLTIP"
@@ -32496,7 +32496,7 @@ msgstr "Hiermee kan een Duplicant een <link=\"COMMANDMODULE\">Command Capsule</l
 #. STRINGS.DUPLICANTS.ROLES.ASTRONAUTTRAINEE.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.ASTRONAUTTRAINEE.NAME"
 msgid "<link=\"ASTRONAUTING1\">Rocket Piloting</link>"
-msgstr "<link=\"ASTRONAUTING1\">Raket Piloting</link>"
+msgstr "<link=\"ASTRONAUTING1\">Raket Besturen</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.DESCRIPTION"
@@ -32791,7 +32791,7 @@ msgstr "Hiermee kan een Duplicant een <link=\"ROCKETCONTROLSTATION\">Raket Contr
 #. STRINGS.DUPLICANTS.ROLES.ROCKETPILOT.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.ROCKETPILOT.NAME"
 msgid "<link=\"ROCKETPILOTING1\">Rocket Piloting</link>"
-msgstr "<link=\"ROCKETPILOTING1\">Raket Piloting</link>"
+msgstr "<link=\"ROCKETPILOTING1\">Raket Besturen</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_BUILDER.DESCRIPTION"
@@ -32861,7 +32861,7 @@ msgstr "Hiermee kunnen Duplicanten raketten met hogere snelheden besturen"
 #. STRINGS.DUPLICANTS.ROLES.SENIOR_ROCKETPILOT.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.SENIOR_ROCKETPILOT.NAME"
 msgid "<link=\"ROCKETPILOTING2\">Rocket Piloting II</link>"
-msgstr "<link=\"ROCKETPILOTING2\">Raket Piloting II</link>"
+msgstr "<link=\"ROCKETPILOTING2\">Raket Besturen II</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.SPACE_RESEARCHER.DESCRIPTION"
@@ -34601,7 +34601,7 @@ msgstr "Onderbroken slaap: gedrang in bed"
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYMOVEMENT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYMOVEMENT.TOOLTIP"
 msgid "This Duplicant was woken up because their bed was moved"
-msgstr "Deze Duplicant werd gewekt omdat hun bed was verplaatst"
+msgstr "Deze Duplicant werd gewekt omdat hun bed werd verplaatst"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYNOISE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SLEEPINGINTERRUPTEDBYNOISE.NAME"
@@ -35606,7 +35606,7 @@ msgstr "Hiermee kan een Duplicant een <link=\"COMMANDMODULE\">Command Capsule</l
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.NAME"
 msgid "Skilled: <link=\"ASTRONAUTING1\">Rocket Piloting</link>"
-msgstr "Bekwaam: <link=\"ASTRONAUTING1\">Raket Piloting</link>"
+msgstr "Bekwaam: <link=\"ASTRONAUTING1\">Raket Besturen</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_ASTRONAUTING1.SHORT_DESC"
@@ -45541,12 +45541,12 @@ msgstr "Bouw Leveren"
 #. STRINGS.MISC.TAGS.COOKING
 msgctxt "STRINGS.MISC.TAGS.COOKING"
 msgid "Cook Delivery"
-msgstr "Kook Levering"
+msgstr "Keuken Levering"
 
 #. STRINGS.MISC.TAGS.COOKINGINGREDIENT
 msgctxt "STRINGS.MISC.TAGS.COOKINGINGREDIENT"
 msgid "Cooking Ingredient"
-msgstr "Ingrediënt Koken"
+msgstr "Kook Ingrediënt"
 
 #. STRINGS.MISC.TAGS.CROPSEEDS
 msgctxt "STRINGS.MISC.TAGS.CROPSEEDS"
@@ -50207,7 +50207,7 @@ msgstr "Bedden"
 #. STRINGS.ROOMS.CRITERIA.BED_SINGLE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.BED_SINGLE.DESCRIPTION"
 msgid "Must have no more than one Cot or Comfy Bed"
-msgstr "Moet niet meer dan één Bed of Comfortabel Bed hebben"
+msgstr "Moet niet meer dan één Veldbed of Comfortabel Bed hebben"
 
 #. STRINGS.ROOMS.CRITERIA.BED_SINGLE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.BED_SINGLE.NAME"
@@ -50352,7 +50352,7 @@ msgstr "Voedselopslag"
 #. STRINGS.ROOMS.CRITERIA.HAS_BED.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.HAS_BED.DESCRIPTION"
 msgid "Requires at least one Cot or Comfy Bed"
-msgstr "Vereist ten minste één Bed of Comfortabel Bed"
+msgstr "Vereist ten minste één Veldbed of Comfortabel Bed"
 
 #. STRINGS.ROOMS.CRITERIA.HAS_BED.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.HAS_BED.NAME"
@@ -50472,12 +50472,12 @@ msgstr "Omsloten door wandtegel"
 #. STRINGS.ROOMS.CRITERIA.NO_COTS.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.NO_COTS.DESCRIPTION"
 msgid "Room cannot contain a Cot"
-msgstr "In de kamer kan geen Bed geplaatst worden"
+msgstr "In de kamer kan geen Veldbed geplaatst worden"
 
 #. STRINGS.ROOMS.CRITERIA.NO_COTS.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.NO_COTS.NAME"
 msgid "No Cots"
-msgstr "Geen Bedden"
+msgstr "Geen Veldbedden"
 
 #. STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.NO_INDUSTRIAL_MACHINERY.DESCRIPTION"
@@ -63102,7 +63102,7 @@ msgstr "<b>Volgroeid</b>\nDeze planten zijn volwassen geworden\n\nSelecteer de <
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWING"
 msgid "<b>Growing</b>\nThese plants are thriving in their current conditions"
-msgstr "<b>Groeiend</b>\nDeze planten gedijen goed in hun huidige omstandigheden"
+msgstr "<b>Groeit</b>\nDeze planten gedijen goed in hun huidige omstandigheden"
 
 #. STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWTH_HALTED
 msgctxt "STRINGS.UI.OVERLAYS.CROP.TOOLTIPS.GROWTH_HALTED"
@@ -68522,12 +68522,12 @@ msgstr "Piloot aan boord"
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.FAILURE
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.FAILURE"
 msgid "At least one crew member aboard the rocket must possess the <link=\"ROCKETPILOTING1\">Rocket Piloting</link> skill to launch\n\nQualified Duplicants must be assigned to the rocket crew, and have access to the module's hatch"
-msgstr "Ten minste één bemanningslid aan boord van de raket moet de vaardigheid <link=\"ROCKETPILOTING1\">Raket Piloot</link> bezitten om te kunnen lanceren\n\nGekwalificeerde Duplicanten moeten worden toegewezen aan de raketbemanning en toegang hebben tot het luik van de module"
+msgstr "Ten minste één bemanningslid aan boord van de raket moet de vaardigheid <link=\"ROCKETPILOTING1\">Raket Besturen</link> bezitten om te kunnen lanceren\n\nGekwalificeerde Duplicanten moeten worden toegewezen aan de raketbemanning en toegang hebben tot het luik van de module"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.READY
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.READY"
 msgid "A Duplicant with the <link=\"ROCKETPILOTING1\">Rocket Piloting</link> skill is currently onboard"
-msgstr "Er is momenteel een Duplicant met de vaardigheid <link=\"ROCKETPILOTING1\">Raket Piloot</link> aan boord"
+msgstr "Er is momenteel een Duplicant met de vaardigheid <link=\"ROCKETPILOTING1\">Raket Besturen</link> aan boord"
 
 #. STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.WARNING
 msgctxt "STRINGS.UI.STARMAP.LAUNCHCHECKLIST.PILOT_BOARDED.TOOLTIP.WARNING"
