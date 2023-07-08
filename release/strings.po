@@ -23661,7 +23661,7 @@ msgstr "Reproductie"
 #. STRINGS.CREATURES.STATS.FERTILITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.FERTILITY.TOOLTIP"
 msgid "At 100% <style=\"KKeyword\">Reproduction</style>, critters will reach the end of their reproduction cycle and lay a new <style=\"KKeyword\">Egg</style>\n\nAfter an <style=\"KKeyword\">Egg</style> is laid, <style=\"KKeyword\">Reproduction</style> is rolled back to 0%"
-msgstr "Bij 100% <style=\"KKeyword\">Reproductie</style> zullen beestjes het einde van hun reproductiecyclus bereiken en een nieuw <style=\"KKeyword\">Ei</style>\n\nleggen nNadat een <style=\"KKeyword\">Ei</style> is gelegd, wordt <style=\"KKeyword\">Reproductie</style> teruggebracht naar 0%"
+msgstr "Bij 100% <style=\"KKeyword\">Reproductie</style> zullen beestjes het einde van hun reproductiecyclus bereiken en een nieuw <style=\"KKeyword\">Ei</style>leggen\n\nNadat een <style=\"KKeyword\">Ei</style> is gelegd, wordt <style=\"KKeyword\">Reproductie</style> teruggebracht naar 0%"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER"
