@@ -3334,7 +3334,7 @@ msgstr "Duplicanten in een ruimtepak mogen passeren, zelfs als er geen ruimte is
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME"
 msgid "Clearance: Vacancy Only"
-msgstr "Toegang: Als Er Plek Is"
+msgstr "Toegang: Als er plek is"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP"
@@ -5780,7 +5780,7 @@ msgstr "eronder"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.NAME"
 msgid "Auto"
-msgstr "Automatisch"
+msgstr "Auto"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.TOOLTIP"
@@ -5790,7 +5790,7 @@ msgstr "Duplicanten openen en sluiten deze deur wanneer nodig"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.NAME"
 msgid "Lock"
-msgstr "Vergrendelen"
+msgstr "Toe"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.TOOLTIP"
@@ -5800,7 +5800,7 @@ msgstr "Niets mag passeren"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.NAME"
 msgid "Open"
-msgstr "Openen"
+msgstr "Open"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN.TOOLTIP"
@@ -10981,7 +10981,7 @@ msgstr "Wordt geleverd met een stel gratis ionen."
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.EFFECT"
 msgid "Conducts <link=\"RESEARCHDLC1\">Materials Science Research</link> to unlock new technologies.\n\nConsumes Radbolts.\n\nAssigned Duplicants must possess the <link=\"ATOMICRESEARCH\">Applied Sciences Research</link> skill."
-msgstr "Voert <link=\"RESEARCHDLC1\">Materiaalkunde Onderzoek</link> uit om nieuwe technologieën te ontsluiten.\n\nGebruikt Radbolten.\n\nToegewezen Duplicanten moeten beschikken over de <link=\"ATOMICRESEARCH\">Toegepaste Wetenschappen Onderzoek</link> vaardigheid."
+msgstr "Voert <link=\"RESEARCHDLC1\">Materiaalkunde Onderzoek</link> uit om nieuwe technologieën te ontsluiten.\n\nGebruikt Radbolten.\n\nToegewezen Duplicanten moeten beschikken over de <link=\"ATOMICRESEARCH\">Toegepast Wetenschappen Onderzoek</link> vaardigheid."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARRESEARCHCENTER.NAME"
@@ -16221,12 +16221,12 @@ msgstr "De orde van de tijd"
 #. STRINGS.CODEX.CLEANER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CLEANER.BODY.CONTAINER1"
 msgid "<smallcaps>Pictured: \"Gulp Fish\" Pacu variant</smallcaps>"
-msgstr "<smallcaps>Afgebeeld: \"Gulp Fish\" Pacu-variant</smallcaps>"
+msgstr "<smallcaps>Afgebeeld: \"Gulp Vis\" Pacu-variant</smallcaps>"
 
 #. STRINGS.CODEX.CLEANER.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.CLEANER.BODY.CONTAINER2"
 msgid "Despite descending from the Pacu, the Gulp Fish is unique enough both in genetics and behavior to be considered its own subspecies."
-msgstr "Ondanks dat hij afstamt van de Pacu, is de Gulp Fish uniek genoeg, zowel qua genetica als qua gedrag, om als zijn eigen ondersoort te worden beschouwd."
+msgstr "Ondanks dat hij afstamt van de Pacu, is de Gulp Vis uniek genoeg om, zowel qua genetica als qua gedrag, als zijn eigen ondersoort te worden beschouwd."
 
 #. STRINGS.CODEX.CLEANER.SUBTITLE
 msgctxt "STRINGS.CODEX.CLEANER.SUBTITLE"
@@ -16236,7 +16236,7 @@ msgstr "Morph Beest"
 #. STRINGS.CODEX.CLEANER.TITLE
 msgctxt "STRINGS.CODEX.CLEANER.TITLE"
 msgid "Gulp Fish"
-msgstr "Gulp Fish"
+msgstr "Gulp Vis"
 
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE
 msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE"
@@ -18321,7 +18321,7 @@ msgstr "<b>Feestje voor lokale studenten</b>"
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.BODY.CONTAINER2"
 msgid "Students at the Elion University of Science and Technology have held an unconventional party this weekend.\n\nWhile their peers may have been out until the wee hours wearing lampshades on their heads and drawing eyebrows on sleeping colleagues, students Jackie Stern and Olivia Broussard spent the weekend in their dorm, refreshments and decorations ready, waiting for the arrival of the guests of honor: themselves.\n\nThe two prospective STEM students, who study theoretical physics with a focus on the workings of space time, conducted the experiment under the assumption that, were their theories about the malleability of space time to ever come to fruition, their future selves could travel back in time to greet them at the party, proving the existence of time travel.\n\nThey weren't inconsiderate of their future selves' busy schedules though; should the guests of honor be unable to attend, they were encouraged to send back a message using the codeword \"Hourglass\" to communicate that, while they certainly wanted to come, they were simply unable.\n\nSadly no one RSVP'd or arrived to the party, but that did not dishearten Olivia or Jackie.\n\nAs Olivia put it, \"It just meant more snacks for us!\""
-msgstr "Studenten van de Elion Universiteit van Wetenschap en Technologie hebben dit weekend een onconventioneel feestje gehouden.\n\nHoewel hun leeftijdsgenoten tot in de vroege uurtjes weg waren met lampenkappen op hun hoofd en wenkbrauwen tekenden bij slapende collega's, brachte nstudenten Jackie Stern en Olivia Broussard het weekend door in hun slaapzaal, drankjes en decoraties klaar, wachtend op de komst van de eregasten: zijzelf.\n\nDe twee toekomstige STEM-studenten, die theoretische natuurkunde studeren met een focus op de werking van ruimte-tijd, leidden de experimenteren in de veronderstelling dat, als hun theorieën over de kneedbaarheid van ruimte-tijd ooit werkelijkheid zouden worden, hun toekomstige zelf terug in de tijd zou kunnen reizen om hen op het feest te begroeten, wat het bestaan van tijdreizen zou bewijzen.\n\nZe hielden zelfs rekening met de drukke agenda's van hun toekomstige zelf; mochten de eregasten verhinderd zijn werden ze aangemoedigd om een bericht terug te sturen met het codewoord \"Zandloper\" om aan te geven dat, hoewel ze zeker wilden komen, ze gewoon helaas niet konden.\n\nJammer genoeg heeft niemand geantwoord, of er is alvast niemand gearriveerd. Dat ontmoedigde Olivia of Jackie echter niet.\n\nZoals Olivia het uitdrukte: \"Het betekende gewoon meer snacks voor ons!\""
+msgstr "Studenten van de Elion Universiteit van Wetenschap en Technologie hebben dit weekend een onconventioneel feestje gehouden.\n\nHoewel hun leeftijdsgenoten tot in de vroege uurtjes weg waren met lampenkappen op hun hoofd en wenkbrauwen tekenden bij slapende collega's, brachte nstudenten Jackie Stern en Olivia Broussard het weekend door in hun slaapzaal, drankjes en decoraties klaar, wachtend op de komst van de eregasten: zijzelf.\n\nDe twee toekomstige STEM-studenten, die theoretische natuurkunde studeren met een focus op de werking van ruimte-tijd, leidden de experimenteren in de veronderstelling dat, als hun theorieën over de kneedbaarheid van ruimte-tijd ooit werkelijkheid zouden worden, hun toekomstige zelf terug in de tijd zou kunnen reizen om hen op het feest te begroeten, wat het bestaan van tijdreizen zou bewijzen.\n\nZe hielden zelfs rekening met de drukke agenda's van hun toekomstige zelf; mochten de eregasten verhinderd zijn werden ze aangemoedigd om een bericht terug te sturen met het codewoord \"Zandloper\" om aan te geven dat, hoewel ze zeker wilden komen, ze gewoon helaas niet konden.\n\nJammer genoeg heeft niemand geantwoord, of er is alvast niemand gearriveerd. Dat ontmoedigde Olivia of Jackie echter niet.\n\nZoals Olivia het uitdrukte: \"Meer snacks voor ons!\""
 
 #. STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE
 msgctxt "STRINGS.CODEX.SCHOOLNEWSPAPER.SUBTITLE"
@@ -21201,7 +21201,7 @@ msgstr "Quill hergroeisnelheid"
 #. STRINGS.CREATURES.MODIFIERS.FUTURE_OVERCROWDED.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.FUTURE_OVERCROWDED.NAME"
 msgid "Cramped"
-msgstr "Kramp"
+msgstr "Krap"
 
 #. STRINGS.CREATURES.MODIFIERS.FUTURE_OVERCROWDED.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.FUTURE_OVERCROWDED.TOOLTIP"
@@ -22811,7 +22811,7 @@ msgstr "<link=\"PACUCLEANER\">Gulp Broedsel Egg</link>"
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_CLEANER.NAME"
 msgid "<link=\"PACUCLEANER\">Gulp Fish</link>"
-msgstr "<link=\"PACUCLEANER\">Gulp Fish</link>"
+msgstr "<link=\"PACUCLEANER\">Gulp Vis</link>"
 
 #. STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PACU.VARIANT_TROPICAL.BABY.DESC"
@@ -23471,7 +23471,7 @@ msgstr "<link=\"GEISERS\">Stoomtuit</link>"
 #. STRINGS.CREATURES.SPECIES.SUPERWORMPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SUPERWORMPLANT.DESC"
 msgid "A Grubfruit Plant that has flourished after being tended by a <link=\"DIVERGENTSPECIES\">Divergent</link> critter.\n\nIt will produce high quality <link=\"WORMSUPERFRUIT\">Grubfruits</link>."
-msgstr "Een Voederfruit-plant die tot bloei is gekomen na te zijn verzorgd door een <link=\"DIVERGENTSPECIES\">Divergent</link> beestje.\n\nHet zal <link=\"WORMSUPERFRUIT\">Voederfruits</link> van hoge kwaliteit produceren."
+msgstr "Een Voederfruit-plant die tot bloei is gekomen na te zijn verzorgd door een <link=\"DIVERGENTSPECIES\">Divergent</link> beestje.\n\nHet zal <link=\"WORMSUPERFRUIT\">Voederfruit</link> van hoge kwaliteit produceren."
 
 #. STRINGS.CREATURES.SPECIES.SUPERWORMPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SUPERWORMPLANT.DOMESTICATEDDESC"
@@ -25901,7 +25901,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
 msgid "Stamina"
-msgstr "Uithoudingsvermogen"
+msgstr "Stamina"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.STORED_VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STORED_VALUE"
@@ -26966,12 +26966,12 @@ msgstr "Deze Duplicant is iets aan het maken"
 #. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME"
 msgid "Fabrication Supply"
-msgstr "Fabrication Supply"
+msgstr "Fabricage Levering"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.REPORT_NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.REPORT_NAME"
 msgid "Fabrication Supply to {0}"
-msgstr "Fabriekslevering aan {0}"
+msgstr "Fabricage Levering aan {0}"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS"
@@ -28781,7 +28781,7 @@ msgstr "Halveert aantal microben elke {0}"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE"
 msgid "Contracted via ingestion\n------------------"
-msgstr "Gecontracteerd via opname\n------------------"
+msgstr "Opgelopen via opname\n------------------"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.FOODBORNE_TOOLTIP"
@@ -28846,7 +28846,7 @@ msgstr "Deze <style=\"KKeyword\">Microben</style> kunnen overleven tussen <b>{0}
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE"
 msgid "Contracted via physical contact\n------------------"
-msgstr "Gecontracteerd via fysiek contact\n------------------"
+msgstr "Opgelopen via fysiek contact\n------------------"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SKINBORNE_TOOLTIP"
@@ -28856,7 +28856,7 @@ msgstr "Duplicanten kunnen deze <style=\"KKeyword\">Ziekte</style> oplopen door 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SUNBORNE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SUNBORNE"
 msgid "Contracted via environmental exposure\n------------------"
-msgstr "Gecontracteerd via milieublootstelling\n------------------"
+msgstr "Opgelopen via milieublootstelling\n------------------"
 
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SUNBORNE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.SUNBORNE_TOOLTIP"
@@ -29296,7 +29296,7 @@ msgstr "Dodelijk indien onbehandeld in: {0}\n"
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.INFECTION_SOURCE
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.INFECTION_SOURCE"
 msgid "Contracted by: {0}\n"
-msgstr "Gecontracteerd door: {0}\n"
+msgstr "Opgelopen door: {0}\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.NOMEDICINETAKEN
 msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP.NOMEDICINETAKEN"
@@ -30311,7 +30311,7 @@ msgstr "Een bekwame Duplicant heeft deze <style=\"KKeyword\">Plant</style> aange
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKFOODGERMS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKFOODGERMS.NAME"
 msgid "Contracted: Food Poisoning"
-msgstr "Gecontracteerd: voedselvergiftiging"
+msgstr "Opgelopen: voedselvergiftiging"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKFOODGERMS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKFOODGERMS.TOOLTIP"
@@ -30321,7 +30321,7 @@ msgstr "Deze Duplicant liep <link=\"FOODSICKNESS\">Voedselvergiftiging</link> op
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKSLIMEGERMS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKSLIMEGERMS.NAME"
 msgid "Contracted: Slimelung"
-msgstr "Gecontracteerd: Slijmlong"
+msgstr "Opgelopen: Slijmlong"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKSLIMEGERMS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKSLIMEGERMS.TOOLTIP"
@@ -30331,7 +30331,7 @@ msgstr "Deze Duplicant heeft <link=\"SLIMESICKNESS\">Slijmlong</link> opgelopen 
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKZOMBIESPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKZOMBIESPORES.NAME"
 msgid "Contracted: Zombie Spores"
-msgstr "Gecontracteerd: zombiesporen"
+msgstr "Opgelopen: zombiesporen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKZOMBIESPORES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FEELINGSICKZOMBIESPORES.TOOLTIP"
@@ -30946,7 +30946,7 @@ msgstr "Uitgeput"
 #. STRINGS.DUPLICANTS.MODIFIERS.PASSEDOUTSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PASSEDOUTSLEEP.TOOLTIP"
 msgid "Lack of rest depleted this Duplicant's <style=\"KKeyword\">Stamina</style>\n\nThey passed out from the fatigue"
-msgstr "Gebrek aan rust heeft het <style=\"KKeyword\">Uithoudingsvermogen</style> van deze Duplicant aangetast\n\nZe vielen flauw van de vermoeidheid"
+msgstr "Gebrek aan rust heeft het <style=\"KKeyword\">Stamina</style> van deze Duplicant aangetast\n\nZe vielen flauw van de vermoeidheid"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.PEACEFULSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PEACEFULSLEEP.NAME"
@@ -31361,7 +31361,7 @@ msgstr "Knikkend"
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEPCLINIC.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPCLINIC.TOOLTIP"
 msgid "This Duplicant is losing <style=\"KKeyword\">Stamina</style> because of their <style=\"KKeyword\">Pajamas</style>"
-msgstr "Deze Duplicant verliest <style=\"KKeyword\">Uithoudingsvermogen</style> vanwege hun <style=\"KKeyword\">Pyjama's</style>"
+msgstr "Deze Duplicant verliest <style=\"KKeyword\">Stamina</style> vanwege hun <style=\"KKeyword\">Pyjama's</style>"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME"
@@ -31421,7 +31421,7 @@ msgstr "Verkregen door onderdompeling in vloeistof"
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME"
 msgid "Sopping Wet"
-msgstr "Doorweekt nat"
+msgstr "Doorweekt"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.TOOLTIP"
@@ -32721,7 +32721,7 @@ msgstr "Stelt Duplicanten in staat om materie te bestuderen met behulp van de <l
 #. STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.NUCLEAR_RESEARCHER.NAME"
 msgid "<link=\"ATOMICRESEARCH\">Applied Sciences Research</link>"
-msgstr "<link=\"ATOMICRESEARCH\">Toegepaste Wetenschappelijk Onderzoek</link>"
+msgstr "<link=\"ATOMICRESEARCH\">Toegepast Wetenschappelijk Onderzoek</link>"
 
 #. STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.OIL_TECHNICIAN.DESCRIPTION"
@@ -33086,7 +33086,7 @@ msgstr "Huiddikte"
 #. STRINGS.DUPLICANTS.STATS.STAMINA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.NAME"
 msgid "Stamina"
-msgstr "Uithoudingsvermogen"
+msgstr "Stamina"
 
 #. STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.STAMINA.TOOLTIP"
@@ -34811,7 +34811,7 @@ msgstr "Er een puinhoop van maken"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_NAME"
 msgid "Made a mess"
-msgstr "Een puinhoop gemaakt"
+msgstr "Accidentje gehad"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP"
@@ -35471,12 +35471,12 @@ msgstr "Sommige Duplicanten zitten er gewoon vol mee"
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.NAME"
 msgid "Flatulent"
-msgstr "Flatulent"
+msgstr "Protterig"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.SHORT_DESC"
 msgid "Farts frequently"
-msgstr "Schaatt vaak"
+msgstr "Prot vaak"
 
 #. STRINGS.DUPLICANTS.TRAITS.FLATULENCE.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FLATULENCE.SHORT_DESC_TOOLTIP"
@@ -36166,7 +36166,7 @@ msgstr "Stelt Duplicanten in staat om materie te bestuderen met behulp van de <l
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.NAME"
 msgid "Skilled: <link=\"ATOMICRESEARCH\">Applied Sciences Research</link>"
-msgstr "Vaardig: <link=\"ATOMICRESEARCH\">Toegepaste Wetenschappelijk Onderzoek</link>"
+msgstr "Vaardig: <link=\"ATOMICRESEARCH\">Toegepast Wetenschappelijk Onderzoek</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_RESEARCHING4.SHORT_DESC"
@@ -37601,7 +37601,7 @@ msgstr "(CaCO<sub>3</sub>) Kalk is een mineraal dat veel voorkomt in eierschalen
 #. STRINGS.ELEMENTS.LIME.NAME
 msgctxt "STRINGS.ELEMENTS.LIME.NAME"
 msgid "<link=\"LIME\">Lime</link>"
-msgstr "<link=\"LIME\">Limoen</link>"
+msgstr "<link=\"LIME\">Kalk</link>"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
@@ -40706,7 +40706,7 @@ msgstr "Gescheurde pyjama's"
 #. STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.EFFECT"
 msgid "Helps Duplicants fall asleep by reducing <link=\"STAMINA\">Stamina</link>.\n\nEnables the wearer to dream and produce <link=\"DREAMJOURNAL\">Dream Journals</link>."
-msgstr "Helpt Duplicanten in slaap te vallen door <link=\"STAMINA\">Uithoudingsvermogen</link> te verminderen.\n\nStelt de drager in staat te dromen en <link=\"DREAMJOURNAL\">Droom Dagboeken</link> te produceren."
+msgstr "Helpt Duplicanten in slaap te vallen door <link=\"STAMINA\">Stamina</link> te verminderen.\n\nStelt de drager in staat te dromen en <link=\"DREAMJOURNAL\">Droom Dagboeken</link> te produceren."
 
 #. STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.GENERICNAME"
@@ -40771,7 +40771,7 @@ msgstr "<link=\"WARMVEST\">Warme Trui</link>"
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC"
 msgid "Protects the wearer from <style=\"heat\">Cold</style> by increasing insulation"
-msgstr "Beschermt de drager tegen <style=\"hitte\">Koude</style> door isolatie te verhogen"
+msgstr "Beschermt de drager tegen <style=\"heat\">Koude</style> door isolatie te verhogen"
 
 #. STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSALGAE.DESCRIPTION
 msgctxt "STRINGS.GAMEPLAY_EVENTS.BONUS.BONUSALGAE.DESCRIPTION"
@@ -49867,7 +49867,7 @@ msgstr "Ontgrendelt verbeterde technologieën."
 #. STRINGS.RESEARCH.TYPES.DELTA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.DESC"
 msgid "<link=\"RESEARCH\">Applied Sciences Research</link> is required to unlock materials science technologies.\nIt can be conducted at a <link=\"NUCLEARRESEARCHCENTER\">Materials Study Terminal</link>."
-msgstr "<link=\"RESEARCH\">Toegepaste Wetenschappelijk Onderzoek</link> is vereist om materiaalwetenschappelijke technologieën te ontsluiten.\nHet kan worden uitgevoerd in een <link=\"NUCLEARRESEARCHCENTER\">Materiaal Studie Terminal</link>. "
+msgstr "<link=\"RESEARCH\">Toegepast Wetenschappelijk Onderzoek</link> is vereist om materiaalwetenschappelijke technologieën te ontsluiten.\nHet kan worden uitgevoerd in een <link=\"NUCLEARRESEARCHCENTER\">Materiaal Studie Terminal</link>. "
 
 #. STRINGS.RESEARCH.TYPES.DELTA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.DELTA.NAME"
@@ -59502,12 +59502,12 @@ msgstr "OK"
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.COLONY_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.COLONY_SUMMARY"
 msgid "Colony Summary"
-msgstr "Samenvatting van de kolonie"
+msgstr "Samenvatting kolonie"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT"
 msgid "Quit to Desktop"
-msgstr "Afsluiten naar bureaublad"
+msgstr "Spel afsluiten"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.LOAD
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.LOAD"
@@ -74627,7 +74627,7 @@ msgstr "Verplaats Naar"
 #. STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.NAME_OFF"
 msgid "Cancel Move"
-msgstr "Annulleer Verplaatsing"
+msgstr "Annuleer Verplaatsing"
 
 #. STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.PICKUPABLEMOVE.TOOLTIP"
@@ -74992,7 +74992,7 @@ msgstr "Duplicanten van geschikte kleuren mogen passeren, zelfs als er geen ruim
 #. STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.NAME"
 msgid "Clearance: Vacancy"
-msgstr "Toegang: Als Er Plek Is"
+msgstr "Toegang: Als er plek is"
 
 #. STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.TOOLTIP"
