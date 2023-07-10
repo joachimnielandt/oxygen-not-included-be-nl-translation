@@ -2939,7 +2939,7 @@ msgstr "Vaardigheid-Benodigde Operatie"
 #. STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.REQUIRESSKILLPERK.TOOLTIP"
 msgid "Only Duplicants with one of the following <style=\"KKeyword\">Skills</style> can operate this building:\n{Skills}"
-msgstr "Enkel Duplicanten met een van de volgende <style=\"KKeyword\">Vaardigheden</style> can dit gebouw beturen:\n{Skills}"
+msgstr "Enkel Duplicanten met een van de volgende <style=\"KKeyword\">Vaardigheden</style> kunnen dit gebouw gebruiken:\n{Skills}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
@@ -3334,7 +3334,7 @@ msgstr "Duplicanten in een ruimtepak mogen passeren, zelfs als er geen ruimte is
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.NAME"
 msgid "Clearance: Vacancy Only"
-msgstr "Toegang: Als er plek is"
+msgstr "Toegang: Mits plek"
 
 #. STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SUITMARKERTRAVERSALONLYWHENROOMAVAILABLE.TOOLTIP"
@@ -5375,7 +5375,7 @@ msgstr "Het kan warmte effectief overbrengen, zelfs als er geen vloeistof doorhe
 #. STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.EFFECT"
 msgid "Carries <link=\"ELEMENTSLIQUID\">Liquid</link>, allowing extreme <link=\"HEAT\">Temperature</link> exchange with overlapping buildings.\n\nCan function in a vacuum.\n\nCan be run through wall and floor tiles."
-msgstr "Vervoert <link=\"ELEMENTSLIQUID\">Vloeistof</link>, waardoor uitwisseling van extreme <link=\"HEAT\">Temperatuur</link> met overlappende gebouwen mogelijk is.\n\nKan functioneren in een vacuüm.\n\nKan door wand- en vloertegels worden geleid."
+msgstr "Vervoert <link=\"ELEMENTSLIQUID\">Vloeistof</link> en laat uitwisseling van extreme <link=\"HEAT\">Temperatuur</link> tussen overlappende gebouwen toe.\n\nKan functioneren in een vacuüm.\n\nKan door wand- en vloertegels worden geleid."
 
 #. STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.NAME"
@@ -9981,7 +9981,7 @@ msgstr "Timer sensoren creëren automatie schema's voor zeer korte of zeer lange
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.EFFECT"
 msgid "Creates a timer to send <b><style=\"logic_on\">Green Signals</style></b> and <b><style=\"logic_off\">Red Signals</style></b> for specific amounts of time."
-msgstr "Maakt een timer om <b><style=\"logic_on\">Groene signalen</style></b> en <b><style=\"logic_off\">Rode Signalen</style></ te verzenden b> voor een bepaalde tijd."
+msgstr "Maakt een timer om <b><style=\"logic_on\">Groene signalen</style></b> en <b><style=\"logic_off\">Rode Signalen</style></b> te verzenden voor een bepaalde tijd."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMERSENSOR.LOGIC_PORT"
@@ -14691,7 +14691,7 @@ msgstr "<smallcaps>[Logfragmentatie gedetecteerd]\n[Stemherkenning niet beschikb
 #. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER4
 msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER4"
 msgid "<smallcaps>[Log fragmentation detected]\n[Voice Recognition unavailable]</smallcaps>\n\n[LOG BEGINS]\n\n...The Mealwood's hardiness will make it a potential contingency crop should Bristle Blossoms be unable to sustain sizable populations.\n\nIf pursued, design should focus on longterm viability and solving the psychological repercussions of prolonged Mealwood grain ingestion...\n\n[LOG ENDS]\n------------------\n"
-msgstr "<smallcaps>[Logfragmentatie gedetecteerd]\n[Stemherkenning niet beschikbaar]</smallcaps>\n\n[LOG START]\n\n...De winterhardheid van Maalbos zal voor een voorspelbare oogst zorgen als Borstel Bloesems niet in staat om grote populaties in stand te houden.\n\nAls dit wordt nagestreefd, moet het ontwerp gericht zijn op levensvatbaarheid op de lange termijn en het oplossen van de psychologische gevolgen van langdurige inname van Maalbos-korrels...\n\n[LOG EINDE]\n------------------\n"
+msgstr "<smallcaps>[Logfragmentatie gedetecteerd]\n[Stemherkenning niet beschikbaar]</smallcaps>\n\n[LOG START]\n\n...De winterhardheid van Maalhout zal voor een voorspelbare oogst zorgen als Borstel Bloesems niet in staat om grote populaties in stand te houden.\n\nAls dit wordt nagestreefd, moet het ontwerp gericht zijn op levensvatbaarheid op de lange termijn en het oplossen van de psychologische gevolgen van langdurige inname van Maalhout-korrels...\n\n[LOG EINDE]\n------------------\n"
 
 #. STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER5
 msgctxt "STRINGS.CODEX.A2_AGRICULTURALNOTES.BODY.CONTAINER5"
@@ -14986,7 +14986,7 @@ msgstr "Ik ben vandaag begonnen bij een nieuw bedrijf: de \"Gravitas Faciliteit\
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER2"
 msgid "No no no no no! It can't be! BANHI ANSARI is here, working on space shuttle thrusters in the robotics lab! As soon as she saw me she called me \"Bubbles\" and told everyone about the time I accidentally inhaled a bunch of fungal spores during lab, blew a big snot bubble out my nose and then sneezed all over Professor Avery! Everyone's calling me \"Bubbles\" instead of \"Doctor\" at work now. Some of them don't even know it's a nickname, but I don't want to correct them and seem rude or anything. Ugh, I can't believe that story followed me here! BANHI RUINS EVERYTHING!\n------------------\n"
-msgstr "Nee nee nee nee nee! Dat kan niet! BANHI ANSARI is hier en werkt aan de stuwraketten van de spaceshuttle in het robotlaboratorium! Zodra ze me zag noemde ze me \"Bubbles\" en vertelde iedereen over de tijd dat ik per ongeluk een bosje schimmelsporen ingeademd tijdens het lab, blies een grote snotbel uit mijn neus en niesde toen helemaal over professor Avery! Iedereen noemt me \"Bubbles\" in plaats van \"Dokter\" op het werk nu. Sommigen van hen doen dat niet Ik weet niet eens dat het een bijnaam is, maar ik wil ze niet corrigeren en onbeleefd overkomen of zoiets. Ugh, ik kan niet geloven dat dat verhaal me hierheen heeft gevolgd! BANHI VERNIETIGT ALLES!\n------------------\n"
+msgstr "Nee nee nee nee nee! Dat kan niet! BANHI ANSARI is hier en werkt aan de stuwraketten van de spaceshuttle in het robotlaboratorium! Zodra ze me zag noemde ze me \"Bubbles\" en vertelde iedereen over de tijd dat ik per ongeluk een bosje schimmelsporen ingeademd tijdens het lab, blies een grote snotbel uit mijn neus en niesde toen helemaal over professor Avery! Iedereen noemt me \"Bubbles\" in plaats van \"Dokter\" op het werk nu. Sommigen van hen weten niet eens dat het een bijnaam is, maar ik wil ze niet corrigeren en onbeleefd overkomen of zoiets. Ugh, ik kan niet geloven dat dat verhaal me hierheen heeft gevolgd! BANHI VERPEST ALLES!\n------------------\n"
 
 #. STRINGS.CODEX.A4_B835.BODY.CONTAINER3
 msgctxt "STRINGS.CODEX.A4_B835.BODY.CONTAINER3"
@@ -17051,7 +17051,7 @@ msgstr "Timmerhout"
 #. STRINGS.CODEX.MEALWOOD.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MEALWOOD.BODY.CONTAINER1"
 msgid "Mealwood is an bramble-like plant that has a parasitic symbiotic relationship with the nutrient-rich Meal Lice that inhabit it.\n\nMealwood experience a rapid growth rate in its first stages, but once the Meal Lice become active they consume all the new fruiting spurs on the plant before they can fully mature.\n\nTheoretically the flowers of this plant are a beautiful color of fuchsia, however no Mealwood has ever reached the point of flowering without being overrun by the parasitic Meal Lice."
-msgstr "Maalbos is een braamachtige plant die een parasitaire symbiotische relatie heeft met de voedselrijke Meal Lice die erin leeft.\n\nMaalbos groeit in de eerste stadia snel, maar zodra de Meal Lice actief wordt, verbruiken ze alle de nieuwe vruchtvorming spoort de plant aan voordat ze volledig volwassen kunnen worden.\n\nTheoretisch hebben de bloemen van deze plant een prachtige kleur van fuchsia, maar geen Maalbos heeft ooit het punt van bloei bereikt zonder te worden overwoekerd door de parasitaire Meal Lice."
+msgstr "Maalhout is een braamachtige plant die een parasitaire symbiotische relatie heeft met de voedselrijke Meal Lice die erin leeft.\n\nMaalhout groeit in de eerste stadia snel, maar zodra de Meal Lice actief wordt, verbruiken ze alle de nieuwe vruchtvorming spoort de plant aan voordat ze volledig volwassen kunnen worden.\n\nTheoretisch hebben de bloemen van deze plant een prachtige kleur van fuchsia, maar geen Maalhout heeft ooit het punt van bloei bereikt zonder te worden overwoekerd door de parasitaire Meal Lice."
 
 #. STRINGS.CODEX.MEALWOOD.SUBTITLE
 msgctxt "STRINGS.CODEX.MEALWOOD.SUBTITLE"
@@ -17061,7 +17061,7 @@ msgstr "Eetbare plant"
 #. STRINGS.CODEX.MEALWOOD.TITLE
 msgctxt "STRINGS.CODEX.MEALWOOD.TITLE"
 msgid "Mealwood"
-msgstr "Maalbos"
+msgstr "Maalhout"
 
 #. STRINGS.CODEX.MELLOWMALLOW.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.MELLOWMALLOW.BODY.CONTAINER1"
@@ -18161,7 +18161,7 @@ msgstr "Een <link=\"NUCLEARREACTOR\">Onderzoeksreactor</link> heeft <link=\"ENRI
 #. STRINGS.CODEX.RADIATION.TITLE
 msgctxt "STRINGS.CODEX.RADIATION.TITLE"
 msgid "<link=\"RADIATION\">Radiation</link>"
-msgstr "<link=\"RADIATIE\">Straling</link>"
+msgstr "<link=\"RADIATION\">Straling</link>"
 
 #. STRINGS.CODEX.RESEARCH.HEADER_1
 msgctxt "STRINGS.CODEX.RESEARCH.HEADER_1"
@@ -19846,12 +19846,12 @@ msgstr "Oxygen Not Included"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BASIC_PUMPING_DESCRIPTION"
 msgid "Distribute 1000 kg of Oxygen using gas vents."
-msgstr "Verdeel 1000 kg zuurstof met behulp van gasopeningen."
+msgstr "Verdeel 1000 kg zuurstof met behulp van gasroosters."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES"
 msgid "Some Reservations"
-msgstr "Sommige reserveringen"
+msgstr "Een aantal reservaten"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUILD_NATURE_RESERVES_DESCRIPTION"
@@ -19871,7 +19871,7 @@ msgstr "Bouw een gebouw buiten het initiële startbioom."
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUNKER_DOOR_DEFENSE
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUNKER_DOOR_DEFENSE"
 msgid "Immovable Object"
-msgstr "Onroerend object"
+msgstr "Onbeweegbaar Object"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUNKER_DOOR_DEFENSE_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.BUNKER_DOOR_DEFENSE_DESCRIPTION"
@@ -21481,12 +21481,12 @@ msgstr "<link=\"BASICFORAGEPLANTPLANTED\">Begraven Mestwortel</link>"
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DESC"
 msgid "Mealwoods produce <link=\"BASICPLANTFOOD\">Meal Lice</link>, an oddly wriggly grain that can be harvested for <link=\"FOOD\">Food</link>."
-msgstr "Maalbos produceren <link=\"BASICPLANTFOOD\">Meelluis</link>, een vreemd kronkelend graan dat geoogst kan worden voor <link=\"FOOD\">Voedsel</link>."
+msgstr "Maalhout produceren <link=\"BASICPLANTFOOD\">Maalluis</link>, een vreemd kronkelend graan dat geoogst kan worden voor <link=\"FOOD\">Voedsel</link>."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.DOMESTICATEDDESC"
 msgid "This plant produces edible <link=\"BASICPLANTFOOD\">Meal Lice</link>."
-msgstr "Deze plant produceert eetbare <link=\"BASICPLANTFOOD\">Meelluis</link>."
+msgstr "Deze plant produceert eetbare <link=\"BASICPLANTFOOD\">Maalluis</link>."
 
 #. STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.BASICSINGLEHARVESTPLANT.NAME"
@@ -23051,7 +23051,7 @@ msgstr "<link=\"BASICFABRICPLANT\">Vingerhoedriet Zaad</link>"
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.DESC"
 msgid "The <link=\"PLANTS\">Seed</link> of a <link=\"BASICSINGLEHARVESTPLANT\">Mealwood</link>.\n\nDigging up Buried Objects may uncover a Mealwood Seed."
-msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"BASICSINGLEHARVESTPLANT\">Maalbos</link>.\n\nHet opgraven van begraven voorwerpen kan een maalbos zaad blootleggen."
+msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"BASICSINGLEHARVESTPLANT\">Maalhout</link>.\n\nHet opgraven van begraven voorwerpen kan een Maalhout Zaad blootleggen."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BASICSINGLEHARVESTPLANT.NAME"
@@ -23091,17 +23091,17 @@ msgstr "<link=\"CACTUSPLANT\">Joya Seed</link>"
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
 msgid "The <link=\"PLANTS\">Seed</link> of a <link=\"COLDBREATHER\">Wheezewort</link>.\n\nDigging up Buried Objects may uncover a Wort Seed."
-msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"COLDBREATHER\">Fluitkruid</link>.\n\nHet opgraven van begraven voorwerpen kan een Wort Zaad blootleggen."
+msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"COLDBREATHER\">Piepkruid</link>.\n\nHet opgraven van begraven voorwerpen kan een Piepkruid Zaad blootleggen."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.NAME"
 msgid "<link=\"COLDBREATHER\">Wort Seed</link>"
-msgstr "<link=\"COLDBREATHER\">Wort Zaad</link>"
+msgstr "<link=\"COLDBREATHER\">Piepkruid Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.DESC"
 msgid "The <link=\"PLANTS\">Seed</link> of a <link=\"COLDWHEAT\">Sleet Wheat</link> plant.\n\nGrain can be sown to cultivate more Sleet Wheat, or processed into <link=\"FOOD\">Food</link>."
-msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"COLDWHEAT\">Ierse tarwe</link> plant.\n\nGraan kan worden gezaaid om meer natte tarwe te cultiveren, of verwerkt tot <link=\"FOOD\">Voedsel</link>."
+msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"COLDWHEAT\">Sneeuwtarwe</link> plant.\n\nGraan kan worden gezaaid om meer natte tarwe te cultiveren, of verwerkt tot <link=\"FOOD\">Voedsel</link>."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDWHEAT.NAME"
@@ -25146,7 +25146,7 @@ msgstr "    • Bevruchting"
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.TOOLTIP"
 msgid "This farm is storing materials that are not suitable for this plant\n\n<style=\"KKeyword\">Empty Storage</style> on this building to remove the unusable materials"
-msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plant\n\n<style=\"KKeyword\">Lege opslag</style> op dit gebouw om de onbruikbare materialen te verwijderen"
+msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plant\n\n<style=\"KKeyword\">Leeg Opslag</style> van dit gebouw om de onbruikbare materialen te verwijderen"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM"
@@ -25966,12 +25966,12 @@ msgstr "Bepaalt hoe lang een Duplicant nodig heeft om zijn \"zaken\" te doen."
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
 msgid "Bathroom Use Speed"
-msgstr "Toepassingssnelheid badkamer"
+msgstr "Snelheid Toiletgebruik"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.SPEEDMODIFIER"
 msgid "{0} Bathroom Use Speed"
-msgstr "{0} Gebruikssnelheid badkamer"
+msgstr "{0} Snelheid Toiletgebruik"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.TOTAL_VALUE
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOTAL_VALUE"
@@ -26271,17 +26271,17 @@ msgstr "Piloot"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ROCKETRY.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ROCKETRY.DESC"
 msgid "Pilot rockets"
-msgstr "Proefraketten"
+msgstr "Raketpiloot"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.ROCKETRY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ROCKETRY.NAME"
 msgid "Rocketry"
-msgstr "Raketschieten"
+msgstr "Raketten"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.ARCHETYPE_NAME"
 msgid "Storer"
-msgstr "Groter"
+msgstr "Opslager"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.STORAGE.DESC"
@@ -26856,12 +26856,12 @@ msgstr "Deze Duplicant leegt de <link=\"DESALINATOR\">Desalinator</link>"
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
 msgid "Empty Storage"
-msgstr "Lege opslag"
+msgstr "Leeg Opslag"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
 msgid "Going to empty storage"
-msgstr "Gaan naar lege opslag"
+msgstr "Gaat opslag legen"
 
 #. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.TOOLTIP"
@@ -26886,12 +26886,12 @@ msgstr "Ingegraven Duplicanten lopen het risico te stikken en moeten door andere
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.NAME"
 msgid "Equip"
-msgstr "Uitrusten"
+msgstr "Aantrekken"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS"
 msgid "Moving to equip"
-msgstr "Verhuizen om uit te rusten"
+msgstr "Gaat iets aantrekken"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.TOOLTIP"
@@ -26901,7 +26901,7 @@ msgstr "Deze Duplicant trekt een apparaat aan"
 #. STRINGS.DUPLICANTS.CHORES.EQUIPMENTFETCH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPMENTFETCH.NAME"
 msgid "Store Equipment"
-msgstr "Opslagmateriaal"
+msgstr "Materiaal opslaan"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPMENTFETCH.REPORT_NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPMENTFETCH.REPORT_NAME"
@@ -26921,12 +26921,12 @@ msgstr "Deze Duplicant vervoert apparatuur voor opslag"
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.NAME"
 msgid "Equip Exosuit"
-msgstr "Exopak uitrusten"
+msgstr "Exopak Aantrekken"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.STATUS"
 msgid "Equipping exosuit"
-msgstr "Exopak uitrusten"
+msgstr "Exopak Aantrekken"
 
 #. STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIPPINGSUIT.TOOLTIP"
@@ -29986,32 +29986,32 @@ msgstr "Vuile longen"
 #. STRINGS.DUPLICANTS.MODIFIERS.CONTAMINATEDLUNGS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CONTAMINATEDLUNGS.TOOLTIP"
 msgid "This Duplicant got a big nasty lungful of <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>"
-msgstr "Deze Duplicant kreeg een grote smerige long vol <link=\"CONTAMINATEDOXYGEN\">Polluted Zuurstof</link>"
+msgstr "Deze Duplicant kreeg een grote teug <link=\"CONTAMINATEDOXYGEN\">Vervuilde Zuurstof</link> binnen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.NAME"
 msgid "Cooling Down"
-msgstr "Afkoelen"
+msgstr "Koelt af"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.TOOLTIP"
 msgid "This Duplicant is trying to cool back down"
-msgstr "Deze Duplicant probeert weer af te koelen"
+msgstr "Deze Duplicant probeert af te koelen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.CAUSE"
 msgid "Obtained from the <style=\"KKeyword\">Ugly Crier</style> stress reaction"
-msgstr "Verkregen uit de <style=\"KKeyword\">Ugly Crier</style> stressreactie"
+msgstr "Verkregen uit de <style=\"KKeyword\">Lelijke Huiler</style> stressreactie"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.NAME"
 msgid "Cry Face"
-msgstr "Cry Face"
+msgstr "Huilgezicht"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.TOOLTIP"
 msgid "This Duplicant recently had a crying fit and it shows"
-msgstr "Deze Duplicant had onlangs een huilbui en dat was te zien"
+msgstr "Deze Duplicant heeft duidelijk een huilbui achter de rug"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.CRYOFRIEND.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CRYOFRIEND.NAME"
@@ -30036,7 +30036,7 @@ msgstr "Deze Duplicant had een kans om los te gaan!\n\nVrijetijdsactiviteiten ve
 #. STRINGS.DUPLICANTS.MODIFIERS.DANCING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DANCING.NAME"
 msgid "Dancing"
-msgstr "Dansen"
+msgstr "Danst"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DANCING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DANCING.TOOLTIP"
@@ -30051,7 +30051,7 @@ msgstr "Duisternis"
 #. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
 msgid "Eep! This Duplicant doesn't like being in the dark!"
-msgstr "Eep! Deze Duplicant houdt er niet van om in het donker te zijn!"
+msgstr "Aaah! Deze Duplicant houdt er niet van om in het donker te zijn!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME"
@@ -30066,7 +30066,7 @@ msgstr "Decor van de laatste cyclus: slecht"
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR0.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR0.TOOLTIP"
 msgid "This Duplicant thought the overall <style=\"KKeyword\">Decor</style> yesterday was quite poor"
-msgstr "Deze Duplicant vond de algehele <style=\"KKeyword\">Decor</style> gisteren vrij slecht"
+msgstr "Deze Duplicant vond het <style=\"KKeyword\">Decor</style> gisteren over het algemeen vrij slecht"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR1.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR1.NAME"
@@ -30086,7 +30086,7 @@ msgstr "Decor van de laatste cyclus: gemiddeld"
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR2.TOOLTIP"
 msgid "This Duplicant thought the overall <style=\"KKeyword\">Decor</style> yesterday was pretty alright"
-msgstr "Deze Duplicant vond de algehele <style=\"KKeyword\">Decor</style> gisteren redelijk in orde"
+msgstr "Deze Duplicant vond het algehele <style=\"KKeyword\">Decor</style> gisteren redelijk in orde"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR3.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR3.NAME"
@@ -30096,7 +30096,7 @@ msgstr "Decor van de laatste cyclus: leuk"
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR3.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR3.TOOLTIP"
 msgid "This Duplicant thought the overall <style=\"KKeyword\">Decor</style> yesterday was quite nice!"
-msgstr "Deze Duplicant vond de algehele <style=\"KKeyword\">Decor</style> gisteren erg mooi!"
+msgstr "Deze Duplicant vond het algehele <style=\"KKeyword\">Decor</style> gisteren erg mooi!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR4.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR4.NAME"
@@ -30586,7 +30586,7 @@ msgstr "Glinsterende strepen"
 #. STRINGS.DUPLICANTS.MODIFIERS.ISSPARKLESTREAKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ISSPARKLESTREAKER.TOOLTIP"
 msgid "This Duplicant is currently Sparkle Streaking!\n\nBaa-ling!"
-msgstr "Deze Duplicant is momenteel Sparkle Streaking!\n\nBaa-ling!"
+msgstr "Deze Duplicant laat Glinsterende Strepen achter!\n\nBaa-ling!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.JUICER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.JUICER.NAME"
@@ -33416,7 +33416,7 @@ msgstr "Deze Duplicant kookt een smakelijk <b>{Item}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.COUGHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COUGHING.NAME"
 msgid "Yucky Lungs Coughing"
-msgstr "Vervelende longen hoesten"
+msgstr "Lelijke Hoest"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.COUGHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.COUGHING.TOOLTIP"
@@ -33871,7 +33871,7 @@ msgstr "Deze Duplicant kan zijn huidige locatie niet inademen"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME"
 msgid "Toasty surroundings"
-msgstr "Geroosterde omgeving"
+msgstr "Hete omgeving"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.TOOLTIP"
@@ -33886,7 +33886,7 @@ msgstr "Honger"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HUNGRY.TOOLTIP"
 msgid "This Duplicant would really like something to eat"
-msgstr "Deze Duplicant zou wel wat willen eten"
+msgstr "Deze Duplicant heeft een hongertje"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.IDLE.NAME"
@@ -35366,17 +35366,17 @@ msgstr "Deze Duplicant is een snelle en bekwame bouwer"
 #. STRINGS.DUPLICANTS.TRAITS.CONSTRUCTIONUP.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CONSTRUCTIONUP.NAME"
 msgid "Handy"
-msgstr "mobiele telefoon"
+msgstr "Handig"
 
 #. STRINGS.DUPLICANTS.TRAITS.COOKINGDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.COOKINGDOWN.DESC"
 msgid "This Duplicant could probably figure out a way to burn ice cream"
-msgstr "Deze Duplicant zou waarschijnlijk een manier kunnen bedenken om ijs te verbranden"
+msgstr "Deze Duplicant zou er nog in staat toe zijn om een ijsje te verbranden"
 
 #. STRINGS.DUPLICANTS.TRAITS.COOKINGDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.COOKINGDOWN.NAME"
 msgid "Kitchen Menace"
-msgstr "Keuken bedreiging"
+msgstr "Keukengevaar"
 
 #. STRINGS.DUPLICANTS.TRAITS.DECORDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DECORDOWN.DESC"
@@ -35386,7 +35386,7 @@ msgstr "Deze Duplicant heeft duidelijk nog nooit van strijken gehoord"
 #. STRINGS.DUPLICANTS.TRAITS.DECORDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DECORDOWN.NAME"
 msgid "Shabby Dresser"
-msgstr "Shabby Dressoir"
+msgstr "Aftands Dressoir"
 
 #. STRINGS.DUPLICANTS.TRAITS.DECORUP.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DECORUP.DESC"
@@ -35406,12 +35406,12 @@ msgstr "Deze Duplicant heeft een ronduit indrukwekkend vermogen om zijn adem in 
 #. STRINGS.DUPLICANTS.TRAITS.DEEPERDIVERSLUNGS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DEEPERDIVERSLUNGS.NAME"
 msgid "Deep Diver's Lungs"
-msgstr "De longen van de diepduiker"
+msgstr "Diepduiker Longen"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIGGINGDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIGGINGDOWN.DESC"
 msgid "This Duplicant couldn't dig themselves out of a paper bag"
-msgstr "Deze Duplicant kon zichzelf niet uit een papieren zak graven"
+msgstr "Deze Duplicant zou zich zelfs niet uit een papieren zak kunnen graven"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIGGINGDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIGGINGDOWN.NAME"
@@ -35421,7 +35421,7 @@ msgstr "Ontgraven"
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.DESC"
 msgid "This Duplicant could have been a talented opera singer in another life"
-msgstr "Deze Duplicant had in een ander leven een getalenteerde operazangeres kunnen zijn"
+msgstr "Deze Duplicant had in een ander leven een getalenteerde operazanger kunnen zijn"
 
 #. STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.DIVERSLUNG.NAME"
@@ -35516,12 +35516,12 @@ msgstr "Gloeistok"
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC"
 msgid "Emits low amounts of rads and light"
-msgstr "Stuurt weinig rad en licht uit"
+msgstr "Stuurt kleine hoeveelheden rad en licht uit"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP"
 msgid "Emits low amounts of rads and light"
-msgstr "Stuurt weinig rad en licht uit"
+msgstr "Stuurt kleine hoeveelheden rad en licht uit"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_DESC"
@@ -38776,7 +38776,7 @@ msgstr "Omdat onder water ademen beter is dan... niet."
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.EFFECT"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in underwater environments.\n\nMust be refilled with <link=\"OXYGEN\">Oxygen</link> at an <link=\"SUITLOCKER\">Atmo Suit Dock</link> when depleted."
-msgstr "Voorziet Duplicanten van <style=\"zuurstof\">Zuurstof</style> in onderwateromgevingen.\n\nMoet worden bijgevuld met <link=\"OXYGEN\">Zuurstof</link> op een <link=\"SUITLOCKER\">Atmopak Dok</link> wanneer leeg."
+msgstr "Voorziet Duplicanten van <style=\"oxygen\">Zuurstof</style> in onderwateromgevingen.\n\nMoet worden bijgevuld met <link=\"OXYGEN\">Zuurstof</link> op een <link=\"SUITLOCKER\">Atmopak Dok</link> wanneer leeg."
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.NAME"
@@ -38786,7 +38786,7 @@ msgstr "<link=\"AQUASUIT\">Aquapak</link>"
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.RECIPE_DESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in underwater environments."
-msgstr "Voorziet Duplicanten van <style=\"zuurstof\">Zuurstof</style> in onderwateromgevingen."
+msgstr "Voorziet Duplicanten van <style=\"oxygen\">Zuurstof</style> in onderwateromgevingen."
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.WORN_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.WORN_DESC"
@@ -38806,7 +38806,7 @@ msgstr "Zorgt ervoor dat mijn Duplicanten gemakkelijk kunnen ademen, altijd en o
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments.\n\nMust be refilled with oxygen at an <link=\"SUITLOCKER\">Atmo Suit Dock</link> when depleted."
-msgstr "Voorziet Duplicanten van <style=\"zuurstof\">Zuurstof</style> in giftige en slecht ademende omgevingen.\n\nMoet worden bijgevuld met zuurstof bij een <link=\"SUITLOCKER\">Atmopak Dok</link> wanneer uitgeput."
+msgstr "Voorziet Duplicanten van <style=\"oxygen\">Zuurstof</style> in giftige en slecht ademende omgevingen.\n\nMoet worden bijgevuld met zuurstof bij een <link=\"SUITLOCKER\">Atmopak Dok</link> wanneer uitgeput."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.GENERICNAME"
@@ -38821,7 +38821,7 @@ msgstr "<link=\"ATMOSUIT\">Atmopak</link>"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments."
-msgstr "Levert Duplicanten met <style=\"zuurstof\">Zuurstof</style> in giftige en slecht ademende omgevingen."
+msgstr "Levert Duplicanten met <style=\"oxygen\">Zuurstof</style> in giftige en slecht ademende omgevingen."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.REPAIR_WORN_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.REPAIR_WORN_DESC"
@@ -40616,7 +40616,7 @@ msgstr "Zorgt ervoor dat mijn Duplicanten gemakkelijk kunnen ademen... in ieder 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.EFFECT"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments.\n\nMust be refilled with oxygen at an <link=\"SUITLOCKER\">Atmo Suit Dock</link> when depleted."
-msgstr "Voorziet Duplicanten van <style=\"zuurstof\">Zuurstof</style> in giftige en slecht ademende omgevingen.\n\nMoet worden bijgevuld met zuurstof bij een <link=\"SUITLOCKER\">Atmopak Dok</link> wanneer uitgeput."
+msgstr "Voorziet Duplicanten van <style=\"oxygen\">Zuurstof</style> in giftige en slecht ademende omgevingen.\n\nMoet worden bijgevuld met zuurstof bij een <link=\"SUITLOCKER\">Atmopak Dok</link> wanneer uitgeput."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.GENERICNAME"
@@ -40631,7 +40631,7 @@ msgstr "<link=\"OXYGENMASK\">Zuurstofmasker</link>"
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.RECIPE_DESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments."
-msgstr "Levert Duplicanten met <style=\"zuurstof\">Zuurstof</style> in giftige en slecht ademende omgevingen."
+msgstr "Levert Duplicanten met <style=\"oxygen\">Zuurstof</style> in giftige en slecht ademende omgevingen."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.WORN_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_MASK.WORN_DESC"
@@ -42726,7 +42726,7 @@ msgstr "Maalluis geconserveerd in azijn.\n\nHet is een zelden verworven smaak."
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.NAME"
 msgid "<link=\"PICKLEDMEAL\">Pickled Meal</link>"
-msgstr "<link=\"PICKLEDMEAL\">Pickled Meal</link>"
+msgstr "<link=\"PICKLEDMEAL\">Gepickled Maal</link>"
 
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.RECIPEDESC"
@@ -42901,7 +42901,7 @@ msgstr "<link=\"SUSHI\">Sushi</link>"
 #. STRINGS.ITEMS.FOOD.SUSHI.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.SUSHI.RECIPEDESC"
 msgid "Raw <link=\"FISHMEAT\">Pacu Fillet</link> wrapped with fresh <link=\"LETTUCE\">Lettuce</link>."
-msgstr "Rauwe <link=\"VISMEAT\">Pacu Filet</link> omwikkeld met verse <link=\"SLA\">Sla</link>."
+msgstr "Rauwe <link=\"VISMEAT\">Pacu Filet</link> omwikkeld met verse <link=\"LETTUCE\">Sla</link>."
 
 #. STRINGS.ITEMS.FOOD.SWAMPDELIGHTS.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SWAMPDELIGHTS.DESC"
@@ -49631,7 +49631,7 @@ msgstr "Wijs de ogen van Duplicanten naar de lucht en ontdek welke wonderen er d
 #. STRINGS.RESEARCH.TECHS.SKYDETECTORS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SKYDETECTORS.NAME"
 msgid "<link=\"SKYDETECTORS\">Celestial Detection</link>"
-msgstr "<link=\"SKYDETECTORS\">Hemeldetectie</link>"
+msgstr "<link=\"SKYDETECTORS\">Ruimte Detectie</link>"
 
 #. STRINGS.RESEARCH.TECHS.SMARTSTORAGE.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SMARTSTORAGE.DESC"
@@ -51552,7 +51552,7 @@ msgstr "Vink aan om grondstof vast te pinnen op zijpaneel"
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESERVED
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESERVED"
 msgid "Reserved"
-msgstr "Gereserveerd"
+msgstr "<size=10>Gereserveerd</size>"
 
 #. STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES
 msgctxt "STRINGS.UI.ALLRESOURCESSCREEN.RESOURCES"
@@ -74457,7 +74457,7 @@ msgstr "Zout leegmaken uit deze ontzilter"
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME"
 msgid "Empty Storage"
-msgstr "Lege Opslag"
+msgstr "Leeg Opslag"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.NAME_OFF"
@@ -74992,7 +74992,7 @@ msgstr "Duplicanten van geschikte kleuren mogen passeren, zelfs als er geen ruim
 #. STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.NAME"
 msgid "Clearance: Vacancy"
-msgstr "Toegang: Als er plek is"
+msgstr "Toegang: Mits plek"
 
 #. STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.SUIT_MARKER_TRAVERSAL.ONLY_WHEN_ROOM_AVAILABLE.TOOLTIP"
