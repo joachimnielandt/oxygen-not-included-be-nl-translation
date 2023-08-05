@@ -21251,7 +21251,7 @@ msgstr "Omgevingsomstandigheden verhinderen dat dit ei zich ontwikkelt\n\nHet za
 #. STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.NAME"
 msgid "Lullabied"
-msgstr "Lullabied"
+msgstr "Geslaapwiegd"
 
 #. STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP"
@@ -23396,7 +23396,7 @@ msgstr "<link=\"STATERPILLAR\">Schokslakje</link>"
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.DESC"
 msgid "Plug Slugs are dynamic creatures that generate electrical <link=\"POWER\">Power</link> during the night.\n\nTheir power can be harnessed by leaving an exposed wire near areas where they like to sleep."
-msgstr "Schokslaks zijn dynamische wezens die 's nachts elektrische <link=\"POWER\">Stroom</link> opwekken.\n\nHun kracht kan worden benut door een blootliggende kabel achter te laten in de buurt van gebieden waar ze graag slapen."
+msgstr "Schokslakken zijn dynamische wezens die 's nachts elektrische <link=\"POWER\">Stroom</link> opwekken.\n\nHun kracht kan worden benut door een blootliggende kabel achter te laten in de buurt van gebieden waar ze graag slapen."
 
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.EGG_NAME"
@@ -55122,7 +55122,7 @@ msgstr "\n • {0}"
 #. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE"
 msgid "{0} at {1}"
-msgstr "{0} om {1}"
+msgstr "{0} aan {1}"
 
 #. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS
 msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS"
