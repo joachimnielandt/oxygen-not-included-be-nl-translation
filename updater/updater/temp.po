@@ -585,6 +585,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.SPRUNG.TOOLTIP"
 msgid "This trap has caught a {0}!"
 msgstr ""
+
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.NAME"
 msgid "Needs Bait"
@@ -3680,7 +3681,6 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.TURBINE_TOO_HOT.TOOLTIP"
 msgid "This turbine must be below <b>{Overheat_Temperature}</b> to properly process {Src_Element} into {Dest_Element}"
 msgstr "De temperatuur van deze turbine moet lager zijn dan <b>{Overheat_Temperature}</b> om {Src_Element} correct te verwerken tot {Dest_Element}"
 
-
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
 msgid "Unassigned"
@@ -6023,7 +6023,7 @@ msgstr "Broedmachines kunnen de ideale interne omstandigheden voor eieren van ve
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.EFFECT"
-msgid "Incubates <link=\"CREATURES\">Critter</link> eggs until ready to hatch.\n\nAssigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</link> ."
+msgid "Incubates <link=\"CREATURES\">Critter</link> eggs until ready to hatch.\n\nAssigned Duplicants must possess the <link=\"RANCHING1\">Critter Ranching</link> skill."
 msgstr "Broedt <link=\"CREATURES\">Beest</link> eieren tot ze klaar zijn om uit te komen.\n\nToegewezen Duplicanten moeten de <link=\"RANCHING1\">Beest Veehouder</link> vaardigheid bezitten."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME
@@ -6690,7 +6690,6 @@ msgstr "De originele krab-en-snuif versie werd onmiddellijk teruggeroepen."
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.NAME"
 msgid "<link=\"EXTERIORWALL\">Sporechid Print</link>"
 msgstr "<link=\"EXTERIORWALL\">Spoorchide Print</link>"
-
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.DESC"
@@ -11002,7 +11001,6 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MILKPRESS.WHEAT_MILK_RECIPE_DESCRIPTION"
 msgid "Converts {0} to {1}"
 msgstr ""
 
-
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
 msgid "Oxygen diffusers are inefficient, but output enough oxygen to keep a colony breathing."
@@ -11305,7 +11303,7 @@ msgstr "Verzamelt grondstoffen uit het universum."
 
 #. STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.EFFECT"
-msgid "Enables a rocket to drill into interstellar debris and collect <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">Liquid</link> and <link=\"ELEMENTSSOLID\">Solid</link> resources from space.\n\nEngine must be built via <link=\"LAUNCHPAD\">Rocket Platform</link>. \n\nMust be built at the top of a rocket with <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link> or <link=\"ELEMENTSSOLID\">solid</link> Cargo Module attached to store the appropriate resources."
+msgid "Enables a rocket to drill into interstellar debris and collect <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link> and <link=\"ELEMENTSSOLID\">solid</link> resources from space.\n\nEngine must be built via <link=\"LAUNCHPAD\">Rocket Platform</link>. \n\nMust be built at the top of a rocket with <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link> or <link=\"ELEMENTSSOLID\">solid</link> Cargo Module attached to store the appropriate resources."
 msgstr "Hiermee kan een raket in interstellair puin boren en <link=\"ELEMENTSGAS\">Gaseuze</link>, <link=\"ELEMENTSLIQUID\">Vloeibare</link> en <link=\"ELEMENTSSOLID\">Vaste</link> grondstoffen verzamelen in de ruimte.\n\nMotor moet worden gebouwd via <link=\"LAUNCHPAD\">Raketplatform</link>. \n\nMoet worden gebouwd op de top van een raket met <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">Vloeistof</link> of <link=\"ELEMENTSSOLID\">Vast</link> Cargo Module bevestigd om de juiste grondstoffen op te slaan. "
 
 #. STRINGS.BUILDINGS.PREFABS.NOSECONEHARVEST.NAME
@@ -13257,6 +13255,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_AMAZING_6.NAME"
 msgid "<link=\"SCULPTURE1X2AMAZING6\">Fireball</link>"
 msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_CRAP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLSCULPTURE.FACADES.SCULPTURE_1x2_CRAP.DESC"
 msgid "It's a heavy heart."
@@ -21257,6 +21256,16 @@ msgctxt "STRINGS.COLONY_ACHIEVEMENTS.THRIVING.VIDEO_TEXT.THIRD"
 msgid "This asteroid is our home."
 msgstr "Deze asteroïde is ons thuis."
 
+#. STRINGS.CREATURES.ATTRIBUTES.BECKONINGDELTA.DESC
+msgctxt "STRINGS.CREATURES.ATTRIBUTES.BECKONINGDELTA.DESC"
+msgid "Accu-moo-lation increases when this critter eats."
+msgstr ""
+
+#. STRINGS.CREATURES.ATTRIBUTES.BECKONINGDELTA.NAME
+msgctxt "STRINGS.CREATURES.ATTRIBUTES.BECKONINGDELTA.NAME"
+msgid "Accu-moo-lation"
+msgstr ""
+
 #. STRINGS.CREATURES.ATTRIBUTES.FERTILITYDELTA.DESC
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.FERTILITYDELTA.DESC"
 msgid "Determines the amount of time needed for a <style=\"KKeyword\">Critter</style> to lay new <style=\"KKeyword\">Eggs</style>."
@@ -21296,6 +21305,16 @@ msgstr "De hoeveelheid tijd die deze plant nodig heeft om te groeien."
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.MATURITYMAX.NAME"
 msgid "Life Cycle"
 msgstr "Levenscyclus"
+
+#. STRINGS.CREATURES.ATTRIBUTES.MILKPRODUCTIONDELTA.NAME
+msgctxt "STRINGS.CREATURES.ATTRIBUTES.MILKPRODUCTIONDELTA.NAME"
+msgid "Brackene Supply"
+msgstr ""
+
+#. STRINGS.CREATURES.ATTRIBUTES.MILKPRODUCTIONDELTA.TOOLTIP
+msgctxt "STRINGS.CREATURES.ATTRIBUTES.MILKPRODUCTIONDELTA.TOOLTIP"
+msgid "Determines how long this <style=\"KKeyword\">Critter</style> takes to replenish its natural supply of <style=\"KKeyword\">Brackene</style>."
+msgstr ""
 
 #. STRINGS.CREATURES.ATTRIBUTES.POWERCHARGEDELTA.DESC
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.POWERCHARGEDELTA.DESC"
@@ -21599,7 +21618,7 @@ msgstr "Ate from feeder"
 
 #. STRINGS.CREATURES.MODIFIERS.ATE_FROM_FEEDER.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.ATE_FROM_FEEDER.TOOLTIP"
-msgid "This critter is getting more <style=\"KKeyword\">Tame</style> because it ate from a feeder."
+msgid "This critter is getting more <style=\"KKeyword\">Tame</style> because it ate from a feeder"
 msgstr "Dit beestje wordt meer <style=\"KKeyword\">Tam</style> omdat het uit een voerbak heeft gegeten."
 
 #. STRINGS.CREATURES.MODIFIERS.BABY.NAME
@@ -21626,6 +21645,11 @@ msgstr "Dit is de basissnelheid waarmee beestjes nieuwe <style=\"KKeyword\">Eier
 msgctxt "STRINGS.CREATURES.MODIFIERS.BASE_INCUBATION_RATE.NAME"
 msgid "Base Incubation Rate"
 msgstr "Basis incubatiesnelheid"
+
+#. STRINGS.CREATURES.MODIFIERS.BASE_PRODUCTION_RATE.NAME
+msgctxt "STRINGS.CREATURES.MODIFIERS.BASE_PRODUCTION_RATE.NAME"
+msgid "Base production rate"
+msgstr ""
 
 #. STRINGS.CREATURES.MODIFIERS.CONFINED.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.CONFINED.NAME"
@@ -21702,6 +21726,16 @@ msgctxt "STRINGS.CREATURES.MODIFIERS.FUTURE_OVERCROWDED.TOOLTIP"
 msgid "This <style=\"KKeyword\">Room</style> will become overcrowded once all nearby <style=\"KKeyword\">Eggs</style> hatch\n\nThe selected critter has slowed its <style=\"KKeyword\">Reproduction</style> to prevent further overpopulation"
 msgstr "Deze <style=\"KKeyword\">Kamer</style> zal overvol raken zodra alle <style=\"KKeyword\">Eieren</style> in de buurt uitkomen\n\nHet geselecteerde dier heeft zijn <style=\"KKeyword\">Reproductie</style> vertraagd om verdere overbevolking te voorkomen"
 
+#. STRINGS.CREATURES.MODIFIERS.GOTMILK.NAME
+msgctxt "STRINGS.CREATURES.MODIFIERS.GOTMILK.NAME"
+msgid "Hydrated"
+msgstr ""
+
+#. STRINGS.CREATURES.MODIFIERS.GOTMILK.TOOLTIP
+msgctxt "STRINGS.CREATURES.MODIFIERS.GOTMILK.TOOLTIP"
+msgid "This critter recently drank <style=\"KKeyword\">Brackene</style>\n\nIt doesn't mind overcrowding quite as much right now"
+msgstr ""
+
 #. STRINGS.CREATURES.MODIFIERS.HAPPY.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.HAPPY.NAME"
 msgid "Happy"
@@ -21709,7 +21743,7 @@ msgstr "Gelukkig"
 
 #. STRINGS.CREATURES.MODIFIERS.HAPPY.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.HAPPY.TOOLTIP"
-msgid "This critter's in high spirits because all of its needs are being met\n\nIt will produce more materials as a result"
+msgid "This critter's in high spirits because its needs are being adequately met\n\nIt will produce more materials as a result"
 msgstr "Dit beestje is opgewekt omdat aan al zijn behoeften wordt voldaan\n\nHet zal daardoor meer materialen produceren"
 
 #. STRINGS.CREATURES.MODIFIERS.HUGGINGFRENZY.NAME
@@ -21749,8 +21783,18 @@ msgstr "Geslaapwiegd"
 
 #. STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.INCUBATOR_SONG.TOOLTIP"
-msgid "This egg was recently sung to by a kind Duplicant\n\nIncreased <style=\"KKeyword\">Incubation Rate</style>\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> Skill to sing to eggs"
+msgid "This egg was recently sung to by a kind Duplicant\n\nIncreased <style=\"KKeyword\">Incubation Rate</style>\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> skill to sing to eggs"
 msgstr "Dit ei werd onlangs toegezongen door een vriendelijke Duplicant\n\nVerhoogde <style=\"KKeyword\">Incubatiesnelheid</style>\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Veehouder< hebben /style> Vaardigheid om voor eieren te zingen"
+
+#. STRINGS.CREATURES.MODIFIERS.MOOWELLFED.NAME
+msgctxt "STRINGS.CREATURES.MODIFIERS.MOOWELLFED.NAME"
+msgid "Welcoming Moo'd"
+msgstr ""
+
+#. STRINGS.CREATURES.MODIFIERS.MOOWELLFED.TOOLTIP
+msgctxt "STRINGS.CREATURES.MODIFIERS.MOOWELLFED.TOOLTIP"
+msgid "This critter's recent meal is boosting their <style=\"KKeyword\">Brackene</style> supply and making them wish all their friends were here\n\nThey're thinking about calling a new Gassy Moo to this asteroid"
+msgstr ""
 
 #. STRINGS.CREATURES.MODIFIERS.OUT_OF_CALORIES.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.OUT_OF_CALORIES.NAME"
@@ -21784,7 +21828,7 @@ msgstr "Verzorgd"
 
 #. STRINGS.CREATURES.MODIFIERS.RANCHED.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.RANCHED.TOOLTIP"
-msgid "This critter has recently been attended to by a kind Duplicant\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> Skill to care for critters"
+msgid "This critter has recently been attended to by a kind Duplicant\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> skill to care for critters"
 msgstr "Dit beestje is onlangs verzorgd door een vriendelijke Duplicant\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Veehouder</style> vaardigheid bezitten om voor beestjes te zorgen"
 
 #. STRINGS.CREATURES.MODIFIERS.SCALE_GROWTH_RATE.NAME
@@ -23114,7 +23158,7 @@ msgstr "<link=\"MOLEDELICACY\">Delecta Woelmuis</link>"
 
 #. STRINGS.CREATURES.SPECIES.MOO.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.MOO.DESC"
-msgid "Moos are extraterrestrial critters that feed on <link=\"GASGRASS\">Gas Grass</link> and excrete <link=\"METHANE\">Natural Gas</link>."
+msgid "Moos are extraterrestrial critters that feed on <link=\"GASGRASS\">Gas Grass</link> and excrete <link=\"METHANE\">Natural Gas</link>.\n\nWhen domesticated and fed, they can be milked for <link=\"MILK\">Brackene</link>."
 msgstr "Boes zijn buitenaardse wezens die zich voeden met <link=\"GASGRASS\">Gasgras</link> en <link=\"METHANE\">Aardgas</link> uitscheiden."
 
 #. STRINGS.CREATURES.SPECIES.MOO.NAME
@@ -24127,6 +24171,16 @@ msgctxt "STRINGS.CREATURES.STATS.AIRPRESSURE.TOOLTIP"
 msgid "The average <style=\"KKeyword\">Gas</style> density of the air surrounding this plant"
 msgstr "De gemiddelde <style=\"KKeyword\">Gas</style> dichtheid van de lucht rondom deze plant"
 
+#. STRINGS.CREATURES.STATS.BECKONING.NAME
+msgctxt "STRINGS.CREATURES.STATS.BECKONING.NAME"
+msgid "Accu-moo-lation"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.BECKONING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.BECKONING.TOOLTIP"
+msgid "At 100% <style=\"KKeyword\">Accu-moo-lation</style>, a Gassy Moo calls a friend to join them on this asteroid\n\nAfter the new Gassy Moo has landed, <style=\"KKeyword\">Accu-moo-lation</style> is rolled back to 0%"
+msgstr ""
+
 #. STRINGS.CREATURES.STATS.DOMESTICATION.NAME
 msgctxt "STRINGS.CREATURES.STATS.DOMESTICATION.NAME"
 msgid "Domestication"
@@ -24262,6 +24316,16 @@ msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_STALLED"
 msgid "Poor conditions have halted this plant's growth"
 msgstr "Slechte omstandigheden hebben de groei van deze plant tot stilstand gebracht"
 
+#. STRINGS.CREATURES.STATS.MILKPRODUCTION.NAME
+msgctxt "STRINGS.CREATURES.STATS.MILKPRODUCTION.NAME"
+msgid "Brackene Supply"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.MILKPRODUCTION.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.MILKPRODUCTION.TOOLTIP"
+msgid "The amount of time required for this critter to replenish its natural reserves of <style=\"KKeyword\">Brackene</style>"
+msgstr ""
+
 #. STRINGS.CREATURES.STATS.ROT.NAME
 msgctxt "STRINGS.CREATURES.STATS.ROT.NAME"
 msgid "Freshness"
@@ -24309,7 +24373,7 @@ msgstr "Wildheid"
 
 #. STRINGS.CREATURES.STATS.WILDNESS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.WILDNESS.TOOLTIP"
-msgid "At 0% <style=\"KKeyword\">Wildness</style> a critter becomes <style=\"KKeyword\">Tame</style>, increasing its <style=\"KKeyword\">Metabolism</style> and requiring regular care from Duplicants\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> Skill to care for critters"
+msgid "At 0% <style=\"KKeyword\">Wildness</style> a critter becomes <style=\"KKeyword\">Tame</style>, increasing its <style=\"KKeyword\">Metabolism</style> and requiring regular care from Duplicants\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> skill to care for critters"
 msgstr "Bij 0% <style=\"KKeyword\">Wildness</style> wordt een critter <style=\"KKeyword\">Tam</style>, waardoor zijn <style=\"KKeyword\">Metabolisme</style> toeneemt en regelmatige zorg van Duplicanten vereisen\n\nDuplicanten moeten de <style=\"KKeyword\">Beest Veehouder</style> vaardigheid bezitten om voor beestjes te zorgen"
 
 #. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME
@@ -24381,6 +24445,26 @@ msgstr "Onvruchtbaar"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP"
 msgid "This plant will produce no more <style=\"KKeyword\">Seeds</style>"
 msgstr "Deze plant produceert geen <style=\"KKeyword\">Zaden</style> meer"
+
+#. STRINGS.CREATURES.STATUSITEMS.BECKONING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BECKONING.NAME"
+msgid "Mooing"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.BECKONING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BECKONING.TOOLTIP"
+msgid "This critter is inviting faraway friends to graze on this asteroid's abundant food supply\n\nA new <style=\"KKeyword\">Gassy Moo</style> will soon arrive"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.BECKONINGBLOCKED.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BECKONINGBLOCKED.NAME"
+msgid "Moo-ted"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.BECKONINGBLOCKED.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BECKONINGBLOCKED.TOOLTIP"
+msgid "This critter needs a clear view of space in order to invite a friend to this asteroid"
+msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.BREATH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.NAME"
@@ -24647,6 +24731,16 @@ msgctxt "STRINGS.CREATURES.STATUSITEMS.DOMESTICATION.TOOLTIP"
 msgid "{LevelDesc}"
 msgstr "{LevelDesc}"
 
+#. STRINGS.CREATURES.STATUSITEMS.DRINKINGMILK.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DRINKINGMILK.NAME"
+msgid "Drinking"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.DRINKINGMILK.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DRINKINGMILK.TOOLTIP"
+msgid "This critter found a tasty beverage"
+msgstr ""
+
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME"
 msgid "Drowning"
@@ -24906,6 +25000,16 @@ msgstr "Vers {RotPercentage}"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP"
 msgid "Get'em while they're hot!\n\n{RotTooltip}"
 msgstr "Haal ze terwijl ze hot zijn!\n\n{RotTooltip}"
+
+#. STRINGS.CREATURES.STATUSITEMS.GETTING_MILKED.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.GETTING_MILKED.NAME"
+msgid "Being Milked"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.GETTING_MILKED.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.GETTING_MILKED.TOOLTIP"
+msgid "This critter's going to be so relieved when they're done"
+msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.GETTING_RANCHED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.GETTING_RANCHED.NAME"
@@ -25172,6 +25276,16 @@ msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORLIQUID.TOOLTIP"
 msgid "This critter is looking for <style=\"KKeyword\">Liquids</style> to mop up"
 msgstr "Dit beestje is op zoek naar <style=\"KKeyword\">Vloeistoffen</style> om op te dweilen"
 
+#. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORMILK.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORMILK.NAME"
+msgid "Seeking Brackene"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORMILK.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORMILK.TOOLTIP"
+msgid "This critter is thirsty for <style=\"KKeyword\">Brackene</style>"
+msgstr ""
+
 #. STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.NAME"
 msgid "Standard Yield"
@@ -25181,6 +25295,26 @@ msgstr "Standaard opbrengst"
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.TOOLTIP"
 msgid "This plant produced an average yield"
 msgstr "Deze plant gaf een gemiddelde opbrengst"
+
+#. STRINGS.CREATURES.STATUSITEMS.MILKFULL.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.MILKFULL.NAME"
+msgid "Udderly Full"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.MILKFULL.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.MILKFULL.TOOLTIP"
+msgid "This critter is full of <style=\"KKeyword\">Brackene</style> and ready to be milked"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.NAME"
+msgid "Producing Brackene {amount}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.TOOLTIP"
+msgid "This critter's internal tank is refilling itself"
+msgstr ""
 
 #. STRINGS.CREATURES.STATUSITEMS.MOLTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.MOLTING.NAME"
@@ -26482,6 +26616,21 @@ msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
 msgid "Toxicity"
 msgstr "Toxiciteit"
 
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TRANSITTUBETRAVELSPEED.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TRANSITTUBETRAVELSPEED.DESC"
+msgid "Determines a Duplicant's default <link=\"TRAVELTUBE\">Transit Tube</link> travel speed."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TRANSITTUBETRAVELSPEED.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TRANSITTUBETRAVELSPEED.NAME"
+msgid "Transit Speed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TRANSITTUBETRAVELSPEED.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TRANSITTUBETRAVELSPEED.SPEEDMODIFIER"
+msgid "{0} Transit Tube Travel Speed"
+msgstr ""
+
 #. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC"
 msgid "This Duplicant has no discernible skills"
@@ -26836,6 +26985,21 @@ msgstr "Gaan zaden analyseren"
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP"
 msgid "This Duplicant is analyzing <style=\"KKeyword\">Seeds</style> to find mutations"
 msgstr "Deze Duplicant analyseert <style=\"KKeyword\">Seeds</style> om mutaties te vinden"
+
+#. STRINGS.DUPLICANTS.CHORES.ARMTRAP.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.ARMTRAP.NAME"
+msgid "Arm Trap"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.ARMTRAP.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.ARMTRAP.STATUS"
+msgid "Arming a trap"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.ARMTRAP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.ARMTRAP.TOOLTIP"
+msgid "This Duplicant is arming a trap"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.CHORES.ART.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
@@ -28352,6 +28516,21 @@ msgctxt "STRINGS.DUPLICANTS.CHORES.PRECONDITIONS.VALID_MOURNING_SITE"
 msgid "Nowhere to mourn"
 msgstr "Nergens om te rouwen"
 
+#. STRINGS.DUPLICANTS.CHORES.PROCESSCRITTER.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.PROCESSCRITTER.NAME"
+msgid "Process Critter"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.PROCESSCRITTER.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.PROCESSCRITTER.STATUS"
+msgid "Going to process critter"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.PROCESSCRITTER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.CHORES.PROCESSCRITTER.TOOLTIP"
+msgid "This Duplicant is processing <style=\"KKeyword\">Critters</style>"
+msgstr ""
+
 #. STRINGS.DUPLICANTS.CHORES.RADIATIONPAIN.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RADIATIONPAIN.NAME"
 msgid "Radiation Aches"
@@ -28644,7 +28823,7 @@ msgstr "Zingen voor ei"
 
 #. STRINGS.DUPLICANTS.CHORES.SINGTOEGG.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.SINGTOEGG.TOOLTIP"
-msgid "A gentle lullaby from a supportive Duplicant encourages developing <style=\"KKeyword\">Eggs</style>\n\nIncreases <style=\"KKeyword\">Incubation Rate</style>\n\nDuplicants must possess the <link=\"RANCHING1\">Critter Ranching I</link> Skill to sing to an egg"
+msgid "A gentle lullaby from a supportive Duplicant encourages developing <style=\"KKeyword\">Eggs</style>\n\nIncreases <style=\"KKeyword\">Incubation Rate</style>\n\nDuplicants must possess the <link=\"RANCHING1\">Critter Ranching I</link> skill to sing to an egg"
 msgstr "Een zacht slaapliedje van een ondersteunende Duplicant stimuleert het ontwikkelen van <style=\"KKeyword\">Eieren</style>\n\nVerhoogt <style=\"KKeyword\">Incubatiesnelheid</style>\n\nDuplicanten moeten beschikken over de <link=\"RANCHING1\">Beest Veehouder I</link> Vaardigheid om voor een ei te zingen"
 
 #. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
@@ -30651,6 +30830,16 @@ msgstr "Weggelopen patiënt"
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DOCTOREDOFFCOTEFFECT.TOOLTIP"
 msgid "Tsk tsk!\nThis Duplicant cannot receive treatment while out of their medical bed!"
 msgstr "Tsk tsk!\nDeze Duplicant kan geen behandeling krijgen als hij niet in zijn ziekenhuisbed ligt!"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTGOTMILK.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTGOTMILK.NAME"
+msgid "Extra Hydrated"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTGOTMILK.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DUPLICANTGOTMILK.TOOLTIP"
+msgid "This Duplicant recently drank <style=\"KKeyword\">Brackene</style>. It's helping them relax"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME"
@@ -33687,6 +33876,16 @@ msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGGENES.TOOLTIP"
 msgid "This Duplicant is peering deep into the genetic code of an odd seed"
 msgstr "Deze Duplicant tuurt diep in de genetische code van een vreemd zaadje"
 
+#. STRINGS.DUPLICANTS.STATUSITEMS.ARMINGTRAP.NAME
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARMINGTRAP.NAME"
+msgid "Arming trap"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.ARMINGTRAP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARMINGTRAP.TOOLTIP"
+msgid "This Duplicant is arming a trap"
+msgstr ""
+
 #. STRINGS.DUPLICANTS.STATUSITEMS.ARTING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ARTING.NAME"
 msgid "Decorating"
@@ -35496,6 +35695,16 @@ msgstr "Handen wassen"
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP"
 msgid "This Duplicant is washing their hands"
 msgstr "Deze Duplicant wast hun handen"
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.NAME
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.NAME"
+msgid "Smooth Rider"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.TOOLTIP"
+msgid "This Duplicant slapped on some <link=\"MILKFAT\">Brackwax</link> before starting their commute\n\nThis boosts their <link=\"TRAVELTUBE\">Transit Tube</link> travel speed by {0}"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WEARING_PAJAMAS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WEARING_PAJAMAS.NAME"
@@ -37344,7 +37553,7 @@ msgstr "<link=\"AEROGEL\">Aerogel</link>"
 
 #. STRINGS.ELEMENTS.ALGAE.DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.DESC"
-msgid "Algae is a cluster of non-motile, single-celled lifeforms.\n\nIt can be used to produce <link=\"OXYGEN\">Oxygen</link> when used in a <link=\"MINERALDEOXIDIZER\">Oxygen Diffuser</link>"
+msgid "Algae is a cluster of non-motile, single-celled lifeforms.\n\nIt can be used to produce <link=\"OXYGEN\">Oxygen</link> when used in an <link=\"MINERALDEOXIDIZER\">Oxygen Diffuser</link>."
 msgstr "Algen is een cluster van niet-beweeglijke, eencellige levensvormen.\n\nHet kan worden gebruikt om <link=\"OXYGEN\">Zuurstof</link> te produceren wanneer het wordt gebruikt in een <link=\"MINERALDEOXIDIZER\">Zuurstofverspreider</link>"
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
@@ -37439,7 +37648,7 @@ msgstr "<link=\"BRINE\">Pekel</link>"
 
 #. STRINGS.ELEMENTS.BRINEICE.DESC
 msgctxt "STRINGS.ELEMENTS.BRINEICE.DESC"
-msgid "Brine is a natural, highly concentrated solution of <link=\"SALT\">Salt</link> dissolved in <link=\"WATER\">Water</link>.\n\nIt can be used in desalination processes, separating out usable salt."
+msgid "Brine Ice is a natural, highly concentrated solution of <link=\"SALT\">Salt</link> dissolved in <link=\"WATER\">Water</link> and frozen into a <link=\"ELEMENTSSOLID\">Solid</link> state.\n\nIt can be used in desalination processes, separating out usable salt."
 msgstr "Pekel is een natuurlijke, sterk geconcentreerde oplossing van <link=\"SALT\">Zout</link> opgelost in <link=\"WATER\">Water</link>.\n\nHet kan worden gebruikt in ontziltingsprocessen, het scheiden van bruikbaar zout."
 
 #. STRINGS.ELEMENTS.BRINEICE.NAME
@@ -37967,6 +38176,16 @@ msgctxt "STRINGS.ELEMENTS.HARDNESS.VERYSOFT"
 msgid "{0} (Very Soft)"
 msgstr "{0} (Zeer zacht)"
 
+#. STRINGS.ELEMENTS.HARDPOLYPROPYLENE.DESC
+msgctxt "STRINGS.ELEMENTS.HARDPOLYPROPYLENE.DESC"
+msgid "<link=\"HARDPOLYPROPYLENE\">Plastium</link> is an advanced thermoplastic polymer made from <link=\"TEMPCONDUCTORSOLID\">Thermium</link>, <link=\"POLYPROPYLENE\">Plastic</link> and <link=\"MILKFAT\">Brackwax</link>.\n\nIt is highly heat-resistant and suitable for use in space buildings."
+msgstr ""
+
+#. STRINGS.ELEMENTS.HARDPOLYPROPYLENE.NAME
+msgctxt "STRINGS.ELEMENTS.HARDPOLYPROPYLENE.NAME"
+msgid "<link=\"HARDPOLYPROPYLENE\">Plastium</link>"
+msgstr ""
+
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
 msgid "(He) Helium is an atomically lightweight, chemical <link=\"ELEMENTSGAS\">Gas</link>."
@@ -38306,6 +38525,36 @@ msgstr "Aardgas is een mengsel van verschillende alkanen in een <link=\"ELEMENTS
 msgctxt "STRINGS.ELEMENTS.METHANE.NAME"
 msgid "<link=\"METHANE\">Natural Gas</link>"
 msgstr "<link=\"METHANE\">Aardgas</link>"
+
+#. STRINGS.ELEMENTS.MILK.DESC
+msgctxt "STRINGS.ELEMENTS.MILK.DESC"
+msgid "Brackene is a sodium-rich <link=\"ELEMENTSLIQUID\">Liquid</link>.\n\nIt is useful in <link=\"RANCHING\">Ranching</link>."
+msgstr ""
+
+#. STRINGS.ELEMENTS.MILK.NAME
+msgctxt "STRINGS.ELEMENTS.MILK.NAME"
+msgid "<link=\"MILK\">Brackene</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.MILKFAT.DESC
+msgctxt "STRINGS.ELEMENTS.MILKFAT.DESC"
+msgid "Brackwax is a <link=\"ELEMENTSSOLID\">Solid</link> byproduct of <link=\"MILK\">Brackene</link>."
+msgstr ""
+
+#. STRINGS.ELEMENTS.MILKFAT.NAME
+msgctxt "STRINGS.ELEMENTS.MILKFAT.NAME"
+msgid "<link=\"MILKFAT\">Brackwax</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.MILKICE.DESC
+msgctxt "STRINGS.ELEMENTS.MILKICE.DESC"
+msgid "Frozen Brackene is <link=\"MILK\">Brackene</link> frozen into a <link=\"ELEMENTSSOLID\">Solid</link> state."
+msgstr ""
+
+#. STRINGS.ELEMENTS.MILKICE.NAME
+msgctxt "STRINGS.ELEMENTS.MILKICE.NAME"
+msgid "<link=\"MILKICE\">Frozen Brackene</link>"
+msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENALUMINUM.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENALUMINUM.DESC"
@@ -39342,6 +39591,16 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.DESC"
 msgid "Default belt for atmo suits."
 msgstr "Standaardriem voor atmopakken."
 
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_GOLD.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_GOLD.DESC"
+msgid "Better to be overdressed than underdressed."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_GOLD.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_GOLD.NAME"
+msgid "Gold Atmo Belt"
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.LIMONE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.LIMONE.DESC"
 msgid "This lime-hued belt really pulls an atmo suit together."
@@ -39402,6 +39661,16 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.SPARKLE_RED.NAME"
 msgid "Red Glitter Atmo Belt"
 msgstr "Rode Glitter Atmo Riem"
 
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.TWOTONE_PURPLE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.TWOTONE_PURPLE.DESC"
+msgid "In the more pretentious space-fashion circles, it's known as \"aubergine.\""
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.TWOTONE_PURPLE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.TWOTONE_PURPLE.NAME"
+msgid "Eggplant Atmo Belt"
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.NAME"
 msgid "Default Atmo Belt"
@@ -39412,6 +39681,16 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.DESC"
 msgid "Default top and bottom of an atmo suit."
 msgstr "Standaard boven- en onderkant van een atmopak."
 
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_PURPLE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_PURPLE.DESC"
+msgid "It really emphasizes wide shoulders."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_PURPLE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_PURPLE.NAME"
+msgid "Crisp Eggplant Atmo Suit"
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.LIMONE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.LIMONE.DESC"
 msgid "Perfect for summery, atmospheric excursions."
@@ -39421,6 +39700,16 @@ msgstr "Perfect voor zomerse, sfeervolle uitstapjes."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.LIMONE.NAME"
 msgid "Citrus Atmo Suit"
 msgstr "Citrus Atmopak"
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PRINT_TRIANGLES_TURQ.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PRINT_TRIANGLES_TURQ.DESC"
+msgid "It puts the \"fun\" in \"perfunctory nods to personnel individuality\"!"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PRINT_TRIANGLES_TURQ.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PRINT_TRIANGLES_TURQ.NAME"
+msgid "Confetti Atmo Suit"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PUFT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PUFT.DESC"
@@ -39482,6 +39771,16 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.DESC"
 msgid "Default atmo suit gloves."
 msgstr "Standaard atmohandschoenen."
 
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.GOLD.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.GOLD.DESC"
+msgid "A golden touch! Without all the Midas-type baggage."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.GOLD.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.GOLD.NAME"
+msgid "Gold Atmo Gloves"
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.LIMONE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.LIMONE.DESC"
 msgid "Lime-inspired gloves brighten up hostile environments."
@@ -39501,6 +39800,16 @@ msgstr "Een beetje Puft-aandacht voor de delicate extremiteiten.\nUitgebracht vo
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PUFT.NAME"
 msgid "Puft Atmo Gloves"
 msgstr "Puft Atmohandschoenen"
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PURPLE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PURPLE.DESC"
+msgid "Fab purple gloves for hostile environments."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PURPLE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.PURPLE.NAME"
+msgid "Eggplant Atmo Gloves"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_BLUE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.SPARKLE_BLUE.DESC"
@@ -39551,6 +39860,16 @@ msgstr "Standaard Atmohandschoenen"
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.DESC"
 msgid "Default helmet for atmo suits."
 msgstr "Standaardhelm voor atmopakken."
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.CLUBSHIRT_PURPLE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.CLUBSHIRT_PURPLE.DESC"
+msgid "It is neither an egg, nor a plant. But it <i>is</i> a functional helmet."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.CLUBSHIRT_PURPLE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.CLUBSHIRT_PURPLE.NAME"
+msgid "Eggplant Atmo Helmet"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.LIMONE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.LIMONE.DESC"
@@ -39612,6 +39931,16 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.SPARKLE_RED.NAME"
 msgid "Red Glitter Atmo Helmet"
 msgstr "Rode Glitter Atmohelm"
 
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.TRIANGLES_TURQ.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.TRIANGLES_TURQ.DESC"
+msgid "Doubles as a party hat."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.TRIANGLES_TURQ.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.TRIANGLES_TURQ.NAME"
+msgid "Confetti Atmo Helmet"
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.NAME"
 msgid "Default Atmo Helmet"
@@ -39631,6 +39960,26 @@ msgstr "Puft Atmopak"
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.DESC"
 msgid "Default footwear for atmo suits."
 msgstr "Standaardschoeisel voor atmopakken."
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_BLACK.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_BLACK.DESC"
+msgid "They attract no attention at all."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_BLACK.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_BLACK.NAME"
+msgid "Stealth Atmo Boots"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_PURPLE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_PURPLE.DESC"
+msgid "Purple boots for stomping around in hostile environments."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_PURPLE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_PURPLE.NAME"
+msgid "Eggplant Atmo Boots"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.LIMONE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.LIMONE.DESC"
@@ -39811,6 +40160,106 @@ msgstr "Deze benen zijn beestig."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.CIRCUIT_GREEN.NAME"
 msgid "LED Pants"
 msgstr "LED Broek"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.DENIM_BLUE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.DENIM_BLUE.DESC"
+msgid "The bottom half of a Canadian tuxedo."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.DENIM_BLUE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.DENIM_BLUE.NAME"
+msgid "Jeans"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GI_WHITE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GI_WHITE.DESC"
+msgid "The cropped length is ideal for wading through flooded hallways."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GI_WHITE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GI_WHITE.NAME"
+msgid "White Capris"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_BLUEBERRY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_BLUEBERRY.DESC"
+msgid "The workhorse of the underwear world."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_BLUEBERRY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_BLUEBERRY.NAME"
+msgid "Admin Briefs"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_GRAPE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_GRAPE.DESC"
+msgid "Underwear that works hard, plays hard, and gives 110% to maximize the \"bottom\" line."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_GRAPE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_GRAPE.NAME"
+msgid "Buzzword Briefs"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_LEMON.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_LEMON.DESC"
+msgid "All the cool people are wearing them."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_LEMON.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_LEMON.NAME"
+msgid "Groupthink Briefs"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_LIME.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_LIME.DESC"
+msgid "They're really invested in keeping the wearer comfortable."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_LIME.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_LIME.NAME"
+msgid "Stakeholder Briefs"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_SATSUMA.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_SATSUMA.DESC"
+msgid "The seams are already unraveling."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_SATSUMA.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_SATSUMA.NAME"
+msgid "Underling Briefs"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_STRAWBERRY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_STRAWBERRY.DESC"
+msgid "Bossy (under)pants."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_STRAWBERRY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_STRAWBERRY.NAME"
+msgid "Executive Briefs"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_WATERMELON.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_WATERMELON.DESC"
+msgid "Teamwork makes the dream work."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_WATERMELON.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.GONCH_WATERMELON.NAME"
+msgid "Synergy Briefs"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.NERD_BROWN.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.NERD_BROWN.DESC"
+msgid "The pockets are full of illegible notes that didn't quite survive the wash."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.NERD_BROWN.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.NERD_BROWN.NAME"
+msgid "Research Pants"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_BLUE_COBALT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SHORTS_BASIC_BLUE_COBALT.DESC"
@@ -40022,6 +40471,16 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CIRCUIT_GREEN.NAME"
 msgid "LED Gloves"
 msgstr "LED Handschoenen"
 
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_BLACK.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_BLACK.DESC"
+msgid "It's easy to forget they're even on."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_BLACK.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_BLACK.NAME"
+msgid "Stealth Glovelets"
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_BLUEBERRY.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_BLUEBERRY.DESC"
 msgid "Wrist coverage is <i>so</i> overrated."
@@ -40091,6 +40550,16 @@ msgstr "Polsbedekking is <i>zo</i> overschat."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.CUFFLESS_WATERMELON.NAME"
 msgid "Watermelon Glovelets"
 msgstr "Watermeloen Handschoenen"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.DENIM_BLUE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.DENIM_BLUE.DESC"
+msgid "They're not great for dexterity."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.DENIM_BLUE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.DENIM_BLUE.NAME"
+msgid "Denim Gloves"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_CHARCOAL.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_GLOVES.FACADES.GLOVES_ATHLETIC_CHARCOAL.DESC"
@@ -40222,6 +40691,16 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_GREEN.NAME"
 msgid "Basic Green Shoes"
 msgstr "Basic Groene schoenen"
 
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_GREY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_GREY.DESC"
+msgid "A fresh pair of gray shoes that go with everything."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_GREY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_GREY.NAME"
+msgid "Basic Gray Shoes"
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_ORANGE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_ORANGE.DESC"
 msgid "A fresh pair of orange shoes that go with everything."
@@ -40291,6 +40770,86 @@ msgstr "Een fris paar gele schoenen die overal bij passen."
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.BASIC_YELLOW.NAME"
 msgid "Basic Yellow Shoes"
 msgstr "Basic  gele schoenen"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.DENIM_BLUE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.DENIM_BLUE.DESC"
+msgid "Not technically essential for a Canadian tuxedo, but why not?"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.DENIM_BLUE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.DENIM_BLUE.NAME"
+msgid "Denim Shoes"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_BLUEBERRY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_BLUEBERRY.DESC"
+msgid "Knitted socks with a fun bobble-stitch texture."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_BLUEBERRY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_BLUEBERRY.NAME"
+msgid "Slouchy Blueberry Socks"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_GRAPE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_GRAPE.DESC"
+msgid "These fabulous knitted that don't stay up. are really raisin the bar."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_GRAPE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_GRAPE.NAME"
+msgid "Slouchy Grape Socks"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_LEMON.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_LEMON.DESC"
+msgid "Zesty knitted socks that don't stay up."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_LEMON.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_LEMON.NAME"
+msgid "Slouchy Lemon Socks"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_LIME.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_LIME.DESC"
+msgid "Juicy knitted socks that don't stay up."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_LIME.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_LIME.NAME"
+msgid "Slouchy Lime Socks"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_SATSUMA.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_SATSUMA.DESC"
+msgid "Sweet knitted socks for spontaneous dance segments."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_SATSUMA.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_SATSUMA.NAME"
+msgid "Slouchy Satsuma Socks"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_STRAWBERRY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_STRAWBERRY.DESC"
+msgid "Freckly knitted socks that don't stay up."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_STRAWBERRY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_STRAWBERRY.NAME"
+msgid "Slouchy Strawberry Socks"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_WATERMELON.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_WATERMELON.DESC"
+msgid "Summery knitted socks that don't stay up."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_WATERMELON.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.LEGWARMERS_WATERMELON.NAME"
+msgid "Slouchy Watermelon Socks"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_CHARCOAL.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_SHOES.FACADES.SOCKS_ATHLETIC_CHARCOAL.DESC"
@@ -40482,6 +41041,96 @@ msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.CIRCUIT_GREEN.NAME"
 msgid "LED Jacket"
 msgstr "LED Jas"
 
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.DENIM_BLUE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.DENIM_BLUE.DESC"
+msgid "The top half of a Canadian tuxedo."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.DENIM_BLUE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.DENIM_BLUE.NAME"
+msgid "Denim Jacket"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GI_WHITE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GI_WHITE.DESC"
+msgid "The contrasting trim hides stains from messy post-sparring snacks."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GI_WHITE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GI_WHITE.NAME"
+msgid "Rebel Gi Jacket"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_BLUEBERRY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_BLUEBERRY.DESC"
+msgid "Criminally underappreciated."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_BLUEBERRY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_BLUEBERRY.NAME"
+msgid "Admin Undershirt"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_GRAPE.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_GRAPE.DESC"
+msgid "A value-added vest for touching base and thinking outside the box using best practices ASAP."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_GRAPE.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_GRAPE.NAME"
+msgid "Buzzword Undershirt"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_LEMON.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_LEMON.DESC"
+msgid "Because the most popular choice is always the right choice."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_LEMON.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_LEMON.NAME"
+msgid "Groupthink Undershirt"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_LIME.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_LIME.DESC"
+msgid "Soft against the skin, for those who have skin in the game."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_LIME.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_LIME.NAME"
+msgid "Stakeholder Undershirt"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_SATSUMA.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_SATSUMA.DESC"
+msgid "Extra-absorbent fabric in the underarms to mop up nervous sweat."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_SATSUMA.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_SATSUMA.NAME"
+msgid "Underling Undershirt"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_STRAWBERRY.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_STRAWBERRY.DESC"
+msgid "The breathable base layer every power suit needs."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_STRAWBERRY.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_STRAWBERRY.NAME"
+msgid "Executive Undershirt"
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_WATERMELON.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_WATERMELON.DESC"
+msgid "Asking for it by name often triggers dramatic eye-rolls from bystanders."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_WATERMELON.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.GONCH_WATERMELON.NAME"
+msgid "Synergy Undershirt"
+msgstr ""
+
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.JELLYPUFFJACKET_BLUEBERRY.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.JELLYPUFFJACKET_BLUEBERRY.DESC"
 msgid "It's best to keep jelly-filled puffer jackets away from sharp corners."
@@ -40551,6 +41200,16 @@ msgstr "Het is het beste om met gelei gevulde pufferjacks uit de buurt van scher
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.JELLYPUFFJACKET_WATERMELON.NAME"
 msgid "Watermelon Jelly Jacket"
 msgstr "Watermeloen Jelly Jacket"
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.NERD_BROWN.DESC
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.NERD_BROWN.DESC"
+msgid "Comes with a thoughtfully chewed-up ballpoint pen."
+msgstr ""
+
+#. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.NERD_BROWN.NAME
+msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.NERD_BROWN.NAME"
+msgid "Research Shirt"
+msgstr ""
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_CHARCOAL.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_TOPS.FACADES.RAGLANTOP_CHARCOAL.DESC"
@@ -42914,7 +43573,7 @@ msgstr "Geklopte en gevouwen ei inhoud."
 
 #. STRINGS.ITEMS.FOOD.COOKEDFISH.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COOKEDFISH.DESC"
-msgid "A cooked piece of freshly caught aquatic critter.\nnUnsurprisingly, it tastes a bit fishy."
+msgid "A cooked piece of freshly caught aquatic critter.\n\nUnsurprisingly, it tastes a bit fishy."
 msgstr "Een gekookt stuk vers gevangen waterdier.\n\nHet is niet verwonderlijk dat het een beetje visachtig smaakt."
 
 #. STRINGS.ITEMS.FOOD.COOKEDFISH.NAME
@@ -43212,6 +43871,36 @@ msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.RECIPEDESC"
 msgid "An egg laid by a <link=\"OILFLOATER\">Slickster</link>."
 msgstr "Een ei gelegd door een <link=\"OILFLOATER\">Glibster</link>."
 
+#. STRINGS.ITEMS.FOOD.PANCAKES.DESC
+msgctxt "STRINGS.ITEMS.FOOD.PANCAKES.DESC"
+msgid "Sweet discs made from <link=\"RAWEGG\">Raw Egg</link> and <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>.\n\nThey're so thick!"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PANCAKES.NAME
+msgctxt "STRINGS.ITEMS.FOOD.PANCAKES.NAME"
+msgid "<link=\"PANCAKES\">Soufflé Pancakes</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PANCAKES.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.PANCAKES.RECIPEDESC"
+msgid "Sweet discs made from <link=\"RAWEGG\">Raw Egg</link> and <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PASTA.DESC
+msgctxt "STRINGS.ITEMS.FOOD.PASTA.DESC"
+msgid "pasta made from egg and wheat"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PASTA.NAME
+msgctxt "STRINGS.ITEMS.FOOD.PASTA.NAME"
+msgid "<link=\"PASTA\">Pasta</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PASTA.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.PASTA.RECIPEDESC"
+msgid "pasta made from egg and wheat"
+msgstr ""
+
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC"
 msgid "Meal Lice preserved in vinegar.\n\nIt's a rarely acquired taste."
@@ -43276,6 +43965,21 @@ msgstr "<link=\"PUFT\">Puft Ei</link>"
 msgctxt "STRINGS.ITEMS.FOOD.PUFTEGG.RECIPEDESC"
 msgid "An egg laid by a <link=\"PUFT\">Puft</link>."
 msgstr "Een ei gelegd door een <link=\"PUFT\">Puft</link>."
+
+#. STRINGS.ITEMS.FOOD.QUICHE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.QUICHE.DESC"
+msgid "<link=\"COOKEDEGG\">Omelette</link>, <link=\"FRIEDMUSHROOM\">Fried Mushroom</link> and <link=\"LETTUCE\">Lettuce</link> piled onto a yummy crust.\n\nSomehow, it's both soggy <i>and</i> crispy."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.QUICHE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.QUICHE.NAME"
+msgid "<link=\"QUICHE\">Mushroom Quiche</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.QUICHE.RECIPEDESC
+msgctxt "STRINGS.ITEMS.FOOD.QUICHE.RECIPEDESC"
+msgid "<link=\"COOKEDEGG\">Omelette</link>, <link=\"FRIEDMUSHROOM\">Fried Mushroom</link> and <link=\"LETTUCE\">Lettuce</link> piled onto a yummy crust."
+msgstr ""
 
 #. STRINGS.ITEMS.FOOD.RAWEGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.RAWEGG.DESC"
@@ -45569,7 +46273,7 @@ msgstr "Vangst Afwachten"
 
 #. STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ORDERCAPTURE.TOOLTIP"
-msgid "Waiting for a Duplicant to capture this <style=\"KKeyword\">Critter</style>\n\nOnly Duplicants with the <link=\"RANCHING1\">Critter Ranching I</link> Skill can catch critters without traps"
+msgid "Waiting for a Duplicant to capture this <style=\"KKeyword\">Critter</style>\n\nOnly Duplicants with the <link=\"RANCHING1\">Critter Ranching I</link> skill can catch critters without traps"
 msgstr "Wachten op een Duplicant om dit <style=\"KKeyword\">Beestje</style> te vangen\n\nAlleen Duplicanten met de <link=\"RANCHING1\">Beest Veehouder I</link>Vaardigheid kunnen beestjes vangen zonder vallen"
 
 #. STRINGS.MISC.STATUSITEMS.OREMASS.NAME
@@ -49259,7 +49963,7 @@ msgstr "<link=\"ADVANCEDRESEARCH\">Geavanceerd Onderzoek</link>"
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDRESOURCEEXTRACTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.ADVANCEDRESOURCEEXTRACTION.DESC"
-msgid "Bring back souvenirs from the stars."
+msgid "Bring back souvieners from the stars."
 msgstr "Breng souvenirs terug van de sterren."
 
 #. STRINGS.RESEARCH.TECHS.ADVANCEDRESOURCEEXTRACTION.NAME
@@ -49457,6 +50161,16 @@ msgctxt "STRINGS.RESEARCH.TECHS.CRYOFUELPROPULSION.NAME"
 msgid "<link=\"CRYOFUELPROPULSION\">Cryofuel Propulsion</link>"
 msgstr "<link=\"CRYOFUELPROPULSION\">Cryobrandstof Aandrijving</link>"
 
+#. STRINGS.RESEARCH.TECHS.DAIRYOPERATION.DESC
+msgctxt "STRINGS.RESEARCH.TECHS.DAIRYOPERATION.DESC"
+msgid "Advanced production, processing and distribution of this fluid resource."
+msgstr ""
+
+#. STRINGS.RESEARCH.TECHS.DAIRYOPERATION.NAME
+msgctxt "STRINGS.RESEARCH.TECHS.DAIRYOPERATION.NAME"
+msgid "<link=\"DAIRYOPERATION\">Brackene Flow</link>"
+msgstr ""
+
 #. STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.DIRECTEDAIRSTREAMS.DESC"
 msgid "Instruments to help reduce <link=\"DISEASE\">Germ</link> spread within the base."
@@ -49589,7 +50303,7 @@ msgstr "<link=\"FLOWREDIRECTION\">Stroomomleiding</link>"
 
 #. STRINGS.RESEARCH.TECHS.FOODREPURPOSING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.FOODREPURPOSING.DESC"
-msgid "Blend that leftover <link=\"FOOD\">Food</link> into a <link=\"MORALE\">Morale</link> boosting slurry."
+msgid "Blend that leftover <link=\"FOOD\">Food</link> into a <link=\"MORALE\">Morale</link>-boosting slurry."
 msgstr "Meng dat overgebleven <link=\"FOOD\">Voedsel</link> tot een <link=\"MORALE\">Moraal</link> opwekkende brij."
 
 #. STRINGS.RESEARCH.TECHS.FOODREPURPOSING.NAME
@@ -50352,7 +51066,6 @@ msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
 msgid "Advanced Research"
 msgstr "Geavanceerd Onderzoek"
 
-
 #. STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC"
 msgid "Unlocks improved technologies."
@@ -50900,7 +51613,7 @@ msgstr "Enkel Comfortabel Bed"
 
 #. STRINGS.ROOMS.CRITERIA.MACHINE_SHOP.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.MACHINE_SHOP.DESCRIPTION"
-msgid "Requires one or more Mechanics Stations"
+msgid "Requires requires one or more Mechanics Stations"
 msgstr "Vereist één of meer Monteurstations"
 
 #. STRINGS.ROOMS.CRITERIA.MACHINE_SHOP.NAME
@@ -51745,7 +52458,7 @@ msgstr "Aanvankelijk is er heel weinig vaste grond in dit bioom om een tijdelijk
 
 #. STRINGS.SUBWORLDS.BARREN.DESC
 msgctxt "STRINGS.SUBWORLDS.BARREN.DESC"
-msgid "Initial scans of this biome yield no signs of either <link=\"PLANTS\">plant life</link> or <link=\"CREATURES\">critters</link>. It is a land devoid of <link=\"ELEMENTSLIQUID\">liquids</link> and minuscule <link=\"ELEMENTSGAS\">Gas</link> deposits. These dry, dusty plains can be mined for building materials but there is little in the way of life sustaining resources here for a colony."
+msgid "Initial scans of this biome yield no signs of either <link=\"PLANTS\">plant life</link> or <link=\"CREATURES\">critters</link>. It is a land devoid of <link=\"ELEMENTSLIQUID\">liquids</link> and minuscule <link=\"ELEMENTSGAS\">gas</link> deposits. These dry, dusty plains can be mined for building materials but there is little in the way of life sustaining resources here for a colony."
 msgstr "De eerste scans van dit bioom leveren geen tekenen op van <link=\"PLANTS\">Plantleven</link> of <link=\"CREATURES\">Beestjes</link>. Het is een land met weinig <link=\"ELEMENTSLIQUID\">Vloeistoffen</link> en minuscule <link=\"ELEMENTSGAS\">Gas</link> afzettingen. Deze droge, stoffige vlaktes kunnen worden ontgonnen voor bouwmaterialen, maar er zijn weinig levensondersteunende grondstoffen voor een kolonie."
 
 #. STRINGS.SUBWORLDS.BARREN.NAME
@@ -51860,7 +52573,7 @@ msgstr "Boe"
 
 #. STRINGS.SUBWORLDS.MOO.UTILITY
 msgctxt "STRINGS.SUBWORLDS.MOO.UTILITY"
-msgid "In addition to <link=\"METHANE\">Natural Gas</link>, the highly toxic <link=\"CHLORINEGAS\">Chlorine</link> is also present in gas form. In fact, Chlorine is present here in <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link>, and <link=\"ELEMENTSSOLID\">solid</link> states, largely due to the presence of <link=\"BLEACHSTONE\">Bleach Stone</link>.\n\n<link=\"IGNEOUSROCK\">Igneous Rock</link> and its denser form, <link=\"GRANITE\">Granite</link>, provide some useful construction materials, but the real star of this biome are the <link=\"MOO\">Gassy Moos</link> who consume <link=\"GASGRASS\">Gas Grass</link> and excrete <link=\"METHANE\">Natural Gas</link>. While Gassy Moos cannot be bred domestically, Gassy Mooteors regularly fall from space onto this biome, making it the best way to find a reliable source of these elusive creatures.\n\nWith no breathable <link=\"OXYGEN\">Oxygen</link> in this biome my Duplicants will need to be properly prepared before they venture too far into its depths."
+msgid "In addition to <link=\"METHANE\">Natural Gas</link>, the highly toxic <link=\"CHLORINEGAS\">Chlorine</link> is also present in gas form. In fact, Chlorine is present here in <link=\"ELEMENTSGAS\">gas</link>, <link=\"ELEMENTSLIQUID\">liquid</link>, and <link=\"ELEMENTSSOLID\">solid</link> states, largely due to the presence of <link=\"BLEACHSTONE\">Bleach Stone</link>.\n\n<link=\"IGNEOUSROCK\">Igneous Rock</link> and its denser form, <link=\"GRANITE\">Granite</link>, provide some useful construction materials, but the real star of this biome are the <link=\"MOO\">Gassy Moos</link> who consume <link=\"GASGRASS\">Gas Grass</link> and excrete <link=\"METHANE\">Natural Gas</link>. While Gassy Moos cannot be bred domestically, Gassy Mooteors regularly fall from space onto this biome, making it the best way to find a reliable source of these elusive creatures.\n\nWith no breathable <link=\"OXYGEN\">Oxygen</link> in this biome my Duplicants will need to be properly prepared before they venture too far into its depths."
 msgstr "Naast <link=\"METHANE\">Aardgas</link> is ook het zeer giftige <link=\"CHLOORGAS\">Chloor</link> in gasvorm aanwezig. Chloor is namelijk hier aanwezig in <link=\"ELEMENTSGAS\">Gas</link>, <link=\"ELEMENTSLIQUID\">Vloeibaar</link>, en <link=\"ELEMENTSSOLID\">Vaste</link> vorm, grotendeels door de aanwezigheid van <link=\"BLEACHSTONE\">Bleeksteen</link>.\n\n<link=\"IGNEOUSROCK\">Stollingsgesteente</link> en zijn dichtere vorm, <link=\"GRANIET\">Graniet</link>, levert een aantal bruikbare bouwmaterialen, maar de echte sterren van dit bioom zijn de <link=\"MOO\">Blaasboes</link> die <link=\"GASGRASS\">Gasgras</link> consumeren en <link=\"METHANE\">Aardgas</link> uitscheiden. Hoewel Blaasboes niet gedomesticeerd kunnen worden gekweekt, vallen Blaasboeteoren regelmatig vanuit de ruimte op dit bioom, waardoor het de beste manier is om een betrouwbare bron van deze ongrijpbare wezens te vinden.\n\nZonder adembare <link=\"OXYGEN\">Zuurstof</link> in dit bioom zullen mijn Duplicanten goed moeten worden voorbereid voordat ze zich te ver in de diepten wagen."
 
 #. STRINGS.SUBWORLDS.NIOBIUM.DESC
@@ -52865,7 +53578,7 @@ msgstr "Dit beestje kan gevangen worden met een <link=\"CREATURETRAP\">Beest Val
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.CAPTURE_METHOD_WRANGLE"
-msgid "This critter can be captured\n\nMark critters for capture using the <b>Wrangle Tool</b> {Hotkey/Capture}\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> Skill in order to wrangle critters"
+msgid "This critter can be captured\n\nMark critters for capture using the <b>Wrangle Tool</b> {Hotkey/Capture}\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> skill in order to wrangle critters"
 msgstr "Dit beest kan worden gevangen\n\nMarkeer beestjes om te worden gevangen met behulp van de <b>Vastbinden Tool</b> {Hotkey/Capture}\n\nDuplicanten moeten beschikken over de <style=\"KKeyword\">Beest Verzorging</ stijl> Vaardigheid om beestjes te vast te binden"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.COOLANT
@@ -53465,7 +54178,7 @@ msgstr "VERZORGINGSPAKKET"
 
 #. STRINGS.UI.CHANGEPERCYCLE
 msgctxt "STRINGS.UI.CHANGEPERCYCLE"
-msgid "Change per cycle: {0}"
+msgid "Total change per cycle: {0}"
 msgstr "Wijziging per cyclus: {0}"
 
 #. STRINGS.UI.CHANGEPERSECOND
@@ -54578,6 +55291,31 @@ msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.IDLEDIAGNOSTIC.TOOLTIP_NAME"
 msgid "<b>Idleness</b>"
 msgstr "<b>Inactiviteit</b>"
 
+#. STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.ALL_NAME
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.ALL_NAME"
+msgid "Meteor Showers"
+msgstr ""
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.CRITERIA.CHECKUNDERWAY
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.CRITERIA.CHECKUNDERWAY"
+msgid "Check meteor bombardment"
+msgstr ""
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.NORMAL
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.NORMAL"
+msgid "    • No meteor showers in progress"
+msgstr ""
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.SHOWER_UNDERWAY
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.SHOWER_UNDERWAY"
+msgid "    • Meteor bombardment underway! {0} remaining"
+msgstr ""
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.TOOLTIP_NAME
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.METEORDIAGNOSTIC.TOOLTIP_NAME"
+msgid "<b>Meteor Showers</b>"
+msgstr ""
+
 #. STRINGS.UI.COLONY_DIAGNOSTICS.MUTE_TUTORIAL
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.MUTE_TUTORIAL"
 msgid "Diagnostic can be muted in the <b><color=#E5B000>See All</color></b> panel"
@@ -54593,15 +55331,20 @@ msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_DATA_SHORT"
 msgid "    • No data"
 msgstr "    • Geen gegevens"
 
-#. STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS
-msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS"
-msgid "    • There are no Duplicants on this {0}"
-msgstr "    • Er zijn geen Duplicanten op deze {0}"
+#. STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS_PLANETOID
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS_PLANETOID"
+msgid "    • There are no Duplicants on this planetoid"
+msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS_REQUESTED
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS_REQUESTED"
 msgid "    • Crew must be requested to update this diagnostic"
 msgstr "    • Bemanning moet worden verzocht om deze diagnose bij te werken"
+
+#. STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS_ROCKET
+msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.NO_MINIONS_ROCKET"
+msgid "    • There are no Duplicants aboard this rocket"
+msgstr ""
 
 #. STRINGS.UI.COLONY_DIAGNOSTICS.PLACEHOLDER_CRITERIA_NAME
 msgctxt "STRINGS.UI.COLONY_DIAGNOSTICS.PLACEHOLDER_CRITERIA_NAME"
@@ -59815,7 +60558,7 @@ msgstr "STEAM WORKSHOP"
 
 #. STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER
 msgctxt "STRINGS.UI.FRONTEND.MOTD.IMAGE_HEADER"
-msgid "JUNE 2023 QOL"
+msgid "SONG OF THE MOO"
 msgstr "JUNI 2023 QOL"
 
 #. STRINGS.UI.FRONTEND.MOTD.NEWS_BODY
@@ -59830,7 +60573,7 @@ msgstr "DOE MEE AAN DE DISCUSSIE"
 
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
-msgid "This update includes:\n\n•<indent=20px>Significant changes to Space Scanner and telescopes.</indent>\n•<indent=20px>New category of cosmetic skins.</indent>\n•<indent=20px>New Move To tool for transporting objects.</indent>\n•<indent=20px>A strange new asteroid and Puft Atmo Suit skin for Klei Fest.</indent>\n•<indent=20px>Bug fixes and quality of life improvements.</indent>\n\n   Check out the full patch notes for more details!"
+msgid "This update includes:\n\n•<indent=20px>Gassy Moos can be milked for a substance called Brackene.</indent>\n•<indent=20px>Several new Brackene related buildings.</indent>\n•<indent=20px>New Egg recipes and food tuning.</indent>\n•<indent=20px>A high temperature plastic called Plastium is craftable at the Molecular Forge.</indent>\n•<indent=20px>New cosmetic skins.</indent>\n•<indent=20px>Bug fixes and more.</indent>\n\n   Check out the full patch notes for more details!"
 msgstr "Deze update omvat:\n\n•<indent=20px>Aanzienlijke wijzigingen aan Ruimtescanner en telescopen.</indent>\n•<indent=20px>Nieuwe categorie cosmetische skins.</indent>\n•<indent=20px>Nieuwe Verplaats Naar tool voor het transporteren van objecten.</indent>\n•<indent=20px>Een vreemde nieuwe asteroïde en Puft Atmopak skin voor Klei Fest.</indent>\n•<indent=20px>Bug fixes en verbeteringen van de kwaliteit van leven.</indent>\n\n Bekijk de volledige patch-opmerkingen voor meer details!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
@@ -61138,6 +61881,11 @@ msgctxt "STRINGS.UI.ITEM_DROP_SCREEN.DISMISS_BUTTON"
 msgid "DISMISS"
 msgstr "VERWIJDEREN"
 
+#. STRINGS.UI.ITEM_DROP_SCREEN.ERROR_CANNOTLOADITEM
+msgctxt "STRINGS.UI.ITEM_DROP_SCREEN.ERROR_CANNOTLOADITEM"
+msgid "Whoops! Something's gone wrong."
+msgstr ""
+
 #. STRINGS.UI.ITEM_DROP_SCREEN.IN_GAME_BUTTON.TOOLTIP_ERROR_NO_ITEMS
 msgctxt "STRINGS.UI.ITEM_DROP_SCREEN.IN_GAME_BUTTON.TOOLTIP_ERROR_NO_ITEMS"
 msgid "No new blueprints to unlock"
@@ -61468,11 +62216,6 @@ msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BODY"
 msgid "Atmo Suits"
 msgstr "Atmopakken"
 
-#. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BOOTS
-msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_BOOTS"
-msgid "Atmo Suit Boots"
-msgstr "Atmopak Laarzen"
-
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_GLOVES
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ATMO_SUIT_GLOVES"
 msgid "Atmo Gloves"
@@ -61632,6 +62375,276 @@ msgstr "Uh oh!"
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.OPEN_INVENTORY_BUTTON"
 msgid "Open Klei Inventory"
 msgstr "Klei-inventaris openen"
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BELTS_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BELTS_BASIC"
+msgid "Atmo Belts"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BELTS_FANCY
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BELTS_FANCY"
+msgid "Fancy Atmo Belts"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BODIES_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BODIES_BASIC"
+msgid "Atmo Suits"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BODIES_FANCY
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BODIES_FANCY"
+msgid "Fancy Atmo Suits"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_GLOVES_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_GLOVES_BASIC"
+msgid "Atmo Gloves"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_GLOVES_FANCY
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_GLOVES_FANCY"
+msgid "Fancy Atmo Gloves"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_HELMETS_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_HELMETS_BASIC"
+msgid "Atmo Helmets"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_HELMETS_FANCY
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_HELMETS_FANCY"
+msgid "Fancy Atmo Helmets"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_SHOES_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_SHOES_BASIC"
+msgid "Atmo Boots"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_SHOES_FANCY
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_SHOES_FANCY"
+msgid "Fancy Atmo Boots"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_LANDSCAPE
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_LANDSCAPE"
+msgid "Landscape Canvas"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_PORTRAIT
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_PORTRAIT"
+msgid "Portrait Canvas"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_STANDARD
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CANVAS_STANDARD"
+msgid "Standard Canvas"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CEILING_LIGHT
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_CEILING_LIGHT"
+msgid "Lights"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_SCULPTURE
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_SCULPTURE"
+msgid "Sculptures"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_WALLPAPER_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_WALLPAPER_BASIC"
+msgid "Solid Wallpapers"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_WALLPAPER_FANCY
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_WALLPAPER_FANCY"
+msgid "Geometric Wallpapers"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_WALLPAPER_PRINTS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDING_WALLPAPER_PRINTS"
+msgid "Patterned Wallpapers"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_BED_COT
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_BED_COT"
+msgid "Cots"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_BED_LUXURY
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_BED_LUXURY"
+msgid "Comfy Beds"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_FLOWER_VASE
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_FLOWER_VASE"
+msgid "Flower Pots"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_INDUSTRIAL
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_INDUSTRIAL"
+msgid "Industrial"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_RECREATION
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_RECREATION"
+msgid "Recreation and Decor"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_BASIC"
+msgid "Basic Pants"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_FANCY
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_FANCY"
+msgid "Fancy Pants"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_SHORTS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_SHORTS"
+msgid "Shorts"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_UNDERWEAR
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_UNDERWEAR"
+msgid "Underwear"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_GLOVES_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_GLOVES_BASIC"
+msgid "Basic Gloves"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_GLOVES_PRINTS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_GLOVES_PRINTS"
+msgid "Specialty Gloves"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_GLOVES_SHORT
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_GLOVES_SHORT"
+msgid "Short Gloves"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_SHOE_SOCKS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_SHOE_SOCKS"
+msgid "Socks"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_SHOES_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_SHOES_BASIC"
+msgid "Basic Shoes"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_BASIC
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_BASIC"
+msgid "Basic Shirts"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_JACKET
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_JACKET"
+msgid "Jackets"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_TSHIRT
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_TSHIRT"
+msgid "Tees"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_UNDERSHIRT
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_TOPS_UNDERSHIRT"
+msgid "Undershirts"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.DEFAULT
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.DEFAULT"
+msgid "Default"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.JOY_BALLOON
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.JOY_BALLOON"
+msgid "Balloons"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.JOY_STICKER
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.JOY_STICKER"
+msgid "Stickers"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.MONUMENT_PARTS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.MONUMENT_PARTS"
+msgid "Monuments"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.PRIMO_GARB
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.PRIMO_GARB"
+msgid "Primo Garb"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.UNCATEGORIZED
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.UNCATEGORIZED"
+msgid "BUG: UNCATEGORIZED"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.UNRELEASED
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.UNRELEASED"
+msgid "DEBUG UNRELEASED"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.YAML
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.YAML"
+msgid "YAML"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.ARTWORK
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.ARTWORK"
+msgid "Artwork"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.ATMOSUITS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.ATMOSUITS"
+msgid "Atmo Suits"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.BUILDINGS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.BUILDINGS"
+msgid "Buildings"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.CLOTHING_BOTTOMS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.CLOTHING_BOTTOMS"
+msgid "Bottoms"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.CLOTHING_GLOVES
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.CLOTHING_GLOVES"
+msgid "Gloves"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.CLOTHING_SHOES
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.CLOTHING_SHOES"
+msgid "Footwear"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.CLOTHING_TOPS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.CLOTHING_TOPS"
+msgid "Tops & Onesies"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.JOY_RESPONSES
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.JOY_RESPONSES"
+msgid "Joy Responses"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.UNRELEASED
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.UNRELEASED"
+msgid "DEBUG UNRELEASED"
+msgstr ""
+
+#. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.WALLPAPERS
+msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.WALLPAPERS"
+msgid "Wallpapers"
+msgstr ""
 
 #. STRINGS.UI.LISTENTRYSTRING
 msgctxt "STRINGS.UI.LISTENTRYSTRING"
@@ -62663,6 +63676,21 @@ msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.OIL.TOOLTIP"
 msgid ""
 msgstr ""
 
+#. STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.BUILDMENUTITLE
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.BUILDMENUTITLE"
+msgid "Organic"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.NAME
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.NAME"
+msgid "Organic"
+msgstr ""
+
+#. STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.TOOLTIP
+msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.ORGANIC.TOOLTIP"
+msgid ""
+msgstr ""
+
 #. STRINGS.UI.NEWBUILDCATEGORIES.OXYGEN.BUILDMENUTITLE
 msgctxt "STRINGS.UI.NEWBUILDCATEGORIES.OXYGEN.BUILDMENUTITLE"
 msgid "Oxygen"
@@ -63383,6 +64411,16 @@ msgctxt "STRINGS.UI.OUTFITS.ATHLETE.NAME"
 msgid "Racing Outfit"
 msgstr "Racing-outfit"
 
+#. STRINGS.UI.OUTFITS.ATMOSUIT_BASIC_PURPLE.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_BASIC_PURPLE.NAME"
+msgid "Eggplant Atmo Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.ATMOSUIT_CONFETTI.NAME
+msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_CONFETTI.NAME"
+msgid "Confetti Atmo Outfit"
+msgstr ""
+
 #. STRINGS.UI.OUTFITS.ATMOSUIT_LIMONE.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_LIMONE.NAME"
 msgid "Citrus Atmo Outfit"
@@ -63493,10 +64531,50 @@ msgctxt "STRINGS.UI.OUTFITS.BASIC_YELLOW.NAME"
 msgid "Basic Yellow Outfit"
 msgstr "Basic Gele Outfit"
 
+#. STRINGS.UI.OUTFITS.CANUXTUX.NAME
+msgctxt "STRINGS.UI.OUTFITS.CANUXTUX.NAME"
+msgid "Canadian Tuxedo Outfit"
+msgstr ""
+
 #. STRINGS.UI.OUTFITS.CIRCUIT.NAME
 msgctxt "STRINGS.UI.OUTFITS.CIRCUIT.NAME"
 msgid "LED Party Outfit"
 msgstr "LED Party Outfit"
+
+#. STRINGS.UI.OUTFITS.GONCHIES_BLUEBERRY.NAME
+msgctxt "STRINGS.UI.OUTFITS.GONCHIES_BLUEBERRY.NAME"
+msgid "Admin Undies Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.GONCHIES_GRAPE.NAME
+msgctxt "STRINGS.UI.OUTFITS.GONCHIES_GRAPE.NAME"
+msgid "Buzzword Undies Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.GONCHIES_LEMON.NAME
+msgctxt "STRINGS.UI.OUTFITS.GONCHIES_LEMON.NAME"
+msgid "Groupthink Undies Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.GONCHIES_LIME.NAME
+msgctxt "STRINGS.UI.OUTFITS.GONCHIES_LIME.NAME"
+msgid "Stakeholder Undies Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.GONCHIES_SATSUMA.NAME
+msgctxt "STRINGS.UI.OUTFITS.GONCHIES_SATSUMA.NAME"
+msgid "Underling Undies Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.GONCHIES_STRAWBERRY.NAME
+msgctxt "STRINGS.UI.OUTFITS.GONCHIES_STRAWBERRY.NAME"
+msgid "Executive Undies Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.GONCHIES_WATERMELON.NAME
+msgctxt "STRINGS.UI.OUTFITS.GONCHIES_WATERMELON.NAME"
+msgid "Synergy Undies Outfit"
+msgstr ""
 
 #. STRINGS.UI.OUTFITS.JELLYPUFF_BLUEBERRY.NAME
 msgctxt "STRINGS.UI.OUTFITS.JELLYPUFF_BLUEBERRY.NAME"
@@ -63532,6 +64610,16 @@ msgstr "Aardbeigelei Outfit"
 msgctxt "STRINGS.UI.OUTFITS.JELLYPUFF_WATERMELON.NAME"
 msgid "Watermelon Jelly Outfit"
 msgstr "Watermeloengelei Outfit"
+
+#. STRINGS.UI.OUTFITS.NERD.NAME
+msgctxt "STRINGS.UI.OUTFITS.NERD.NAME"
+msgid "Research Outfit"
+msgstr ""
+
+#. STRINGS.UI.OUTFITS.REBELGI.NAME
+msgctxt "STRINGS.UI.OUTFITS.REBELGI.NAME"
+msgid "Rebel Gi Outfit"
+msgstr ""
 
 #. STRINGS.UI.OVERLAYS.CONVEYOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.CONVEYOR.BUTTON"
@@ -65893,9 +66981,14 @@ msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_CLUSTER_TELESCOPE.DESCRIPTION"
 msgid "<link=\"CLUSTERTELESCOPE\">Telescope</link> Usage"
 msgstr "<link=\"CLUSTERTELESCOPE\">Telescoop</link> Gebruik"
 
+#. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_MILKING_STATION.DESCRIPTION
+msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_MILKING_STATION.DESCRIPTION"
+msgid "<link=\"MILKINGSTATION\">Milking Station</link> Usage"
+msgstr ""
+
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION
 msgctxt "STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_RANCH_STATION.DESCRIPTION"
-msgid "Grooming Station Usage"
+msgid "<link=\"RANCHSTATION\">Grooming Station</link> Usage"
 msgstr "Verzorgingsstation Gebruik"
 
 #. STRINGS.UI.ROLES_SCREEN.PERKS.CAN_USE_ROCKETS.DESCRIPTION
@@ -67925,7 +69018,7 @@ msgstr "Bevroren Erts Asteroïde Veld"
 
 #. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GASGIANTCLOUD.DESC
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GASGIANTCLOUD.DESC"
-msgid "The harvestable remains of a planet containing <link=\"HYDROGEN\">Hydrogen</link> in <link=\"ELEMENTSGAS\">Gas</link> form, and <link=\"SOLIDMETHANE\">Methane</link> in <link=\"ELEMENTSSOLID\">solid</link> and <link=\"ELEMENTSLIQUID\">liquid</link> form.\n\nHarvesting resources requires a rocket equipped with a <link=\"NOSECONEHARVEST\">Drillcone</link>."
+msgid "The harvestable remains of a planet containing <link=\"HYDROGEN\">Hydrogen</link> in <link=\"ELEMENTSGAS\">gas</link> form, and <link=\"SOLIDMETHANE\">Methane</link> in <link=\"ELEMENTSSOLID\">solid</link> and <link=\"ELEMENTSLIQUID\">liquid</link> form.\n\nHarvesting resources requires a rocket equipped with a <link=\"NOSECONEHARVEST\">Drillcone</link>."
 msgstr "De oogstbare overblijfselen van een planeet die <link=\"WATERSTOF\">Waterstof</link> in <link=\"ELEMENTSGAS\">Gas</link>vorm bevat, en <link=\"SOLIDMETHANE\">Methaan</link> in <link=\"ELEMENTSSOLID\">Vaste</link> en <link=\"ELEMENTSLIQUID\">Vloeibare</link> vorm.\n\nVoor het oogsten van grondstoffen is een raket nodig die is uitgerust met een <link=\"NOSECONEHARVEST\">Boor Neuskegel</link>."
 
 #. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GASGIANTCLOUD.NAME
@@ -71310,7 +72403,7 @@ msgstr "Surplus Auto-Vastbinden"
 
 #. STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.AUTOWRANGLE_TOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.AUTOWRANGLE_TOOLTIP"
-msgid "A Duplicant will automatically wrangle any critters that exceed the population limit or that do not belong in this stable\n\nDuplicants must possess the Critter Ranching Skill in order to wrangle critters"
+msgid "A Duplicant will automatically wrangle any critters that exceed the population limit or that do not belong in this stable\n\nDuplicants must possess the <style=\"KKeyword\">Critter Ranching</style> skill in order to wrangle critters"
 msgstr "Een Duplicant zal automatisch alle beestjes vastbinden die de populatielimiet overschrijden of die niet in deze stal thuishoren\n\nDuplicanten moeten de Beest Verzorging Vaardigheid bezitten om beestjes te kunnen vastbinden"
 
 #. STRINGS.UI.UISIDESCREENS.CAPTURE_POINT_SIDE_SCREEN.LIMIT_TOOLTIP
@@ -72042,6 +73135,11 @@ msgstr "Dit recept verbruikt {1} van een beschikbare {2} van {0}"
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.UNITS_AND_CALS"
 msgid "{0} [{1}]"
 msgstr "{0} [{1}]"
+
+#. STRINGS.UI.UISIDESCREENS.FEWOPTIONSELECTIONSIDESCREEN.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.FEWOPTIONSELECTIONSIDESCREEN.TITLE"
+msgid "Options"
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS
 msgctxt "STRINGS.UI.UISIDESCREENS.FILTERSIDESCREEN.FILTEREDELEMENT.GAS"
@@ -74723,6 +75821,16 @@ msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELMOP.TOOLTIP"
 msgid "Cancel this mop order"
 msgstr "Deze dweilbestelling annuleren"
 
+#. STRINGS.UI.USERMENUACTIONS.CANCELTRANSITTUBEWAX.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELTRANSITTUBEWAX.NAME"
+msgid "Disable Smooth Ride"
+msgstr ""
+
+#. STRINGS.UI.USERMENUACTIONS.CANCELTRANSITTUBEWAX.TOOLTIP
+msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELTRANSITTUBEWAX.TOOLTIP"
+msgid "Disables travel speed boost and refunds stored <link=\"MILKFAT\">Brackwax</link>"
+msgstr ""
+
 #. STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME"
 msgid "Cancel Uproot"
@@ -75503,6 +76611,16 @@ msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP"
 msgid "Assign materials to storage"
 msgstr "Materialen toewijzen aan opslag"
 
+#. STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.NAME"
+msgid "Enable Smooth Ride"
+msgstr ""
+
+#. STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.TOOLTIP
+msgctxt "STRINGS.UI.USERMENUACTIONS.TRANSITTUBEWAX.TOOLTIP"
+msgid "Enables the use of <link=\"MILKFAT\">Brackwax</link> to boost travel speed"
+msgstr ""
+
 #. STRINGS.UI.USERMENUACTIONS.UNEQUIP.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.UNEQUIP.NAME"
 msgid "Unequip {0}"
@@ -75812,6 +76930,11 @@ msgstr "BEGIN"
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "I've awoken at the target location, but colonization efforts have already hit a hitch. I was supposed to land on the planet's surface, but became trapped many miles underground instead.\n\nAlthough the conditions are not ideal, it's imperative that I establish a colony here and begin mounting efforts to escape."
 msgstr "Ik ben wakker geworden op de doellocatie, maar de kolonisatie-inspanningen zijn al mislukt. Ik had op het oppervlak van de planeet moeten landen, maar kwam in plaats daarvan vele kilometers onder de grond vast te zitten.\n\nHoewel de omstandigheden niet ideaal zijn, is het absoluut noodzakelijk dat ik hier een kolonie sticht en pogingen doe om te ontsnappen."
+
+#. STRINGS.UI.WELCOMEMESSAGEBODY_KF23
+msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY_KF23"
+msgid "This asteroid is oddly tilted, as though a powerful external force once knocked it off its axis.\n\nI'll need to recalibrate my approach to colony-building in order to make the most of this unusual distribution of resources."
+msgstr ""
 
 #. STRINGS.UI.WELCOMEMESSAGEBODY_SPACEDOUT
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY_SPACEDOUT"
@@ -77252,3 +78375,4 @@ msgstr "Een kleine, door water ondergedompelde wereld.\n\n<smallcaps>Waterastero
 msgctxt "STRINGS.WORLDS.WATERMOONLET.NAME"
 msgid "Water Asteroid"
 msgstr "Water Asteroïde"
+
