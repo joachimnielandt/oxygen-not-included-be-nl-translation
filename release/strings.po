@@ -556,6 +556,35 @@ msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTLIQUID.TOOLTIP"
 msgid "Incoming pipe contents cannot be cooled more than <b>{2}</b> below the surrounding environment\n\nEnvironment: {0}\nCurrent Pipe Contents: {1}"
 msgstr "Binnenkomende leiding kan niet meer dan <b>{2}</b> onder de omgevingstemperatuur gekoeld worden\n\nOmgeving: {0}\nHuidige Leiding Inhoud: {1}"
 
+#. STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.NEEDS_ARMING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.NEEDS_ARMING.NAME"
+msgid "Waiting to be Armed"
+msgstr "Wacht op activatie"
+
+#. STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.NEEDS_ARMING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.NEEDS_ARMING.TOOLTIP"
+msgid "Waiting for a Duplicant to arm this trap\n\nOnly Duplicants with the <link=\"RANCHING1\">Critter Ranching I</link> skill can arm traps"
+msgstr "Op een Duplicant aan het wachten op deze val te activeren\n\nEnkel Duplicanten met de <link=\"RANCHING1\">Veehouden I</link> vaardigheid kan vallen zetten"
+
+#. STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.READY.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.READY.NAME"
+msgid "Armed"
+msgstr "Geactiveerd"
+
+#. STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.READY.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.READY.TOOLTIP"
+msgid "This trap has been armed and is ready to catch a <style=\"KKeyword\">Critter</style>"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.SPRUNG.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.SPRUNG.NAME"
+msgid "Sprung"
+msgstr ""
+
+#. STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.SPRUNG.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_REUSABLE_TRAP.SPRUNG.TOOLTIP"
+msgid "This trap has caught a {0}!"
+msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CREATURE_TRAP.NEEDSBAIT.NAME"
 msgid "Needs Bait"
@@ -1920,6 +1949,16 @@ msgstr "Deze gebouwen zijn aan het instorten:"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP"
 msgid "This building is collapsing"
 msgstr "Dit gebouw is aan het instorten"
+
+#. STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.NAME"
+msgid "Requires Emptying"
+msgstr "Moet geleegd worden"
+
+#. STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.TOOLTIP"
+msgid "This building needs to be emptied of <link=\"MILKFAT\">Brackwax</link> to resume function"
+msgstr "De <link=\"MILKFAT\">Brakwas</link> moet uit dit gebouw gehaald worden om te kunnen verder werken to resume function"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_NOSURFACESIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSILELAUNCHER_NOSURFACESIGHT.NAME"
@@ -12161,7 +12200,22 @@ msgstr "Maakt de vaardigheidspunten van een Duplicant weer vrij om ze opnieuw te
 #. STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.NAME"
 msgid "<link=\"RESETSKILLSSTATION\">Skill Scrubber</link>"
-msgstr "<link=\"RESETSKILLSSTATION\">Vaardigheid Schrobber</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT"
+msgid "Trap Occupied"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when a critter has been trapped"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.DESC"
