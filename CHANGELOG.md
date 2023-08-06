@@ -4,6 +4,12 @@ Changes to the mod will be documented in this file.
 
 # Released
 
+## [1.2.0] 2023/08/05
+- Changes for `Song of the Moo` update
+
+## [1.1.2] 2023/08/05
+- Minor tweaks and bug fixes
+
 ## [1.1.1] 2023/07/06
 - Minor tweaks
 

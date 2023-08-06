@@ -1,0 +1,1 @@
+data class Po (val preamble: List<String>, val translations: List<Trans>)
