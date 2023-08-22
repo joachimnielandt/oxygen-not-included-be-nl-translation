@@ -25509,7 +25509,7 @@ msgstr "Ideale <style=\"KKeyword\">Temperatuur</style> opslag vertraagt de <styl
 #. STRINGS.CREATURES.STATUSITEMS.REFRIGERATEDFROZEN.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATEDFROZEN.NAME"
 msgid "Deep Freeze"
-msgstr "Deep Freeze"
+msgstr "Diepgevroren"
 
 #. STRINGS.CREATURES.STATUSITEMS.REFRIGERATEDFROZEN.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATEDFROZEN.TOOLTIP"
@@ -34079,7 +34079,7 @@ msgstr "Deze Duplicant gaat de <link=\"COMPOST\">Compost</link> omdraaien"
 #. STRINGS.DUPLICANTS.STATUSITEMS.CONTACTWITHGERMS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CONTACTWITHGERMS.NAME"
 msgid "Contact with {Sickness} Germs"
-msgstr "Contact met microben"
+msgstr "Contact met {Sickness} Microben"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CONTACTWITHGERMS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CONTACTWITHGERMS.TOOLTIP"
@@ -34329,12 +34329,12 @@ msgstr "Deze Duplicant rust een <b>{Target}</b> uit"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPELLINGRADS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPELLINGRADS.NAME"
 msgid "Cleansing Rads"
-msgstr "Reinigingsrads"
+msgstr "Verdrijft Rads"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPELLINGRADS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPELLINGRADS.TOOLTIP"
 msgid "This Duplicant is, uh... \"expelling\" absorbed radiation from their system"
-msgstr "Deze Duplicant is, eh... \"verdrijft\" geabsorbeerde straling uit hun systeem"
+msgstr "Deze Duplicant is, eh... geabsorbeerde straling uit hun systeem aan het \"verdrijven\""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EXPOSEDTOGERMS.NAME"
