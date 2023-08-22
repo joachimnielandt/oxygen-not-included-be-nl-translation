@@ -7794,7 +7794,7 @@ msgstr "Een opslagruimte voor kleding.\n\nHet bevat heerlijk zachte nachtkledij.
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.NAME"
 msgid "Pajama Cubby"
-msgstr "Pyjama Cubby"
+msgstr "Pyjama Koffer"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.DESC"
@@ -10744,7 +10744,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.EFFECT"
 msgid "An organic multi-cortex repository and processing system fuelled by <link=\"OXYGEN\">Oxygen</link>.\n\nAnalyzes <link=\"DREAMJOURNAL\">Dream Journals</link> produced by Duplicants wearing <link=\"SLEEPCLINICPAJAMAS\">Pajamas</link>.\n\nProvides a sustainable boost to Duplicant skills and abilities throughout the colony."
-msgstr "Een organische multi-cortex repository en verwerkingssysteem aangedreven door <link=\"OXYGEN\">Zuurstof</link>.\n\nAnalyseert <link=\"DREAMJOURNAL\">Droom Dagboeken</link> geproduceerd door Duplicanten het dragen van een <link=\"SLEEPCLINICPAJAMAS\">Pyjama</link>.\n\nGeeft een duurzame impuls aan Duplicant-vaardigheden en capaciteiten in de hele kolonie."
+msgstr "Een organische multi-cortex repository en verwerkingssysteem aangedreven door <link=\"OXYGEN\">Zuurstof</link>.\n\nAnalyseert <link=\"DREAMJOURNAL\">Droom Dagboeken</link> geproduceerd door Duplicanten die een <link=\"SLEEPCLINICPAJAMAS\">Pyjama</link> dragen.\n\nGeeft een duurzame impuls aan Duplicant-vaardigheden en capaciteiten in de hele kolonie."
 
 #. STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEGABRAINTANK.NAME"
@@ -19264,7 +19264,7 @@ msgstr "Gegevens controleren"
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.BODY.CONTAINER1"
 msgid "Happy 3rd work-iversary, Ada!\n\nI drew this to fill the space left by the cabinet that your chompy critters tore off the wall last week. Hope it's big enough!\n\nI still can't believe they can digest solid steel—you really know how to breed 'em!\n\n- Liam"
-msgstr "Gelukkig derde werkverjaardag, Ada!\n\nIk heb dit getekend om de ruimte te vullen die is ontstaan door de kast die je chompy critters vorige week van de muur hebben gescheurd. Ik hoop dat het groot genoeg is!\n\nIk kan nog steeds niet geloven dat ze kan massief staal verterenâje weet echt hoe je ze moet fokken!\n\n- Liam"
+msgstr "Gelukkig derde ver-werkjaar-dag, Ada!\n\nIk heb dit getekend om de leegte te vullen die is ontstaan door de kast die je hongerige beestjes vorige week van de muur hebben gescheurd. Ik hoop dat het groot genoeg is!\n\nIk kan nog steeds niet geloven dat ze massief staal kunnen verteren. Sterk gekweekt!\n\n- Liam"
 
 #. STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.CRITTER_MANIPULATOR.WORKIVERSARY.SUBTITLE"
@@ -21664,7 +21664,7 @@ msgstr "Dit beestje zit vast in een deur, tegel of besloten ruimte\n\nKlinkt ong
 #. STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDED.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDED.NAME"
 msgid "Sweetle Tending"
-msgstr "Sweetle Tending"
+msgstr "Sweetle Zorg"
 
 #. STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDED.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDED.TOOLTIP"
@@ -21674,7 +21674,7 @@ msgstr "Een <link=\"DIVERGENTBEETLE\">Sweetle</link> wreef tegen deze <style=\"K
 #. STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDEDWORM.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDEDWORM.NAME"
 msgid "Grubgrub Rub"
-msgstr "Grubgrub Rub"
+msgstr "Grubgrub Zorg"
 
 #. STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDEDWORM.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.DIVERGENTPLANTTENDEDWORM.TOOLTIP"
@@ -24139,7 +24139,7 @@ msgstr "<link=\"FORESTTREE\">Arbor Boom Tak</link>"
 #. STRINGS.CREATURES.SPECIES.WORMPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.WORMPLANT.DESC"
 msgid "Spindly Grubfruit Plants produce <link=\"WORMBASICFRUIT\">Spindly Grubfruit</link> for <link=\"FOOD\">Food</link>.\n\nIf it is tended by a <link=\"DIVERGENTSPECIES\">Divergent</link> critter, it will produce high quality fruits instead."
-msgstr "Spindly Voederfruit-planten produceren <link=\"WORMBASICFRUIT\">Spichtig Voederfruit</link> voor <link=\"FOOD\">Voedsel</link>.\n\nAls het wordt verzorgd door een <link=\"DIVERGENTSPECIES\">Divergent</link> beestje, zal het fruit van hogere kwaliteit produceren."
+msgstr "Spichtige Voederfruit-planten produceren <link=\"WORMBASICFRUIT\">Spichtig Voederfruit</link> voor <link=\"FOOD\">Voedsel</link>.\n\nAls het wordt verzorgd door een <link=\"DIVERGENTSPECIES\">Divergent</link> beestje, zal het fruit van hogere kwaliteit produceren."
 
 #. STRINGS.CREATURES.SPECIES.WORMPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.WORMPLANT.DOMESTICATEDDESC"
@@ -30984,7 +30984,7 @@ msgstr "Deze Duplicant is blootgesteld aan <link=\"ZOMBIESPORES\">Zombiesporen</
 #. STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.NAME"
 msgid "Farmer's Touch"
-msgstr "Farmer's Touch"
+msgstr "Groene Duim"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FARMTINKER.TOOLTIP"
@@ -37094,7 +37094,7 @@ msgstr "Ze zijn geweldig om te tunnelen, maar goede handschoenen vinden is een n
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
 msgid "Mole Hands"
-msgstr "Molenhanden"
+msgstr "Mollenhanden"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
@@ -39499,7 +39499,7 @@ msgstr "((Fe,Mn)WO<sub>4</sub>) Wolframiet is een dicht metaalelement in een <li
 #. STRINGS.ELEMENTS.WOLFRAMITE.NAME
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.NAME"
 msgid "<link=\"WOLFRAMITE\">Wolframite</link>"
-msgstr "<link=\"WOLFRAMITE\">Wolframite</link>"
+msgstr "<link=\"WOLFRAMITE\">Wolframiet</link>"
 
 #. STRINGS.ELEMENTS.YELLOWCAKE.DESC
 msgctxt "STRINGS.ELEMENTS.YELLOWCAKE.DESC"
@@ -41869,7 +41869,7 @@ msgstr "Kleding"
 #. STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.SLEEPCLINICPAJAMAS.NAME"
 msgid "<link=\"SLEEPCLINICPAJAMAS\">Pajamas</link>"
-msgstr "<link=\"SLEEPCLINICPAYAM\">Inkomen</link>"
+msgstr "<link=\"SLEEPCLINICPAJAMAS\">Pyjama</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.DESC"
@@ -50859,7 +50859,7 @@ msgstr "Hoge temperaturen vergemakkelijken de productie van zuiverdere metalen v
 #. STRINGS.RESEARCH.TECHS.SMELTING.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.SMELTING.NAME"
 msgid "<link=\"SMELTING\">Smelting</link>"
-msgstr "<link=\"SMELTING\">Smelting</link>"
+msgstr "<link=\"SMELTING\">Smeden</link>"
 
 #. STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.SOLIDDISTRIBUTION.DESC"
@@ -69039,7 +69039,7 @@ msgstr "Verguld Asteroïdenveld"
 #. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GLIMMERINGASTEROIDFIELD.DESC
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GLIMMERINGASTEROIDFIELD.DESC"
 msgid "An asteroid field containing <link=\"TUNGSTEN\">Tungsten</link>, <link=\"WOLFRAMITE\">Wolframite</link> and more.\n\nHarvesting resources requires a rocket equipped with a <link=\"NOSECONEHARVEST\">Drillcone</link>."
-msgstr "Een asteroïdeveld met <link=\"TUNGRAAM\">Tungsten</link>, <link=\"WOLFRAMITE\">Wolframite</link> en meer.\n\nVoor het oogsten van grondstoffen is een raket nodig die is uitgerust met een <link=\"NOSECONEHARVEST\">Boor Neuskegel</link>."
+msgstr "Een asteroïdeveld met <link=\"TUNGRAAM\">Tungsten</link>, <link=\"WOLFRAMITE\">Wolframiet</link> en meer.\n\nVoor het oogsten van grondstoffen is een raket nodig die is uitgerust met een <link=\"NOSECONEHARVEST\">Boor Neuskegel</link>."
 
 #. STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GLIMMERINGASTEROIDFIELD.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.HARVESTABLE_POI.GLIMMERINGASTEROIDFIELD.NAME"
