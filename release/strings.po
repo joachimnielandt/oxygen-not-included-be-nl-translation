@@ -159,7 +159,7 @@ msgstr "Brandstof Verwacht: {0}"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGFUEL.TOOLTIP"
 msgid "This building requires <b>{1}</b> of {0} to operate"
-msgstr "Dit gebouw verwacht <b>{1}</b> of {0} om te werken"
+msgstr "Dit gebouw verwacht <b>{1}</b> van {0} om te werken"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -20739,7 +20739,7 @@ msgstr "Calorieën: {0} / {1}"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_ITEM
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CONSUME_ITEM"
 msgid "Consume something prepared at {0}"
-msgstr "Consumeer iets bereid om {0}"
+msgstr "Gebruik iets bereid om {0}"
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CREATE_A_PAINTING
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.STATUS.CREATE_A_PAINTING"
@@ -56689,12 +56689,12 @@ msgstr "{0}: {1}"
 #. STRINGS.UI.DETAILTABS.EGG_CHANCES.CHANCE_FORMAT_TOOLTIP
 msgctxt "STRINGS.UI.DETAILTABS.EGG_CHANCES.CHANCE_FORMAT_TOOLTIP"
 msgid "This critter has a {1} chance of laying {0}s.\n\nThis probability increases when the creature:\n{2}"
-msgstr "Dit beestje heeft een kans van {1} om {0}s te leggen.\n\nDeze kans neemt toe als het beestje:\n{2}"
+msgstr "Dit beestje heeft een kans van {1} om {0} te leggen.\n\nDeze kans neemt toe als het beestje:\n{2}"
 
 #. STRINGS.UI.DETAILTABS.EGG_CHANCES.CHANCE_FORMAT_TOOLTIP_NOMOD
 msgctxt "STRINGS.UI.DETAILTABS.EGG_CHANCES.CHANCE_FORMAT_TOOLTIP_NOMOD"
 msgid "This critter has a {1} chance of laying {0}s."
-msgstr "Dit beestje heeft een kans van {1} om {0}s te leggen."
+msgstr "Dit beestje heeft een kans van {1} om {0} te leggen."
 
 #. STRINGS.UI.DETAILTABS.EGG_CHANCES.CHANCE_MOD_FORMAT
 msgctxt "STRINGS.UI.DETAILTABS.EGG_CHANCES.CHANCE_MOD_FORMAT"
