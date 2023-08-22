@@ -509,7 +509,7 @@ msgstr "Leeg"
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.NAME"
 msgid "Cooling"
-msgstr "Afkoelen"
+msgstr "Koelt af"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
@@ -9994,7 +9994,7 @@ msgstr "Logische linten gebruiken aanzienlijk minder ruimte om meerdere automati
 #. STRINGS.BUILDINGS.PREFABS.LOGICRIBBON.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRIBBON.EFFECT"
 msgid "A 4-Bit <link=\"LOGICWIRE\">Automation Wire</link> which can carry up to four automation signals.\n\nUse a <link=\"LOGICRIBBONWRITER\">Ribbon Writer</link> to output to multiple Bits, and a <link=\"LOGICRIBBONREADER\">Ribbon Reader</link> to input from multiple Bits."
-msgstr "Een 4-Bits <link=\"LOGICWIRE\">Automatie Kabel</link> die tot vier automatie signalen kan transporteren.\n\nGebruik een <link=\"LOGICRIBBONWRITER\">Lint Schrijver</link> om uit te voeren naar meerdere Bits, en een <link=\"LOGICRIBBONREADER\">Lint Lezer</link> om in te voeren vanuit meerdere Bits."
+msgstr "Een 4-Bits <link=\"LOGICWIRE\">Automatie Kabel</link> die tot vier automatie signalen kan transporteren.\n\nGebruik een <link=\"LOGICRIBBONWRITER\">Lintschrijver</link> om uit te voeren naar meerdere Bits, en een <link=\"LOGICRIBBONREADER\">Lintlezer</link> om in te voeren vanuit meerdere Bits."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICRIBBON.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRIBBON.NAME"
@@ -10069,7 +10069,7 @@ msgstr "Bit Lezen"
 #. STRINGS.BUILDINGS.PREFABS.LOGICRIBBONREADER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRIBBONREADER.NAME"
 msgid "<link=\"LOGICRIBBONREADER\">Ribbon Reader</link>"
-msgstr "<link=\"LOGICRIBBONREADER\">Lint Lezer</link>"
+msgstr "<link=\"LOGICRIBBONREADER\">Lintlezer</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICRIBBONREADER.OUTPUT_NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICRIBBONREADER.OUTPUT_NAME"
@@ -15609,7 +15609,7 @@ msgstr "<indent=5%><i>Pfft,</i> whatever.</indent>"
 #. STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER3
 msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER3"
 msgid "<indent=5%>Aw, he's really nice if you get to know him though. Really dependable too. One time I busted a wheel off my office chair and he got me a new one in like, two minutes. I think he's just sweaty because he works so hard.</indent>"
-msgstr "<indent=5%>Ach, hij is echt aardig als je hem leert kennen. Echt betrouwbaar ook. Een keer heb ik een wiel van mijn bureaustoel gerukt en hij heeft me binnen twee minuten een nieuwe bezorgd. Ik denk hij is gewoon bezweet omdat hij zo hard werkt.</indent>"
+msgstr "<indent=5%>Ach, hij is echt aardig als je hem leert kennen. Echt betrouwbaar ook. Ik heb ooit een wiel van mijn bureaustoel gerukt en hij heeft me binnen twee minuten een nieuwe bezorgd. Ik denk dat hij gewoon bezweet is omdat hij zo hard werkt.</indent>"
 
 #. STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER4
 msgctxt "STRINGS.CODEX.A5_THEJANITOR.BODY.CONTAINER4"
@@ -30214,7 +30214,7 @@ msgstr "Deze Duplicant deelt slaapvertrekken met anderen"
 #. STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME"
 msgid "Duplicant"
-msgstr "Dupliceren"
+msgstr "Duplicant"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BASEROT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEROT.NAME"
@@ -33144,7 +33144,7 @@ msgstr "Turner"
 #. STRINGS.DUPLICANTS.RACE
 msgctxt "STRINGS.DUPLICANTS.RACE"
 msgid "Duplicant"
-msgstr "Dupliceren"
+msgstr "Duplicant"
 
 #. STRINGS.DUPLICANTS.RACE_PREFIX
 msgctxt "STRINGS.DUPLICANTS.RACE_PREFIX"
@@ -33804,7 +33804,7 @@ msgstr "beestjes"
 #. STRINGS.DUPLICANTS.STATS.SUBJECTS.DUPLICANT
 msgctxt "STRINGS.DUPLICANTS.STATS.SUBJECTS.DUPLICANT"
 msgid "Duplicant"
-msgstr "Dupliceren"
+msgstr "Duplicant"
 
 #. STRINGS.DUPLICANTS.STATS.SUBJECTS.DUPLICANT_PLURAL
 msgctxt "STRINGS.DUPLICANTS.STATS.SUBJECTS.DUPLICANT_PLURAL"
@@ -33814,7 +33814,7 @@ msgstr "Duplicanten"
 #. STRINGS.DUPLICANTS.STATS.SUBJECTS.DUPLICANT_POSSESSIVE
 msgctxt "STRINGS.DUPLICANTS.STATS.SUBJECTS.DUPLICANT_POSSESSIVE"
 msgid "Duplicant's"
-msgstr "Dupliceren"
+msgstr "Duplicant's"
 
 #. STRINGS.DUPLICANTS.STATS.SUBJECTS.PLANT
 msgctxt "STRINGS.DUPLICANTS.STATS.SUBJECTS.PLANT"
