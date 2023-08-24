@@ -314,7 +314,7 @@ msgstr "Dit gebouw kan de omgeving niet onder <b>{0}<b> koelen"
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr "Deur Status Verandering Afwachten: {ControlState}"
+msgstr "Status verandering Deur afwachten: {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
@@ -8654,12 +8654,12 @@ msgstr "Een dok voor loden pakken kan ze met lucht vullen en ze ontdoen van afva
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.EFFECT"
 msgid "Stores <link=\"LEADSUIT\">Lead Suits</link> and refuels them with <link=\"OXYGEN\">Oxygen</link>.\n\nEmpties suits of <link=\"DIRTYWATER\">Polluted Water</link>.\n\nBuild next to a <link=\"LEADSUITMARKER\">Lead Suit Checkpoint</link> to make Duplicants change into suits when passing by."
-msgstr "Slaat <link=\"LEADSUIT\">Loden Pakken</link> op en tankt ze bij met <link=\"OXYGEN\">Zuurstof</link>.\n\nLeegt pakken van <link=\"DIRTYWATER\">Vervuild Water</link>.\n\nBouw naast een <link=\"LEADSUITMARKER\">Loden Pak Markeerder</link> om Duplicanten in kleur te laten veranderen wanneer ze langskomen."
+msgstr "Slaat <link=\"LEADSUIT\">Loodpakken</link> op en tankt ze bij met <link=\"OXYGEN\">Zuurstof</link>.\n\nLeegt pakken van <link=\"DIRTYWATER\">Vervuild Water</link>.\n\nBouw naast een <link=\"LEADSUITMARKER\">Loodpak Controlepost</link> om Duplicanten in kleur te laten veranderen wanneer ze langskomen."
 
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.NAME"
 msgid "<link=\"LEADSUITLOCKER\">Lead Suit Dock</link>"
-msgstr "<link=\"LEADSUITLOCKER\">Loden Pak Dok</link>"
+msgstr "<link=\"LEADSUITLOCKER\">Loodpak Dok</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITMARKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LEADSUITMARKER.DESC"
@@ -8669,12 +8669,12 @@ msgstr "Een controlepost moet een overeenkomstig dok hebben, gebouwd aan de kant
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITMARKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LEADSUITMARKER.EFFECT"
 msgid "Marks a threshold where Duplicants must change into or out of <link=\"LEADSUIT\">Lead Suits</link>.\n\nMust be built next to a <link=\"LEADSUITLOCKER\">Lead Suit Dock</link>\n\nCan be rotated before construction."
-msgstr "Markeert een drempel waar Duplicanten in of uit <link=\"LEADSUIT\">Loden Pakken</link> moeten veranderen.\n\nMoet worden gebouwd naast een <link=\"LEADSUITLOCKER\">Loden Pak Dok</link>\n\nKan worden gedraaid vóór constructie."
+msgstr "Markeert een drempel waar Duplicanten in of uit <link=\"LEADSUIT\">Loodpakken</link> moeten veranderen.\n\nMoet worden gebouwd naast een <link=\"LEADSUITLOCKER\">Loodpak Dok</link>\n\nKan worden gedraaid vóór constructie."
 
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITMARKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LEADSUITMARKER.NAME"
 msgid "<link=\"LEADSUITMARKER\">Lead Suit Checkpoint</link>"
-msgstr "<link=\"LEADSUITMARKER\">Loden Pak Controlepost</link>"
+msgstr "<link=\"LEADSUITMARKER\">Loodpak Controlepost</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCARGOBAY.DESC"
@@ -9499,7 +9499,7 @@ msgstr "Signaal Verdelers kunnen worden gebruikt om te kiezen welk circuit een b
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEDEMULTIPLEXER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEDEMULTIPLEXER.EFFECT"
 msgid "Route a single Input signal out one of four possible Outputs, based on the selection made by the Control Inputs.\n\nSend a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> to the two Control Inputs to determine which Output is selected."
-msgstr "Routeer een enkel Invoer signaal naar één van de vier mogelijke Uitvoeren, gebaseerd op de selectie gemaakt door de Controle Invoeren.\n\nStuur een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> naar de twee Controle Invoeren om te bepalen welke Uitvoer wordt geselecteerd."
+msgstr "Routeer een enkel Invoer Signaal naar één van de vier mogelijke Uitvoeren, gebaseerd op de selectie gemaakt door de Controle Invoeren.\n\nStuur een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> naar de twee Controle Invoeren om te bepalen welke Uitvoer wordt geselecteerd."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEDEMULTIPLEXER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEDEMULTIPLEXER.NAME"
@@ -9529,7 +9529,7 @@ msgstr "Deze poort laat alleen een Groen Signaal door als zijn ingang een Groen 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.EFFECT"
 msgid "Only lets a <b><style=\"logic_on\">Green Signal</style></b> through if the Input has received a <b><style=\"logic_on\">Green Signal</style></b> for longer than the selected filter time.\n\nWill continue outputting a <b><style=\"logic_off\">Red Signal</style></b> if the <b><style=\"logic_on\">Green Signal</style></b> did not last long enough."
-msgstr "Laat een <b><style=\"logic_on\">Groen Signaal</style></b> alleen door als de Input een <b><style=\"logic_on\">Groen Signaal</b> heeft ontvangen</style></b> langer dan de geselecteerde filtertijd.\n\nZal een <b><style=\"logic_off\">Rood Signaal</style></b> blijven uitvoeren als de <b><style=\"logic_on\">Groen Signaal</style></b> duurde niet lang genoeg."
+msgstr "Laat een <b><style=\"logic_on\">Groen Signaal</style></b> alleen door als de Input een <b><style=\"logic_on\">Groen Signaal</b> heeft ontvangen</style></b> langer dan de geselecteerde filtertijd.\n\nZal een <b><style=\"logic_off\">Rood Signaal</style></b> blijven uitvoeren als het <b><style=\"logic_on\">Groen Signaal</style></b> niet lang genoeg duurde."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEFILTER.NAME"
@@ -9559,7 +9559,7 @@ msgstr "Signaalkiezers kunnen worden gebruikt om te selecteren welk automatie si
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEMULTIPLEXER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEMULTIPLEXER.EFFECT"
 msgid "Select which one of four Input signals should be sent out the Output, using Control Inputs.\n\nSend a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> to the two Control Inputs to determine which Input is selected."
-msgstr "Selecteer welk van de vier Invoer signalen naar de Uitvoer moet worden gestuurd, met behulp van Control Invoeren.\n\nStuur een <b><style=\"logic_on\">Groen Signaal</style></b> of een < b><style=\"logic_off\">Rood Signaal</style></b> naar de twee Controle Invoeren om te bepalen welke ingang wordt geselecteerd."
+msgstr "Selecteer welk van de vier Invoer signalen naar de Uitvoer moet worden gestuurd, met behulp van Controle Invoeren.\n\nStuur een <b><style=\"logic_on\">Groen Signaal</style></b> of een < b><style=\"logic_off\">Rood Signaal</style></b> naar de twee Controle Invoeren om te bepalen welke ingang wordt geselecteerd."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEMULTIPLEXER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEMULTIPLEXER.NAME"
@@ -20509,7 +20509,7 @@ msgstr "Goed ei"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_A_CRITTER_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_A_CRITTER_DESCRIPTION"
 msgid "Hatch a new critter morph from an egg."
-msgstr "Broed een nieuwe critter morph uit een ei."
+msgstr "Broed een nieuwe beest morph uit een ei."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_REFINEMENT
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.HATCH_REFINEMENT"
@@ -38294,7 +38294,7 @@ msgstr "(Pb) Lood is een zacht maar extreem compact <link=\"REFINEDMETAL\">Geraf
 #. STRINGS.ELEMENTS.LEAD.NAME
 msgctxt "STRINGS.ELEMENTS.LEAD.NAME"
 msgid "<link=\"LEAD\">Lead</link>"
-msgstr "<link=\"LEAD\">Lead</link>"
+msgstr "<link=\"LEAD\">Lood</link>"
 
 #. STRINGS.ELEMENTS.LEADGAS.DESC
 msgctxt "STRINGS.ELEMENTS.LEADGAS.DESC"
@@ -38304,7 +38304,7 @@ msgstr "(Pb) Lood is een zacht maar extreem compact <link=\"REFINEDMETAL\">Geraf
 #. STRINGS.ELEMENTS.LEADGAS.NAME
 msgctxt "STRINGS.ELEMENTS.LEADGAS.NAME"
 msgid "<link=\"LEADGAS\">Lead</link>"
-msgstr "<link=\"LEADGAS\">Lead</link>"
+msgstr "<link=\"LEADGAS\">Lood</link>"
 
 #. STRINGS.ELEMENTS.LIME.DESC
 msgctxt "STRINGS.ELEMENTS.LIME.DESC"
@@ -38634,7 +38634,7 @@ msgstr "(Pb) Lood is een extreem compact <link=\"REFINEDMETAL\">Geraffineerd Met
 #. STRINGS.ELEMENTS.MOLTENLEAD.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENLEAD.NAME"
 msgid "<link=\"MOLTENLEAD\">Lead</link>"
-msgstr "<link=\"MOLTENLEAD\">Lead</link>"
+msgstr "<link=\"MOLTENLEAD\">Lood</link>"
 
 #. STRINGS.ELEMENTS.MOLTENNIOBIUM.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENNIOBIUM.DESC"
@@ -41739,7 +41739,7 @@ msgstr "Hoofdpak"
 #. STRINGS.EQUIPMENT.PREFABS.LEAD_SUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.LEAD_SUIT.NAME"
 msgid "<link=\"LEADSUIT\">Lead Suit</link>"
-msgstr "<link=\"LEADSUIT\">Hoofdpak</link>"
+msgstr "<link=\"LEADSUIT\">Loodpak</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.LEAD_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.LEAD_SUIT.RECIPE_DESC"
@@ -50119,7 +50119,7 @@ msgstr "Geavanceerde gasmanipulatie met behulp van unieke katalysatoren."
 #. STRINGS.RESEARCH.TECHS.CATALYTICS.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.CATALYTICS.NAME"
 msgid "<link=\"CATALYTICS\">Catalytics</link>"
-msgstr "<link=\"CATALYTICS\">Katalytics</link>"
+msgstr "<link=\"CATALYTICS\">Katalysatoren</link>"
 
 #. STRINGS.RESEARCH.TECHS.CLOTHING.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.CLOTHING.DESC"
