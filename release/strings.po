@@ -18469,12 +18469,12 @@ msgstr "Puft"
 #. STRINGS.CODEX.QUESTS.CRITERIA.DECOR.NAME
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.DECOR.NAME"
 msgid "Improve nearby Decor"
-msgstr "Verbeter inrichting in de buurt"
+msgstr "Verbeter decor in de buurt"
 
 #. STRINGS.CODEX.QUESTS.CRITERIA.DECOR.TOOLTIP
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.DECOR.TOOLTIP"
 msgid "Establish average <style=\"KKeyword\">Decor</style> of {0} or higher for the area surrounding this building\n\nAverage Decor: {1:0.##}"
-msgstr "Stel een gemiddelde <style=\"KKeyword\">Inrichting</style> vast van {0} of hoger voor de omgeving van dit gebouw\n\nGemiddelde inrichting: {1:0.##}"
+msgstr "Stel een gemiddelde <style=\"KKeyword\">Decor</style> vast van {0} of hoger voor de omgeving van dit gebouw\n\nGemiddelde Decor: {1:0.##}"
 
 #. STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NAME
 msgctxt "STRINGS.CODEX.QUESTS.CRITERIA.FOODQUALITY.NAME"
@@ -19664,7 +19664,7 @@ msgstr "Verhaal: Mysterieuze Kluizenaar"
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.BODY.CONTAINER1"
 msgid "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: B577, B997, B083, A216]</smallcaps>\n\n[LOG BEGINS]\n\nA216: The Director said there were supposed to be three of you on this task force. Where's the geneticist?\n\nB083: In the bathroom-\n\nB997: He went home.\n\n[long pause]\n\nB997: It's the holidays. He has a family.\n\nA216: We all do. That's exactly why this project is so urgent.\n\nB997: It's not our fault this stuff sat in a subterranean ocean for a year, and took another year to get back to Earth! The microbe samples didn't fare well on the journey, and most of the mechanical components are completely corroded. There's not much to-\n\nB083: -we're analyzing it all and salvaging what we can, Jea- ...Dr. Saruhashi.\n\nA216: Good. And take down those ridiculous lights. This is a lab, not a retro \"shopping mall.\"\n\n[LOG ENDS]\n------------------\n[LOG BEGINS]\n\nB577: Thanks for getting all the debris packed up for disposal.\n\nB997: I thought you did that.\n\nB577: No, I-\n\nB083: Who took my sandwich?\n\nB997: Not this again.\n\nB577: Ren, did you load the shipping container?\n\nB083: Seriously, I haven't eaten in thirteen hours. This isn't funny.\n\nB997: It's a little funny.\n\nB577: Can we focus, please?\n\nB997: Nobody took your sandwich, Rock Doc.\n\nB083: Then why does my food keep going missing?\n\nB997: Maybe the lab ghost took it. Or maybe you just shouldn't leave it out overnight. Gunderson probably thought it was garbage.\n\nB083: He doesn't even clean down here!\n\nB997: Right. Because if he did, I wouldn't have to keep sweeping up the magnesium sulfate deposits that <i>someone</i> keeps tracking all over the floor between shifts.\n\nB083: It's not me!\n\nB577: Listen, I know we're all tired and things have been a little strange. But the sooner we get this sent up to the launchpad, the sooner it starts its trip to the sun and we can all get out of this creepy sub-sub-basement.\n\nB083: Fine.\n\nB997: Fine.\n\nB083: Fine!\n\n[LOG ENDS]\n------------------\n"
-msgstr "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: B577, B997, B083, A216]</smallcaps>\n\n[LOG START]\n\nA216: De directeur zei dat er drie zouden moeten zijn van jullie in deze werkgroep. Waar is de geneticus?\n\nB083: In de badkamer-\n\nB997: Hij is naar huis gegaan.\n\n[lange pauze]\n\nB997: Het is vakantie. Hij heeft een gezin .\n\nA216: Dat doen we allemaal. Dat is precies waarom dit project zo dringend is.\n\nB997: Het is niet onze schuld dat dit gedoe een jaar lang in een ondergrondse oceaan heeft gezeten en er nog een jaar over deed om terug te keren naar de aarde! Microbe-monsters deden het niet goed op de reis en de meeste mechanische componenten zijn volledig gecorrodeerd. Er is niet veel aan-\n\nB083: -we analyseren alles en redden wat we kunnen, Jea- ...Dr . Saruhashi.\n\nA216: Goed. En zet die belachelijke lichten uit. Dit is een laboratorium, geen retro \"winkelcentrum.\"\n\n[LOG EINDE]\n------------------\n[LOG START]\n\nB577: Bedankt dat je al het puin hebt ingepakt voor verwijdering.\n\nB997: Ik dacht dat je dat deed.\n\nB577: Nee, I-\n\nB083: Wie heeft mijn boterham gepakt?\n\nB997: Dit niet weer.\n\nB577: Ren, heb jij de cargo container geladen?\n\nB083: Serieus, ik heb al dertien uur niet gegeten . Dit is niet grappig.\n\nB997: Het is een beetje grappig.\n\nB577: Kunnen we ons concentreren, alsjeblieft?\n\nB997: Niemand heeft je boterham gepakt, Rock Doc.\n\nB083: Waarom is mijn eten dan blijf je vermist worden?\n\nB997: Misschien heeft de laboratoriumgeest het meegenomen. Of misschien moet je het gewoon niet van de ene op de andere dag buiten laten staan. Gunderson dacht waarschijnlijk dat het rotzooi was.\n\nB083: Hij maakt hier niet eens schoon!\n\nB997: Juist. Want als hij dat deed, zou ik niet de magnesiumsulfaatafzettingen hoeven op te ruimen die <i>iemand</i> tussen de diensten door de hele vloer blijft volgen.\n\nB083: Ik ben het niet!\n\nB577: Luister, ik weet dat we allemaal moe zijn en dat de dingen een beetje vreemd zijn geweest. Maar hoe eerder we dit naar het lanceerplatform sturen, hoe sneller het zijn reis naar de zon begint en we allemaal uit deze griezelige onderkelder kunnen komen.\n\nB083: Goed.\n\nB997: Goed. \n\nB083: prima!\n\n[LOG EINDIGT]\n------------------\n"
+msgstr "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: B577, B997, B083, A216]</smallcaps>\n\n[LOG START]\n\nA216: De directeur zei dat er drie zouden moeten zijn van jullie in deze werkgroep. Waar is de geneticus?\n\nB083: In de badkamer-\n\nB997: Hij is naar huis gegaan.\n\n[lange pauze]\n\nB997: Het is vakantie. Hij heeft een gezin .\n\nA216: Dat doen we allemaal. Dat is precies waarom dit project zo dringend is.\n\nB997: Het is niet onze schuld dat dit gedoe een jaar lang in een ondergrondse oceaan heeft gezeten en er nog een jaar over deed om terug te keren naar de aarde! Microbe-monsters deden het niet goed op de reis en de meeste mechanische componenten zijn volledig gecorrodeerd. Er is niet veel aan-\n\nB083: -we analyseren alles en redden wat we kunnen, Jea- ...Dr . Saruhashi.\n\nA216: Goed. En zet die belachelijke lichten uit. Dit is een laboratorium, geen retro \"winkelcentrum.\"\n\n[LOG EINDE]\n------------------\n[LOG START]\n\nB577: Bedankt dat je al het puin hebt ingepakt voor verwijdering.\n\nB997: Ik dacht dat je dat deed.\n\nB577: Nee, I-\n\nB083: Wie heeft mijn boterham gepakt?\n\nB997: Niet weer he.\n\nB577: Ren, heb jij de cargo container geladen?\n\nB083: Serieus, ik heb al dertien uur niet gegeten . Dit is niet grappig.\n\nB997: Het is een beetje grappig.\n\nB577: Kunnen we ons concentreren, alsjeblieft?\n\nB997: Niemand heeft je boterham gepakt, Rock Doc.\n\nB083: Waarom is mijn eten dan blijf je vermist worden?\n\nB997: Misschien heeft de laboratoriumgeest het meegenomen. Of misschien moet je het gewoon niet van de ene op de andere dag buiten laten staan. Gunderson dacht waarschijnlijk dat het rotzooi was.\n\nB083: Hij maakt hier niet eens schoon!\n\nB997: Juist. Want als hij dat deed, zou ik niet de magnesiumsulfaatafzettingen hoeven op te ruimen die <i>iemand</i> tussen de diensten door de hele vloer blijft volgen.\n\nB083: Ik ben het niet!\n\nB577: Luister, ik weet dat we allemaal moe zijn en dat de dingen een beetje vreemd zijn geweest. Maar hoe eerder we dit naar het lanceerplatform sturen, hoe sneller het zijn reis naar de zon begint en we allemaal uit deze griezelige onderkelder kunnen komen.\n\nB083: Goed.\n\nB997: Goed. \n\nB083: prima!\n\n[LOG EINDIGT]\n------------------\n"
 
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.SUBTITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.CREEPYBASEMENTLAB.SUBTITLE"
@@ -23564,12 +23564,12 @@ msgstr "<link=\"SAPTREE\">Experiment 52B</link>"
 #. STRINGS.CREATURES.SPECIES.SEALETTUCE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEALETTUCE.DESC"
 msgid "Waterweeds thrive in salty water and can be harvested for fresh, edible <link=\"LETTUCE\">Lettuce</link>."
-msgstr "Waterplanten gedijen goed in zout water en kunnen worden geoogst voor verse, eetbare <link=\"SLA\">Sla</link>."
+msgstr "Waterplanten gedijen goed in zout water en kunnen worden geoogst voor verse, eetbare <link=\"LETTUCE\">Sla</link>."
 
 #. STRINGS.CREATURES.SPECIES.SEALETTUCE.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEALETTUCE.DOMESTICATEDDESC"
 msgid "This plant produces <link=\"LETTUCE\">Lettuce</link>."
-msgstr "Deze plant produceert <link=\"SLA\">Sla</link>."
+msgstr "Deze plant produceert <link=\"LETTUCE\">Sla</link>."
 
 #. STRINGS.CREATURES.SPECIES.SEALETTUCE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEALETTUCE.NAME"
@@ -23664,7 +23664,7 @@ msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"CYLINDRICA\">Geluksbars
 #. STRINGS.CREATURES.SPECIES.SEEDS.CYLINDRICA.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CYLINDRICA.NAME"
 msgid "<link=\"CYLINDRICA\">Bliss Burst Seed</link>"
-msgstr "<link=\"CYLINDRICA\">Geluksbarsting Seed</link>"
+msgstr "<link=\"CYLINDRICA\">Geluksbarsting Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.EVILFLOWER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.EVILFLOWER.DESC"
@@ -23804,7 +23804,7 @@ msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"SWAMPLILY\">Balsemlelie
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME"
 msgid "<link=\"SWAMPLILY\">Balm Lily Seed</link>"
-msgstr "<link=\"SWAMPLILY\">balsemlelie Zaad</link>"
+msgstr "<link=\"SWAMPLILY\">Balsemlelie Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.TOEPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.TOEPLANT.DESC"
@@ -26979,7 +26979,7 @@ msgstr "Zaadanalyse"
 #. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.STATUS"
 msgid "Going to analyze seeds"
-msgstr "Gaan zaden analyseren"
+msgstr "Gaat zaden analyseren"
 
 #. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP"
@@ -27114,7 +27114,7 @@ msgstr "Bouwen"
 #. STRINGS.DUPLICANTS.CHORES.BUILD.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.STATUS"
 msgid "Going to build"
-msgstr "Gaan bouwen"
+msgstr "Gaat bouwen"
 
 #. STRINGS.DUPLICANTS.CHORES.BUILD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.TOOLTIP"
@@ -27204,7 +27204,7 @@ msgstr "Compost"
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS"
 msgid "Going to compost"
-msgstr "Gaan composteren"
+msgstr "Gaat composteren"
 
 #. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.TOOLTIP"
@@ -27394,7 +27394,7 @@ msgstr "Jij"
 #. STRINGS.DUPLICANTS.CHORES.DIG.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.STATUS"
 msgid "Going to dig"
-msgstr "Gaan graven"
+msgstr "Gaat graven"
 
 #. STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP"
@@ -27409,7 +27409,7 @@ msgstr "Desinfecteren"
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.STATUS"
 msgid "Going to disinfect"
-msgstr "Gaan desinfecteren"
+msgstr "Gaat desinfecteren"
 
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.TOOLTIP"
@@ -27474,7 +27474,7 @@ msgstr "Eten"
 #. STRINGS.DUPLICANTS.CHORES.EAT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.STATUS"
 msgid "Going to eat"
-msgstr "Gaan eten"
+msgstr "Gaat eten"
 
 #. STRINGS.DUPLICANTS.CHORES.EAT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.TOOLTIP"
@@ -27614,7 +27614,7 @@ msgstr "Fabriceren"
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
 msgid "Going to fabricate"
-msgstr "Gaan fabriceren"
+msgstr "Gaat fabriceren"
 
 #. STRINGS.DUPLICANTS.CHORES.FABRICATE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.TOOLTIP"
@@ -27799,7 +27799,7 @@ msgstr "Genereer stroom"
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS"
 msgid "Going to generate power"
-msgstr "Gaan stroom opwekken"
+msgstr "Gaat stroom opwekken"
 
 #. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.TOOLTIP"
@@ -28009,7 +28009,7 @@ msgstr "Dweil"
 #. STRINGS.DUPLICANTS.CHORES.MOP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
 msgid "Going to mop"
-msgstr "Gaan dweilen"
+msgstr "Gaat dweilen"
 
 #. STRINGS.DUPLICANTS.CHORES.MOP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.TOOLTIP"
@@ -29064,7 +29064,7 @@ msgstr "Ontwortel"
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS"
 msgid "Going to uproot"
-msgstr "Gaan ontwortelen"
+msgstr "Gaat ontwortelen"
 
 #. STRINGS.DUPLICANTS.CHORES.UPROOT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.TOOLTIP"
@@ -29109,7 +29109,7 @@ msgstr "Opwarmen"
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS"
 msgid "Going to warm up"
-msgstr "Gaan opwarmen"
+msgstr "Gaat opwarmen"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.TOOLTIP"
@@ -29874,12 +29874,12 @@ msgstr "Kritiek"
 #. STRINGS.DUPLICANTS.DISEASES.SEVERITY.MAJOR
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SEVERITY.MAJOR"
 msgid "Major"
-msgstr "Majoor"
+msgstr "Zwaar"
 
 #. STRINGS.DUPLICANTS.DISEASES.SEVERITY.MINOR
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SEVERITY.MINOR"
 msgid "Minor"
-msgstr "Minor"
+msgstr "Licht"
 
 #. STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.DESC
 msgctxt "STRINGS.DUPLICANTS.DISEASES.SLIMELUNG.DESC"
@@ -30789,7 +30789,7 @@ msgstr "Decor van de laatste cyclus: prachtig"
 #. STRINGS.DUPLICANTS.MODIFIERS.DECOR5.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECOR5.TOOLTIP"
 msgid "This Duplicant thought the overall <style=\"KKeyword\">Decor</style> yesterday was fantastic\n\nThey love what I've done with the place!"
-msgstr "Deze Duplicant vond de algehele <style=\"KKeyword\">Inrichting</style> gisteren fantastisch\n\nZe vinden het geweldig wat ik met de plek heb gedaan!"
+msgstr "Deze Duplicant vond de algehele <style=\"KKeyword\">Decor</style> gisteren fantastisch\n\nZe vinden het geweldig wat ik met de plek heb gedaan!"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.DECORMINUS1.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DECORMINUS1.NAME"
@@ -32614,12 +32614,12 @@ msgstr "{0} [{1}]"
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_1
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_1"
 msgid "Grisly"
-msgstr "griezelig"
+msgstr "Goor"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_1
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_1"
 msgid "Poor"
-msgstr "Arm"
+msgstr "Flauw"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_2
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_2"
@@ -32644,7 +32644,7 @@ msgstr "Fantastisch"
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_6
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_6"
 msgid "Ambrosial"
-msgstr "Ambrozijn"
+msgstr "Ambrosiaal"
 
 #. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.ZERO
 msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.ZERO"
@@ -34974,7 +34974,7 @@ msgstr "De laatste maaltijd die deze Duplicant at, voldeed niet helemaal aan hun
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME"
 msgid "Drab decor"
-msgstr "Draffe inrichting"
+msgstr "Saai Decor"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP"
@@ -43514,7 +43514,7 @@ msgstr "Een taart voornamelijk gemaakt van <link=\"WORMSUPERFRUIT\">Voederfruit<
 #. STRINGS.ITEMS.FOOD.BURGER.DESC
 msgctxt "STRINGS.ITEMS.FOOD.BURGER.DESC"
 msgid "<link=\"MEAT\">Meat</link> and <link=\"LETTUCE\">Lettuce</link> on a chilled <link=\"COLDWHEATBREAD\">Frost Bun</link>.\n\nIt's the only burger best served cold."
-msgstr "<link=\"MEAT\">Vlees</link> en <link=\"SLA\">Sla</link> op een gekoelde <link=\"COLDWHEATBREAD\">Vorstbrood</link>. \n\nHet is de enige burger die koud het lekkerst wordt geserveerd."
+msgstr "<link=\"MEAT\">Vlees</link> en <link=\"LETTUCE\">Sla</link> op een gekoelde <link=\"COLDWHEATBREAD\">Vorstbrood</link>. \n\nHet is de enige burger die koud het lekkerst wordt geserveerd."
 
 #. STRINGS.ITEMS.FOOD.BURGER.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BURGER.NAME"
@@ -43524,7 +43524,7 @@ msgstr "<link=\"BURGER\">Vorstburger</link>"
 #. STRINGS.ITEMS.FOOD.BURGER.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.BURGER.RECIPEDESC"
 msgid "<link=\"MEAT\">Meat</link> and <link=\"LETTUCE\">Lettuce</link> on a chilled <link=\"COLDWHEATBREAD\">Frost Bun</link>."
-msgstr "<link=\"MEAT\">Vlees</link> en <link=\"SLA\">Sla</link> op een gekoelde <link=\"COLDWHEATBREAD\">Vorstbrood</link>. "
+msgstr "<link=\"MEAT\">Vlees</link> en <link=\"LETTUCE\">Sla</link> op een gekoelde <link=\"COLDWHEATBREAD\">Vorstbrood</link>. "
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC"
@@ -43769,7 +43769,7 @@ msgstr "Knapperige, licht zoute bladeren van een <link=\"SEALETTUCE\">Waterkruid
 #. STRINGS.ITEMS.FOOD.LETTUCE.NAME
 msgctxt "STRINGS.ITEMS.FOOD.LETTUCE.NAME"
 msgid "<link=\"LETTUCE\">Lettuce</link>"
-msgstr "<link=\"SLA\">Sla</link>"
+msgstr "<link=\"LETTUCE\">Sla</link>"
 
 #. STRINGS.ITEMS.FOOD.LETTUCE.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.LETTUCE.RECIPEDESC"
@@ -43804,7 +43804,7 @@ msgstr "<link=\"VLEES\">Vlees</link>"
 #. STRINGS.ITEMS.FOOD.MICROWAVEDLETTUCE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MICROWAVEDLETTUCE.DESC"
 msgid "<link=\"LETTUCE\">Lettuce</link> scrumptiously wilted in the <link=\"GAMMARAYOVEN\">Gamma Ray Oven</link>."
-msgstr "<link=\"SLA\">Sla</link> heerlijk geslonken in de <link=\"GAMMARAYOVEN\">Gammastraling Oven</link>."
+msgstr "<link=\"LETTUCE\">Sla</link> heerlijk geslonken in de <link=\"GAMMARAYOVEN\">Gammastraling Oven</link>."
 
 #. STRINGS.ITEMS.FOOD.MICROWAVEDLETTUCE.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MICROWAVEDLETTUCE.NAME"
@@ -43814,7 +43814,7 @@ msgstr "<link=\"MICROWAVEDLETTUCE\">Magnetronsla</link>"
 #. STRINGS.ITEMS.FOOD.MICROWAVEDLETTUCE.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MICROWAVEDLETTUCE.RECIPEDESC"
 msgid "<link=\"LETTUCE\">Lettuce</link> scrumptiously wilted in the <link=\"GAMMARAYOVEN\">Gamma Ray Oven</link>."
-msgstr "<link=\"SLA\">Sla</link> heerlijk geslonken in de <link=\"GAMMARAYOVEN\">Gammastraling Oven</link>."
+msgstr "<link=\"LETTUCE\">Sla</link> heerlijk geslonken in de <link=\"GAMMARAYOVEN\">Gammastraling Oven</link>."
 
 #. STRINGS.ITEMS.FOOD.MUSHBAR.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
@@ -43844,7 +43844,7 @@ msgstr "<link=\"MUSHROOM\">Paddestoel</link>"
 #. STRINGS.ITEMS.FOOD.MUSHROOMWRAP.DESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOMWRAP.DESC"
 msgid "Flavorful <link=\"MUSHROOM\">Mushrooms</link> wrapped in <link=\"LETTUCE\">Lettuce</link>.\n\nIt has an earthy flavor punctuated by a refreshing crunch."
-msgstr "Smaakvolle <link=\"MUSHROOM\">Champignons</link> verpakt in <link=\"SLA\">Sla</link>.\n\nHet heeft een aardse smaak met een verfrissende crunch."
+msgstr "Smaakvolle <link=\"MUSHROOM\">Champignons</link> verpakt in <link=\"LETTUCE\">Sla</link>.\n\nHet heeft een aardse smaak met een verfrissende crunch."
 
 #. STRINGS.ITEMS.FOOD.MUSHROOMWRAP.NAME
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOMWRAP.NAME"
@@ -43854,7 +43854,7 @@ msgstr "<link=\"MUSHROOMWRAP\">Paddenstoelenwrap</link>"
 #. STRINGS.ITEMS.FOOD.MUSHROOMWRAP.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.MUSHROOMWRAP.RECIPEDESC"
 msgid "Flavorful <link=\"MUSHROOM\">Mushrooms</link> wrapped in <link=\"LETTUCE\">Lettuce</link>."
-msgstr "Smaakvolle <link=\"MUSHROOM\">Champignons</link> verpakt in <link=\"SLAT\">Sla</link>."
+msgstr "Smaakvolle <link=\"MUSHROOM\">Champignons</link> verpakt in <link=\"LETTUCE\">Sla</link>."
 
 #. STRINGS.ITEMS.FOOD.OILFLOATEREGG.DESC
 msgctxt "STRINGS.ITEMS.FOOD.OILFLOATEREGG.DESC"
@@ -44089,7 +44089,7 @@ msgstr "Een beetje <link=\"MEAT\">Vlees</link> van het land en <link=\"COOKEDFIS
 #. STRINGS.ITEMS.FOOD.SUSHI.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SUSHI.DESC"
 msgid "Raw <link=\"FISHMEAT\">Pacu Fillet</link> wrapped with fresh <link=\"LETTUCE\">Lettuce</link>.\n\nWhile the salt of the lettuce may initially overpower the flavor, a keen palate can discern the subtle sweetness of the fillet beneath."
-msgstr "Rauwe <link=\"VISMEAT\">Pacu Filet</link> omwikkeld met verse <link=\"SLA\">Sla</link>.\n\nTerwijl het zout van de sla in eerste instantie de smaak kan overheersen kan een geoefende tong de subtiele zoetheid van de filet onderscheiden."
+msgstr "Rauwe <link=\"VISMEAT\">Pacu Filet</link> omwikkeld met verse <link=\"LETTUCE\">Sla</link>.\n\nTerwijl het zout van de sla in eerste instantie de smaak kan overheersen kan een geoefende tong de subtiele zoetheid van de filet onderscheiden."
 
 #. STRINGS.ITEMS.FOOD.SUSHI.NAME
 msgctxt "STRINGS.ITEMS.FOOD.SUSHI.NAME"
@@ -46164,7 +46164,7 @@ msgstr "Deze Duplicant is in topconditie"
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME"
 msgid "Minor"
-msgstr "Minor"
+msgstr "Licht"
 
 #. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP"
@@ -50469,7 +50469,7 @@ msgstr "<link=\"DECOR\">Decor</link> stimulerende items om de somberheid van het
 #. STRINGS.RESEARCH.TECHS.INTERIORDECOR.NAME
 msgctxt "STRINGS.RESEARCH.TECHS.INTERIORDECOR.NAME"
 msgid "<link=\"INTERIORDECOR\">Interior Decor</link>"
-msgstr "<link=\"INTERIORDECOR\">Interieurinrichting</link>"
+msgstr "<link=\"INTERIORDECOR\">Interieur Decor</link>"
 
 #. STRINGS.RESEARCH.TECHS.JETPACKS.DESC
 msgctxt "STRINGS.RESEARCH.TECHS.JETPACKS.DESC"
@@ -56319,7 +56319,7 @@ msgstr "{Name} is momenteel bezet: \"{Errand}\""
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_DESC_INACTIVE
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_DESC_INACTIVE"
 msgid "\"{Errand}\" is #{Rank} on {Name}'s To Do list, after they finish their current errand"
-msgstr "\"{Errand}\" is #{Rang} op de takenlijst van {Name}, nadat ze hun huidige opdracht hebben voltooid"
+msgstr "\"{Errand}\" is #{Rank} op de takenlijst van {Name}, nadat ze hun huidige opdracht hebben voltooid"
 
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_FAILED
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_FAILED"
@@ -56329,7 +56329,7 @@ msgstr "{Name} kan momenteel niet {Errand}\n\nReden:\n{FailedPrecondition}"
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_SUCCEEDED
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_SUCCEEDED"
 msgid "{Description}\n\n{Errand}'s Type: {Groups}\n\n{Name}'s {BestGroup} Priority: {PersonalPriorityValue} ({PersonalPriority})\n{Building} Priority: {BuildingPriority}\nAll {BestGroup} Errands: {TypePriority}\n\nTotal Priority: {TotalPriority}"
-msgstr "{Description}\n\n{Errand}'s Type: {Groups}\n\n{Name}'s {BestGroup} Priority: {PersonalPriorityValue} ({PersonalPriority})\n{Building} Prioriteit: {BuildingPriority }\nAlle {BestGroup} Opdrachten: {TypePriority}\n\nTotale Prioriteit: {TotalPriority}"
+msgstr "{Description}\n\n{Errand}'s Type: {Groups}\n\n{Name}'s {BestGroup} Prioriteit: {PersonalPriorityValue} ({PersonalPriority})\n{Building} Prioriteit: {BuildingPriority }\nAlle {BestGroup} Opdrachten: {TypePriority}\n\nTotale Prioriteit: {TotalPriority}"
 
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.NAME
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.NAME"
@@ -62019,7 +62019,7 @@ msgstr "{Name}'s <style=\"KKeyword\">{Attribute}</style> Vaardigheid: "
 #. STRINGS.UI.JOBSSCREEN.NEW_MINION_ITEM_TOOLTIP
 msgctxt "STRINGS.UI.JOBSSCREEN.NEW_MINION_ITEM_TOOLTIP"
 msgid "The <style=\"KKeyword\">{Job}</style> Errand Type is automatically a {Priority} <style=\"KKeyword\">Priority</style> for <b>Arriving Duplicants</b>"
-msgstr "Het <style=\"KKeyword\">{Job}</style> Opdracht Type is automatisch een {Priority} <style=\"KKeyword\">Priority</style> voor <b>Arriverende Duplicanten</b>"
+msgstr "Het <style=\"KKeyword\">{Job}</style> Opdracht Type is automatisch een {Priority} <style=\"KKeyword\">Prioriteit</style> voor <b>Arriverende Duplicanten</b>"
 
 #. STRINGS.UI.JOBSSCREEN.OPTIONS
 msgctxt "STRINGS.UI.JOBSSCREEN.OPTIONS"
@@ -64779,17 +64779,17 @@ msgstr "DECOR OVERLAY"
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR"
 msgid "<b>Positive Decor</b>\nArea with sufficient <style=\"KKeyword\">Decor</style> values\n* Lighting and aesthetically pleasing buildings increase decor"
-msgstr "<b>Positief Decor</b>\nGebied met voldoende <style=\"KKeyword\">Decor</style> waarden\n* Verlichting en esthetisch aantrekkelijke gebouwen versterken de inrichting"
+msgstr "<b>Positief Decor</b>\nGebied met voldoende <style=\"KKeyword\">Decor</style> waarden\n* Verlichting en esthetisch aantrekkelijke gebouwen versterken het decor"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR"
 msgid "<b>Negative Decor</b>\nArea with insufficient <style=\"KKeyword\">Decor</style> values\n* Resources on the floor are considered \"debris\" and will decrease decor"
-msgstr "<b>Negatief Decor</b>\nGebied met onvoldoende <style=\"KKeyword\">Decor</style> waarden\n* Grondstoffen op de vloer worden beschouwd als \"puin\" en zullen de inrichting verminderen"
+msgstr "<b>Negatief Decor</b>\nGebied met onvoldoende <style=\"KKeyword\">Decor</style> waarden\n* Grondstoffen op de vloer worden beschouwd als \"puin\" en zullen het decor verminderen"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOTAL
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOTAL"
 msgid "Total Decor: "
-msgstr "Totale inrichting: "
+msgstr "Totaal Decor: "
 
 #. STRINGS.UI.OVERLAYS.DECOR.VALUE
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.VALUE"
@@ -73874,7 +73874,7 @@ msgstr "{Name} zou kunnen werken aan <b>{Errand}</b>, maar het krijgt momenteel 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_EMERGENCY
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_EMERGENCY"
 msgid "{Description}\n\n<b>{Errand}</b> is an Emergency errand and so will be performed before all Regular and Personal errands\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Emergency : {ClassPriority}\n    • This {Building}'s Priority: {BuildingPriority}\n    • All {BestGroup} Errands: {TypePriority}"
-msgstr "{Description}\n\n<b>{Errand}</b> is een Nood Opdracht en wordt dus uitgevoerd vóór alle Normale en Persoonlijke opdrachten\n\nTotale <style=\"KKeyword\">Prioriteit</ style>: {TotalPriority}\n    • Noodgeval: {ClassPriority}\n    • De prioriteit van dit {Building}: {BuildingPriority}\n    • Alle {BestGroup} Opdrachten: {TypePriority}"
+msgstr "{Description}\n\n<b>{Errand}</b> is een Nood Opdracht en wordt dus uitgevoerd vóór alle Normale en Persoonlijke opdrachten\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority}\n    • Noodgeval: {ClassPriority}\n    • De prioriteit van dit {Building}: {BuildingPriority}\n    • Alle {BestGroup} Opdrachten: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE"
