@@ -42184,7 +42184,7 @@ msgstr "{friend} is ontdooid!"
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION"
 msgid "{dupe} has made an amazing discovery! A barely working <link=\"CRYOTANK\">Cryotank 3000</link> has been uncovered containing a {friend} inside in a frozen state.\n\n{dupe} was successful in thawing {friend} and this encounter has filled both Duplicants with a sense of hope, something they will desperately need to keep their <link=\"MORALE\">Morale</link> up when facing the dangers ahead."
-msgstr "{dupe} heeft een geweldige ontdekking gedaan! Er is een nauwelijks werkende <link=\"CRYOTANK\">Cryotank 3000</link> ontdekt met daarin een {vriend} in bevroren toestand.\n\n{dupe} slaagde erin {friend} te ontdooien en deze ontmoeting heeft beide Duplicanten vervuld met een gevoel van hoop, iets wat ze hard nodig zullen hebben om hun <link=\"MORALE\">Moraal</link> op peil te houden wanneer ze de gevaren die voor hen liggen het hoofd moeten bieden."
+msgstr "{dupe} heeft een geweldige ontdekking gedaan! Er is een nauwelijks werkende <link=\"CRYOTANK\">Cryotank 3000</link> ontdekt met daarin een {friend} in bevroren toestand.\n\n{dupe} slaagde erin {friend} te ontdooien en deze ontmoeting heeft beide Duplicanten vervuld met een gevoel van hoop, iets wat ze hard nodig zullen hebben om hun <link=\"MORALE\">Moraal</link> op peil te houden wanneer ze de gevaren die voor hen liggen het hoofd moeten bieden."
 
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.NAME"
