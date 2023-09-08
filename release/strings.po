@@ -6844,7 +6844,7 @@ msgstr "<link=\"FLOORLAMP\">Lamp</link>"
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.DESC"
 msgid "Weight plates can be used to turn on amenities only when Duplicants pass by."
-msgstr "Gewicht detectoren kunnen worden gebruikt om voorzieningen te activeren, enkel wanneer Duplicanten langskomen."
+msgstr "Gewicht detectoren kunnen bijvoorbeeld worden gebruikt om voorzieningen te activeren wanneer Duplicanten passeren."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORSWITCH.EFFECT"
@@ -16009,7 +16009,7 @@ msgstr "Joshua: Hé meneer Kraus, ik laat de collectepan rondgaan. Wil je wat ge
 #. STRINGS.CODEX.B2_ELLIESBIRTHDAY.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B2_ELLIESBIRTHDAY.BODY.CONTAINER2"
 msgid "Ellie: Nice cake. I bet it wasn't easy to like, strong-arm everyone into buying it.\n\nJoshua: You know, if you were a little nicer to people they might want to spend more time with you.\n\nEllie: Pfft, please. Friends are about <i>quality</i>, not quantity, Josh.\n\nJoshua: Wow! Was that a roundabout compliment I just heard?\n\nEllie: What? Gross, ew. Stop that.\n\nJoshua: Oh, don't worry, I won't tell anyone. I'm not much of a gossip."
-msgstr "Ellie: Leuke cake. Ik wed dat het niet gemakkelijk was om ervan te houden, raad iedereen aan om het te kopen.\n\nJoshua: Weet je, als je wat aardiger tegen mensen zou zijn, zouden ze misschien meer tijd met je willen doorbrengen .\n\nEllie: Pfft, alsjeblieft. Vrienden gaan over <i>kwaliteit</i>, niet kwantiteit, Josh.\n\nJoshua: Wauw! Was dat een omslachtig compliment dat ik net hoorde?\n\nEllie: Wat? Brutaal, ew. Stop daarmee.\n\nJoshua: Oh, maak je geen zorgen, ik zal het aan niemand vertellen. Ik ben niet zo'n roddelaar."
+msgstr "Ellie: Leuke cake. Het was waarschijnlijk niet gemakkelijk om iedereen het te doen geloven.\n\nJoshua: Luister eens, als je wat aardiger tegen mensen zou zijn, zouden ze misschien meer tijd met je willen doorbrengen .\n\nEllie: Pfft, alsjeblieft. Vrienden gaan voor <i>kwaliteit</i>, niet kwantiteit, Josh.\n\nJoshua: Was dat een omslachtig compliment dat ik net hoorde?\n\nEllie: Wat? Jakkes, bah. Stop ermee.\n\nJoshua: Oh, maak je geen zorgen, ik zal het aan niemand vertellen, ik ben geen roddelaar."
 
 #. STRINGS.CODEX.B2_ELLIESBIRTHDAY.SUBTITLE
 msgctxt "STRINGS.CODEX.B2_ELLIESBIRTHDAY.SUBTITLE"
@@ -16069,7 +16069,7 @@ msgstr "Specificatiewijzigingen"
 #. STRINGS.CODEX.B3_MOVEDRABBITS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B3_MOVEDRABBITS.BODY.CONTAINER1"
 msgid "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: A001, B111]</smallcaps>\n\n[LOG BEGINS]\n\nBroussard: Director, do you know where my rabbits have been moved to? I asked around the bioengineering division but I was referred back to you.\n\nDirector: Hm? Oh, yes, they've been removed.\n\nBroussard: \"Removed\"?\n\nDirector: Discarded. I'm sorry, did you still need them? The reports showed your experiments with them were completed.\n\nBroussard: No, I-I... I'd collected all the data I needed, I just --\n\nDirector: -- Doctor. You weren't making pets out of test subjects, were you?\n\nBroussard: Don't be ridiculous, I --\n\nDirector: -- Good.They were horrible to look at anyway. All those red eyes looking at me.\n\nBroussard: In the future, please do not mess with my things. It... disturbs me.\n\nDirector: I will notify you beforehand next time, Doctor.\n\n[LOG ENDS]"
-msgstr "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: A001, B111]</smallcaps>\n\n[LOG START]\n\nBroussard: Directeur, weet u waar mijn konijnen naartoe zijn verplaatst? Ik heb rondgevraagd bij de afdeling bio-engineering, maar ik werd terugverwezen naar jou.\n\nDirecteur: Hm? Oh, ja, ze zijn verwijderd.\n\nBroussard: \"Verwijderd\"?\n\nDirecteur: Weggegooid. Ik Sorry, had je ze nog nodig? Uit de rapporten bleek dat je experimenten ermee waren voltooid.\n\nBroussard: Nee, ik-ik... ik had alle gegevens verzameld die ik nodig had, ik --\n\nDirecteur: -- Dokter. Je maakte toch geen huisdieren van proefpersonen, of wel?\n\nBroussard: Doe niet zo belachelijk, ik --\n\nDirecteur: -- Goed. Ze waren sowieso afschuwelijk om naar te kijken. Allemaal die rode ogen die naar me kijken.\n\nBroussard: Knoei in de toekomst alsjeblieft niet met mijn spullen. Het... stoort me.\n\nDirecteur: Ik zal je de volgende keer van tevoren op de hoogte stellen, dokter.\n\n [LOGBOEK EINDIGT]"
+msgstr "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: A001, B111]</smallcaps>\n\n[LOG START]\n\nBroussard: Directeur, weet u waar mijn konijnen naartoe zijn verplaatst? Ik heb rondgevraagd bij de afdeling bio-engineering, maar ik werd terugverwezen naar jou.\n\nDirecteur: Hm? Oh, ja, ze zijn verwijderd.\n\nBroussard: \"Verwijderd\"?\n\nDirecteur: Weggegooid. Ik Sorry, had je ze nog nodig? Uit de rapporten bleek dat je experimenten ermee waren voltooid.\n\nBroussard: Nee, ik-ik... ik had alle gegevens verzameld die ik nodig had, ik --\n\nDirecteur: -- Dokter. Je maakte toch geen huisdieren van proefpersonen, of wel?\n\nBroussard: Doe niet zo belachelijk, ik --\n\nDirecteur: -- Goed. Ze waren sowieso afschuwelijk om naar te kijken. Allemaal die rode ogen die naar me kijken.\n\nBroussard: Pruts in de toekomst alsjeblieft niet met mijn spullen. Het... stoort me.\n\nDirecteur: Ik zal je de volgende keer van tevoren op de hoogte stellen, dokter.\n\n [LOGBOEK EINDIGT]"
 
 #. STRINGS.CODEX.B3_MOVEDRABBITS.SUBTITLE
 msgctxt "STRINGS.CODEX.B3_MOVEDRABBITS.SUBTITLE"
@@ -16084,7 +16084,7 @@ msgstr "Verplaatste Konijnen"
 #. STRINGS.CODEX.B3_MOVEDRACCOONS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B3_MOVEDRACCOONS.BODY.CONTAINER1"
 msgid "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: A001, B111]</smallcaps>\n\n[LOG BEGINS]\n\nBroussard: Director, do you know where my raccoons have been moved to? I asked around the bioengineering division but I was referred back to you.\n\nDirector: Hm? Oh, yes, they've been removed.\n\nBroussard: \"Removed\"?\n\nDirector: Discarded. I'm sorry, did you still need them? The reports showed your experiments with them were completed.\n\nBroussard: No, I-I... I'd collected all the data I needed, I just --\n\nDirector: -- Doctor. You weren't making pets out of test subjects, were you?\n\nBroussard: Don't be ridiculous, I --\n\nDirector: -- Good.They were horrible to look at anyway. All that mangy fur.\n\nBroussard: In the future, please do not mess with my things. It... disturbs me.\n\nDirector: I will notify you beforehand next time, Doctor.\n\n[LOG ENDS]"
-msgstr "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: A001, B111]</smallcaps>\n\n[LOG START]\n\nBroussard: Directeur, weet u waar mijn wasberen naartoe zijn verplaatst? Ik heb rondgevraagd bij de afdeling bio-engineering, maar ik werd terugverwezen naar jou.\n\nDirecteur: Hm? Oh, ja, ze zijn verwijderd.\n\nBroussard: \"Verwijderd\"?\n\nDirecteur: Weggegooid. Ik Sorry, had je ze nog nodig? Uit de rapporten bleek dat je experimenten ermee waren voltooid.\n\nBroussard: Nee, ik-ik... ik had alle gegevens verzameld die ik nodig had, ik --\n\nDirecteur: -- Dokter. Je maakte toch geen huisdieren van proefpersonen, of wel?\n\nBroussard: Doe niet zo belachelijk, ik --\n\nDirecteur: -- Goed. Ze waren sowieso afschuwelijk om naar te kijken. Allemaal die schurftige vacht.\n\nBroussard: Knoei in de toekomst alstublieft niet met mijn spullen. Het... stoort me.\n\nDirecteur: Ik zal u de volgende keer van tevoren op de hoogte stellen, dokter.\n\n[LOG EINDIGT ]"
+msgstr "<smallcaps>[Voice Recognition Initialized]\n[Subjects Identified: A001, B111]</smallcaps>\n\n[LOG START]\n\nBroussard: Directeur, weet u waar mijn wasberen naartoe zijn verplaatst? Ik heb rondgevraagd bij de afdeling bio-engineering, maar ik werd terugverwezen naar jou.\n\nDirecteur: Hm? Oh, ja, ze zijn verwijderd.\n\nBroussard: \"Verwijderd\"?\n\nDirecteur: Weggegooid. Ik Sorry, had je ze nog nodig? Uit de rapporten bleek dat je experimenten ermee waren voltooid.\n\nBroussard: Nee, ik-ik... ik had alle gegevens verzameld die ik nodig had, ik --\n\nDirecteur: -- Dokter. Je maakte toch geen huisdieren van proefpersonen, of wel?\n\nBroussard: Doe niet zo belachelijk, ik --\n\nDirecteur: -- Goed. Ze waren sowieso afschuwelijk om naar te kijken. Al die schurftige vacht.\n\nBroussard: Pruts in de toekomst alstublieft niet met mijn gerief. Het... stoort me.\n\nDirecteur: Ik zal u de volgende keer van tevoren op de hoogte stellen, dokter.\n\n[LOG EINDIGT ]"
 
 #. STRINGS.CODEX.B3_MOVEDRACCOONS.SUBTITLE
 msgctxt "STRINGS.CODEX.B3_MOVEDRACCOONS.SUBTITLE"
@@ -21714,7 +21714,7 @@ msgstr "Dit ei is onlangs geknuffeld door een aanhankelijk wezen\n\nVerhoogde <s
 #. STRINGS.CREATURES.MODIFIERS.ELEMENT_GROWTH_RATE.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.ELEMENT_GROWTH_RATE.NAME"
 msgid "Quill Regrowth Rate"
-msgstr "Quill hergroeisnelheid"
+msgstr "Veer Aangroei Snelheid"
 
 #. STRINGS.CREATURES.MODIFIERS.FUTURE_OVERCROWDED.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.FUTURE_OVERCROWDED.NAME"
@@ -21849,7 +21849,7 @@ msgstr "Dit beestje is <style=\"KKeyword\">Tam</style>"
 #. STRINGS.CREATURES.MODIFIERS.UNHAPPY.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.UNHAPPY.NAME"
 msgid "Glum"
-msgstr "Glum"
+msgstr "Bedrukt"
 
 #. STRINGS.CREATURES.MODIFIERS.UNHAPPY.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.UNHAPPY.TOOLTIP"
@@ -24194,7 +24194,7 @@ msgstr "Volledig <style=\"KKeyword\">Tamme</style> beestjes produceren meer mate
 #. STRINGS.CREATURES.STATS.ELEMENTGROWTH.NAME
 msgctxt "STRINGS.CREATURES.STATS.ELEMENTGROWTH.NAME"
 msgid "Quill Growth"
-msgstr "Quill Growth"
+msgstr "Veer Groei"
 
 #. STRINGS.CREATURES.STATS.ELEMENTGROWTH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.ELEMENTGROWTH.TOOLTIP"
@@ -24804,7 +24804,7 @@ msgstr "Laatst gegeten: {element} bij {temperature}"
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_GROWING.TOOLTIP"
 msgid "This critter's <style=\"KKeyword\">Quill Growth</style> rate is optimal\n\nPreferred food temperature range: {templo}-{temphi}"
-msgstr "De <style=\"KKeyword\">Quill Growth</style> snelheid van dit beestje is optimaal\n\nGewenst temperatuurbereik voor voedsel: {templo}-{temphi}"
+msgstr "De <style=\"KKeyword\">Veer Groei</style> snelheid van dit beestje is optimaal\n\nGewenst temperatuurbereik voor voedsel: {templo}-{temphi}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.NAME"
@@ -24814,7 +24814,7 @@ msgstr "Kieskeurige eter: hongerig"
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_HALTED.TOOLTIP"
 msgid "This critter's <style=\"KKeyword\">Quill Growth</style> is halted because they are hungry\n\nPreferred food temperature range: {templo}-{temphi}"
-msgstr "De <style=\"KKeyword\">Quill Growth</style> van dit beestje is gestopt omdat ze honger hebben\n\nGewenste voedseltemperatuur: {templo}-{temphi}"
+msgstr "De <style=\"KKeyword\">Veer Groei</style> van dit beestje is gestopt omdat ze honger hebben\n\nGewenste voedseltemperatuur: {templo}-{temphi}"
 
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.NAME"
@@ -24834,7 +24834,7 @@ msgstr "Te warm"
 #. STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ELEMENT_GROWTH_STUNTED.TOOLTIP"
 msgid "This critter's <style=\"KKeyword\">Quill Growth</style> rate has slowed because they ate food outside their preferred temperature range\n\nPreferred food temperature range: {templo}-{temphi}"
-msgstr "De <style=\"KKeyword\">Quill Growth</style> snelheid van dit beestje is vertraagd omdat ze voedsel aten buiten hun gewenste temperatuurbereik\n\nGewenste voedseltemperatuurbereik: {templo}-{temphi}"
+msgstr "De <style=\"KKeyword\">Veer Groei</style> snelheid van dit beestje is vertraagd omdat ze voedsel aten buiten hun gewenste temperatuurbereik\n\nGewenste voedseltemperatuurbereik: {templo}-{temphi}"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
@@ -24914,7 +24914,7 @@ msgstr "Dit beest stoot <style=\"KKeyword\">Gas</style> uit zijn longen"
 #. STRINGS.CREATURES.STATUSITEMS.EXPELLING_GAS.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXPELLING_GAS.NAME"
 msgid "Passing Gas"
-msgstr "Gas passeren"
+msgstr "Gas lossen"
 
 #. STRINGS.CREATURES.STATUSITEMS.EXPELLING_GAS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXPELLING_GAS.TOOLTIP"
@@ -25204,7 +25204,7 @@ msgstr "Inactief"
 #. STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP"
 msgid "Just enjoying life, y'know?"
-msgstr "Gewoon genieten van het leven, weet je?"
+msgstr "Gewoon, effe genieten..."
 
 #. STRINGS.CREATURES.STATUSITEMS.IN_INCUBATOR.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.IN_INCUBATOR.NAME"
@@ -25249,7 +25249,7 @@ msgstr "Getuige het wonder van het leven!"
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME"
 msgid "Foraging"
-msgstr "Voerzoeken"
+msgstr "Eten zoeken"
 
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP"
@@ -26084,7 +26084,7 @@ msgstr "Meststofgebruik"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.DESC"
 msgid "A Food Morale Bonus allows Duplicants to receive <style=\"KKeyword\">Morale</style> boosts from lower quality <style=\"KKeyword\">Food</style>.\n\nMaintaining high <style=\"KKeyword\">Morale</style> will allow Duplicants to learn more <style=\"KKeyword\">Skills</style>."
-msgstr "Een voedselmoraalbonus stelt Duplicanten in staat <style=\"KKeyword\">Moreel</style>-boosts te ontvangen van mindere kwaliteit <style=\"KKeyword\">Voedsel</style>.\n\nHoog handhaven <style=\"KKeyword\">Moraal</style> stelt Duplicanten in staat meer <style=\"KKeyword\">Vaardigheden</style> te leren."
+msgstr "Een voedselmoraalbonus stelt Duplicanten in staat <style=\"KKeyword\">Moreel</style>-boosts te ontvangen van mindere kwaliteit <style=\"KKeyword\">Voedsel</style>.\n\nEen hoge <style=\"KKeyword\">Moraal</style> stelt Duplicanten in staat meer <style=\"KKeyword\">Vaardigheden</style> te leren."
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME"
@@ -26684,7 +26684,7 @@ msgstr "Decoreren"
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.ARCHETYPE_NAME"
 msgid "Tidier"
-msgstr "Netter"
+msgstr "Opruimer"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.DESC
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.DESC"
@@ -26694,7 +26694,7 @@ msgstr "Veeg, dweil en desinfecteer objecten binnen de kolonie."
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BASEKEEPING.NAME"
 msgid "Tidying"
-msgstr "Klusjes"
+msgstr "Opruimen"
 
 #. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.ARCHETYPE_NAME
 msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.ARCHETYPE_NAME"
@@ -27484,12 +27484,12 @@ msgstr "Duplicanten eten om hun <style=\"KKeyword\">Calorie</style>-voorraad aan
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
 msgid "Express Themselves"
-msgstr "Zelf uiten"
+msgstr "Zelfexpressie"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
 msgid "Expressing themselves"
-msgstr "Zelf uiten"
+msgstr "Zelfexpressie"
 
 #. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.TOOLTIP"
@@ -28134,7 +28134,7 @@ msgstr "Verlicht jezelf"
 #. STRINGS.DUPLICANTS.CHORES.PEE.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
 msgid "Relieving self"
-msgstr "Zelf verlichten"
+msgstr "Zichzelf ontlasten"
 
 #. STRINGS.DUPLICANTS.CHORES.PEE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.TOOLTIP"
@@ -28584,12 +28584,12 @@ msgstr "Deze Duplicant is zijn apparatuur aan het opladen"
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
 msgid "Recover Breath"
-msgstr "Herstel adem"
+msgstr "Op adem komen"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS"
 msgid "Recovering breath"
-msgstr "Herstellen van adem"
+msgstr "Op adem komen"
 
 #. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.TOOLTIP"
@@ -29544,7 +29544,7 @@ msgstr "Temperatuurbereik: {0} tot {1}"
 #. STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.TEMPERATURE_RANGE_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DESCRIPTORS.INFO.TEMPERATURE_RANGE_TOOLTIP"
 msgid "These <style=\"KKeyword\">Germs</style> can survive <style=\"KKeyword\">Temperatures</style> between <b>{0}</b> and <b>{1}</b>\n\nThey thrive in <style=\"KKeyword\">Temperatures</style> between <b>{2}</b> and <b>{3}</b>"
-msgstr "Deze <style=\"KKeyword\">Microben</style> kunnen <style=\"KKeyword\">Temperaturen</style> tussen <b>{0}</b> en <b>{1 overleven }</b>\n\nZe gedijen goed bij <style=\"KKeyword\">Temperaturen</style> tussen <b>{2}</b> en <b>{3}</b>"
+msgstr "Deze <style=\"KKeyword\">Microben</style> kunnen <style=\"KKeyword\">Temperaturen</style> tussen <b>{0}</b> en <b>{1}</b> overleven\n\nZe gedijen goed bij <style=\"KKeyword\">Temperaturen</style> tussen <b>{2}</b> en <b>{3}</b>"
 
 #. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESC
 msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESC"
@@ -31079,7 +31079,7 @@ msgstr "Deze Duplicant is moeilijk tevreden te stellen"
 #. STRINGS.DUPLICANTS.MODIFIERS.GOODCONVERSATION.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.GOODCONVERSATION.NAME"
 msgid "Pleasant Chitchat"
-msgstr "Aangenaam geklets"
+msgstr "Fijn gebabbeld"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.GOODCONVERSATION.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.GOODCONVERSATION.TOOLTIP"
@@ -32004,7 +32004,7 @@ msgstr "Deze Duplicant at zeevoedsel, wat de weerstand tegen <style=\"KKeyword\"
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME"
 msgid "Severe Wounds"
-msgstr "ernstige wonden"
+msgstr "Ernstige wonden"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP"
@@ -35509,7 +35509,7 @@ msgstr "Accidentje gehad"
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NOTIFICATION_TOOLTIP"
 msgid "The <b>Mop Tool</b> {Hotkey/Mop} can be used to clean up Duplicant-related \"spills\"\n\nThese Duplicants made messes that require cleaning up:\n"
-msgstr "De <b>Mop Tool</b> {Hotkey/Mop} kan worden gebruikt om Duplicant-gerelateerde \"lekkages\" op te ruimen\n\nDeze Duplicanten hebben rotzooi gemaakt die opgeschoond moet worden:\n"
+msgstr "De <b>Mop Tool</b> {Hotkey/Mop} kan worden gebruikt om Duplicant-gerelateerde \"lekkages\" op te ruimen\n\nDeze Duplicanten hebben er een zootje van gemaakt dat opgekuist moet worden:\n"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.TOOLTIP"
@@ -35704,7 +35704,7 @@ msgstr "Gladde Glijder"
 #. STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WAXEDFORTRANSITTUBE.TOOLTIP"
 msgid "This Duplicant slapped on some <link=\"MILKFAT\">Brackwax</link> before starting their commute\n\nThis boosts their <link=\"TRAVELTUBE\">Transit Tube</link> travel speed by {0}"
-msgstr "Deze Duplicant heeft wat <link=\"MILKFAT\">Brakwas</link> gesmeerd voordat ze aan hun woon-werkverkeer begonnen\n\nDit verhoogt hun reissnelheid met <link=\"TRAVELTUBE\">Transitbuizen</link> met { 0}"
+msgstr "Deze Duplicant heeft wat <link=\"MILKFAT\">Brakwas</link> gesmeerd voordat ze aan hun woon-werkverkeer begonnen\n\nDit verhoogt hun reissnelheid met <link=\"TRAVELTUBE\">Transitbuizen</link> met {0}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WEARING_PAJAMAS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WEARING_PAJAMAS.NAME"
@@ -35974,12 +35974,12 @@ msgstr "Plantenmoordenaar"
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.DESC"
 msgid "This Duplicant might actually be several black holes in a trench coat"
-msgstr "Deze Duplicant zou eigenlijk meerdere zwarte gaten in een trenchcoat kunnen zijn"
+msgstr "Deze Duplicant is nauw verwant met een lintworm"
 
 #. STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CALORIEBURNER.NAME"
 msgid "Bottomless Stomach"
-msgstr "Bodemloze maag"
+msgstr "Bodemloze Maag"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
@@ -42184,7 +42184,7 @@ msgstr "{friend} is ontdooid!"
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION"
 msgid "{dupe} has made an amazing discovery! A barely working <link=\"CRYOTANK\">Cryotank 3000</link> has been uncovered containing a {friend} inside in a frozen state.\n\n{dupe} was successful in thawing {friend} and this encounter has filled both Duplicants with a sense of hope, something they will desperately need to keep their <link=\"MORALE\">Morale</link> up when facing the dangers ahead."
-msgstr "{dupe} heeft een geweldige ontdekking gedaan! Er is een nauwelijks werkende <link=\"CRYOTANK\">Cryotank 3000</link> ontdekt met daarin een {friend} in bevroren toestand.\n\n{dupe} slaagde erin {friend} te ontdooien en deze ontmoeting heeft beide Duplicanten vervuld met een gevoel van hoop, iets wat ze hard nodig zullen hebben om hun <link=\"MORALE\">Moraal</link> op peil te houden wanneer ze de gevaren die voor hen liggen het hoofd moeten bieden."
+msgstr "{dupe} heeft een geweldige ontdekking gedaan! Er is een nauwelijks werkende <link=\"CRYOTANK\">Cryotank 3000</link> ontdekt met daarin een {vriend} in bevroren toestand.\n\n{dupe} slaagde erin {friend} te ontdooien en deze ontmoeting heeft beide Duplicanten vervuld met een gevoel van hoop, iets wat ze hard nodig zullen hebben om hun <link=\"MORALE\">Moraal</link> op peil te houden wanneer ze de gevaren die voor hen liggen het hoofd moeten bieden."
 
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.NAME"
@@ -43459,7 +43459,7 @@ msgstr "<link=\"BASICPLANTFOOD\">Maalluis</link> samengeperst tot een compact, o
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.NAME"
 msgid "<link=\"BASICPLANTBAR\">Liceloaf</link>"
-msgstr "<link=\"BASICPLANTBAR\">Liceloaf</link>"
+msgstr "<link=\"BASICPLANTBAR\">Luisbar</link>"
 
 #. STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.BASICPLANTBAR.RECIPEDESC"
@@ -45704,7 +45704,7 @@ msgstr "{Duplicant} heeft hard gewerkt en is klaar om een nieuwe vaardigheid te 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.MESSAGEBODY"
 msgid "Building a rocket first requires constructing a <link=\"LAUNCHPAD\">Rocket Platform</link> and adding modules from the menu. All components of the Rocket Checklist will need to be complete before being capable of launching.\n\nA <link=\"CLUSTERTELESCOPE\">Telescope</link> needs to be built on the surface of a Planetoid in order to use the <style=\"KKeyword\">Starmap Screen</style> {Hotkey/ManageStarmap} to see and set course for new destinations."
-msgstr "Het bouwen van een raket vereist eerst het bouwen van een <link=\"LAUNCHPAD\">Raketplatform</link> en het toevoegen van modules vanuit het menu. Alle onderdelen van de Raket Checklist moeten compleet zijn voordat kan worden gelanceerd.\n \nEen <link=\"CLUSTERTELESCOPE\">Telescoop</link> moet op het oppervlak van een planetoïde worden gebouwd om het <style=\"KKeyword\">Sterrenkaart Scherm</style> {Hotkey/ManageSterrenkaart } te kunnen gebruiken, nieuwe bestemmingen te bekijken en koers te zetten."
+msgstr "Het bouwen van een raket vereist eerst het bouwen van een <link=\"LAUNCHPAD\">Raketplatform</link> en het toevoegen van modules vanuit het menu. Alle onderdelen van de Raket Checklist moeten compleet zijn voordat kan worden gelanceerd.\n \nEen <link=\"CLUSTERTELESCOPE\">Telescoop</link> moet op het oppervlak van een planetoïde worden gebouwd om het <style=\"KKeyword\">Sterrenkaart Scherm</style> {Hotkey/ManageSterrenkaart} te kunnen gebruiken, nieuwe bestemmingen te bekijken en koers te zetten."
 
 #. STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.SPACETRAVEL.NAME"
@@ -53799,12 +53799,12 @@ msgstr "Genereert <style=\"produced\">{0}</style> per seconde\n\nSom van <style=
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_AIRCONDITIONER"
 msgid "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword\">Volume</style> and <style=\"KKeyword\">Specific Heat Capacity</style> of the pumped <style=\"KKeyword\">Gas</style>\n\nCooling 1 kg of <link=\"OXYGEN\">Oxygen</link> the entire <b>{1}</b> will output <b>{0}</b>"
-msgstr "Genereert <style=\"KKeyword\">Warmte</style> gebaseerd op het <style=\"KKeyword\">Volume</style> en <style=\"KKeyword\">Specifieke Warmtecapaciteit</style> van het verpompte <style=\"KKeyword\">Gas</style>\n\nKoelen van 1 kg <link=\"OXYGEN\">Zuurstof</link> de hele <b>{1}</b> voert <b>{0}</b> uit"
+msgstr "Genereert <style=\"KKeyword\">Warmte</style> gebaseerd op het <style=\"KKeyword\">Volume</style> en <style=\"KKeyword\">Specifieke Warmtecapaciteit</style> van het verpompte <style=\"KKeyword\">Gas</style>\n\n1 kg <link=\"OXYGEN\">Zuurstof</link> een hele <b>{1}</b> afkoelen geeft <b>{0}</b> af"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED_LIQUIDCONDITIONER"
 msgid "Generates <style=\"KKeyword\">Heat</style> based on the <style=\"KKeyword\">Volume</style> and <style=\"KKeyword\">Specific Heat Capacity</style> of the pumped <style=\"KKeyword\">Liquid</style>\n\nCooling 10 kg of <link=\"WATER\">Water</link> the entire <b>{1}</b> will output <b>{0}</b>"
-msgstr "Genereert <style=\"KKeyword\">Warmte</style> gebaseerd op het <style=\"KKeyword\">Volume</style> en <style=\"KKeyword\">Specifieke Warmtecapaciteit</style> van de verpompte <style=\"KKeyword\">Vloeistof</style>\n\nKoeling van 10 kg <link=\"WATER\">Water</link> de gehele <b>{1}</b> voert <b>{0}</b> uit"
+msgstr "Genereert <style=\"KKeyword\">Warmte</style> gebaseerd op het <style=\"KKeyword\">Volume</style> en <style=\"KKeyword\">Specifieke Warmtecapaciteit</style> van de verpompte <style=\"KKeyword\">Vloeistof</style>\n\n10 kg <link=\"WATER\">Water</link> een hele <b>{1}</b> afkoelen geeft <b>{0}</b> af"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.IMPROVED_BUILDINGS"
@@ -56329,7 +56329,7 @@ msgstr "{Name} kan momenteel niet {Errand}\n\nReden:\n{FailedPrecondition}"
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_SUCCEEDED
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.DUPE_TOOLTIP_SUCCEEDED"
 msgid "{Description}\n\n{Errand}'s Type: {Groups}\n\n{Name}'s {BestGroup} Priority: {PersonalPriorityValue} ({PersonalPriority})\n{Building} Priority: {BuildingPriority}\nAll {BestGroup} Errands: {TypePriority}\n\nTotal Priority: {TotalPriority}"
-msgstr "{Description}\n\n{Errand}'s Type: {Groups}\n\n{Name}'s {BestGroup} Prioriteit: {PersonalPriorityValue} ({PersonalPriority})\n{Building} Prioriteit: {BuildingPriority }\nAlle {BestGroup} Opdrachten: {TypePriority}\n\nTotale Prioriteit: {TotalPriority}"
+msgstr "{Description}\n\n{Errand}'s Type: {Groups}\n\n{Name}'s {BestGroup} Prioriteit: {PersonalPriorityValue} ({PersonalPriority})\n{Building} Prioriteit: {BuildingPriority}\nAlle {BestGroup} Opdrachten: {TypePriority}\n\nTotale Prioriteit: {TotalPriority}"
 
 #. STRINGS.UI.DETAILTABS.BUILDING_CHORES.NAME
 msgctxt "STRINGS.UI.DETAILTABS.BUILDING_CHORES.NAME"
@@ -73879,7 +73879,7 @@ msgstr "{Description}\n\n<b>{Errand}</b> is een Nood Opdracht en wordt dus uitge
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLE"
 msgid "{IdleDescription}\n\nDuplicants will only <b>{Errand}</b> when there is nothing else for them to do\n\nTotal <style=\"KKeyword\">Priority</style>: {TotalPriority}\n    • Idle: {ClassPriority}\n    • All {BestGroup} Errands: {TypePriority}"
-msgstr "{IdleDescription}\n\nDuplicanten zullen alleen <b>{Errand}</b> doen als ze niets anders te doen hebben\n\nTotale <style=\"KKeyword\">Prioriteit</style>: { TotalPriority}\n    • Inactief: {ClassPriority}\n    • Alle {BestGroup} Opdrachten: {TypePriority}"
+msgstr "{IdleDescription}\n\nDuplicanten zullen alleen <b>{Errand}</b> doen als ze niets anders te doen hebben\n\nTotale <style=\"KKeyword\">Prioriteit</style>: {TotalPriority}\n    • Inactief: {ClassPriority}\n    • Alle {BestGroup} Opdrachten: {TypePriority}"
 
 #. STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLEDESC_ACTIVE
 msgctxt "STRINGS.UI.UISIDESCREENS.MINIONTODOSIDESCREEN.TOOLTIP_IDLEDESC_ACTIVE"
@@ -77674,7 +77674,7 @@ msgstr "Metaalrijk"
 #. STRINGS.WORLD_TRAITS.MISALIGNED_START.DESCRIPTION
 msgctxt "STRINGS.WORLD_TRAITS.MISALIGNED_START.DESCRIPTION"
 msgid "The <link=\"HEADQUARTERS\">Printing Pod</link> didn't end up in the asteroid's exact center this time... but it's still nowhere near the surface"
-msgstr "De <link=\"HEADQUARTERS\">Printer Pod</link> kwam deze keer niet in het exacte midden van de asteroïde terecht... maar hij is nog lang niet in de buurt van de oppervlakte"
+msgstr "De <link=\"HEADQUARTERS\">Printer Pod</link> kwam deze keer niet in het exacte midden van de asteroïde terecht... maar toch ver van de oppervlakte"
 
 #. STRINGS.WORLD_TRAITS.MISALIGNED_START.NAME
 msgctxt "STRINGS.WORLD_TRAITS.MISALIGNED_START.NAME"
@@ -78149,7 +78149,7 @@ msgstr "Bestraalde moerassige asteroïde"
 #. STRINGS.WORLDS.TERRAMOONLET.DESCRIPTION
 msgctxt "STRINGS.WORLDS.TERRAMOONLET.DESCRIPTION"
 msgid "A balanced variety of resources on a smaller sandstone world.\n\n<smallcaps>Terrania Asteroids have everything needed to start a colony in a compact area. With a short distance to the surface, inter-world travel can be achieved quickly.</smallcaps>"
-msgstr "Een uitgebalanceerde verscheidenheid aan grondstoffen op een kleinere zandsteenwereld.\n\n<smallcaps>Terrania Asteroïden hebben alles wat nodig is om een kolonie te stichten in een compact gebied. Met een korte afstand tot de oppervlakte kan interwereldreis snel worden bereikt .</smallcaps>"
+msgstr "Een uitgebalanceerde verscheidenheid aan grondstoffen op een kleinere zandsteenwereld.\n\n<smallcaps>Terrania Asteroïden hebben alles wat nodig is om een kolonie te stichten in een compact gebied. Met een korte afstand tot de oppervlakte wordt het reizen naar andere wereld snel mogelijk.</smallcaps>"
 
 #. STRINGS.WORLDS.TERRAMOONLET.NAME
 msgctxt "STRINGS.WORLDS.TERRAMOONLET.NAME"
@@ -78329,12 +78329,12 @@ msgstr "Rijm Asteroïde"
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.DESCRIPTION"
 msgid "A large, polluted swamp world.\n\n<smallcaps>Squelchy Asteroids are a great mass of frozen slush and wasteland. With a short distance to the surface, inter-world travel can be achieved quickly.</smallcaps>"
-msgstr "Een grote, vervuilde moeraswereld.\n\n<smallcaps>Squelchy asteroïden zijn een grote massa bevroren sneeuwbrij en woestenij. Met een korte afstand tot de oppervlakte kan interwereld-reizen snel worden bereikt.</smallcaps>"
+msgstr "Een grote, vervuilde moeraswereld.\n\n<smallcaps>Zompige Asteroïden zijn een grote massa bevroren sneeuwbrij en woestenij. Met een korte afstand tot de oppervlakte kan interwereld-reizen snel worden bereikt.</smallcaps>"
 
 #. STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME
 msgctxt "STRINGS.WORLDS.VANILLASWAMPDEFAULT.NAME"
 msgid "Squelchy Asteroid"
-msgstr "Squelchy Asteroïde"
+msgstr "Zompige Asteroïde"
 
 #. STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION
 msgctxt "STRINGS.WORLDS.VANILLAVOLCANIC.DESCRIPTION"
