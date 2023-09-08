@@ -18424,7 +18424,7 @@ msgstr "Prioriteit Tool"
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_1
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_1"
 msgid "Duplicants prioritize their errands based on several factors. Some of these can be adjusted to affect errand choice, but some errands (such as seeking breathable <link=\"OXYGEN\">Oxygen</link>) are so important that they cannot be delayed. Errand priority can primarily be controlled by Errand Type prioritization, and then can be further fine-tuned by the <b>Priority Tool</b> {Hotkey/Prioritize}.\n\n"
-msgstr "Duplicanten geven prioriteit aan hun opdrachten op basis van verschillende factoren. Sommige hiervan kunnen worden aangepast om de opdrachtenkeuze te beïnvloeden, maar sommige opdrachten (zoals het zoeken naar ademende <link=\"OXYGEN\">Zuurstof</link>) zijn zo belangrijk dat ze kan niet worden uitgesteld. Opdrachtprioriteit kan voornamelijk worden beheerd door Opdracht Type Prioriteit en kan vervolgens verder worden verfijnd met de <b>Priority Tool</b> {Hotkey/Prioritize}.\n\n"
+msgstr "Duplicanten geven prioriteit aan hun opdrachten op basis van verschillende factoren. Sommige hiervan kunnen worden aangepast om de opdrachtenkeuze te beïnvloeden, maar sommige opdrachten (zoals het zoeken naar adembare <link=\"OXYGEN\">Zuurstof</link>) zijn zo belangrijk dat ze kan niet worden uitgesteld. Opdrachtprioriteit kan voornamelijk worden beheerd door Opdracht Type Prioriteit en kan vervolgens verder worden verfijnd met de <b>Priority Tool</b> {Hotkey/Prioritize}.\n\n"
 
 #. STRINGS.CODEX.PRIORITY.PARAGRAPH_2
 msgctxt "STRINGS.CODEX.PRIORITY.PARAGRAPH_2"
@@ -18874,7 +18874,7 @@ msgstr "Sneeuwtarwe"
 #. STRINGS.CODEX.SLICKSTER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SLICKSTER.BODY.CONTAINER1"
 msgid "Slicksters are a unique creature most renowned for their ability to exude hydrocarbon waste that is nearly identical in makeup to crude oil.\n\nThe two tufts atop a Slickster's head are called rhinophores, and help guide the Slickster toward breathable carbon dioxide."
-msgstr "Glibsters zijn een uniek wezen dat het meest bekend staat om hun vermogen om koolwaterstofafval uit te scheiden dat qua samenstelling bijna identiek is aan ruwe olie.\n\nDe twee bosjes bovenop het hoofd van een Glibster worden rhinophores genoemd en helpen de Glibster naar ademende koolstofdioxide te leiden. "
+msgstr "Glibsters zijn een uniek wezen dat het meest bekend staat om hun vermogen om koolwaterstofafval uit te scheiden dat qua samenstelling bijna identiek is aan ruwe olie.\n\nDe twee bosjes bovenop het hoofd van een Glibster worden rhinophores genoemd en helpen de Glibster naar adembare koolstofdioxide te leiden. "
 
 #. STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SLICKSTER.SPECIES_SUBTITLE"
@@ -23289,7 +23289,7 @@ msgstr "<link=\"OILSPOUT\">Olietuit</link>"
 #. STRINGS.CREATURES.SPECIES.OXYFERN.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.OXYFERN.DESC"
 msgid "Oxyferns absorb <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and exude breathable <link=\"OXYGEN\">Oxygen</link>."
-msgstr "Oxyvarens absorberen <link=\"CARBONDIOXIDE\">Koolstofdioxide</link> en ademen ademende <link=\"OXYGEN\">Zuurstof</link> uit."
+msgstr "Oxyvarens absorberen <link=\"CARBONDIOXIDE\">Koolstofdioxide</link> en ademen adembare <link=\"OXYGEN\">Zuurstof</link> uit."
 
 #. STRINGS.CREATURES.SPECIES.OXYFERN.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.OXYFERN.DOMESTICATEDDESC"
@@ -23614,7 +23614,7 @@ msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"BULBPLANT\">Buddy Bud</
 #. STRINGS.CREATURES.SPECIES.SEEDS.BULBPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.BULBPLANT.NAME"
 msgid "<link=\"BULBPLANT\">Buddy Bud Seed</link>"
-msgstr "<link=\"BULBPLANT\">Buddy Bud Seed</link>"
+msgstr "<link=\"BULBPLANT\">Buddy Bud Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.CACTUSPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CACTUSPLANT.DESC"
@@ -23624,7 +23624,7 @@ msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"CACTUSPLANT\">Jumping J
 #. STRINGS.CREATURES.SPECIES.SEEDS.CACTUSPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CACTUSPLANT.NAME"
 msgid "<link=\"CACTUSPLANT\">Joya Seed</link>"
-msgstr "<link=\"CACTUSPLANT\">Joya Seed</link>"
+msgstr "<link=\"CACTUSPLANT\">Joya Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
@@ -23704,7 +23704,7 @@ msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"LEAFYPLANT\">Vrolijkhei
 #. STRINGS.CREATURES.SPECIES.SEEDS.LEAFYPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.LEAFYPLANT.NAME"
 msgid "<link=\"LEAFYPLANT\">Mirth Leaf Seed</link>"
-msgstr "<link=\"LEAFYPLANT\">Blij Blad Seed</link>"
+msgstr "<link=\"LEAFYPLANT\">Blij Blad Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.MUSHROOMPLANT.DESC"
@@ -23759,12 +23759,12 @@ msgstr "<link=\"PRICKLEGRASS\">Blufroos Zaad</link>"
 #. STRINGS.CREATURES.SPECIES.SEEDS.SALTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SALTPLANT.DESC"
 msgid "The <link=\"PLANTS\">Seed</link> of a <link=\"SALTPLANT\">Dasha Saltvine</link>.\n\nDigging up Buried Objects may uncover a Dasha Saltvine Seed."
-msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"SALTPLANT\">Dasha Zoutliaan</link>.\n\nHet opgraven van begraven voorwerpen kan een Dasha Zoutliaan Seed blootleggen."
+msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"SALTPLANT\">Dasha Zoutliaan</link>.\n\nHet opgraven van begraven voorwerpen kan een Dasha Zoutliaan Zaad blootleggen."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SALTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SALTPLANT.NAME"
 msgid "<link=\"SALTPLANT\">Dasha Saltvine Seed</link>"
-msgstr "<link=\"SALTPLANT\">Dasha Zoutliaan Seed</link>"
+msgstr "<link=\"SALTPLANT\">Dasha Zoutliaan Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SEALETTUCE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SEALETTUCE.DESC"
@@ -23794,7 +23794,7 @@ msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"SWAMPHARVESTPLANT\">Moe
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPHARVESTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPHARVESTPLANT.NAME"
 msgid "<link=\"SWAMPHARVESTPLANT\">Bog Bucket Seed</link>"
-msgstr "<link=\"SWAMPHARVESTPLANT\">Moeras Emmer Seed</link>"
+msgstr "<link=\"SWAMPHARVESTPLANT\">Moeras Emmer Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.DESC"
@@ -23809,12 +23809,12 @@ msgstr "<link=\"SWAMPLILY\">Balsemlelie Zaad</link>"
 #. STRINGS.CREATURES.SPECIES.SEEDS.TOEPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.TOEPLANT.DESC"
 msgid "The <link=\"PLANTS\">Seed</link> of a <link=\"TOEPLANT\">Tranquil Toes</link>.\n\nDigging up Buried Objects may uncover a Tranquil Toe Seed."
-msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"TOEPLANT\">Kalme Teen</link>.\n\nHet opgraven van begraven voorwerpen kan een Tranquil Toe Seed blootleggen."
+msgstr "Het <link=\"PLANTS\">Zaad</link> van een <link=\"TOEPLANT\">Kalme Teen</link>.\n\nHet opgraven van begraven voorwerpen kan een Kalme Teen Zaad blootleggen."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.TOEPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.TOEPLANT.NAME"
 msgid "<link=\"TOEPLANT\">Tranquil Toe Seed</link>"
-msgstr "<link=\"TOEPLANT\">Tranquil Toe Seed</link>"
+msgstr "<link=\"TOEPLANT\">Kalme Teen Zaad</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.WINECUPS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.WINECUPS.DESC"
@@ -23959,7 +23959,7 @@ msgstr "<link=\"STATERPILLAR\">Smogslakje</link>"
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.VARIANT_GAS.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.VARIANT_GAS.DESC"
 msgid "Smog Slugs are porous creatures that draw in unbreathable <link=\"ELEMENTSGAS\">Gases</link> during the day.\n\nAt night, they sleep near exposed <link=\"GASCONDUIT\">Gas Pipes,</link> where they deposit their cache."
-msgstr "Smog Naaktslakken zijn poreuze wezens die overdag niet-ademende <link=\"ELEMENTSGAS\">Gassen</link> naar binnen zuigen.\n\n's Nachts slapen ze in de buurt van blootgestelde <link=\"GASCONDUIT\">gasleidingen ,</link> waar ze hun cache deponeren."
+msgstr "Smog Naaktslakken zijn poreuze wezens die overdag onadembare <link=\"ELEMENTSGAS\">Gassen</link> naar binnen zuigen.\n\n's Nachts slapen ze in de buurt van blootgestelde <link=\"GASCONDUIT\">gasleidingen ,</link> waar ze hun cache deponeren."
 
 #. STRINGS.CREATURES.SPECIES.STATERPILLAR.VARIANT_GAS.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.STATERPILLAR.VARIANT_GAS.EGG_NAME"
@@ -26984,7 +26984,7 @@ msgstr "Gaat zaden analyseren"
 #. STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.ANALYZESEED.TOOLTIP"
 msgid "This Duplicant is analyzing <style=\"KKeyword\">Seeds</style> to find mutations"
-msgstr "Deze Duplicant analyseert <style=\"KKeyword\">Seeds</style> om mutaties te vinden"
+msgstr "Deze Duplicant analyseert <style=\"KKeyword\">Zaden</style> om mutaties te vinden"
 
 #. STRINGS.DUPLICANTS.CHORES.ARMTRAP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.ARMTRAP.NAME"
@@ -29664,7 +29664,7 @@ msgstr "Vechten tegen {0} van {1}"
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.AIR
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.AIR"
 msgid "Breathing germ-filled {0}"
-msgstr "Ademende microbe-gevulde {0}"
+msgstr "Ademt microbe-gevulde {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD
 msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD"
@@ -30144,7 +30144,7 @@ msgstr "Deze Duplicant speelt een videogame\n\nHet ziet er leuk uit!"
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEP.NAME"
 msgid "Unrested: Too Bright"
-msgstr "Ongerust: Te fel"
+msgstr "Moe: Te fel"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEP.TOOLTIP"
@@ -30154,7 +30154,7 @@ msgstr "Deze Duplicant heeft de hele nacht liggen woelen en draaien omdat er een
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPAFRAIDOFDARK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPAFRAIDOFDARK.NAME"
 msgid "Unrested: Afraid of Dark"
-msgstr "Onrustig: Bang voor het donker"
+msgstr "Moe: Bang voor het donker"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPAFRAIDOFDARK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPAFRAIDOFDARK.TOOLTIP"
@@ -30164,7 +30164,7 @@ msgstr "Deze Duplicant kreeg niet veel slaap omdat ze te bezorgd waren over het 
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPMOVEMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPMOVEMENT.NAME"
 msgid "Unrested: Bed Jostling"
-msgstr "Onrustig: bedverdringing"
+msgstr "Moe: Bed Gerammel"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPMOVEMENT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BADSLEEPMOVEMENT.TOOLTIP"
@@ -37284,12 +37284,12 @@ msgstr "Zet blootstelling aan straling om in calorieën"
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC"
 msgid "This Duplicant just doesn't trust those beady little eyes"
-msgstr "Deze Duplicant vertrouwt die kraaloogjes gewoon niet"
+msgstr "Deze Duplicant vertrouwt die kleine kraaloogjes simpelweg niet"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.NAME"
 msgid "Critter Aversion"
-msgstr "Beest Aversion"
+msgstr "Beest Aversie"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGUP.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGUP.DESC"
@@ -38359,7 +38359,7 @@ msgstr "<link=\"LIQUIDMETHANE\">Methaan</link>"
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC"
 msgid "(O<sub>2</sub>) Oxygen is a breathable chemical.\n\nThis selection is in a <link=\"ELEMENTSLIQUID\">Liquid</link> state."
-msgstr "(O<sub>2</sub>) Zuurstof is een ademende chemische stof.\n\nDeze selectie bevindt zich in een <link=\"ELEMENTSLIQUID\">Vloeibare</link> toestand."
+msgstr "(O<sub>2</sub>) Zuurstof is een adembare chemische stof.\n\nDeze selectie bevindt zich in een <link=\"ELEMENTSLIQUID\">Vloeibare</link> toestand."
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
@@ -38789,7 +38789,7 @@ msgstr "<link=\"OXYGEN\">Zuurstof</link>"
 #. STRINGS.ELEMENTS.OXYROCK.DESC
 msgctxt "STRINGS.ELEMENTS.OXYROCK.DESC"
 msgid "(Ir<sub>3</sub>O<sub>2</sub>) Oxylite is a chemical compound that slowly emits breathable <link=\"OXYGEN\">Oxygen</link>.\n\nExcavating <link=\"OXYROCK\">Oxylite</link> increases its emission rate, but depletes the ore more rapidly."
-msgstr "(Ir<sub>3</sub>O<sub>2</sub>) Oxyliet is een chemische verbinding die langzaam ademende <link=\"OXYGEN\">Zuurstof</link> afgeeft.\n\nGraven <link=\"OXYROCK\">Oxyliet</link> verhoogt de emissiesnelheid, maar put het erts sneller uit."
+msgstr "(Ir<sub>3</sub>O<sub>2</sub>) Oxyliet is een chemische verbinding die langzaam adembare <link=\"OXYGEN\">Zuurstof</link> afgeeft.\n\nGraven <link=\"OXYROCK\">Oxyliet</link> verhoogt de emissiesnelheid, maar put het erts sneller uit."
 
 #. STRINGS.ELEMENTS.OXYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.OXYROCK.NAME"
@@ -39549,7 +39549,7 @@ msgstr "Zorgt ervoor dat mijn Duplicanten gemakkelijk kunnen ademen, altijd en o
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments.\n\nMust be refilled with oxygen at an <link=\"SUITLOCKER\">Atmo Suit Dock</link> when depleted."
-msgstr "Voorziet Duplicanten van <style=\"oxygen\">Zuurstof</style> in giftige en slecht ademende omgevingen.\n\nMoet worden bijgevuld met zuurstof bij een <link=\"SUITLOCKER\">Atmopak Dok</link> wanneer uitgeput."
+msgstr "Voorziet Duplicanten van <style=\"oxygen\">Zuurstof</style> in giftige en slecht adembare omgevingen.\n\nMoet worden bijgevuld met zuurstof bij een <link=\"SUITLOCKER\">Atmopak Dok</link> wanneer uitgeput."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.GENERICNAME"
@@ -39564,7 +39564,7 @@ msgstr "<link=\"ATMOSUIT\">Atmopak</link>"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments."
-msgstr "Levert Duplicanten met <style=\"oxygen\">Zuurstof</style> in giftige en slecht ademende omgevingen."
+msgstr "Levert Duplicanten met <style=\"oxygen\">Zuurstof</style> in giftige en slecht adembare omgevingen."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.REPAIR_WORN_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.REPAIR_WORN_DESC"
