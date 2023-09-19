@@ -13289,12 +13289,12 @@ msgstr "\"Abstracte\" Sculptuur"
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.ACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.ACTIVATE_TOOLTIP"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when reservoir is less than <b>{0}%</b> full, until it is <b>{1}% (High Threshold)</b> full"
-msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer het reservoir minder dan <b>{0}%</b> vol is, totdat het <b> {1}% (High Treshold)</b> vol is"
+msgstr "Stuurt een <b><style=\"logic_on\">Groen Signaal</style></b> wanneer het reservoir minder dan <b>{0}%</b> vol is, totdat het <b> {1}% (Hoge Drempelwaarde)</b> vol is"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.DEACTIVATE_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.DEACTIVATE_TOOLTIP"
 msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> when reservoir is <b>{0}%</b> full, until it is less than <b>{1}% (Low Threshold)</b> full"
-msgstr "Stuurt een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer het reservoir <b>{0}%</b> vol is, totdat het minder is dan <b> {1}% (Low Treshold)</b> vol"
+msgstr "Stuurt een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer het reservoir <b>{0}%</b> vol is, totdat het minder is dan <b> {1}% (Lage Drempelwaarde)</b> vol"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT"
@@ -19654,7 +19654,7 @@ msgstr "Eerste Ontmoeting"
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.DESCRIPTION"
 msgid "An unfamiliar building has been discovered in my colony. There's movement inside but whoever the inhabitant is, they seem wary of us.\n\nIf we can convince them that we mean no harm, we could very well end up with a fresh recruit <i>and</i> a useful new building."
-msgstr "Er is een onbekend gebouw ontdekt in mijn kolonie. Er is beweging binnen, maar wie de bewoner ook is, ze lijken op hun hoede voor ons.\n\nAls we ze kunnen overtuigen dat we geen kwaad bedoelen, kunnen we misschien eindigen met een nieuwe rekruut <i>en</i> een nuttig nieuw gebouw."
+msgstr "Er is een onbekend gebouw ontdekt in mijn kolonie. Je kan beweging binnen zien, maar wiehet ook is, ze lijken op hun hoede.\n\nAls we ze kunnen overtuigen dat we geen kwaad bedoelen, kunnen we misschien eindigen met een nieuwe rekruut <i>en</i> een nuttig nieuw gebouw."
 
 #. STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.LONELYMINION.BEGIN_POPUP.NAME"
@@ -21339,12 +21339,12 @@ msgstr "Etenswaren worden muf bij vijftig procent <style=\"KKeyword\">Versheid</
 #. STRINGS.CREATURES.ATTRIBUTES.SCALEGROWTHDELTA.NAME
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.SCALEGROWTHDELTA.NAME"
 msgid "Scale Growth"
-msgstr "Schaalgroei"
+msgstr "Schub Groei"
 
 #. STRINGS.CREATURES.ATTRIBUTES.SCALEGROWTHDELTA.TOOLTIP
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.SCALEGROWTHDELTA.TOOLTIP"
 msgid "Determines how long this <style=\"KKeyword\">Critter's</style> scales will take to grow back."
-msgstr "Bepaalt hoe lang dit <style=\"KKeyword\">Beest's</style> schalen nodig heeft om terug te groeien."
+msgstr "Bepaalt hoe lang de schubben van dit <style=\"KKeyword\">Beest</style> nodig hebben om terug te groeien."
 
 #. STRINGS.CREATURES.ATTRIBUTES.VIABILITYDELTA.DESC
 msgctxt "STRINGS.CREATURES.ATTRIBUTES.VIABILITYDELTA.DESC"
@@ -21524,7 +21524,7 @@ msgstr "<link=\"SQUIRRELSPECIES\">Pips</link>"
 #. STRINGS.CREATURES.FAMILY_PLURAL.STATERPILLARSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.STATERPILLARSPECIES"
 msgid "<link=\"STATERPILLARSPECIES\">Plug Slugs</link>"
-msgstr "<link=\"STATERPILLARSPECIES\">Plugslugs</link>"
+msgstr "<link=\"STATERPILLARSPECIES\">Schokslakken</link>"
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.SWEEPBOT
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.SWEEPBOT"
@@ -21614,7 +21614,7 @@ msgstr "Tijd eist zijn tol van alle dingen"
 #. STRINGS.CREATURES.MODIFIERS.ATE_FROM_FEEDER.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.ATE_FROM_FEEDER.NAME"
 msgid "Ate From Feeder"
-msgstr "Ate from feeder"
+msgstr "At van voedertoestel"
 
 #. STRINGS.CREATURES.MODIFIERS.ATE_FROM_FEEDER.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.ATE_FROM_FEEDER.TOOLTIP"
@@ -21749,7 +21749,7 @@ msgstr "Dit beestje is opgewekt omdat aan al zijn behoeften wordt voldaan\n\nHet
 #. STRINGS.CREATURES.MODIFIERS.HUGGINGFRENZY.NAME
 msgctxt "STRINGS.CREATURES.MODIFIERS.HUGGINGFRENZY.NAME"
 msgid "Hugging Spree"
-msgstr "Knuffelen Spree"
+msgstr "Knuffel Manie"
 
 #. STRINGS.CREATURES.MODIFIERS.HUGGINGFRENZY.TOOLTIP
 msgctxt "STRINGS.CREATURES.MODIFIERS.HUGGINGFRENZY.TOOLTIP"
@@ -22184,7 +22184,7 @@ msgstr "<link=\"CRAB\">Porschelp Broed</link>"
 #. STRINGS.CREATURES.SPECIES.CRAB.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.DESC"
 msgid "Pokeshells are nonhostile critters that eat <link=\"TOXICSAND\">Polluted Dirt</link> and <link=\"COMPOST\">Rot Piles</link>.\n\nThe shells they leave behind after molting can be crushed into <link=\"LIME\">Lime</link>."
-msgstr "Porschelpen zijn niet-vijandige wezens die <link=\"TOXICSAND\">Vervuilde Aarde</link> en <link=\"COMPOST\">Rotte Stapels</link> eten.\n\nDe schelpen die ze achterlaten na vervelling kan worden vermalen tot <link=\"LIME\">Kalk</link>."
+msgstr "Porschelpen zijn niet-vijandige wezens die <link=\"TOXICSAND\">Vervuilde Aarde</link> en <link=\"COMPOST\">Rotte Pap</link> eten.\n\nDe schelpen die ze achterlaten na vervelling kan worden vermalen tot <link=\"LIME\">Kalk</link>."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.EGG_NAME"
@@ -22234,7 +22234,7 @@ msgstr "<link=\"CRABWOOD\">Eikschelp Broed</link>"
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.DESC"
 msgid "Oakshells are nonhostile critters that eat <link=\"TOXICSAND\">Polluted Dirt</link>, <link=\"SLIMEMOLD\">Slime</link> and <link=\"COMPOST\">Rot Piles</link>.\n\nThe shells they leave behind after molting can be crushed into <link=\"WOOD\">Lumber</link>.\n\nOakshells thrive in <link=\"ETHANOL\">Ethanol</link>."
-msgstr "Eikenschalen zijn niet-vijandige beestjes die <link=\"TOXICSAND\">Vervuilde Aarde</link>, <link=\"SLIMEMOLD\">Slijm</link> en <link=\"COMPOST\">Rotte Stapels</link> eten.\n\nDe schelpen die ze achterlaten na het ruien kunnen worden vermalen tot <link=\"HOUT\">Timmerhout</link>.\n\nEikenschalen gedijen goed in <link=\"ETHANOL\">Ethanol </link>."
+msgstr "Eikenschalen zijn niet-vijandige beestjes die <link=\"TOXICSAND\">Vervuilde Aarde</link>, <link=\"SLIMEMOLD\">Slijm</link> en <link=\"COMPOST\">Rotte Pap</link> eten.\n\nDe schelpen die ze achterlaten na het ruien kunnen worden vermalen tot <link=\"HOUT\">Timmerhout</link>.\n\nEikenschalen gedijen goed in <link=\"ETHANOL\">Ethanol </link>."
 
 #. STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CRAB.VARIANT_WOOD.EGG_NAME"
@@ -23884,7 +23884,7 @@ msgstr "<link=\"EEKHOORN\">Pipsqueak</link>"
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.DESC"
 msgid "Pips are pesky, nonhostile critters that subsist on <link=\"BASICFABRICPLANT\">Thimble Reeds</link> and <link=\"FORESTTREE\">Arbor Tree</link> branches.\n\nThey are known to bury <link=\"PLANTS\">Seeds</link> in the ground whenever they can find a suitable area with enough space."
-msgstr "Pips zijn vervelende, niet-vijandige wezens die leven op <link=\"BASICFABRICPLANT\">Vingerhoedriets</link> en <link=\"FORESTTREE\">Arbor Boom</link> takken.\n\nZe zijn bekend om <link=\"PLANTS\">Zaden</link> in de grond te begraven wanneer ze een geschikt gebied met voldoende ruimte kunnen vinden."
+msgstr "Pips zijn vervelende, niet-vijandige wezens die leven op <link=\"BASICFABRICPLANT\">Vingerhoedriet</link> en <link=\"FORESTTREE\">Arbor Boom</link> takken.\n\nZe zijn bekend om <link=\"PLANTS\">Zaden</link> in de grond te begraven wanneer ze een geschikt gebied met voldoende ruimte kunnen vinden."
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.EGG_NAME"
@@ -23909,7 +23909,7 @@ msgstr "<link=\"EEKHOORN\">Knuffel Pipsqueak</link>"
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.DESC"
 msgid "Cuddle Pips are fluffy, affectionate critters who exhibit a strong snuggling instinct towards all types of eggs.\n\nThis is temporarily amplified when they are hugged by a passing Duplicant."
-msgstr "Cuddle Pips zijn pluizige, aanhankelijke wezens die een sterk knuffelinstinct vertonen ten opzichte van alle soorten eieren.\n\nDit wordt tijdelijk versterkt wanneer ze worden geknuffeld door een passerende Duplicant."
+msgstr "Knuffelpips zijn pluizige, aanhankelijke wezens die een sterk knuffelinstinct vertonen ten opzichte van alle soorten eieren.\n\nDit wordt tijdelijk versterkt wanneer ze worden geknuffeld door een passerende Duplicant."
 
 #. STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SQUIRREL.VARIANT_HUG.EGG_NAME"
@@ -24339,7 +24339,7 @@ msgstr "Etenswaren worden muf bij vijftig procent <style=\"KKeyword\">Versheid</
 #. STRINGS.CREATURES.STATS.SCALEGROWTH.NAME
 msgctxt "STRINGS.CREATURES.STATS.SCALEGROWTH.NAME"
 msgid "Scale Growth"
-msgstr "Schaalgroei"
+msgstr "Schub Groei"
 
 #. STRINGS.CREATURES.STATS.SCALEGROWTH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.SCALEGROWTH.TOOLTIP"
@@ -24429,7 +24429,7 @@ msgstr "Dit beestje verdedigt gewelddadig hun jongen"
 #. STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BAGGED.NAME"
 msgid "Trussed"
-msgstr "Trussed"
+msgstr "Vastgebonden"
 
 #. STRINGS.CREATURES.STATUSITEMS.BAGGED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BAGGED.TOOLTIP"
@@ -24754,7 +24754,7 @@ msgstr "Dit beestje kan geen <style=\"KKeyword\">Vloeistof</style> inademen!"
 #. STRINGS.CREATURES.STATUSITEMS.DROWSY.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWSY.NAME"
 msgid "Drowsy"
-msgstr "Drowsy"
+msgstr "Slaperig"
 
 #. STRINGS.CREATURES.STATUSITEMS.DROWSY.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWSY.TOOLTIP"
@@ -24774,7 +24774,7 @@ msgstr "Deze plant moet worden ondergedompeld in <style=\"KKeyword\">Vloeistof</
 #. STRINGS.CREATURES.STATUSITEMS.EATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.NAME"
 msgid "Eating"
-msgstr "Eten"
+msgstr "Eet"
 
 #. STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP"
@@ -25239,7 +25239,7 @@ msgstr "Dit beestje haalt diep adem"
 #. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.NAME"
 msgid "Laying egg"
-msgstr "Ei leggen"
+msgstr "Legt Ei"
 
 #. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP"
@@ -25249,7 +25249,7 @@ msgstr "Getuige het wonder van het leven!"
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME"
 msgid "Foraging"
-msgstr "Eten zoeken"
+msgstr "Zoekt eten"
 
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP"
@@ -25309,7 +25309,7 @@ msgstr "Dit beestje zit vol <style=\"KKeyword\">Brak</style> en is klaar om gemo
 #. STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.NAME"
 msgid "Producing Brackene {amount}"
-msgstr "Produceert Brak {hoeveelheid}"
+msgstr "Produceert Brak {amount}"
 
 #. STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.MILKPRODUCER.TOOLTIP"
@@ -25319,7 +25319,7 @@ msgstr "De interne tank van dit beestje vult zichzelf opnieuw"
 #. STRINGS.CREATURES.STATUSITEMS.MOLTING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.MOLTING.NAME"
 msgid "Molting"
-msgstr "Rui"
+msgstr "Vervelt"
 
 #. STRINGS.CREATURES.STATUSITEMS.MOLTING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.MOLTING.TOOLTIP"
@@ -25334,7 +25334,7 @@ msgstr "Verwelkt"
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.LINE_ITEM"
 msgid "\n            • {Resource}: {Amount}"
-msgstr "\n    • {Resource}: {Amount}"
+msgstr "\n            • {Resource}: {Amount}"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
@@ -25349,7 +25349,7 @@ msgstr "De groei wordt hervat wanneer aan de <style=\"KKeyword\">Bemestingsverei
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM"
 msgid "\n            • {Resource}: {Amount}"
-msgstr "\n    • {Resource}: {Amount}"
+msgstr "\n            • {Resource}: {Amount}"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME"
@@ -25359,7 +25359,7 @@ msgstr "    • Irrigatie"
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP"
 msgid "Growth will resume when <style=\"KKeyword\">Liquid</style> requirements are met"
-msgstr "De groei wordt hervat wanneer aan de <style=\"KKeyword\">Vloeibare</style>-vereisten is voldaan"
+msgstr "De groei wordt hervat wanneer aan de <style=\"KKeyword\">Vloeistof</style> vereisten is voldaan"
 
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM"
@@ -25379,7 +25379,7 @@ msgstr "Door de comfortabele omstandigheden kon deze plant een betere opbrengst 
 #. STRINGS.CREATURES.STATUSITEMS.NOSLEEPSPOT.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NOSLEEPSPOT.NAME"
 msgid "Nowhere To Sleep"
-msgstr "Nergens te slapen"
+msgstr "Geen plek om te slapen"
 
 #. STRINGS.CREATURES.STATUSITEMS.NOSLEEPSPOT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NOSLEEPSPOT.TOOLTIP"
@@ -25394,7 +25394,7 @@ msgstr "Bejaard"
 #. STRINGS.CREATURES.STATUSITEMS.OLD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.OLD.TOOLTIP"
 msgid "This sweet ol'critter is over the hill and will pass on in <b>{TimeUntilDeath}</b>"
-msgstr "Dit lieve beestje is over de heuvel en zal over <b>{TimeUntilDeath}</b> weer verder gaan"
+msgstr "Dit lieve beestje is zijn beste jaren gepasseerd en zal sterven over <b>{TimeUntilDeath}</b>"
 
 #. STRINGS.CREATURES.STATUSITEMS.ORIGINALPLANTMUTATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ORIGINALPLANTMUTATION.NAME"
@@ -25464,7 +25464,7 @@ msgstr "Beschermen"
 #. STRINGS.CREATURES.STATUSITEMS.PROTECTINGENTITY.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PROTECTINGENTITY.TOOLTIP"
 msgid "This creature is guarding something special to them and will likely attack if approached"
-msgstr "Dit wezen bewaakt iets speciaals voor hen en zal waarschijnlijk aanvallen als ze worden benaderd"
+msgstr "Dit wezen bewaakt iets dierbaars en zal waarschijnlijk aanvallen als ze worden benaderd"
 
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
@@ -25579,7 +25579,7 @@ msgstr "Deze plant is gemuteerd met een genetische variant die ik {MutationName}
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME"
 msgid "Rotten"
-msgstr "Rotten"
+msgstr "Verrot"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP"
@@ -25639,12 +25639,12 @@ msgstr "Dit beestje probeert weg te komen"
 #. STRINGS.CREATURES.STATUSITEMS.STUNTED_SCALE_GROWTH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STUNTED_SCALE_GROWTH.NAME"
 msgid "Stunted Scales"
-msgstr "Onvolgroeide weegschaal"
+msgstr "Onvolgroeide Schubben"
 
 #. STRINGS.CREATURES.STATUSITEMS.STUNTED_SCALE_GROWTH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STUNTED_SCALE_GROWTH.TOOLTIP"
 msgid "This critter's <style=\"KKeyword\">Scale Growth</style> is being stunted by an unfavorable environment"
-msgstr "De <style=\"KKeyword\">Schaalgroei</style> van dit beestje wordt belemmerd door een ongunstige omgeving"
+msgstr "De <style=\"KKeyword\">Schub Groei</style> van dit beestje wordt belemmerd door een ongunstige omgeving"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME"
@@ -25749,7 +25749,7 @@ msgstr "De groei zal hervatten wanneer het wordt ondergedompeld in een van de vo
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.LINE_ITEM"
 msgid "            • {0}: {1}\n"
-msgstr "    • {0}: {1}\n"
+msgstr "            • {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZER.NAME"
@@ -25764,7 +25764,7 @@ msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plan
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.LINE_ITEM"
 msgid "                    • {0}: {1}\n"
-msgstr "    • {0}: {1}\n"
+msgstr "                    • {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGFERTILIZERMAJOR.NAME"
@@ -25779,7 +25779,7 @@ msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plan
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.LINE_ITEM"
 msgid "            • {0}: {1}\n"
-msgstr "    • {0}: {1}\n"
+msgstr "            • {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATION.NAME"
@@ -25794,7 +25794,7 @@ msgstr "Deze boerderij slaat materialen op die niet geschikt zijn voor deze plan
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.LINE_ITEM
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.LINE_ITEM"
 msgid "                    • {0}: {1}\n"
-msgstr "    • {0}: {1}\n"
+msgstr "                    • {0}: {1}\n"
 
 #. STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.WRONGIRRIGATIONMAJOR.NAME"
@@ -29294,7 +29294,7 @@ msgstr "Verhongering"
 #. STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.DESCRIPTION"
 msgid "{Target} has suffocated to death."
-msgstr "{Target} is dood gestikt."
+msgstr "{Target} is gestikt."
 
 #. STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.NAME
 msgctxt "STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.NAME"
@@ -29369,7 +29369,7 @@ msgstr "{0} van {1}'s blootstelling aan deze microben zal resulteren in {2}"
 #. STRINGS.DUPLICANTS.DISEASES.CURED_POPUP
 msgctxt "STRINGS.DUPLICANTS.DISEASES.CURED_POPUP"
 msgid "Cured of {0}"
-msgstr "Genasd van {0}"
+msgstr "Genas van {0}"
 
 #. STRINGS.DUPLICANTS.DISEASES.DEATH_SYMPTOM
 msgctxt "STRINGS.DUPLICANTS.DISEASES.DEATH_SYMPTOM"
@@ -30919,7 +30919,7 @@ msgstr "Het eten dat deze Duplicant als laatste at was <style=\"KKeyword\">Vrese
 #. STRINGS.DUPLICANTS.MODIFIERS.EDIBLEMINUS3.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EDIBLEMINUS3.NAME"
 msgid "Grisly Meal"
-msgstr "Akelige Maaltijd"
+msgstr "Gore Maaltijd"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EDIBLEMINUS3.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EDIBLEMINUS3.TOOLTIP"
@@ -32089,7 +32089,7 @@ msgstr "Deze Duplicant ruikt naar iets onuitsprekelijk gemeens"
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDSTINKY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDSTINKY.NAME"
 msgid "Smelled Stinky"
-msgstr "Ruik stinkend"
+msgstr "Rook Stinkerd"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDSTINKY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDSTINKY.TOOLTIP"
@@ -33119,7 +33119,7 @@ msgstr "Deze {0} is nog nooit uitgenodigd voor een feest, wat jammer is. Zijn da
 #. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME"
 msgid "Stinky"
-msgstr "Stinkend"
+msgstr "Stinkerd"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TRAVALDO.DESC"
@@ -36059,7 +36059,7 @@ msgstr "Deze Duplicant heeft moeite om iets anders op te bouwen dan zinvolle vri
 #. STRINGS.DUPLICANTS.TRAITS.CONSTRUCTIONDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CONSTRUCTIONDOWN.NAME"
 msgid "Building Impaired"
-msgstr "Gebouw beschadigd"
+msgstr "Bouwkluns"
 
 #. STRINGS.DUPLICANTS.TRAITS.CONSTRUCTIONUP.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CONSTRUCTIONUP.DESC"
@@ -36149,7 +36149,7 @@ msgstr "Vroege Vogel"
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.SHORT_DESC"
 msgid "Gains morning Attribute bonuses"
-msgstr "Behaalt morgen Attribuutbonussen"
+msgstr "Krijgt ochtend Attribuutbonussen"
 
 #. STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.EARLYBIRD.SHORT_DESC_TOOLTIP"
@@ -36979,7 +36979,7 @@ msgstr "Deze Duplicant is van delicate aard en kan niet voor zieken zorgen"
 #. STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.HEMOPHOBIA.NAME"
 msgid "Squeamish"
-msgstr "Squeamish"
+msgstr "Teergevoelig"
 
 #. STRINGS.DUPLICANTS.TRAITS.IGNORED_EFFECTS
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IGNORED_EFFECTS"
@@ -37044,7 +37044,7 @@ msgstr "Eenling"
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC"
 msgid "Attribute bonuses while alone"
-msgstr "Kenmerk bonussen toe terwijl je alleen bent"
+msgstr "Kenmerk bonussen wanneer alleen"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP"
@@ -37444,7 +37444,7 @@ msgstr "Deze Duplicant heeft spierballen"
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME"
 msgid "Buff"
-msgstr "Buff"
+msgstr "Spierbal"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
@@ -39444,7 +39444,7 @@ msgstr "<link=\"UNOBTANIUM\">Neutronium</link>"
 #. STRINGS.ELEMENTS.URANIUMORE.DESC
 msgctxt "STRINGS.ELEMENTS.URANIUMORE.DESC"
 msgid "(U) Uranium Ore is a highly <link=\"RADIATION\">Radioactive</link> substance.\n\nIt can be refined into fuel for research reactors."
-msgstr "(U) Uraniumerts is een sterk <link=\"RADIATIE\">Radioactieve</link> stof.\n\nHet kan worden verfijnd tot brandstof voor onderzoeksreactoren."
+msgstr "(U) Uraniumerts is een sterk <link=\"RADIATION\">Radioactieve</link> stof.\n\nHet kan worden verfijnd tot brandstof voor onderzoeksreactoren."
 
 #. STRINGS.ELEMENTS.URANIUMORE.NAME
 msgctxt "STRINGS.ELEMENTS.URANIUMORE.NAME"
@@ -42344,7 +42344,7 @@ msgstr "Zie bestemming"
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.DESCRIPTION
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.DESCRIPTION"
 msgid "I've discovered a functioning teleportation device with a pre-programmed destination.\n\nIt appears to go to another Planetoid, and I'm fairly certain there's a return device on the other end.\n\nI could send a Duplicant through safely if I desired."
-msgstr "Ik heb een functionerend teleportatieapparaat ontdekt met een voorgeprogrammeerde bestemming.\n\nHet lijkt naar een andere planetoïde te gaan en ik ben er vrij zeker van dat er een retourapparaat aan de andere kant is.\n\nIk zou er een Dupliceer veilig door kunnen sturen, als ik dat zou willen."
+msgstr "Ik heb een functionerend teleportatieapparaat ontdekt met een voorgeprogrammeerde bestemming.\n\nHet lijkt naar een andere planetoïde te gaan en ik ben er vrij zeker van dat er een retourapparaat aan de andere kant is.\n\nIk zou er een Duplicant veilig door kunnen sturen, als ik dat zou willen."
 
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.WARPWORLDREVEAL.NAME"
@@ -43999,12 +43999,12 @@ msgstr "Een rauw ei dat is opengebarsten voor gebruik bij de bereiding van <link
 #. STRINGS.ITEMS.FOOD.ROTPILE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.DESC"
 msgid "An inedible glop of former foodstuff.\n\n<link=\"COMPOST\">Rot Pile</link>s break down into <link=\"TOXICSAND\">Polluted Dirt</link> over time."
-msgstr "Een oneetbare klodder voormalig voedsel.\n\n<link=\"COMPOST\">Rotte Stapel</link>s vallen na verloop van tijd uiteen in <link=\"TOXICSAND\">Vervuilde Aarde</link>. "
+msgstr "Een oneetbare klodder voormalig voedsel.\n\n<link=\"COMPOST\">Rotte Pap</link> valt na verloop van tijd uiteen in <link=\"TOXICSAND\">Vervuilde Aarde</link>. "
 
 #. STRINGS.ITEMS.FOOD.ROTPILE.NAME
 msgctxt "STRINGS.ITEMS.FOOD.ROTPILE.NAME"
 msgid "<link=\"COMPOST\">Rot Pile</link>"
-msgstr "<link=\"COMPOST\">Rotte Stapel</link>"
+msgstr "<link=\"COMPOST\">Rotte Pap</link>"
 
 #. STRINGS.ITEMS.FOOD.SALSA.DESC
 msgctxt "STRINGS.ITEMS.FOOD.SALSA.DESC"
