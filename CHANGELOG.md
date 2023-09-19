@@ -4,7 +4,8 @@ Changes to the mod will be documented in this file.
 
 # Released
 
-## [1.2.2] 
+## [1.2.2] 2023/09/19
+- Minor tweaks
 
 ## [1.2.1] 2023/08/24
 - Minor tweaks and fixes
