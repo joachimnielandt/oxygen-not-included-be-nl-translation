@@ -494,7 +494,7 @@ msgstr "Deze transportband levert {Contents}"
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS"
 msgid "{0} of {1} at {2}"
-msgstr "{0} van {1} op {2}"
+msgstr "{0} van {1} aan {2}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS_WITH_DISEASE
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONVEYOR_CONTENTS.CONTENTS_WITH_DISEASE"
@@ -2054,7 +2054,7 @@ msgstr "Motor is <style=\"produced\">{MaxWattage}</style> aan <style=\"KKeyword\
 #. STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.NAME"
 msgid "Current Wattage: {Wattage}"
-msgstr "Huidige Wattage: {Wattage}"
+msgstr "Huidig Wattage: {Wattage}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.TOOLTIP"
@@ -10574,7 +10574,7 @@ msgstr "\"Vang\" wordt niet gespeeld."
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_3.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_3.NAME"
 msgid "<link=\"SCULPTUREMARBLEAMAZING3\">The Guardian</link>"
-msgstr "<link=\"SCULPTUREMARBLEAMAZING3\">The Guardian</link>"
+msgstr "<link=\"SCULPTUREMARBLEAMAZING3\">De Waker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_4.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.FACADES.SCULPTURE_MARBLE_AMAZING_4.DESC"
@@ -16024,7 +16024,7 @@ msgstr "Kantoortaart"
 #. STRINGS.CODEX.B2_MEETTHEPILOT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.B2_MEETTHEPILOT.BODY.CONTAINER1"
 msgid "<indent=%5>From the time she was old enough to walk Captain Johannsen dreamed of reaching the sky. Growing up on an air force base she came to love the sound jet engines roaring overhead. At 16 she became the youngest pilot ever to fly a fighter jet, and at 22 she had already entered the space flight program.\n\nFour years later Gravitas nabbed her for an exclusive contract piloting our space shuttles. In her time at Gravitas, Captain Johannsen has logged over 1,000 hours space flight time shuttling and deploying satellites to Low Earth Orbits and has just been named the pilot of our inaugural civilian space tourist program, slated to begin in the next year.\n\nGravitas is excited to have Captain Johannsen in the pilot seat as we reach for the stars...and beyond!</indent>"
-msgstr "<indent=%5>Vanaf het moment dat ze oud genoeg was om te lopen, droomde kapitein Johannsen ervan de hemel te bereiken. Ze groeide op op een luchtmachtbasis en begon te houden van de geluidde straalmotoren die boven haar hoofd brulden. Op 16-jarige leeftijd werd ze de jongste piloot ooit met een straaljager gevlogen, en op haar 22e was ze al begonnen met het ruimtevluchtprogramma.\n\nVier jaar later kreeg ze van Gravitas een exclusief contract voor het besturen van onze spaceshuttles.In haar tijd bij Gravitas heeft kapitein Johannsen meer dan 1000 uur ingelogd ruimtevluchttijd pendelen en satellieten naar lage banen om de aarde sturen en is zojuist benoemd tot piloot van ons inaugurele civiele ruimtetoeristenprogramma, dat naar verwachting volgend jaar van start gaat.\n\nGravitas is verheugd om kapitein Johannsen in de pilootstoel te hebben terwijl we reik naar de sterren...en verder!</indent>"
+msgstr "<indent=%5>Vanaf het moment dat ze oud genoeg was om te lopen, droomde kapitein Johannsen ervan de hemel te bereiken. Ze groeide op op een luchtmachtbasis en begon te houden van de luide straalmotoren die boven haar hoofd brulden. Op 16-jarige leeftijd werd ze de jongste piloot ooit met een straaljager gevlogen, en op haar 22e was ze al begonnen met het ruimtevluchtprogramma.\n\nVier jaar later kreeg ze van Gravitas een exclusief contract voor het besturen van onze spaceshuttles.In haar tijd bij Gravitas heeft kapitein Johannsen meer dan 1000 uur ingelogd ruimtevluchttijd pendelen en satellieten naar lage banen om de aarde sturen en is zojuist benoemd tot piloot van ons inaugurele civiele ruimtetoeristenprogramma, dat naar verwachting volgend jaar van start gaat.\n\nGravitas is verheugd om kapitein Johannsen in de pilootstoel te hebben terwijl we reiken naar de sterren...en verder!</indent>"
 
 #. STRINGS.CODEX.B2_MEETTHEPILOT.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.B2_MEETTHEPILOT.BODY.CONTAINER2"
@@ -16684,7 +16684,7 @@ msgstr "RE: Ingenieur Kandidaat?"
 #. STRINGS.CODEX.C7_FIRSTCOLONY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.C7_FIRSTCOLONY.BODY.CONTAINER1"
 msgid "The first experiments with establishing a colony off planet were an unmitigated disaster. Without outside help, our current Artificial Intelligence was completely incapable of making the kind of spontaneous decisions needed to deal with unforeseen circumstances. Additionally, the colony subjects lacked the forethought to even build themselves toilet facilities, even after soiling themselves repeatedly.\n\nWhile initial experiments in a lab setting were encouraging, our latest operation on non-Terra soil revealed some massive inadequacies to our system. If this idea is ever going to work, we will either need to drastically improve the AI directing the subjects, or improve the brains of our Duplicants to the point where they possess higher cognitive functions.\n\nGiven the disastrous complications that I could foresee arising if our Duplicants were made less supplicant, I'm leaning toward a push to improve our Artificial Intelligence.\n\nMeanwhile, we will have to send a clean-up crew to destroy all evidence of our little experiment beneath the Ceres' surface. We can't risk anyone discovering the remnants of our failed colony, even if that's unlikely to happen for another few decades at least.\n\n(Sometimes it boggles my mind how much further behind Gravitas the rest of the world is.)"
-msgstr "De eerste experimenten met het stichten van een kolonie buiten de planeet waren een regelrechte ramp. Zonder hulp van buitenaf was onze huidige kunstmatige intelligentie totaal niet in staat om de spontane beslissingen te nemen die nodig zijn om met onvoorziene omstandigheden om te gaan. bouwen zelfs een toilet voor zichzelf, zelfs nadat ze zichzelf herhaaldelijk hebben bevuild.\n\nHoewel de eerste experimenten in een laboratoriumomgeving bemoedigend waren, heeft onze laatste operatie op niet-Terra-grond een aantal enorme tekortkomingen in ons systeem aan het licht gebracht. Als dit idee ooit gaat werken, we zullen ofwel de AI die de proefpersonen aanstuurt drastisch moeten verbeteren, ofwel de hersenen van onze Duplicanten moeten verbeteren tot het punt waarop ze hogere cognitieve functies bezitten.\n\nGezien de rampzalige complicaties die ik zou kunnen voorzien als onze Duplicanten minder smekend zouden worden gemaakt, Ik neig naar een poging om onze kunstmatige intelligentie te verbeteren.\n\nOndertussen zullen we een schoonmaakploeg moeten sturen om alle bewijzen van ons kleine experiment onder het oppervlak van de Ceres te vernietigen. We kunnen niet riskeren dat iemand de overblijfselen van onze mislukte kolonie ontdekt, ook al is het onwaarschijnlijk dat dit nog minstens een paar decennia zal gebeuren.\n\n(Soms verbaast het me hoeveel verder achter Gravitas de rest van de wereld staat.) "
+msgstr "De eerste experimenten met het stichten van een kolonie buiten de planeet waren een regelrechte ramp. Zonder hulp van buitenaf was onze huidige Artifiële Intelligentie totaal niet in staat om de spontane beslissingen te nemen die nodig zijn om met onvoorziene omstandigheden om te gaan. Daarbovenop hadden de kolonie bewoners zelfs niet gedacht aan het bouwen van een toilet voor zichzelf, zelfs nadat ze zichzelf herhaaldelijk hebben bevuild.\n\nHoewel de eerste experimenten in een laboratoriumomgeving bemoedigend waren, heeft onze laatste operatie op niet-Terra-grond een aantal enorme tekortkomingen in ons systeem aan het licht gebracht. Als dit idee ooit gaat werken, zullen we ofwel de AI die de proefpersonen aanstuurt drastisch moeten verbeteren, ofwel de hersenen van onze Duplicanten moeten verbeteren tot het punt waarop ze hogere cognitieve functies bezitten.\n\nGezien de rampzalige complicaties die ik zou kunnen voorzien als onze Duplicanten minder meegaand zouden worden gemaakt, neig ik naar een poging om onze artifiële intelligentie te verbeteren.\n\nOndertussen zullen we een schoonmaakploeg moeten sturen om alle bewijzen van ons kleine experiment onder het oppervlak van Ceres te vernietigen. We kunnen niet riskeren dat iemand de overblijfselen van onze mislukte kolonie ontdekt, ook al is het onwaarschijnlijk dat dit binnen de komende decennia zal gebeuren.\n\n(Soms verbaast het me hoeveel Gravitas voorloopt op de rest van de wereld.) "
 
 #. STRINGS.CODEX.C7_FIRSTCOLONY.SUBTITLE
 msgctxt "STRINGS.CODEX.C7_FIRSTCOLONY.SUBTITLE"
@@ -18404,7 +18404,7 @@ msgstr "Morph Beest"
 #. STRINGS.CODEX.PRINCE.TITLE
 msgctxt "STRINGS.CODEX.PRINCE.TITLE"
 msgid "Puft Prince"
-msgstr "Puf Prins"
+msgstr "Puft Prins"
 
 #. STRINGS.CODEX.PRIORITY.HEADER_1
 msgctxt "STRINGS.CODEX.PRIORITY.HEADER_1"
@@ -23484,7 +23484,7 @@ msgstr "<link=\"PUFTALPHA\">Puftje Prins Ei</link>"
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_ALPHA.NAME"
 msgid "<link=\"PUFTALPHA\">Puft Prince</link>"
-msgstr "<link=\"PUFTALPHA\">Puf Prince</link>"
+msgstr "<link=\"PUFTALPHA\">Puft Prins</link>"
 
 #. STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.PUFT.VARIANT_BLEACHSTONE.BABY.DESC"
@@ -26259,7 +26259,7 @@ msgstr "{0} Onderzoekssnelheid"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER"
 msgid "{0} Skill Leveling"
-msgstr "{0} Vaardigheden nivelleren"
+msgstr "{0} Vaardigheden Verbeteren"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.LIFESUPPORT.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LIFESUPPORT.DESC"
@@ -35884,7 +35884,7 @@ msgstr "Deze Duplicant heeft moeite om de anderen bij te houden"
 #. STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANEMIC.NAME"
 msgid "Anemic"
-msgstr "bloedarmoede"
+msgstr "Bloedarmoede"
 
 #. STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ANXIOUS.DESC"
@@ -37069,7 +37069,7 @@ msgstr "Meteorenregen maken deze Duplicant echt, echt hyped"
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.METEORPHILE.EXTENDED_DESC"
 msgid "• During meteor showers: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>"
-msgstr "   • Tijdens meteorenregen: <b>{0}</b> bonus voor alle <style=\"KKeyword\">Attributen</style>"
+msgstr "• Tijdens meteorenregen: <b>{0}</b> bonus voor alle <style=\"KKeyword\">Attributen</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.METEORPHILE.NAME"
@@ -37099,7 +37099,7 @@ msgstr "Mollenhanden"
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
 msgid "This Duplicant sucks up way more than their fair share of <link=\"OXYGEN\">Oxygen</link>"
-msgstr "Deze Duplicant zuigt veel meer <link=\"OXYGEN\">Zuurstof</link> op dan hun deel van de <link=\"OXYGEN\">Zuurstof</link>"
+msgstr "Deze Duplicant verbruikt meer <link=\"OXYGEN\">Zuurstof</link> dan de rest van de Duplicanten"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
@@ -37374,7 +37374,7 @@ msgstr "In de ruimte kan iedereen je horen snurken"
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.NAME"
 msgid "Loud Sleeper"
-msgstr "Loud Sleeper"
+msgstr "Zware Slaper"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.SHORT_DESC"
@@ -42184,7 +42184,7 @@ msgstr "{friend} is ontdooid!"
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.DESCRIPTION"
 msgid "{dupe} has made an amazing discovery! A barely working <link=\"CRYOTANK\">Cryotank 3000</link> has been uncovered containing a {friend} inside in a frozen state.\n\n{dupe} was successful in thawing {friend} and this encounter has filled both Duplicants with a sense of hope, something they will desperately need to keep their <link=\"MORALE\">Morale</link> up when facing the dangers ahead."
-msgstr "{dupe} heeft een geweldige ontdekking gedaan! Er is een nauwelijks werkende <link=\"CRYOTANK\">Cryotank 3000</link> ontdekt met daarin een {vriend} in bevroren toestand.\n\n{dupe} slaagde erin {friend} te ontdooien en deze ontmoeting heeft beide Duplicanten vervuld met een gevoel van hoop, iets wat ze hard nodig zullen hebben om hun <link=\"MORALE\">Moraal</link> op peil te houden wanneer ze de gevaren die voor hen liggen het hoofd moeten bieden."
+msgstr "{dupe} heeft een geweldige ontdekking gedaan! Er is een nauwelijks werkende <link=\"CRYOTANK\">Cryotank 3000</link> ontdekt met daarin een {friend} in bevroren toestand.\n\n{dupe} slaagde erin {friend} te ontdooien en deze ontmoeting heeft beide Duplicanten vervuld met een gevoel van hoop, iets wat ze hard nodig zullen hebben om hun <link=\"MORALE\">Moraal</link> op peil te houden wanneer ze de gevaren die voor hen liggen het hoofd moeten bieden."
 
 #. STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.NAME
 msgctxt "STRINGS.GAMEPLAY_EVENTS.EVENT_TYPES.CRYOFRIEND.NAME"
@@ -53214,7 +53214,7 @@ msgstr "Uitbarstingsperiode: {0} elke {1}"
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_PRODUCTION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_PRODUCTION"
 msgid "{0}: {1} at {2}"
-msgstr "{0}: {1} om {2}"
+msgstr "{0}: {1} aan {2}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_AVR_OUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GEYSER_YEAR_AVR_OUTPUT"
@@ -62954,7 +62954,7 @@ msgstr "Invoergedrag:\n• {0}\n• {1}"
 #. STRINGS.UI.LOGIC_PORTS.INPUT_PORTS
 msgctxt "STRINGS.UI.LOGIC_PORTS.INPUT_PORTS"
 msgid "<link=\"LOGIC\">Auto Inputs</link>"
-msgstr "<link=\"LOGIC\">Automatische Invoeren</link>"
+msgstr "<link=\"LOGIC\">Automatie Invoeren</link>"
 
 #. STRINGS.UI.LOGIC_PORTS.INPUT_PORTS_TOOLTIP
 msgctxt "STRINGS.UI.LOGIC_PORTS.INPUT_PORTS_TOOLTIP"
@@ -62969,7 +62969,7 @@ msgstr "Uitvoergedrag:\n• {0}\n• {1}"
 #. STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS
 msgctxt "STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS"
 msgid "<link=\"LOGIC\">Auto Outputs</link>"
-msgstr "<link=\"LOGIC\">Automatische Uitvoeren</link>"
+msgstr "<link=\"LOGIC\">Automatie Uitvoeren</link>"
 
 #. STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS_TOOLTIP
 msgctxt "STRINGS.UI.LOGIC_PORTS.OUTPUT_PORTS_TOOLTIP"
