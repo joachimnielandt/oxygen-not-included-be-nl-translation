@@ -449,27 +449,27 @@ msgstr "Onderzoekt {Item}"
 #. STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.RESEARCHING.TOOLTIP"
 msgid "This building is currently conducting important research"
-msgstr ""
+msgstr "Dit gebouw voert momenteel belangrijk onderzoek uit"
 
 #. STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.TELESCOPE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.TELESCOPE.NAME"
 msgid "Studying Space"
-msgstr ""
+msgstr "Bestudeert Ruimte"
 
 #. STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.TELESCOPE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.TELESCOPE.TOOLTIP"
 msgid "This building is currently investigating the mysteries of space"
-msgstr ""
+msgstr "Dit gebouw onderzoekt momenteel de mysteries van de ruimte"
 
 #. STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.UNTRAINING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.UNTRAINING.NAME"
 msgid "Untraining {Duplicant}"
-msgstr ""
+msgstr "Ont-traint {Duplicant}"
 
 #. STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.UNTRAINING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COMPLEXFABRICATOR.UNTRAINING.TOOLTIP"
 msgid "Restoring {Duplicant} to a blissfully ignorant state"
-msgstr ""
+msgstr "Herstelt {Duplicant} naar een zalig onwetende staat"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.NAME"
@@ -3294,7 +3294,7 @@ msgstr "Sommige grondstoffen die uit dit ruimtepuin ontgonnen worden kunnen niet
 #. STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.NAME"
 msgid "Contents: {0}"
-msgstr ""
+msgstr "Inhoud: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SPECIALCARGOBAYCLUSTERCRITTERSTORED.TOOLTIP"
@@ -4824,12 +4824,12 @@ msgstr "<link=\"ARTM\">Moederblik</link>"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_N.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_N.DESC"
 msgid "Most Duplicants believe that the balloon in this image is about to be caught."
-msgstr ""
+msgstr "De meeste Duplicanten denken dat de ballon op deze afbeelding op het punt staat te worden gevangen."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_N.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_N.NAME"
 msgid "<link=\"ARTN\">Always Hope</link>"
-msgstr ""
+msgstr "<link=\"ARTN\">Hoop Steeds</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_O.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_O.DESC"
@@ -4844,12 +4844,12 @@ msgstr "<link=\"ARTO\">Handen-Uit-De-Mouwen</link>"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_P.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_P.DESC"
 msgid "It is a cruel guest who does not RSVP."
-msgstr ""
+msgstr "Het is een wrede gast die niet reageert op een uitnodiging."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_P.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.FACADES.ART_P.NAME"
 msgid "<link=\"ARTP\">Pour Soul</link>"
-msgstr ""
+msgstr "<link=\"ARTP\">Gegoten Ziel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
@@ -4994,12 +4994,12 @@ msgstr "<link=\"ARTTALLK\">Kubistische Plee</link>"
 #. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_L.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_L.DESC"
 msgid "Nearby, a companion animal waited for the object to be thrown."
-msgstr ""
+msgstr "In de buurt wachtte een gezelschapsdier tot het voorwerp werd gegooid."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_L.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_L.NAME"
 msgid "<link=\"ARTTALLL\">Mirror Ball</link>"
-msgstr ""
+msgstr "<link=\"ARTTALLL\">Spiegelbol</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_M.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASTALL.FACADES.ART_TALL_M.DESC"
@@ -5164,12 +5164,12 @@ msgstr "<link=\"ARTWIDEL\">De Schijnende nacht</link>"
 #. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_M.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_M.DESC"
 msgid "Things get a bit melty if they're forgotten in the sun."
-msgstr ""
+msgstr "Dingen smelten een beetje als je ze vergeet in de zon."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_M.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.FACADES.ART_WIDE_M.NAME"
 msgid "<link=\"ARTWIDEM\">Hot Afternoon</link>"
-msgstr ""
+msgstr "<link=\"ARTWIDEM\">Hete Namiddag</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVASWIDE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVASWIDE.NAME"
@@ -5299,12 +5299,12 @@ msgstr "<link=\"CEILINGLIGHT\">Polka Stip Plafondlamp</link>"
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.RUBIKS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.RUBIKS.DESC"
 msgid "The initials E.R. are sewn into the lampshade."
-msgstr ""
+msgstr "De initialen E.R. zijn in de lampenkap genaaid."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.RUBIKS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.RUBIKS.NAME"
 msgid "<link=\"CEILINGLIGHT\">Puzzle Cube Ceiling Light</link>"
-msgstr ""
+msgstr "<link=\"CEILINGLIGHT\">Puzzelkubus Plafondlamp</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
@@ -5879,32 +5879,32 @@ msgstr "Dev Life Support"
 #. STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.BRIGHTNESS_LABEL
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.BRIGHTNESS_LABEL"
 msgid "Brightness"
-msgstr ""
+msgstr "Helderheid"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.DESC"
 msgid "Brightens up a dev's darkest hours."
-msgstr ""
+msgstr "Verheldert de donkerste uren van een ontwikkelaar."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.EFFECT"
 msgid "Generates dimmable light on demand."
-msgstr ""
+msgstr "Genereert dimbaar licht op aanvraag."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.FALLOFF_LABEL
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.FALLOFF_LABEL"
 msgid "Falloff Rate"
-msgstr ""
+msgstr "Vermindering Snelheid"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.NAME"
 msgid "Dev Light Source"
-msgstr ""
+msgstr "Dev Lichtbron"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.RANGE_LABEL
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.RANGE_LABEL"
 msgid "Range"
-msgstr ""
+msgstr "Bereik"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVPUMPGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVPUMPGAS.DESC"
@@ -6164,42 +6164,42 @@ msgstr "Zet levensvatbare eieren van <link=\"CREATURES\">Beestjes</link> om in k
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.BEAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.BEAKER.DESC"
 msgid "A practical exercise in physics."
-msgstr ""
+msgstr "Een praktische oefening in de natuurkunde."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.BEAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.BEAKER.NAME"
 msgid "<link=\"EGGCRACKER\">Beaker Cracker</link>"
-msgstr ""
+msgstr "<link=\"EGGCRACKER\">Bekerkraker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.DEFAULT_EGGCRACKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.DEFAULT_EGGCRACKER.DESC"
 msgid "It cracks eggs."
-msgstr ""
+msgstr "Het kraakt eieren."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.DEFAULT_EGGCRACKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.DEFAULT_EGGCRACKER.NAME"
 msgid "<link=\"EGGCRACKER\">Egg Cracker</link>"
-msgstr ""
+msgstr "<link=\"EGGCRACKER\">Eierkraker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.FLOWER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.FLOWER.DESC"
 msgid "Now with EZ-clean petals."
-msgstr ""
+msgstr "Nu met EZ-clean bloemblaadjes."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.FLOWER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.FLOWER.NAME"
 msgid "<link=\"EGGCRACKER\">Blossom Cracker</link>"
-msgstr ""
+msgstr "<link=\"EGGCRACKER\">Bloesem Kraker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.HANDS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.HANDS.DESC"
 msgid "Just like Mi-Ma used to have."
-msgstr ""
+msgstr "Net zoals Mi-Ma vroeger had."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.HANDS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.HANDS.NAME"
 msgid "<link=\"EGGCRACKER\">Handy Cracker</link>"
-msgstr ""
+msgstr "<link=\"EGGCRACKER\">Handige Kraker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.NAME"
@@ -6604,12 +6604,12 @@ msgstr "<link=\"EXTERIORWALL\">Grape Escape</link>"
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.KITCHEN_RETRO1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.KITCHEN_RETRO1.DESC"
 msgid "Some diners find it nostalgic."
-msgstr ""
+msgstr "Sommige gasten vinden het nostalgisch."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.KITCHEN_RETRO1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.KITCHEN_RETRO1.NAME"
 msgid "<link=\"EXTERIORWALL\">Cafeteria Kitsch</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cafetaria Kitsch</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LEMON.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LEMON.DESC"
@@ -6724,72 +6724,72 @@ msgstr "<link=\"EXTERIORWALL\">Ontstopper Print</link>"
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_BLUE_COBALT_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_BLUE_COBALT_WHITE.DESC"
 msgid "A pixelated blue-and-white print."
-msgstr ""
+msgstr "Een gepixeleerde blauw-witte afdruk."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_BLUE_COBALT_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_BLUE_COBALT_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Cobalt</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Digitaal Kobalt</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREEN_KELLY_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREEN_KELLY_WHITE.DESC"
 msgid "A pixelated green-and-white print."
-msgstr ""
+msgstr "Een gepixeleerde groen-witte afdruk."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREEN_KELLY_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREEN_KELLY_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Lawn</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Digitaal Gazon</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREY_CHARCOAL_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREY_CHARCOAL_WHITE.DESC"
 msgid "It's futuristic, so it must be good."
-msgstr ""
+msgstr "Het is futuristisch, dus het moet wel goed zijn."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREY_CHARCOAL_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREY_CHARCOAL_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Charcoal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Digitale Houtskool</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_ORANGE_SATSUMA_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_ORANGE_SATSUMA_WHITE.DESC"
 msgid "A pixelated orange-and-white print."
-msgstr ""
+msgstr "Een gepixeleerde oranje-witte afdruk."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_ORANGE_SATSUMA_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_ORANGE_SATSUMA_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Satsuma</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Digitale Satsuma</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_PINK_FLAMINGO_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_PINK_FLAMINGO_WHITE.DESC"
 msgid "A pixelated pink-and-white print."
-msgstr ""
+msgstr "Een gepixeleerde roze-witte print."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_PINK_FLAMINGO_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_PINK_FLAMINGO_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Pink</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Digitaal Roze</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_RED_DEEP_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_RED_DEEP_WHITE.DESC"
 msgid "A pixelated red-and-white print."
-msgstr ""
+msgstr "Een gepixeleerde rood-witte afdruk."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_RED_DEEP_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_RED_DEEP_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Chili</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Digitale Chili</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_YELLOW_LEMON_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_YELLOW_LEMON_WHITE.DESC"
 msgid "A pixelated yellow-and-white print."
-msgstr ""
+msgstr "Een gepixeleerde geel-witte afdruk."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_YELLOW_LEMON_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_YELLOW_LEMON_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Lemon</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Digitale Limoen</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.DESC"
@@ -7229,12 +7229,12 @@ msgstr "Behuist een enkele <link=\"PLANTS\">Plant</link> indien gezaaid met een 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.BEAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.BEAKER.DESC"
 msgid "A measured approach to indoor plant decor."
-msgstr ""
+msgstr "Een afgemeten benadering van het decor van kamerplanten."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.BEAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.BEAKER.NAME"
 msgid "<link=\"FLOWERVASEHANGING\">Beaker Hanging Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEHANGING\">Beker Hangende Pot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RETRO_BLUE.DESC"
@@ -7289,12 +7289,12 @@ msgstr "<link=\"FLOWERVASEHANGING\">Zonnige Hangende Pot</link>"
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RUBIKS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RUBIKS.DESC"
 msgid "The real puzzle is how to keep indoor plants alive."
-msgstr ""
+msgstr "De echte puzzel is hoe kamerplanten in leven te houden."
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RUBIKS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.FACADES.RUBIKS.NAME"
 msgid "<link=\"FLOWERVASEHANGING\">Puzzle Cube Hanging Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEHANGING\">Puzzelkubus Hangpot</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEHANGING.NAME"
@@ -7879,62 +7879,62 @@ msgstr "Slaat alle <link=\"ELEMENTSGAS\">Gas</link> grondstoffen op die erin wor
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.DEFAULT_GASRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.DEFAULT_GASRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "Reservoirs kunnen geen handmatig geleverde grondstoffen ontvangen."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.DEFAULT_GASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.DEFAULT_GASRESERVOIR.NAME"
 msgid "<link=\"GASRESERVOIR\">Gas Reservoir</link>"
-msgstr ""
+msgstr "<link=\"GASRESERVOIR\">Gas Reservoir</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Een kleurrijk reservoir houdt de gassen netjes georganiseerd."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.NAME"
 msgid "<link=\"GASRESERVOIR\">Bluemoon Gas Reservoir</link>"
-msgstr ""
+msgstr "<link=\"GASRESERVOIR\">Blauwe Maan Gas Reservoir</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Een kleurrijk reservoir houdt de gassen netjes georganiseerd."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.NAME"
 msgid "<link=\"GASRESERVOIR\">Golden Gas Reservoir</link>"
-msgstr ""
+msgstr "<link=\"GASRESERVOIR\">Gouden Gas Reservoir</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Een kleurrijk reservoir houdt de gassen netjes georganiseerd."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.NAME"
 msgid "<link=\"GASRESERVOIR\">Greenpea Gas Reservoir</link>"
-msgstr ""
+msgstr "<link=\"GASRESERVOIR\">Groene Erwt Gas Reservoir</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.DESC"
 msgid "Safe gas storage doesn't have to be dull."
-msgstr ""
+msgstr "Veilige gasopslag hoeft niet saai te zijn."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.NAME"
 msgid "<link=\"GASRESERVOIR\">Party Dot Gas Reservoir</link>"
-msgstr ""
+msgstr "<link=\"GASRESERVOIR\">Feest Punt Gas Reservoir</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.DESC"
 msgid "It sports the cheeriest of paint jobs. What a gas!"
-msgstr ""
+msgstr "Het heeft de vrolijkste verfkeuzes. Wat een plezier!"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.NAME"
 msgid "<link=\"GASRESERVOIR\">Mod Dot Gas Reservoir</link>"
-msgstr ""
+msgstr "<link=\"GASRESERVOIR\">Mod Punt Gas Reservoir</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.NAME"
@@ -10164,32 +10164,32 @@ msgstr "<link=\"LOGICINTERASTEROIDSENDER\">Automatie Zender</link>"
 #. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.DESC"
 msgid "Light sensors can tell surface bunker doors above solar panels to open or close based on solar light levels."
-msgstr ""
+msgstr "Lichtsensoren kunnen bunkerdeuren boven zonnepanelen vertellen dat ze moeten openen of sluiten op basis van het zonlichtniveau."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.EFFECT"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> or a <b><style=\"logic_off\">Red Signal</style></b> when ambient <link=\"LIGHT\">Brightness</link> enters the chosen range."
-msgstr ""
+msgstr "Verzendt een <b><style=\"logic_on\">Groen Signaal</style></b> of een <b><style=\"logic_off\">Rood Signaal</style></b> wanneer de omgevings<link=\"LIGHT\">helderheid</link> in het gekozen bereik valt."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT"
 msgid "Ambient <link=\"LIGHT\">Brightness</link>"
-msgstr ""
+msgstr "Omgeving <link=\"LIGHT\">Helderheid</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_ACTIVE"
 msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> if ambient <link=\"LIGHT\">Brightness</link> is within the selected range"
-msgstr ""
+msgstr "Verzendt een <b><style=\"logic_on\">Groen Signaal</style></b> als de omgevings<link=\"LIGHT\">helderheid</link> in binnen het geselecteerde bereik valt"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.LOGIC_PORT_INACTIVE"
 msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
-msgstr ""
+msgstr "Stuur anders een <b><style=\"logic_off\">Rood Signaal</style></b>" 
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.NAME"
 msgid "<link=\"LOGICLIGHTSENSOR\">Light Sensor</link>"
-msgstr ""
+msgstr "<link=\"LOGICLIGHTSENSOR\">Lichtsensor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.DESC"
@@ -10829,12 +10829,12 @@ msgstr "<link=\"LUXURYBED\">Grand Prix Bed</link>"
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.DESC"
 msgid "It's so nice to be held."
-msgstr ""
+msgstr "Het is zo fijn om vastgehouden te worden."
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.HAND.NAME"
 msgid "<link=\"LUXURYBED\">Cradled Bed</link>"
-msgstr ""
+msgstr "<link=\"LUXURYBED\">Wiegbed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PUFT_BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.PUFT_BED.DESC"
@@ -10859,12 +10859,12 @@ msgstr "<link=\"LUXURYBED\">S.S. Dutmeester Bed</link>"
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RUBIKS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RUBIKS.DESC"
 msgid "A little pattern recognition at bedtime soothes the mind."
-msgstr ""
+msgstr "Een beetje patroonherkenning voor het slapengaan kalmeert de geest."
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RUBIKS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.FACADES.RUBIKS.NAME"
 msgid "<link=\"LUXURYBED\">Puzzle Cube Bed</link>"
-msgstr ""
+msgstr "<link=\"LUXURYBED\">Puzzel Kubusbed</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LUXURYBED.NAME"
@@ -12154,62 +12154,62 @@ msgstr "Kweekt één <link=\"PLANTS\">Plant</link> uit een <link=\"PLANTS\">Zaad
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.DESC"
 msgid "The interior is lined with tiny barbs."
-msgstr ""
+msgstr "De binnenkant is bekleed met kleine weerhaken."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.BRISTLEBLOSSOM.NAME"
 msgid "<link=\"PLANTERBOX\">Bristly Green Planter Box</link>"
-msgstr ""
+msgstr "<link=\"PLANTERBOX\">Borstelig Groene Plantenbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.DESC"
 msgid "Domestically grown seeds mature more quickly than wild plants."
-msgstr ""
+msgstr "Binnenshuis geteelde zaden rijpen sneller dan wilde planten."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.NAME"
 msgid "<link=\"PLANTERBOX\">Planter Box</link>"
-msgstr ""
+msgstr "<link=\"PLANTERBOX\">Plantenbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.DESC"
 msgid "Inspired by genetically modified nature."
-msgstr ""
+msgstr "Geïnspireerd door de genetisch gemodificeerde natuur."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.NAME"
 msgid "<link=\"PLANTERBOX\">Mealy Teal Planter Box</link>"
-msgstr ""
+msgstr "<link=\"PLANTERBOX\">Malige Appelblauwzeegroene Plantenbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SALMON_PINK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SALMON_PINK.DESC"
 msgid "It's not exactly a subtle color."
-msgstr ""
+msgstr "Het is niet bepaald een subtiele kleur."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SALMON_PINK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SALMON_PINK.NAME"
 msgid "<link=\"PLANTERBOX\">Flashy Planter Box</link>"
-msgstr ""
+msgstr "<link=\"PLANTERBOX\">Flitse Plantenbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SLEETWHEAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SLEETWHEAT.DESC"
 msgid "The thick paint drips are invisible from a distance."
-msgstr ""
+msgstr "De dikke verfdruppels zijn vanaf een afstand onzichtbaar."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SLEETWHEAT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.SLEETWHEAT.NAME"
 msgid "<link=\"PLANTERBOX\">Sleet Blue Planter Box</link>"
-msgstr ""
+msgstr "<link=\"PLANTERBOX\">Grijsblauwe Plantenbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.DESC"
 msgid "For the dreamy agriculturalist."
-msgstr ""
+msgstr "Voor de dromerige landbouwer."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.NAME"
 msgid "<link=\"PLANTERBOX\">Wheezy Whorl Planter Box</link>"
-msgstr ""
+msgstr "<link=\"PLANTERBOX\">Piepende Kolk Plantenbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
@@ -13004,17 +13004,17 @@ msgstr "<link=\"RESETSKILLSSTATION\">Vaardigheid Schrobber</link>"
 #. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT"
 msgid "Trap Setter"
-msgstr ""
+msgstr "Valzetter"
 
 #. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT_ACTIVE"
 msgid "<b><style=\"logic_on\">Green Signal</style></b>: Set trap"
-msgstr ""
+msgstr "<b><style=\"logic_on\">Groen Signaal</style></b>: Val instellen"
 
 #. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT_INACTIVE"
 msgid "<b><style=\"logic_off\">Red Signal</style></b>: Disarm and empty trap"
-msgstr ""
+msgstr "<b><style=\"logic_off\">Rood Signaal</style></b>: Val uitschakelen en leegmaken"
 
 #. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT"
@@ -13064,22 +13064,22 @@ msgstr "<link=\"ROCKCRUSHER\">Handige Rotsvergruizer</link>"
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.ROUNDSTAMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.ROUNDSTAMP.DESC"
 msgid "Inspired by the traditional mortar and pestle."
-msgstr ""
+msgstr "Geïnspireerd door de traditionele vijzel en stamper."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.ROUNDSTAMP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.ROUNDSTAMP.NAME"
 msgid "<link=\"ROCKCRUSHER\">Smooth Rock Crusher</link>"
-msgstr ""
+msgstr "<link=\"ROCKCRUSHER\">Gladde Steenbreker</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.SPIKEBEDS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.SPIKEBEDS.DESC"
 msgid "Mashes rocks into oblivion."
-msgstr ""
+msgstr "Vergruist rotsen in de vergetelheid."
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.SPIKEBEDS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.SPIKEBEDS.NAME"
 msgid "<link=\"ROCKCRUSHER\">Spiked Rock Crusher</link>"
-msgstr ""
+msgstr "<link=\"ROCKCRUSHER\">Steenbreker met stekels</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.TEETH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ROCKCRUSHER.FACADES.TEETH.DESC"
@@ -13559,12 +13559,12 @@ msgstr "<link=\"SCULPTUREAMAZING5\">Verticale Kosmos</link>"
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_6.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_6.DESC"
 msgid "No amount of material success will ever fill the void within."
-msgstr ""
+msgstr "Geen enkele hoeveelheid materieel succes zal ooit de leegte binnenin opvullen."
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_6.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_AMAZING_6.NAME"
 msgid "<link=\"SCULPTUREAMAZING6\">Into the Voids</link>"
-msgstr ""
+msgstr "<link=\"SCULPTUREAMAZING6\">In de leegte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_CRAP_1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SCULPTURE.FACADES.SCULPTURE_CRAP_1.DESC"
@@ -14229,27 +14229,27 @@ msgstr "<link=\"SPECIALCARGOBAY\">Biologische Vrachtruimte</link>"
 #. STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.DESC"
 msgid "Critters do not require feeding during transit."
-msgstr ""
+msgstr "Beestjes hebben geen voeding nodig tijdens transport."
 
 #. STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.EFFECT"
 msgid "Allows Duplicants to transport <link=\"CREATURES\">Critters</link> through space.\n\nSpecimens can be released into the colony upon the rocket's return.\n\nMust be built via <link=\"LAUNCHPAD\">Rocket Platform</link>."
-msgstr ""
+msgstr "Hiermee kunnen duplicanten <link=\"CREATURES\">Beestjes</link> door de ruimte transporteren.\n\nSpecimens kunnen bij terugkeer van de raket in de kolonie worden vrijgelaten.\n\nMoet worden gebouwd via het <link=\"LAUNCHPAD\">Raket Platform</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.NAME"
 msgid "<link=\"SPECIALCARGOBAY\">Critter Cargo Bay</link>"
-msgstr ""
+msgstr "<link=\"SPECIALCARGOBAY\">Beest Vrachtruimte</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.RELEASE_BTN
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.RELEASE_BTN"
 msgid "Release Critter"
-msgstr ""
+msgstr "Beestje Vrijlaten"
 
 #. STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.RELEASE_BTN_TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPECIALCARGOBAYCLUSTER.RELEASE_BTN_TOOLTIP"
 msgid "Release the critter stored inside"
-msgstr ""
+msgstr "Laat het opgeslagen beestje vrij"
 
 #. STRINGS.BUILDINGS.PREFABS.SPICEGRINDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPICEGRINDER.DESC"
@@ -14389,62 +14389,62 @@ msgstr "Slaat de <link=\"ELEMENTSSOLID\">Vaste Materialen</link> van uw keuze op
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.BLUE_BABYTEARS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.BLUE_BABYTEARS.DESC"
 msgid "Color-coded storage makes things easier to find."
-msgstr ""
+msgstr "Kleurgecodeerde opslag maakt het gemakkelijker om dingen te vinden."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.BLUE_BABYTEARS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.BLUE_BABYTEARS.NAME"
 msgid "<link=\"STORAGELOCKER\">Weepy Blue Storage Bin</link>"
-msgstr ""
+msgstr "<link=\"STORAGELOCKER\">Huilerig Blauwe Opslagbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.DEFAULT_STORAGELOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.DEFAULT_STORAGELOCKER.DESC"
 msgid "Resources left on the floor become \"debris\" and lower decor when not put away."
-msgstr ""
+msgstr "Grondstoffen die op de vloer achterblijven, worden \"puin\" en verlagen het decor als ze niet worden opgeborgen."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.DEFAULT_STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.DEFAULT_STORAGELOCKER.NAME"
 msgid "<link=\"STORAGELOCKER\">Storage Bin</link>"
-msgstr ""
+msgstr "<link=\"STORAGELOCKER\">Opslagbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.GREEN_MUSH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.GREEN_MUSH.DESC"
 msgid "Color-coded storage makes things easier to find."
-msgstr ""
+msgstr "Kleurgecodeerde opslag maakt het gemakkelijker om dingen te vinden."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.GREEN_MUSH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.GREEN_MUSH.NAME"
 msgid "<link=\"STORAGELOCKER\">Mush Green Storage Bin</link>"
-msgstr ""
+msgstr "<link=\"STORAGELOCKER\">Papgroene Opslagbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.PURPLE_BRAINFAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.PURPLE_BRAINFAT.DESC"
 msgid "Color-coded storage makes things easier to find."
-msgstr ""
+msgstr "Kleurgecodeerde opslag maakt het gemakkelijker om dingen te vinden."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.PURPLE_BRAINFAT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.PURPLE_BRAINFAT.NAME"
 msgid "<link=\"STORAGELOCKER\">Faint Purple Storage Bin</link>"
-msgstr ""
+msgstr "<link=\"STORAGELOCKER\">Vaag Paarse Opslagbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.RED_ROSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.RED_ROSE.DESC"
 msgid "Color-coded storage makes things easier to find."
-msgstr ""
+msgstr "Kleurgecodeerde opslag maakt het gemakkelijker om dingen te vinden."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.RED_ROSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.RED_ROSE.NAME"
 msgid "<link=\"STORAGELOCKER\">Puce Pink Storage Bin</link>"
-msgstr ""
+msgstr "<link=\"STORAGELOCKER\">Rozerode Opslagbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.YELLOW_TARTAR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.YELLOW_TARTAR.DESC"
 msgid "Color-coded storage makes things easier to find."
-msgstr ""
+msgstr "Kleurgecodeerde opslag maakt het gemakkelijker om dingen te vinden."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.YELLOW_TARTAR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.YELLOW_TARTAR.NAME"
 msgid "<link=\"STORAGELOCKER\">Ick Yellow Storage Bin</link>"
-msgstr ""
+msgstr "<link=\"STORAGELOCKER\">Vuilgele Opslagbak</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.NAME"
@@ -17334,22 +17334,22 @@ msgstr "Gulp Vis"
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED
 msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.CONFINED"
 msgid "<link=\"CREATURES::GUIDE::MOOD\">Confined</link> when a room is smaller than <b>{0} cells</b>."
-msgstr ""
+msgstr "<link=\"CREATURES::GUIDE::MOOD\">Beperkt</link> wanneer een kamer kleiner is dan <b>{0} cellen</b>."
 
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.MAXAGE
 msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.MAXAGE"
 msgid "This critter's typical <link=\"CREATURES::GUIDE::FERTILITY\">Life Span</link> is <b>{0}</b>."
-msgstr ""
+msgstr "De typische <link=\"CREATURES::GUIDE::FERTILITY\">Levensduur</link> van dit beestje is <b>{0}</b>."
 
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.NON_LETHAL_RANGE
 msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.NON_LETHAL_RANGE"
 msgid "Livable range: <b>{0}</b> to <b>{1}</b>"
-msgstr ""
+msgstr "Leefbaar bereik: <b>{0}</b> tot <b>{1}</b>"
 
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING
 msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.OVERCROWDING"
 msgid "<link=\"CREATURES::GUIDE::MOOD\">Overcrowded</link> when a room has less than <b>{0} cells</b> of space for each critter."
-msgstr ""
+msgstr "<link=\"CREATURES::GUIDE::MOOD\">Overvol</link> wanneer een kamer minder dan <b>{0} cellen</b> ruimte heeft voor elk beestje."
 
 #. STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE
 msgctxt "STRINGS.CODEX.CREATURE_DESCRIPTORS.TEMPERATURE.COMFORT_RANGE"
@@ -17379,287 +17379,287 @@ msgstr "Beest Levering"
 #. STRINGS.CODEX.CRITTERSTATUS.CRITTERSTATUS_TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.CRITTERSTATUS_TITLE"
 msgid "Field Guide"
-msgstr ""
+msgstr "Veldgids"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.BODY.CONTAINER1"
 msgid "All critters are wild when first encountered, with the exception of babies hatched from eggs laid by domesticated adults—those will be born tame.\n\nDuring the domestication process, the critter becomes less self-reliant and develops a higher baseline of expectations regarding its environment and care. Its metabolism accelerates, resulting in an increased level of required calories.\n\nCritters can be domesticated by Duplicants with the Critter Ranching skill at the Grooming Station, and get excited when it's their turn to be fussed over."
-msgstr ""
+msgstr "Alle beestjes zijn wild als je ze voor het eerst tegenkomt, met uitzondering van de baby's die uit eieren komen die door getemde volwassenen zijn gelegd; die worden tam geboren.\n\nTijdens het temmingsproces wordt het beestje minder zelfredzaam en ontwikkelt het hogere verwachtingen ten aanzien van zijn omgeving en zorg. Het metabolisme versnelt, wat resulteert in een verhoogd niveau van benodigde calorieën.\n\nBeestjes kunnen door Duplicanten worden getemd met de Beest Temmen-vaardigheid bij het Verzorgingsstation, en raken opgewonden als het hun beurt is om verzorgd te worden."
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.CONTAINER1"
 msgid "Domesticated critters produce far more resources and lay eggs at a higher frequency than wild ones. They require additional care in order to maintain the levels of happiness that maximize their utility in the colony. (Happy critters are also generally more pleasant to be around.)\n\nOnce tame, critters can access the Critter Feeder, which is unavailable to wild critters."
-msgstr ""
+msgstr "Getemde beestjes produceren veel meer grondstoffen en leggen vaker eieren dan wilde dieren. Ze hebben extra zorg nodig om het geluksniveau te behouden dat hun nut in de kolonie maximaliseert. (Gelukkige beestjes zijn over het algemeen ook prettiger in de omgang.)\n\nEenmaal tam kunnen de beestjes toegang krijgen tot de Beestvoeder, die niet beschikbaar is voor wilde beestjes."
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.SUBTITLE"
 msgid "Effects"
-msgstr ""
+msgstr "Effecten"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_HAPPINESS
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_HAPPINESS"
 msgid "    • Happiness\n"
-msgstr ""
+msgstr "    • Geluk\n"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_METABOLISM
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TAME_METABOLISM"
 msgid "    • Critter Metabolism"
-msgstr ""
+msgstr "    • Beestmetabolisme"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TAME.TITLE"
 msgid "Tame"
-msgstr ""
+msgstr "Tam"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.TITLE"
 msgid "Domestication"
-msgstr ""
+msgstr "Temming"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.CONTAINER1"
 msgid "Wild critters do not require feeding by the colony's Critter Ranchers, thanks to their slower metabolism. They do, however, produce fewer materials than domesticated critters.\n\nApproaching a wild critter to trap or wrangle it is quite safe, provided that it is a non-hostile species. Attacking a critter will typically provoke a combat response."
-msgstr ""
+msgstr "Wilde beestjes hebben geen voeding nodig van de Beestvoeders van de kolonie, dankzij hun langzamere stofwisseling. Ze produceren echter wel minder materiaal dan gedomesticeerde beestjes.\n\nHet benaderen van een wild beestje om het in de val te lokken of te vangen is redelijk veilig, op voorwaarde dat het een niet-vijandige soort is. Het aanvallen van een beestje zal doorgaans een gevechtsreactie uitlokken."
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.SUBTITLE"
 msgid "Effects"
-msgstr ""
+msgstr "Effecten"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.TITLE"
 msgid "Wild"
-msgstr ""
+msgstr "Wild"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_METABOLISM
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_METABOLISM"
 msgid "    • Critter Metabolism\n"
-msgstr ""
+msgstr "    • Beest Metabolisme\n"
 
 #. STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_POOP
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.DOMESTICATION.WILD.WILD_POOP"
 msgid "    • Resource Production\n"
-msgstr ""
+msgstr "    • Grondstof Production\n"
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.BODY.CONTAINER1"
 msgid "Reproductive rates and methods vary among species. The majority lay eggs that must be incubated in order to hatch the next generation of critters.\n\nFactors that influence the rate of reproduction include egg care, happiness, living conditions and domestication."
-msgstr ""
+msgstr "De voortplantingssnelheid en -methoden variëren per soort. De meerderheid legt eieren die moeten worden uitgebroed om de volgende generatie beestjes uit te broeden.\n\nFactoren die de reproductiesnelheid beïnvloeden zijn onder meer de verzorging van eieren, geluk, levensomstandigheden en temming."
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.CONTAINER1"
 msgid "In most cases, an egg will hatch into the same critter variant as its parent. Genetic volatility, however, means that there is a chance that it may hatch into another variant from that species.\n\nThere are many things that can alter the likelihood of a critter laying a particular type of egg.\n\nEgg chances are impacted by:\n    • Diet\n    • Body temperature\n    • Ambient gasses and elements\n    • Plants in the critters' care\n    • Variants that share the enclosure\n\nWhen a tame critter lays an egg, the resulting offspring will be born tame."
-msgstr ""
+msgstr "In de meeste gevallen zal een ei uitkomen in dezelfde variant als zijn ouder. Genetische volatiliteit betekent echter dat er een kans bestaat dat het in een andere variant van die soort kan uitkomen.\n\nEr zijn veel dingen die de kans kunnen veranderen dat een beestje een bepaald type ei legt.\n\nDe eierkansen worden beïnvloed door:\n    • Eetpatroon\n    • Lichaamstemperatuur\n    • Omgevingsgassen en elementen\n    • Planten die door de beestjes worden verzorgd\n    • Varianten die de behuizing delen\n\nWanneer een tam beestje een ei legt, wordt het resulterende nageslacht tam geboren."
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.EGGCHANCES.TITLE"
 msgid "Egg Chances"
-msgstr ""
+msgstr "Eikansen"
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.CONTAINER1"
 msgid "Each time a critter completes their reproduction cycle (i.e. at 100 percent), it lays an egg and restarts its cycle.\n\nA critter's environment greatly impacts its base reproduction rate. When a critter is feeling cramped, it will wait until all eggs in the room have hatched or been removed before laying any of its own.\n\nCritters will also stop reproducing when they feel confined, which happens when their space is too small or they are stuck in a door or tile.\n\nMood and domestication also impact reproduction: happy critters reproduce more regularly, and happy tame critters reproduce the fastest."
-msgstr ""
+msgstr "Elke keer dat een beestje zijn voortplantingscyclus voltooit (d.w.z. op 100 procent), legt het een ei en start de cyclus opnieuw.\n\nDe omgeving van een beestje heeft een grote invloed op de basisreproductiesnelheid. Wanneer een beestje zich krap voelt, wacht hij tot alle eieren in de kamer zijn uitgekomen of verwijderd voordat hij er zelf een legt.\n\nBeestjes zullen ook stoppen met reproduceren als ze zich opgesloten voelen, wat gebeurt als hun ruimte te klein is of als ze vastzitten in een deur of tegel.\n\nStemming en temming hebben ook invloed op de voortplanting: gelukkige beestjes planten zich regelmatiger voort, en gelukkige, tamme beestjes reproduceren het snelst."
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.FERTILITYRATE.TITLE"
 msgid "Reproduction Rate"
-msgstr ""
+msgstr "Reproductiesnelheid"
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.CONTAINER1"
 msgid "A critter's incubation time is one-fifth of their total lifetime: for example, if a critter's maximum age is 100 cycles, its egg will take 20 cycles to hatch.\n\nIncubation rates can be accelerated through tender intervention by a Critter Rancher. Lullabied eggs—that is, those that have been sung to—will incubate faster and hatch sooner than eggs that have not received such tender care. Being cuddled by a Cuddle Pip also accelerates the rate of incubation.\n\nEggs can be cuddled anywhere, but can only be lullabied when placed inside an Incubator. The effects of lullabies and cuddles are cumulative."
-msgstr ""
+msgstr "De incubatietijd van een beestje is een vijfde van zijn totale levensduur: als de maximale leeftijd van een beestje bijvoorbeeld 100 cycli is, duurt het 20 cycli voordat zijn ei uitkomt.\n\nDe incubatiesnelheid kan worden versneld door middel van tenderinterventie door een Beest Temmer. Eieren met slaapliedjes – dat wil zeggen eieren waarvoor is gezongen – zullen sneller uitbroeden en eerder uitkomen dan eieren die niet zo tedere zorg hebben gekregen. Geknuffeld worden door een Knuffelpip versnelt ook de incubatiesnelheid.\n\nEieren kunnen overal worden geknuffeld, maar kunnen alleen als slaapliedje worden geplaatst als ze in een broedmachine worden geplaatst. De effecten van slaapliedjes en knuffels zijn cumulatief."
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.INCUBATION.TITLE"
 msgid "Incubation"
-msgstr ""
+msgstr "Incubatie"
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_DLC1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_DLC1"
 msgid "With the exception of the Beeta Hive and the Morb—which can live indefinitely if left to their own devices—critters have a fixed life expectancy. The maximum age indicates the highest number of cycles that critters will live, barring starvation or other unnatural causes of death.\n\nBabyhood, the period before a critter is mature enough to reproduce, is marked by a slower metabolism and the easy happiness of youth.\n\nMost species live for 75 to 100 cycles on average. The shortest-lived critter is the Beeta, whose lifespan is only five cycles long."
-msgstr ""
+msgstr "Met uitzondering van de Beeta Hive en de Morb – die voor onbepaalde tijd kunnen leven als ze aan hun lot worden overgelaten – hebben beestjes een vaste levensverwachting. De maximale leeftijd geeft het hoogste aantal cycli aan dat beestjes zullen leven, behoudens verhongering of andere onnatuurlijke omstandigheden. doodsoorzaken.\n\nDe babytijd, de periode voordat een beestje volwassen genoeg is om zich voort te planten, wordt gekenmerkt door een langzamer metabolisme en het gemakkelijke geluk van de jeugd.\n\nDe meeste soorten leven gemiddeld 75 tot 100 cycli. Het kortstlevende beestje is de Beeta, wiens levensduur slechts vijf cycli bedraagt."
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_VANILLA
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.CONTAINER1_VANILLA"
 msgid "With the exception of the Morb—which can live indefinitely if left to its own devices—critters have a fixed life expectancy. The maximum age indicates the highest number of cycles that critters will live, barring starvation or other unnatural causes of death.\n\nBabyhood, the period before a critter is mature enough to reproduce, is marked by a slower metabolism and the easy happiness of youth.\n\nMost species live for 75 to 100 cycles on average."
-msgstr ""
+msgstr "Met uitzondering van de Morb – die voor onbepaalde tijd kan leven als hij aan zijn lot wordt overgelaten – hebben beestjes een vaste levensverwachting. De maximale leeftijd geeft het hoogste aantal cycli aan dat beestjes zullen leven, behoudens verhongering of andere onnatuurlijke doodsoorzaken.\n\nDe babytijd, de periode voordat een beestje volwassen genoeg is om zich voort te planten, wordt gekenmerkt door een langzamer metabolisme en het gemakkelijke geluk van de jeugd.\n\nDe meeste soorten leven gemiddeld 75 tot 100 cycli."
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.MAXAGE.TITLE"
 msgid "Max Age"
-msgstr ""
+msgstr "Max. Leeftijd"
 
 #. STRINGS.CODEX.CRITTERSTATUS.FERTILITY.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.FERTILITY.TITLE"
 msgid "Reproduction"
-msgstr ""
+msgstr "Reproductie"
 
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.BODY.CONTAINER1"
 msgid "A critter's metabolic rate is a measure of their appetite and the materials that they excrete as a result.\n\nCritters with higher metabolism get hungry more often. Those with lower metabolism will consume less food, but this reduced caloric intake results in fewer resources being produced.\n\nThe digestive process is influenced by conditions such as domestication, mood, and whether the critter in question is a juvenile (baby) or an adult."
-msgstr ""
+msgstr "De stofwisseling van een beestje is een maatstaf voor zijn eetlust en de stoffen die hij als gevolg daarvan uitscheidt.\n\nBeestjes met een hogere stofwisseling krijgen vaker honger. Degenen met een lager metabolisme zullen minder voedsel consumeren, maar deze verminderde calorie-inname resulteert erin dat er minder hulpbronnen worden geproduceerd.\n\nHet spijsverteringsproces wordt beïnvloed door omstandigheden zoals temming, stemming en of het beestje in kwestie een jonkie (baby) of een volwassene is."
 
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.CONTAINER1"
 msgid "Tame critters have significantly faster metabolism than wild ones, and get hungry sooner. This makes them more valuable in terms of resource production, as long as the colony is equipped to meet their dietary needs.\n\nCritters' stomachs vary in size, but they are capable of storing at least five cycles' worth of food. Their bellies begin to rumble when those internal caches drop below 90 percent. The critter will then seek out food, and will continue to eat until they feel completely full again.\n\nJuvenile critters have the slowest metabolism, although glum tame critters are a close second."
-msgstr ""
+msgstr "Tamme beestjes hebben een aanzienlijk snellere stofwisseling dan wilde dieren, en krijgen eerder honger. Dit maakt ze waardevoller in termen van de productie van hulpbronnen, zolang de kolonie maar is toegerust om aan hun voedingsbehoeften te voldoen.\n\nDe magen van beestjes variëren in grootte, maar ze kunnen minstens vijf cycli aan voedsel opslaan. Hun buik begint te rommelen als die interne caches onder de 90 procent komen. Het beestje gaat dan op zoek naar voedsel en blijft eten totdat hij zich weer helemaal vol voelt.\n\nJonge beestjes hebben de langzaamste stofwisseling, hoewel sombere tamme beestjes een goede tweede zijn."
 
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.HUNGRY.TITLE"
 msgid "Hungry"
-msgstr ""
+msgstr "Hongerig"
 
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_DLC1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_DLC1"
 msgid "With the exception of Morbs and Beetas—which require zero calories to survive—tame critters will die after {0} cycles of consistent starvation. Wild critters do not starve to death."
-msgstr ""
+msgstr "Met uitzondering van Morbs en Beeta's, die nul calorieën nodig hebben om te overleven, zullen tamme beestjes sterven na {0} cycli van aanhoudende hongersnood. Wilde beestjes verhongeren niet."
 
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_VANILLA
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.CONTAINER1_VANILLA"
 msgid "With the exception of Morbs—which require zero calories to survive—tame critters will die after {0} cycles of consistent starvation. Wild critters do not starve to death."
-msgstr ""
+msgstr "Met uitzondering van de Morbs, die nul calorieën nodig hebben om te overleven, zullen tamme beestjes sterven na {0} cycli van aanhoudende hongersnood. Wilde beestjes sterven niet van de honger."
 
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.STARVING.TITLE"
 msgid "Starving"
-msgstr ""
+msgstr "Verhongert"
 
 #. STRINGS.CODEX.CRITTERSTATUS.METABOLISM.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.METABOLISM.TITLE"
 msgid "Metabolism"
-msgstr ""
+msgstr "Metabolisme"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.BODY.CONTAINER1"
 msgid "As with many living things, critters are susceptible to fluctuations in mood. While they are incapable of articulating their feelings verbally, these variations have observable effects on productivity and reproduction.\n\nFactors that influence a critter's mood include: grooming, wildness/tameness, habitat, overcrowding, confinement, and Brackene consumption."
-msgstr ""
+msgstr "Zoals veel levende wezens zijn beestjes gevoelig voor stemmingswisselingen. Hoewel ze niet in staat zijn hun gevoelens verbaal te verwoorden, hebben deze variaties waarneembare effecten op de productiviteit en voortplanting.\n\nFactoren die de stemming van een beestje beïnvloeden zijn onder meer: verzorging, wildheid/tamheid, leefgebied, overbevolking, opsluiting en consumptie van Brak."
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_FERTILITY
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_FERTILITY"
 msgid "    • Reproduction\n"
-msgstr ""
+msgstr "    • Reproductie\n"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_HAPPINESS
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONFINED_HAPPINESS"
 msgid "    • Happiness"
-msgstr ""
+msgstr "    • Geluk"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.CONTAINER1"
 msgid "Each species has its own space requirements. Critters who find themselves in a room that they consider too small will feel confined. They will feel the same way if they become stuck in a door or tile. Critters will not reproduce while they are in this state.\n\nShove Voles are the exception to this rule: their tunneling instincts make them quite comfortable in snug spaces, and they never feel confined."
-msgstr ""
+msgstr "Elke soort heeft zijn eigen ruimtevereisten. Beestjes die zich in een kamer bevinden die ze te klein vinden, zullen zich opgesloten voelen. Ze zullen zich hetzelfde voelen als ze vast komen te zitten in een deur of tegel. Beestjes zullen zich niet voortplanten terwijl ze zich in deze staat bevinden.\n\nDuw Woelmuizen vormen de uitzondering op deze regel: hun tunnelinstinct zorgt ervoor dat ze zich behoorlijk op hun gemak voelen in knusse ruimtes, en ze voelen zich nooit opgesloten."
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.SUBTITLE"
 msgid "Effects"
-msgstr ""
+msgstr "Effecten"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CONFINED.TITLE"
 msgid "Confined"
-msgstr ""
+msgstr "Opgesloten"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CRAMPED.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CRAMPED.CONTAINER1"
 msgid "If a critter is overcrowded—or will become overcrowded once all of the eggs in the room have hatched—they begin to feel cramped.\n\nThis causes the critter's reproductive system to pause temporarily. It will resume once all eggs have hatched or been removed from the room."
-msgstr ""
+msgstr "Als een beestje gedrongen is – of gedrongen zal worden zodra alle eieren in de kamer zijn uitgekomen – beginnen ze zich opeengepakt te voelen.\n\nDit zorgt ervoor dat het voortplantingssysteem van het beestje tijdelijk pauzeert. Het wordt hervat zodra alle eieren zijn uitgekomen of uit de kamer zijn verwijderd."
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CRAMPED.CRAMPED_FERTILITY
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CRAMPED.CRAMPED_FERTILITY"
 msgid "    • Reproduction"
-msgstr ""
+msgstr "    • Reproductie"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CRAMPED.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CRAMPED.SUBTITLE"
 msgid "Effects"
-msgstr ""
+msgstr "Effecten"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.CRAMPED.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.CRAMPED.TITLE"
 msgid "Cramped"
-msgstr ""
+msgstr "Opeengepakt"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.CONTAINER1"
 msgid "Critters can survive in subpar environments, but it takes a toll on their mood and impacts metabolism and productivity. When their happiness levels dip below zero, they become glum.\n\nWild critters are less sensitive to the effects of glumness than their tamed brethren, though they are still negatively affected by overcrowded or confined living conditions."
-msgstr ""
+msgstr "Beestjes kunnen overleven in slechte omgevingen, maar het eist een tol van hun humeur en heeft invloed op de stofwisseling en productiviteit. Wanneer hun geluksniveau onder nul daalt, worden ze somber.\n\nWilde beestjes zijn minder gevoelig voor de gevolgen van somberheid dan hun getemde broeders, hoewel ze nog steeds negatief worden beïnvloed door overbevolkte of beperkte levensomstandigheden."
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.GLUMWILD_METABOLISM
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.GLUMWILD_METABOLISM"
 msgid "    • Critter Metabolism\n"
-msgstr ""
+msgstr "    • Beestmetabolisme\n"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.SUBTITLE"
 msgid "Effects"
-msgstr ""
+msgstr "Effecten"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.GLUM.TITLE"
 msgid "Glum"
-msgstr ""
+msgstr "Somber"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.CONTAINER1"
 msgid "Happy, tame critters produce more usable materials and tend to lay eggs at a higher rate than glum or wild critters. Domesticated critters are less resilient than wild ones—they require more care from the colony in order to maintain a positive disposition.\n\nBabies have a higher baseline of natural joy, but produce neither resources nor eggs.\n\nDuplicants with the Critter Ranching skill have the expertise needed to domesticate and care for critters, and can also boost a critter's mood by bonding with them at a Grooming Station.\n\nCritters who drink at the Critter Fountain also enjoy a mood boost, despite the lack of nutrients available in the Brackene dispensed.\n\nBeing confined or overcrowded undermines a critter's happiness."
-msgstr ""
+msgstr "Gelukkige, tamme beestjes produceren meer bruikbaar materiaal en leggen vaker eieren dan sombere of wilde beestjes. Getemde beestjes zijn minder veerkrachtig dan wilde beestjes; ze hebben meer zorg van de kolonie nodig om een positieve instelling te behouden.\n\nBaby's hebben een hogere basis van natuurlijke vreugde, maar produceren noch hulpbronnen, noch eieren.\n\nDuplicanten met de vaardigheid Beestjes Temmen hebben de expertise die nodig is om beestjes te temmen en te verzorgen, en kunnen ook de stemming van een beestje een boost geven door een band met ze op te bouwen in een trimstation.\n\nBeestjes die drinken bij de Beest Fontein genieten ook van een humeurboost, ondanks het gebrek aan voedingsstoffen die beschikbaar zijn in de afgegeven Brak.\n\nOpgesloten of opeengepakt zijn ondermijnt het geluk van een beest."
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.HAPPY_METABOLISM
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.HAPPY_METABOLISM"
 msgid "    • Indirectly improves egg-laying rates"
-msgstr ""
+msgstr "    • Verbetert indirect het aantal eieren"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.SUBTITLE"
 msgid "Effects"
-msgstr ""
+msgstr "Effecten"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HAPPY.TITLE"
 msgid "Happy"
-msgstr ""
+msgstr "Blij"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_DLC1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_DLC1"
 msgid "Most critters are non-hostile. They may attempt to defend themselves when attacked by Duplicants, though their natural passivity limits the damage caused in these instances.\n\nSome critters, however, have exceptionally strong self-preservation instincts and must be approached with extreme caution. Pokeshells, for example, are not naturally hostile but are fiercely protective of their young and will attack if a Duplicant or critter wanders too close to their eggs.\n\nThe Beeta, on the other hand, is both hostile and radioactive. While it cannot be tamed, it can be subdued through the use of CO2."
-msgstr ""
+msgstr "De meeste beestjes zijn niet-vijandig. Ze kunnen proberen zichzelf te verdedigen wanneer ze worden aangevallen door duplicanten, hoewel hun natuurlijke passiviteit de schade die in deze gevallen wordt veroorzaakt, beperkt.\n\nSommige beestjes hebben echter uitzonderlijk sterke zelfbehoudsinstincten en moeten met uiterste voorzichtigheid worden benaderd. Pokeshells zijn bijvoorbeeld van nature niet vijandig, maar beschermen hun jongen fel en zullen aanvallen als een duplicant of beestje te dicht bij hun eieren ronddwaalt.\n\nDe Beeta daarentegen is zowel vijandig als radioactief. Hoewel het niet te temmen is, kan het wel worden onderdrukt door het gebruik van CO2."
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_VANILLA
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.CONTAINER1_VANILLA"
 msgid "Most critters are non-hostile. They may attempt to defend themselves when attacked by Duplicants, though their natural passivity limits the damage caused in these instances.\n\nSome critters, however, have exceptionally strong self-preservation instincts and must be approached with extreme caution.\n\nPokeshells, for example, are not naturally hostile but are fiercely protective of their young and will attack if a Duplicant or critter wanders too close to their eggs."
-msgstr ""
+msgstr "De meeste beestjes zijn niet-vijandig. Ze kunnen proberen zichzelf te verdedigen wanneer ze worden aangevallen door duplicanten, hoewel hun natuurlijke passiviteit de schade die in deze gevallen wordt veroorzaakt, beperkt.\n\nSommige beestjes hebben echter uitzonderlijk sterke zelfbehoudsinstincten en moeten met uiterste voorzichtigheid worden benaderd.\n\nPorschelpen zijn bijvoorbeeld van nature niet vijandig, maar beschermen hun jongen fel en zullen aanvallen als een duplicant of beestje te dicht bij hun eieren ronddwaalt."
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.HOSTILE.TITLE"
 msgid "Hostile"
-msgstr ""
+msgstr "Vijandig"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.CONTAINER1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.CONTAINER1"
 msgid "Overcrowding occurs when a critter is in a room that's appropriately sized for its needs but feels that there are too many other critters sharing the same space. Because each species has its own space requirements, this state can vary among occupants of the same room.\n\nThis emotional state intensifies in response to the number of excess critters: adding new critters to an already overcrowded room will undermine a critter's happiness even further."
-msgstr ""
+msgstr "Overbevolking treedt op wanneer een beestje zich in een kamer bevindt die de juiste afmetingen heeft voor zijn behoeften, maar het gevoel heeft dat er te veel andere beestjes dezelfde ruimte delen. Omdat elke soort zijn eigen ruimtevereisten heeft, kan deze toestand variëren tussen de bewoners van dezelfde kamer .\n\nDeze emotionele toestand wordt intenser als reactie op het aantal overtollige beestjes: het toevoegen van nieuwe beestjes aan een toch al overvolle kamer zal het geluk van een beestje nog verder ondermijnen."
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.OVERCROWDED_HAPPY1
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.OVERCROWDED_HAPPY1"
 msgid "    • Happiness\n"
-msgstr ""
+msgstr "    • Geluk\n"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.SUBTITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.SUBTITLE"
 msgid "Effects"
-msgstr ""
+msgstr "Effecten"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.OVERCROWDED.TITLE"
 msgid "Overcrowded"
-msgstr ""
+msgstr "Overvol"
 
 #. STRINGS.CODEX.CRITTERSTATUS.MOOD.TITLE
 msgctxt "STRINGS.CODEX.CRITTERSTATUS.MOOD.TITLE"
 msgid "Mood"
-msgstr ""
+msgstr "Stemming"
 
 #. STRINGS.CODEX.CRYOTANKWARNINGS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.CRYOTANKWARNINGS.BODY.CONTAINER1"
@@ -17899,37 +17899,37 @@ msgstr "Experiment 52B"
 #. STRINGS.CODEX.FORMAT_STRINGS.BUILDING_SIZE
 msgctxt "STRINGS.CODEX.FORMAT_STRINGS.BUILDING_SIZE"
 msgid "Building Size: {0} wide x {1} high"
-msgstr ""
+msgstr "Afmetingen Gebouw: {0} breed x {1} hoog"
 
 #. STRINGS.CODEX.FORMAT_STRINGS.CONSTRUCTION_TIME
 msgctxt "STRINGS.CODEX.FORMAT_STRINGS.CONSTRUCTION_TIME"
 msgid "Build Time: {0} seconds"
-msgstr ""
+msgstr "Bouwtijd: {0} seconden"
 
 #. STRINGS.CODEX.FORMAT_STRINGS.MATERIAL_MASS
 msgctxt "STRINGS.CODEX.FORMAT_STRINGS.MATERIAL_MASS"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 #. STRINGS.CODEX.FORMAT_STRINGS.TEMPERATURE_OVER
 msgctxt "STRINGS.CODEX.FORMAT_STRINGS.TEMPERATURE_OVER"
 msgid "Temperature over {0}"
-msgstr ""
+msgstr "Temperatuur boven {0}"
 
 #. STRINGS.CODEX.FORMAT_STRINGS.TEMPERATURE_UNDER
 msgctxt "STRINGS.CODEX.FORMAT_STRINGS.TEMPERATURE_UNDER"
 msgid "Temperature under {0}"
-msgstr ""
+msgstr "Temperatuur onder {0}"
 
 #. STRINGS.CODEX.FORMAT_STRINGS.TRANSITION_LABEL_TO_ONE_ELEMENT
 msgctxt "STRINGS.CODEX.FORMAT_STRINGS.TRANSITION_LABEL_TO_ONE_ELEMENT"
 msgid "{0} to {1}"
-msgstr ""
+msgstr "{0} tot {1}"
 
 #. STRINGS.CODEX.FORMAT_STRINGS.TRANSITION_LABEL_TO_TWO_ELEMENTS
 msgctxt "STRINGS.CODEX.FORMAT_STRINGS.TRANSITION_LABEL_TO_TWO_ELEMENTS"
 msgid "{0} to {1} and {2}"
-msgstr ""
+msgstr "{0} naar {1} en {2}"
 
 #. STRINGS.CODEX.GASGRASS.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.GASGRASS.BODY.CONTAINER1"
@@ -18079,12 +18079,12 @@ msgstr "luik"
 #. STRINGS.CODEX.HEADERS.BUILDINGCONSTRUCTIONMATERIALS
 msgctxt "STRINGS.CODEX.HEADERS.BUILDINGCONSTRUCTIONMATERIALS"
 msgid "Materials: "
-msgstr ""
+msgstr "Materialen: "
 
 #. STRINGS.CODEX.HEADERS.BUILDINGCONSTRUCTIONPROPS
 msgctxt "STRINGS.CODEX.HEADERS.BUILDINGCONSTRUCTIONPROPS"
 msgid "Construction Properties"
-msgstr ""
+msgstr "Bouweigenschappen"
 
 #. STRINGS.CODEX.HEADERS.BUILDINGEFFECTS
 msgctxt "STRINGS.CODEX.HEADERS.BUILDINGEFFECTS"
@@ -18124,12 +18124,12 @@ msgstr "Drops"
 #. STRINGS.CODEX.HEADERS.CRITTERMAXAGE
 msgctxt "STRINGS.CODEX.HEADERS.CRITTERMAXAGE"
 msgid "Life Span"
-msgstr ""
+msgstr "Levensduur"
 
 #. STRINGS.CODEX.HEADERS.CRITTEROVERCROWDING
 msgctxt "STRINGS.CODEX.HEADERS.CRITTEROVERCROWDING"
 msgid "Space Required"
-msgstr ""
+msgstr "Ruimte vereist"
 
 #. STRINGS.CODEX.HEADERS.DIET
 msgctxt "STRINGS.CODEX.HEADERS.DIET"
@@ -18154,12 +18154,12 @@ msgstr "Extra statussen"
 #. STRINGS.CODEX.HEADERS.ELEMENTTRANSITIONSFROM
 msgctxt "STRINGS.CODEX.HEADERS.ELEMENTTRANSITIONSFROM"
 msgid "Transitions From"
-msgstr ""
+msgstr "Overgang van"
 
 #. STRINGS.CODEX.HEADERS.ELEMENTTRANSITIONSTO
 msgctxt "STRINGS.CODEX.HEADERS.ELEMENTTRANSITIONSTO"
 msgid "Transitions To"
-msgstr ""
+msgstr "Overgang naar"
 
 #. STRINGS.CODEX.HEADERS.FABRICATIONS
 msgctxt "STRINGS.CODEX.HEADERS.FABRICATIONS"
@@ -18199,7 +18199,7 @@ msgstr "Opslag"
 #. STRINGS.CODEX.HEADERS.MATERIALUSEDTOCONSTRUCT
 msgctxt "STRINGS.CODEX.HEADERS.MATERIALUSEDTOCONSTRUCT"
 msgid "Construction Uses"
-msgstr ""
+msgstr "Bouw Gebruikt"
 
 #. STRINGS.CODEX.HEADERS.PREREQUISITE_ROLES
 msgctxt "STRINGS.CODEX.HEADERS.PREREQUISITE_ROLES"
@@ -19279,7 +19279,7 @@ msgstr "Schokslak"
 #. STRINGS.CODEX.POKESHELL.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.POKESHELL.BODY.CONTAINER1"
 msgid "Pokeshells are bottom-feeding invertebrates that consume the waste and discarded food left behind by other creatures."
-msgstr "Porschelps zijn bodemvoedende ongewervelde dieren die het afval en weggegooid voedsel consumeren dat door andere wezens is achtergelaten."
+msgstr "Porschelpen zijn bodemvoedende ongewervelde dieren die het afval en weggegooid voedsel consumeren dat door andere wezens is achtergelaten."
 
 #. STRINGS.CODEX.POKESHELL.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.POKESHELL.BODY.CONTAINER2"
@@ -32249,12 +32249,12 @@ msgstr "Deze Duplicant laat Glinsterende Strepen achter!\n\nBaa-ling!"
 #. STRINGS.DUPLICANTS.MODIFIERS.ISSTICKERBOMBING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ISSTICKERBOMBING.NAME"
 msgid "Sticker Bombing"
-msgstr ""
+msgstr "Sticker Knallen"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ISSTICKERBOMBING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ISSTICKERBOMBING.TOOLTIP"
 msgid "This Duplicant is slapping stickers onto everything!\n\nEveryone's gonna love these"
-msgstr ""
+msgstr "Deze Duplicant plakt overal stickers op!\n\nDeze wordt een hit"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.JUICER.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.JUICER.NAME"
@@ -40579,22 +40579,22 @@ msgstr "Gouden Atmoriem"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_GREY.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_GREY.DESC"
 msgid "Slick and understated space style."
-msgstr ""
+msgstr "Slanke en ingetogen ruimtestijl."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_GREY.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_GREY.NAME"
 msgid "Slate Atmo Belt"
-msgstr ""
+msgstr "Leisteen Atmo-riem"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_NEON_PINK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_NEON_PINK.DESC"
 msgid "Visible from several planetoids away."
-msgstr ""
+msgstr "Zichtbaar vanaf verschillende planetoïden verderop."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_NEON_PINK.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.BASIC_NEON_PINK.NAME"
 msgid "Neon Pink Atmo Belt"
-msgstr ""
+msgstr "Neonroze Atmo-riem"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.LIMONE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BELT.FACADES.LIMONE.DESC"
@@ -40679,12 +40679,12 @@ msgstr "Standaard boven- en onderkant van een atmopak."
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_NEON_PINK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_NEON_PINK.DESC"
 msgid "The neck is a little snug."
-msgstr ""
+msgstr "De nek zit een beetje strak."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_NEON_PINK.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_NEON_PINK.NAME"
 msgid "Crisp Neon Pink Atmo Suit"
-msgstr ""
+msgstr "Strak Neon Roze Atmo-pak"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_PURPLE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.BASIC_PURPLE.DESC"
@@ -40709,12 +40709,12 @@ msgstr "Citrus Atmopak"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_RED_BLACK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_RED_BLACK.DESC"
 msgid "It really highlights the midsection."
-msgstr ""
+msgstr "Het benadrukt de buik."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_RED_BLACK.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.MULTI_RED_BLACK.NAME"
 msgid "Red-bellied Atmo Suit"
-msgstr ""
+msgstr "Rood-gebruikt Atmo-pak"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PRINT_TRIANGLES_TURQ.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_BODY.FACADES.PRINT_TRIANGLES_TURQ.DESC"
@@ -40869,22 +40869,22 @@ msgstr "Red Glitter Atmohandschoenen"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.STRIPES_LAVENDER.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.STRIPES_LAVENDER.DESC"
 msgid "Functional finger-protectors with fruity flair."
-msgstr ""
+msgstr "Functionele vingerbeschermers met fruitige flair."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.STRIPES_LAVENDER.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.STRIPES_LAVENDER.NAME"
 msgid "Wildberry Atmo Gloves"
-msgstr ""
+msgstr "Wilde Bessen Atmo-handschoenen"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.WHITE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.WHITE.DESC"
 msgid "For the Duplicant who never gets their hands dirty."
-msgstr ""
+msgstr "Voor de Duplicant die nooit zijn handen vuil maakt."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.WHITE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.FACADES.WHITE.NAME"
 msgid "White Atmo Gloves"
-msgstr ""
+msgstr "Witte Atmo-handschoenen"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_GLOVES.NAME"
@@ -40909,12 +40909,12 @@ msgstr "Aubergine Atmo Helm"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.CUMMERBUND_RED.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.CUMMERBUND_RED.DESC"
 msgid "Red means go!"
-msgstr ""
+msgstr "Rood betekent gaan!"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.CUMMERBUND_RED.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.CUMMERBUND_RED.NAME"
 msgid "Blastoff Atmo Helmet"
-msgstr ""
+msgstr "Blastoff Atmo-helm"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.LIMONE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.LIMONE.DESC"
@@ -40989,12 +40989,12 @@ msgstr "Confetti Atmohelm"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.WORKOUT_LAVENDER.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.WORKOUT_LAVENDER.DESC"
 msgid "Unapologetically ostentatious."
-msgstr ""
+msgstr "Onbeschaamd opzichtig."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.WORKOUT_LAVENDER.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.FACADES.WORKOUT_LAVENDER.NAME"
 msgid "Pink Punch Atmo Helmet"
-msgstr ""
+msgstr "Roze Stoot Atmo-helm"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_HELMET.NAME"
@@ -41029,12 +41029,12 @@ msgstr "Stealth Atmo Laarzen"
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_LAVENDER.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_LAVENDER.DESC"
 msgid "Soothing space booties for tired feet."
-msgstr ""
+msgstr "Verzachtende ruimtelaarsjes voor vermoeide voeten."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_LAVENDER.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_LAVENDER.NAME"
 msgid "Lavender Atmo Boots"
-msgstr ""
+msgstr "Lavendel Atmo Laarzen"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_PURPLE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT_SHOES.FACADES.BASIC_PURPLE.DESC"
@@ -41399,122 +41399,122 @@ msgstr "Yellowcake Shorts"
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_BLUE_MIDDLE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_BLUE_MIDDLE.DESC"
 msgid "The tag says \"Dry Clean Only.\" There are no dry cleaners in space."
-msgstr ""
+msgstr "De tag zegt \"Alleen stomen.\" Er zijn geen stomerijen in de ruimte."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_BLUE_MIDDLE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_BLUE_MIDDLE.NAME"
 msgid "Aqua Rayon Skirt"
-msgstr ""
+msgstr "Aquarayon Rok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_GREEN.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_GREEN.DESC"
 msgid "Designed not to get snagged on ladders."
-msgstr ""
+msgstr "Ontworpen om niet vast te blijven haken aan ladders."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_GREEN.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_GREEN.NAME"
 msgid "Olive Rayon Skirt"
-msgstr ""
+msgstr "Olijfkleurige Rok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_ORANGE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_ORANGE.DESC"
 msgid "Ready for spontaneous workplace twirling."
-msgstr ""
+msgstr "Klaar voor spontane werkplekdraaien."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_ORANGE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_ORANGE.NAME"
 msgid "Apricot Rayon Skirt"
-msgstr ""
+msgstr "Abrikozen Rok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_PINK_ORCHID.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_PINK_ORCHID.DESC"
 msgid "The bubblegum scent lasts 100 washes!"
-msgstr ""
+msgstr "De bubblegumgeur blijft 100 wasbeurten hangen!"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_PINK_ORCHID.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_PINK_ORCHID.NAME"
 msgid "Bubblegum Rayon Skirt"
-msgstr ""
+msgstr "Bubblegum Rayon Rok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_POLKADOT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_POLKADOT.DESC"
 msgid "Polka dots are a way to infinity."
-msgstr ""
+msgstr "Polka dots zijn een weg naar het oneindige."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_POLKADOT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_POLKADOT.NAME"
 msgid "Polka Dot Skirt"
-msgstr ""
+msgstr "Rok met stippen"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_PURPLE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_PURPLE.DESC"
 msgid "It's not the most breathable fabric, but it <i>is</i> a lovely shade of purple."
-msgstr ""
+msgstr "Het is niet de meest ademende stof, maar het <i>is</i> een mooie paarse tint."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_PURPLE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_PURPLE.NAME"
 msgid "Purple Rayon Skirt"
-msgstr ""
+msgstr "Paarse rayonrok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_RED.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_RED.DESC"
 msgid "It's business time."
-msgstr ""
+msgstr "Het is zakentijd."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_RED.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_RED.NAME"
 msgid "Garnet Rayon Skirt"
-msgstr ""
+msgstr "Karmozijn Rayon Rok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_WATERMELON.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_WATERMELON.DESC"
 msgid "The seeds are spittable, but will bear no fruit."
-msgstr ""
+msgstr "De zaden zijn spuwbaar, maar dragen geen vruchten."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_WATERMELON.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_WATERMELON.NAME"
 msgid "Picnic Skirt"
-msgstr ""
+msgstr "Picknickrok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_YELLOW.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_YELLOW.DESC"
 msgid "A formerly white skirt that has not aged well."
-msgstr ""
+msgstr "Een voormalig witte rok die niet goed verouderd is."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_YELLOW.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_BASIC_YELLOW.NAME"
 msgid "Yellow Rayon Skirt"
-msgstr ""
+msgstr "Gele rayon rok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_DENIM_BLUE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_DENIM_BLUE.DESC"
 msgid "Designed for the casual red carpet."
-msgstr ""
+msgstr "Ontworpen voor de casual rode loper."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_DENIM_BLUE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_DENIM_BLUE.NAME"
 msgid "Denim Tux Skirt"
-msgstr ""
+msgstr "Denim smokingrok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_LEOPARD_PRINT_BLUE_PINK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_LEOPARD_PRINT_BLUE_PINK.DESC"
 msgid "A faux-fur party staple."
-msgstr ""
+msgstr "Een feeststuk van nepbont."
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_LEOPARD_PRINT_BLUE_PINK.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_LEOPARD_PRINT_BLUE_PINK.NAME"
 msgid "Disco Leopard Skirt"
-msgstr ""
+msgstr "Disco luipaardrok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_SPARKLE_BLUE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_SPARKLE_BLUE.DESC"
 msgid "The tinsel is scratchy, but look how shiny!"
-msgstr ""
+msgstr "Het klatergoud krast, maar kijk eens hoe glanzend!"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_SPARKLE_BLUE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.FACADES.SKIRT_SPARKLE_BLUE.NAME"
 msgid "Blue Tinsel Skirt"
-msgstr ""
+msgstr "Blauwe klatergoudrok"
 
 #. STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.CLOTHING_BOTTOMS.NAME"
@@ -42824,12 +42824,12 @@ msgstr "<link=\"EQUIPPABLEBALLOON\">Balloonvriend</link>"
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.HAND_GOLD.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.HAND_GOLD.DESC"
 msgid "Inflatable gestures of encouragement."
-msgstr ""
+msgstr "Opblaasbare bemoedigende gebaren."
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.HAND_GOLD.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.FACADES.HAND_GOLD.NAME"
 msgid "<link=\"EQUIPPABLEBALLOON\">Gold Fingers</link>"
-msgstr ""
+msgstr "<link=\"EQUIPPABLEBALLOON\">Gouden Vingers</link>"
 
 #. STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.EQUIPPABLEBALLOON.GENERICNAME"
@@ -55869,7 +55869,7 @@ msgstr "<link=\"BIOMES\">Biomen</link>"
 #. STRINGS.UI.CODEX.CATEGORYNAMES.BUILDINGMATERIALCLASSES
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.BUILDINGMATERIALCLASSES"
 msgid "<link=\"BUILDINGMATERIALCLASSES\">Building Materials</link>"
-msgstr ""
+msgstr "<link=\"BUILDINGMATERIALCLASSES\">Bouwmaterialen</link>"
 
 #. STRINGS.UI.CODEX.CATEGORYNAMES.BUILDINGS
 msgctxt "STRINGS.UI.CODEX.CATEGORYNAMES.BUILDINGS"
@@ -57289,7 +57289,7 @@ msgstr "RAPPORTEER CRASH"
 #. STRINGS.UI.CRASHSCREEN.REPORTEDERROR_FAILURE
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTEDERROR_FAILURE"
 msgid "Unable to report error. Please contact us using the bug tracker."
-msgstr ""
+msgstr "Kan geen fout melden. Neem contact met ons op via de bugtracker."
 
 #. STRINGS.UI.CRASHSCREEN.REPORTEDERROR_SUCCESS
 msgctxt "STRINGS.UI.CRASHSCREEN.REPORTEDERROR_SUCCESS"
@@ -57324,7 +57324,7 @@ msgstr "\"Oepsie-poepsie! Het spijt ons, maar het lijkt erop dat er een fout is 
 #. STRINGS.UI.CRASHSCREEN.UPLOAD_FAILED
 msgctxt "STRINGS.UI.CRASHSCREEN.UPLOAD_FAILED"
 msgid "There was an issue in reporting this crash.\n\nPlease submit a bug report at:\n<u>https://forums.kleientertainment.com/klei-bug-tracker/oni/</u>"
-msgstr ""
+msgstr "Er is een probleem opgetreden bij het melden van deze crash.\n\nDien een bugrapport in op:\n<u>https://forums.kleientertainment.com/klei-bug-tracker/oni/</u>"
 
 #. STRINGS.UI.CRASHSCREEN.UPLOADINFO
 msgctxt "STRINGS.UI.CRASHSCREEN.UPLOADINFO"
@@ -57334,7 +57334,7 @@ msgstr "UPLOAD AANVULLENDE INFO ({0})"
 #. STRINGS.UI.CRASHSCREEN.UPLOADINPROGRESS
 msgctxt "STRINGS.UI.CRASHSCREEN.UPLOADINPROGRESS"
 msgid "Submitting {0}"
-msgstr ""
+msgstr "Verzenden van {0}"
 
 #. STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON
 msgctxt "STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON"
@@ -58334,7 +58334,7 @@ msgstr "INFORMATIE"
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_EFFECTS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_EFFECTS"
 msgid "EFFECTS"
-msgstr ""
+msgstr "EFFECTEN"
 
 #. STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_ELEMENTS
 msgctxt "STRINGS.UI.DETAILTABS.SIMPLEINFO.GROUPNAME_ELEMENTS"
@@ -61844,7 +61844,7 @@ msgstr "DOE MEE AAN DE DISCUSSIE"
 #. STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY
 msgctxt "STRINGS.UI.FRONTEND.MOTD.PATCH_NOTES_SUMMARY"
 msgid "This update includes:\n\n•<indent=20px>Critters can be moved with Move To tool.</indent>\n•<indent=20px>Blueprints in a colony's collection are recyclable.</indent>\n•<indent=20px>Added searchable element filter and other improvements to UI.</indent>\n•<indent=20px>Revised Industrial Machinery categorization for buildings.</indent>\n•<indent=20px>Bug fixes and more.</indent>\n\n   Check out the full patch notes for more details!"
-msgstr ""
+msgstr "Deze update bevat:\n\n•<indent=20px>Beestjes kunnen worden verplaatst met het gereedschap Verplaatsen naar.</indent>\n•<indent=20px>Blauwdrukken in de collectie van een kolonie zijn recyclebaar.</indent>\n•<indent=20px>Filter voor doorzoekbare elementen en andere verbeteringen aan de gebruikersinterface toegevoegd.</indent>\n•<indent=20px>Herziene categorisering van industriële machines voor gebouwen.</indent>\n•<indent=20px>Bugfixes en meer.</indent>\n\n   Bekijk de volledige patch notes voor meer details!"
 
 #. STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT
 msgctxt "STRINGS.UI.FRONTEND.MOTD.UPDATE_TEXT"
@@ -63474,122 +63474,122 @@ msgstr "Deze blauwdruk kan door elke Ballon Artiest worden gebruikt."
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.ACTION_DESCRIPTION_PRINT
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.ACTION_DESCRIPTION_PRINT"
 msgid "Producing this blueprint requires Filament from my colony's supply.\n\nOne copy of this blueprint will be extruded at a time."
-msgstr ""
+msgstr "Voor het produceren van deze blauwdruk heb ik filament nodig uit de voorraad van mijn kolonie.\n\nEr wordt één exemplaar van deze blauwdruk per keer geëxtrudeerd."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.ACTION_DESCRIPTION_RECYCLE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.ACTION_DESCRIPTION_RECYCLE"
 msgid "Recycling this blueprint will recover Filament that my colony can use to print other items.\n\nOne copy of this blueprint will be removed from my colony's supply closet."
-msgstr ""
+msgstr "Door deze blauwdruk te recyclen, wordt filament teruggewonnen dat mijn kolonie kan gebruiken om andere items af te drukken.\n\nEén exemplaar van deze blauwdruk zal uit de voorraadkast van mijn kolonie worden verwijderd."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.BUY
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.BUY"
 msgid "PRINT"
-msgstr ""
+msgstr "PRINT"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.CANCEL
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.CANCEL"
 msgid "CANCEL"
-msgstr ""
+msgstr "ANNULEER"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.CONFIRM_PRINT_HEADER
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.CONFIRM_PRINT_HEADER"
 msgid "PRINT ITEM?"
-msgstr ""
+msgstr "PRINT ITEM?"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.CONFIRM_RECYCLE_HEADER
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.CONFIRM_RECYCLE_HEADER"
 msgid "RECYCLE INTO FILAMENT?"
-msgstr ""
+msgstr "RECYCLEN IN FILAMENT?"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.LOADING
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.LOADING"
 msgid "Connecting to server..."
-msgstr ""
+msgstr "Verbinding maken met server..."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.OFFLINE_LABEL
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.OFFLINE_LABEL"
 msgid "Not connected to Klei server"
-msgstr ""
+msgstr "Niet verbonden met Klei-server"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.PURCHASE_SUCCESS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.PURCHASE_SUCCESS"
 msgid "One copy of this blueprint has been added to my colony's supply closet."
-msgstr ""
+msgstr "Eén exemplaar van deze blauwdruk is toegevoegd aan de voorraadkast van mijn kolonie."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.SELL
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.SELL"
 msgid "RECYCLE"
-msgstr ""
+msgstr "RECYCLE"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.SELL_SUCCESS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.SELL_SUCCESS"
 msgid "The Filament recovered from recycling this item can now be used to print other items."
-msgstr ""
+msgstr "Het Filament dat is teruggewonnen uit de recycling van dit item kan nu worden gebruikt om andere items af te drukken."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_ACTION_INVALID_OFFLINE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_ACTION_INVALID_OFFLINE"
 msgid "Currently unavailable"
-msgstr ""
+msgstr "Momenteel niet beschikbaar"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_BUY_ACTIVE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_BUY_ACTIVE"
 msgid "This item requires {0} spools of Filament to print"
-msgstr ""
+msgstr "Voor dit item zijn {0} spoelen met Filament nodig om af te drukken"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_BUY_CANT_AFFORD
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_BUY_CANT_AFFORD"
 msgid "Filament supply is too low"
-msgstr ""
+msgstr "Aanvoer van Filament is te laag"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_NONE_TO_SELL
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_NONE_TO_SELL"
 msgid "My colony does not own any of these blueprints"
-msgstr ""
+msgstr "Mijn kolonie bezit geen van deze blauwdrukken"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_SELL_ACTIVE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_SELL_ACTIVE"
 msgid "Recycle this blueprint for {0} spools of Filament"
-msgstr ""
+msgstr "Recycle deze blauwdruk voor {0} spoelen van Filament"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_UNBUYABLE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_UNBUYABLE"
 msgid "This item is unprintable"
-msgstr ""
+msgstr "Dit item kan niet worden afgedrukt"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_UNBUYABLE_BETA
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_UNBUYABLE_BETA"
 msgid "This item will be printable after the public testing period"
-msgstr ""
+msgstr "Dit item kan worden afgedrukt na de publieke testperiode"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_UNSELLABLE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TOOLTIP_UNSELLABLE"
 msgid "This item is non-recyclable"
-msgstr ""
+msgstr "Dit item is niet-recycleerbaar"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TRANSACTION_COMPLETE_HEADER
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TRANSACTION_COMPLETE_HEADER"
 msgid "SUCCESS!"
-msgstr ""
+msgstr "SUCCES!"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TRANSACTION_ERROR
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TRANSACTION_ERROR"
 msgid "Whoops! Something's gone wrong."
-msgstr ""
+msgstr "Oeps! Er is iets misgegaan."
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TRANSACTION_INCOMPLETE_HEADER
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.TRANSACTION_INCOMPLETE_HEADER"
 msgid "ERROR"
-msgstr ""
+msgstr "FOUT"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.WALLET_PLURAL_TOOLTIP
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.WALLET_PLURAL_TOOLTIP"
 msgid "{0} spools of Filament available"
-msgstr ""
+msgstr "{0} spoelen van Filament beschikbaar"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.WALLET_TOOLTIP
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.BARTERING.WALLET_TOOLTIP"
 msgid "{0} spool of Filament available"
-msgstr ""
+msgstr "{0} spoel van Filament beschikbaar"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ARTWORKS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CATEGORIES.ARTWORKS"
@@ -63704,7 +63704,7 @@ msgstr "Veeg'rs"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CLEAR_SEARCH_BUTTON_TOOLTIP
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CLEAR_SEARCH_BUTTON_TOOLTIP"
 msgid "Clear search"
-msgstr ""
+msgstr "Zoekopdracht wissen"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.CLOTHING_ITEM_FACADE_FOR
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.CLOTHING_ITEM_FACADE_FOR"
@@ -63774,7 +63774,7 @@ msgstr "Klei-inventaris openen"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SEARCH_PLACEHOLDER
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SEARCH_PLACEHOLDER"
 msgid "Search"
-msgstr ""
+msgstr "Zoek"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BELTS_BASIC
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.ATMOSUIT_BELTS_BASIC"
@@ -63884,7 +63884,7 @@ msgstr "Bloempotten"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_FOOD
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_FOOD"
 msgid "Culinary"
-msgstr ""
+msgstr "Culinair"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_INDUSTRIAL
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_INDUSTRIAL"
@@ -63899,7 +63899,7 @@ msgstr "Recreatie en Decor"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_STORAGE
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.BUILDINGS_STORAGE"
 msgid "Storage"
-msgstr ""
+msgstr "Opslag"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_BASIC
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_BASIC"
@@ -63919,7 +63919,7 @@ msgstr "Short"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_SKIRTS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_SKIRTS"
 msgid "Skirts"
-msgstr ""
+msgstr "Rokken"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_UNDERWEAR
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.SUBCATEGORIES.CLOTHING_BOTTOMS_UNDERWEAR"
@@ -64014,17 +64014,17 @@ msgstr "YAML"
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOOLTIP_VIEW_ALL_ITEMS
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOOLTIP_VIEW_ALL_ITEMS"
 msgid "Filter: Showing all items\n\n(ClickType/Click) to toggle"
-msgstr ""
+msgstr "Filter: Alle items weergeven\n\n(ClickType/Click) om te schakelen"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOOLTIP_VIEW_DOUBLES_ONLY
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOOLTIP_VIEW_DOUBLES_ONLY"
 msgid "Filter: Showing multiples owned only\n\n(ClickType/Click) to toggle"
-msgstr ""
+msgstr "Filter: Alleen items tonen die je meermaals hebt\n\n(ClickType/Click) om te schakelen"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOOLTIP_VIEW_OWNED_ONLY
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOOLTIP_VIEW_OWNED_ONLY"
 msgid "Filter: Showing owned items Only\n\n(ClickType/Click) to toggle"
-msgstr ""
+msgstr "Filter: Alleen items tonen die je hebt\n\n(ClickType/Click) om te schakelen"
 
 #. STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.ARTWORK
 msgctxt "STRINGS.UI.KLEI_INVENTORY_SCREEN.TOP_LEVEL_CATEGORIES.ARTWORK"
@@ -64139,7 +64139,7 @@ msgstr "Selecteer een scherm"
 #. STRINGS.UI.LOCKER_MENU.OFFLINE_ICON_TOOLTIP
 msgctxt "STRINGS.UI.LOCKER_MENU.OFFLINE_ICON_TOOLTIP"
 msgid "Not connected to Klei server"
-msgstr ""
+msgstr "Niet verbonden met Klei-server"
 
 #. STRINGS.UI.LOCKER_MENU.TITLE
 msgctxt "STRINGS.UI.LOCKER_MENU.TITLE"
@@ -65864,7 +65864,7 @@ msgstr "Citrus Atmo Outfit"
 #. STRINGS.UI.OUTFITS.ATMOSUIT_PINK_PURPLE.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_PINK_PURPLE.NAME"
 msgid "Pink Punch Atmo Outfit"
-msgstr ""
+msgstr "Roze Stoot Atmo-outfit"
 
 #. STRINGS.UI.OUTFITS.ATMOSUIT_PUFT.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_PUFT.NAME"
@@ -65874,7 +65874,7 @@ msgstr "Puft Atmo Outfit"
 #. STRINGS.UI.OUTFITS.ATMOSUIT_RED_GREY.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_RED_GREY.NAME"
 msgid "Blastoff Atmo Outfit"
-msgstr ""
+msgstr "Blastoff Atmo-outfit"
 
 #. STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_BLUE.NAME
 msgctxt "STRINGS.UI.OUTFITS.ATMOSUIT_SPARKLE_BLUE.NAME"
@@ -72439,7 +72439,7 @@ msgstr "Metaal"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.MISC
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MISC"
 msgid "Other"
-msgstr ""
+msgstr "Andere"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.OPERATE
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.OPERATE"
@@ -73809,27 +73809,27 @@ msgstr "Weergegeven Object"
 #. STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.ACTIVATE_IF
 msgctxt "STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.ACTIVATE_IF"
 msgid "Send <b><style=\"logic_on\">Green Signal</style></b> if:"
-msgstr ""
+msgstr "Verzend <b><style=\"logic_on\">Groen Signaal</style></b> als:"
 
 #. STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.COLDER_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.COLDER_BUTTON"
 msgid "Below"
-msgstr ""
+msgstr "Onder"
 
 #. STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.CURRENT_TEMPERATURE
 msgctxt "STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.CURRENT_TEMPERATURE"
 msgid "Current Brightness:\n{0}"
-msgstr ""
+msgstr "Huidige Helderheid:\n{0}"
 
 #. STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.TITLE"
 msgid "Brightness Threshold"
-msgstr ""
+msgstr "Helderheid Drempelwaarde"
 
 #. STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.WARMER_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.BRIGHTNESSSWITCHSIDESCREEN.WARMER_BUTTON"
 msgid "Above"
-msgstr ""
+msgstr "Boven"
 
 #. STRINGS.UI.UISIDESCREENS.BUTTONMENUSIDESCREEN.ALLOW_INTERNAL_CONSTRUCTOR
 msgctxt "STRINGS.UI.UISIDESCREENS.BUTTONMENUSIDESCREEN.ALLOW_INTERNAL_CONSTRUCTOR"
@@ -74594,7 +74594,7 @@ msgstr "{0} Productie Bestellingen"
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPE_WORKTIME
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPE_WORKTIME"
 msgid "This recipe takes {0} to complete"
-msgstr ""
+msgstr "Het duurt {0} om dit recept te voltooien"
 
 #. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPEPRODUCT
 msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.TOOLTIPS.RECIPEPRODUCT"
@@ -76304,57 +76304,57 @@ msgstr "Zelfvernietiging"
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.AWAITINGDELIVERY
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.AWAITINGDELIVERY"
 msgid "AWAITING DELIVERY: {0}"
-msgstr ""
+msgstr "WACHT OP LEVERING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.AWAITINGREMOVAL
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.AWAITINGREMOVAL"
 msgid "AWAITING REMOVAL: {0}"
-msgstr ""
+msgstr "WACHT OP VERWIJDERING: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.AWAITINGREQUEST
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.AWAITINGREQUEST"
 msgid "SELECT: {0}"
-msgstr ""
+msgstr "SELECTEER: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.CANCELDEPOSIT
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.CANCELDEPOSIT"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleer"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.CANCELREMOVAL
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.CANCELREMOVAL"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleer"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.DEPOSIT
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.DEPOSIT"
 msgid "Select"
-msgstr ""
+msgstr "Selecteer"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.ENTITYDEPOSITED
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.ENTITYDEPOSITED"
 msgid "CONTENTS: {0}"
-msgstr ""
+msgstr "INHOUD: {0}"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.REMOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.REMOVE"
 msgid "Remove"
-msgstr ""
+msgstr "Verwijder"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.SELECT_DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.SELECT_DESC"
 msgid "Select a critter to store in this module."
-msgstr ""
+msgstr "Selecteer een beestje om in deze module op te slaan."
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.SELECT_TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.SELECT_TITLE"
 msgid "SELECT CRITTER"
-msgstr ""
+msgstr "SELECTEER BEEST"
 
 #. STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.SPECIALCARGOBAYCLUSTER.TITLE"
 msgid "Target Critter"
-msgstr ""
+msgstr "Kies Beest"
 
 #. STRINGS.UI.UISIDESCREENS.STUDYABLE_SIDE_SCREEN.PENDING_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.STUDYABLE_SIDE_SCREEN.PENDING_BUTTON"
@@ -76584,37 +76584,37 @@ msgstr "Onder"
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BRIGHTNESS
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BRIGHTNESS"
 msgid "Ambient Brightness"
-msgstr ""
+msgstr "Omgevingshelderheid"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BRIGHTNESS_TOOLTIP_ABOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BRIGHTNESS_TOOLTIP_ABOVE"
 msgid "Will send a <b><style=\"logic_on\">Green Signal</style></b> if the ambient <style=\"KKeyword\">Brightness</style> is above <b>{0}</b>"
-msgstr ""
+msgstr "Zal een <b><style=\"logic_on\">Groen Signaal</style></b> sturen als de <style=\"KKeyword\">Helderheid</style> van de omgeving hoger is dan <b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BRIGHTNESS_TOOLTIP_BELOW
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.BRIGHTNESS_TOOLTIP_BELOW"
 msgid "Will send a <b><style=\"logic_on\">Green Signal</style></b> if the ambient <style=\"KKeyword\">Brightness</style> is below <b>{0}</b>"
-msgstr ""
+msgstr "Zal een <b><style=\"logic_on\">Groen Signaal</style></b> sturen als de omgevings-<style=\"KKeyword\">Helderheid</style> lager is dan <b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_DISEASE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_DISEASE"
 msgid "Germ Count"
-msgstr ""
+msgstr "Microbentelling"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_TEMPERATURE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_TEMPERATURE"
 msgid "Internal Temperature"
-msgstr ""
+msgstr "Interne temperatuur"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_TEMPERATURE_TOOLTIP_ABOVE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_TEMPERATURE_TOOLTIP_ABOVE"
 msgid "Will send a <b><style=\"logic_on\">Green Signal</style></b> if the <style=\"KKeyword\">Temperature</style> of its contents is above <b>{0}</b>"
-msgstr ""
+msgstr "Zal een <b><style=\"logic_on\">Groen Signaal</style></b> sturen als de <style=\"KKeyword\">Temperatuur</style> van de inhoud hoger is dan <b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_TEMPERATURE_TOOLTIP_BELOW
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CONTENT_TEMPERATURE_TOOLTIP_BELOW"
 msgid "Will send a <b><style=\"logic_on\">Green Signal</style></b> if the <style=\"KKeyword\">Temperature</style> of its contents is below <b>{0}</b>"
-msgstr ""
+msgstr "Zal een <b><style=\"logic_on\">Groen Signaal</style></b> sturen als de <style=\"KKeyword\">Temperatuur</style> van de inhoud lager is dan <b>{0}</b>"
 
 #. STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CURRENT_VALUE
 msgctxt "STRINGS.UI.UISIDESCREENS.THRESHOLD_SWITCH_SIDESCREEN.CURRENT_VALUE"
@@ -76924,7 +76924,7 @@ msgstr "Sla alleen objecten gemarkeerd met Veeg <color=#F44A47><b>[K]</b></color
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SEARCH_PLACEHOLDER
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.SEARCH_PLACEHOLDER"
 msgid "Search"
-msgstr ""
+msgstr "Zoek"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.TITLE"
@@ -77239,7 +77239,7 @@ msgstr " K"
 #. STRINGS.UI.UNITSUFFIXES.TILES
 msgctxt "STRINGS.UI.UNITSUFFIXES.TILES"
 msgid "Tiles"
-msgstr ""
+msgstr "Tegels"
 
 #. STRINGS.UI.UNITSUFFIXES.UNIT
 msgctxt "STRINGS.UI.UNITSUFFIXES.UNIT"
