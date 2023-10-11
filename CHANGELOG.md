@@ -4,6 +4,9 @@ Changes to the mod will be documented in this file.
 
 # Released
 
+## [1.3.0]
+- Ready for October QOL Update
+
 ## [1.2.3] 2023/10/07
 - Minor tweaks
 

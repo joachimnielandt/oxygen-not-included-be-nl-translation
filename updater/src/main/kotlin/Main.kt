@@ -2,8 +2,8 @@ import java.io.File
 
 fun main(args: Array<String>) {
     // read the files
-    var templateFile = File("../../strings_template.pot")
-    var poFile = File("../../release/strings.po")
+    var templateFile = File("../strings_template.pot")
+    var poFile = File("../release/strings.po")
     // convert
     val template = toPo(templateFile)
     val po = toPo(poFile)
