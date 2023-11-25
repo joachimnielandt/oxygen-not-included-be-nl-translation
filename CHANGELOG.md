@@ -4,6 +4,9 @@ Changes to the mod will be documented in this file.
 
 # Released
 
+## [1.4.0]
+- Ready for Packed Snacks Update
+
 ## [1.3.0]
 - Ready for October QOL Update
 
