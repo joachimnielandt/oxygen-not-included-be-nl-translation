@@ -1,6 +1,11 @@
 import java.io.File
+import kotlin.math.max
 
-fun main(args: Array<String>) {
+fun main() {
+    println("hi")
+}
+
+fun main2(args: Array<String>) {
     // read the files
     var templateFile = File("../strings_template.pot")
     var poFile = File("../release/strings.po")
@@ -54,7 +59,7 @@ fun mergeNewTranslations(template: Po, po: Po): List<Trans> {
         val foundIt = po.translations.find { p -> p.comment == templateTranslation.comment } != null
         if(!foundIt) {
             // find the place where to insert it: right behind the previous template translation
-            val previousTemplateTranslation = template.translations[templateIndex - 1]
+            val previousTemplateTranslation = template.translations[max(templateIndex - 1, 0)]
             val targetIndex = result.indexOfFirst { f -> f.comment == previousTemplateTranslation.comment }
             result.add(targetIndex+1, templateTranslation)
         }
