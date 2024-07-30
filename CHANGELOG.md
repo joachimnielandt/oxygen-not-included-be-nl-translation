@@ -4,6 +4,9 @@ Changes to the mod will be documented in this file.
 
 # Released
 
+## [1.5.0]
+- Ready for `The Frosty Planet Pack DLC` Update
+
 ## [1.4.0]
 - Ready for Packed Snacks Update
 
