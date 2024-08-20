@@ -4,6 +4,9 @@ Changes to the mod will be documented in this file.
 
 # Released
 
+## [1.5.2] 2024/08/20
+- Minor updates and bug fixes
+
 ## [1.5.1] 2024/08/11
 - Bug fixes
 
